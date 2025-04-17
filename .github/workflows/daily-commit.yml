@@ -2,41 +2,33 @@ name: Update Trending Repositories
 
 on:
   schedule:
-    # Run at 6-hour intervals (cron format)
-    - cron: '0 0,6,12,18 * * *'
-  workflow_dispatch:
+    - cron: '*/20 * * * *'  # every 20 minutes
+  workflow_dispatch:        # allows manual trigger
 
 jobs:
-  update-readme:
+  update-trending:
     runs-on: ubuntu-latest
 
     steps:
-    # Checkout the repository
-    - name: Checkout Repository
-      uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-    # Set up Python environment
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v4
       with:
         python-version: '3.x'
 
-    # Install dependencies
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install requests
+        pip install requests beautifulsoup4
 
-    # Run the Python script to fetch trending repositories and update README
-    - name: Run Python Script to Update README
-      run: |
-        python find_trending_repos.py
+    - name: Run trending fetch script
+      run: python fetch_trending.py
 
-    # Commit and push changes to the repository
-    - name: Commit and Push Changes
+    - name: Commit and push changes
       run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add README.md
-        git commit -m "Update README with trending repositories for $(date +'%Y-%m-%d')"
+        git commit -m "Trending Repositories $(date +'%Y-%m-%d')" || echo "No changes to commit"
         git push
