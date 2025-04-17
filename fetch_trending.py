@@ -2,27 +2,31 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-def fetch_trending():
-    url = 'https://github.com/trending'
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    repos = soup.find_all('article', class_='Box-row')
+def fetch_trending_repos():
+    url = "https://github.com/trending"
+    headers = {"User-Agent": "Mozilla/5.0"}
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.text, "html.parser")
+    repos = soup.find_all("article", class_="Box-row")
 
-    trending_list = []
-    for repo in repos[:10]:  # Limit to top 10
-        title = repo.h1.get_text(strip=True).replace(' ', '')
-        description = repo.p.get_text(strip=True) if repo.p else 'No description'
-        link = f"https://github.com/{title}"
-        trending_list.append(f"- [{title}]({link}): {description}")
+    trending = []
+    for repo in repos[:10]:  # get top 10
+        full_name = repo.h2.text.strip().replace("\n", "").replace(" ", "")
+        link = "https://github.com/" + full_name
+        trending.append((full_name, link))
+    return trending
 
-    return trending_list
+def update_readme(repos):
+    today = datetime.today().strftime('%Y-%m-%d')
+    header = f"\n\n## Trending Repositories {today}\n"
+    lines = [header]
+    for name, link in repos:
+        lines.append(f"- [{name}]({link})")
+    lines.append("\n")
 
-def update_readme(trending_list):
-    with open("README.md", "w") as f:
-        f.write("# 🔥 GitHub Trending Repositories\n\n")
-        f.write(f"_Updated on {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC_\n\n")
-        f.write("\n".join(trending_list))
+    with open("README.md", "a", encoding="utf-8") as f:
+        f.write("\n".join(lines))
 
 if __name__ == "__main__":
-    trending = fetch_trending()
-    update_readme(trending)
+    trending_repos = fetch_trending_repos()
+    update_readme(trending_repos)
