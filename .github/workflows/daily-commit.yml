@@ -1,4 +1,4 @@
-name: Update Trending Repositories
+name: Trending Repositories Today
 
 on:
   schedule:
@@ -23,7 +23,7 @@ jobs:
         pip install requests beautifulsoup4
 
     - name: Run trending fetch script
-      run: python fetch_trending.py
+      run: python find_trending_repos.py
 
     - name: Commit and push changes
       run: |
