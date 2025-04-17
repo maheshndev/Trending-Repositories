@@ -1,0 +1,33 @@
+name: Update Trending Repos
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:     # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run script
+        run: python fetch_trending.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "🔥 Update trending repos" || echo "No changes to commit"
+          git push
