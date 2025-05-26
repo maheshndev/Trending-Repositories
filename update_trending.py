@@ -1,162 +1,122 @@
-import requests
-import datetime
 import os
-import calendar
+import requests
+from datetime import datetime, timedelta
 import re
 
-README = "README.md"
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
+REPO_OWNER = os.getenv("GITHUB_REPOSITORY").split("/")[0]
+REPO_NAME = os.getenv("GITHUB_REPOSITORY").split("/")[1]
+
+today = datetime.utcnow().date()
+yesterday = today - timedelta(days=1)
+current_month = today.strftime("%B")
+current_year = today.year
+today_str = today.strftime("%Y-%m-%d")
+today_heading = f"## Trending On Date {today_str}"
+monthly_archive_filename = f"Trending On Month {current_month}-{current_year}.md"
+readme_path = "README.md"
+
+headers = {
+    "Authorization": f"token {GITHUB_TOKEN}",
+    "Accept": "application/vnd.github+json"
+}
 
 
 def fetch_trending_repos():
-    """Fetch top 10 daily trending GitHub repos from public API."""
-    url = "https://ghapi.huchen.dev/repositories?since=daily"
-    try:
-        resp = requests.get(url)
-        resp.raise_for_status()
-        data = resp.json()
-        return data[:10]
-    except Exception as e:
-        print(f"Error fetching trending repos: {e}")
-        return []
+    """Fetch trending repos by stars created in the past day"""
+    query_date = yesterday.strftime("%Y-%m-%d")
+    url = (
+        f"https://api.github.com/search/repositories"
+        f"?q=created:>{query_date}&sort=stars&order=desc&per_page=10"
+    )
+    response = requests.get(url, headers=headers)
+    if response.status_code != 200:
+        raise Exception(f"GitHub API error: {response.status_code} {response.text}")
+    return response.json()["items"]
 
 
-def format_daily_section(date_obj, repos):
-    """Format markdown section for one day of trending repos."""
-    date_str = date_obj.strftime("%Y-%m-%d")
-    header = f"## Trending On Date {date_str}\n\n"
-    lines = []
+def format_repos_md(repos):
+    md = f"{today_heading}\n\n"
     for repo in repos:
-        name = repo.get("name", "")
-        author = repo.get("author", "")
-        url = repo.get("url", "")
-        desc = repo.get("description") or ""
-        stars = repo.get("stars", 0)
-        language = repo.get("language") or "Unknown"
-        lines.append(f"- [{author}/{name}]({url}) — {desc} ⭐ {stars} — {language}")
-    return header + "\n".join(lines) + "\n\n"
+        md += f"- [{repo['full_name']}]({repo['html_url']}): ⭐ {repo['stargazers_count']} — {repo['description'] or 'No description'}\n"
+    md += "\n"
+    return md
 
 
-def read_file(filename):
-    if not os.path.exists(filename):
-        return ""
-    with open(filename, "r", encoding="utf-8") as f:
-        return f.read()
+def extract_month_section(text, month, year):
+    pattern = r"## Trending On Date (\d{4}-\d{2}-\d{2})"
+    matches = list(re.finditer(pattern, text))
+    to_move = []
+    for i in range(len(matches)):
+        date_str = matches[i].group(1)
+        date_obj = datetime.strptime(date_str, "%Y-%m-%d").date()
+        if date_obj.month == month and date_obj.year == year:
+            start = matches[i].start()
+            end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+            to_move.append(text[start:end])
+    return to_move
 
 
-def write_file(filename, content):
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write(content)
+def update_readme(new_content, archive_link=None, all_archive_links=[]):
+    with open(readme_path, "r", encoding="utf-8") as f:
+        content = f.read()
 
+    # Remove all trending sections
+    content = re.sub(r"## Trending On Date \d{4}-\d{2}-\d{2}.*?(?=## Trending On Date |\Z)", "", content, flags=re.DOTALL)
 
-def find_daily_sections(text):
-    """Return list of all daily trending markdown sections in text."""
-    pattern = r"(## Trending On Date \d{4}-\d{2}-\d{2}\n(?:- .*\n)+\n?)"
-    return re.findall(pattern, text)
+    # Archive links block
+    archive_links_md = ""
+    if all_archive_links:
+        archive_links_md += "## Monthly Archives\n\n"
+        for link in sorted(all_archive_links):
+            archive_links_md += f"- [{link}](./{link})\n"
+        archive_links_md += "\n"
 
-
-def parse_date_from_section(section):
-    """Extract date object from daily section header."""
-    m = re.match(r"## Trending On Date (\d{4}-\d{2}-\d{2})", section)
-    if m:
-        return datetime.datetime.strptime(m.group(1), "%Y-%m-%d").date()
-    return None
-
-
-def find_sections_by_month(text, year, month):
-    """Return all daily sections in given year and month."""
-    sections = find_daily_sections(text)
-    filtered = []
-    for sec in sections:
-        date_obj = parse_date_from_section(sec)
-        if date_obj and date_obj.year == year and date_obj.month == month:
-            filtered.append(sec)
-    return filtered
-
-
-def remove_sections(text, sections):
-    """Remove all given sections from text."""
-    for sec in sections:
-        text = text.replace(sec, "")
-    return text
-
-
-def find_all_archive_links(text):
-    """Find all previous month archive markdown links in README.md."""
-    pattern = r"\[View Previous Month → (Trending On Month .+?\.md)\]\(./.+?\.md\)"
-    return re.findall(pattern, text)
-
-
-def remove_all_archive_links(text):
-    """Remove all previous archive links from README.md."""
-    pattern = r"\[View Previous Month → Trending On Month .+?\.md\]\(./.+?\.md\)\n*"
-    return re.sub(pattern, "", text)
+    # Final write
+    new_readme = archive_links_md + new_content
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(new_readme)
 
 
 def main():
-    today = datetime.date.today()
-    year = today.year
-    month = today.month
-    month_name = calendar.month_name[month]
-
-    readme_text = read_file(README)
-
-    # 1. Archive previous month data if today is 1st of month
-    if today.day == 1:
-        prev_month = month - 1 if month > 1 else 12
-        prev_year = year if month > 1 else year - 1
-        prev_month_name = calendar.month_name[prev_month]
-
-        # Extract previous month's daily sections
-        prev_month_sections = find_sections_by_month(readme_text, prev_year, prev_month)
-
-        if prev_month_sections:
-            # Write to monthly archive file
-            archive_filename = f"Trending On Month {prev_month_name}-{prev_year}.md"
-            archive_content = f"# Trending On Month {prev_month_name}-{prev_year}\n\n"
-            archive_content += "".join(prev_month_sections)
-
-            write_file(archive_filename, archive_content)
-            print(f"Created archive file: {archive_filename}")
-
-            # Remove these daily sections from README
-            readme_text = remove_sections(readme_text, prev_month_sections)
-
-        # Remove all old archive links to prevent duplicates
-        readme_text = remove_all_archive_links(readme_text)
-
-        # Add archive links for all existing archive files sorted by date
-        archive_files = sorted(
-            [f for f in os.listdir(".") if re.match(r"Trending On Month [A-Za-z]+-\d{4}\.md", f)],
-            key=lambda f: datetime.datetime.strptime(f[len("Trending On Month "):-3], "%B-%Y"),
-            reverse=False,
-        )
-
-        archive_links = []
-        for af in archive_files:
-            display_name = af.replace(".md", "")
-            archive_links.append(f"[View Previous Month → {display_name}](./{af})")
-
-        if archive_links:
-            # Put all archive links at top of README, separated by lines
-            archive_links_text = "\n".join(archive_links) + "\n\n"
-            readme_text = archive_links_text + readme_text
-
-    # 2. Fetch today's trending repos and format section
     trending_repos = fetch_trending_repos()
-    today_section = format_daily_section(today, trending_repos)
+    today_md = format_repos_md(trending_repos)
 
-    # Remove existing section for today if any
-    today_section_pattern = rf"## Trending On Date {today.strftime('%Y-%m-%d')}\n(?:- .*\n)+\n?"
-    readme_text = re.sub(today_section_pattern, "", readme_text)
+    if today.day == 1:
+        # Archive last month's content
+        last_month = (today.replace(day=1) - timedelta(days=1))
+        last_month_num = last_month.month
+        last_month_year = last_month.year
+        last_month_name = last_month.strftime("%B")
+        last_archive_filename = f"Trending On Month {last_month_name}-{last_month_year}.md"
 
-    # Append today's trending section at end
-    if not readme_text.endswith("\n"):
-        readme_text += "\n"
-    readme_text += today_section
+        with open(readme_path, "r", encoding="utf-8") as f:
+            content = f.read()
 
-    # Save updated README.md
-    write_file(README, readme_text)
-    print(f"README.md updated with trending repos for {today}")
+        last_month_sections = extract_month_section(content, last_month_num, last_month_year)
+        archive_content = "".join(last_month_sections)
+
+        if archive_content:
+            with open(last_archive_filename, "w", encoding="utf-8") as f:
+                f.write(archive_content)
+
+    # Collect archive links
+    archive_links = [
+        fname for fname in os.listdir(".")
+        if re.match(r"Trending On Month .*-\d{4}\.md", fname)
+    ]
+
+    # Build README
+    readme_body = ""
+    for fname in archive_links:
+        pass  # archive link will be prepended at top
+
+    # Append today’s data to the body
+    readme_body += today_md
+
+    # Write README
+    update_readme(readme_body, all_archive_links=archive_links)
+
 
 if __name__ == "__main__":
     main()
