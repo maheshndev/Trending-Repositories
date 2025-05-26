@@ -27,7 +27,7 @@ def fetch_trending_repos():
     query_date = (datetime.utcnow() - timedelta(days=1)).strftime("%Y-%m-%d")
     url = (
         f"https://api.github.com/search/repositories"
-        f"?q=updated:>{query_date}&sort=stars&order=desc&per_page=20"
+        f"?q=created:>{query_date}&sort=stars&order=desc&per_page=20"
     )
     response = requests.get(url, headers=headers)
     if response.status_code != 200:
@@ -38,7 +38,7 @@ def fetch_trending_repos():
 def format_repos_md(repos):
     md = f"{today_heading}\n\n"
     for repo in repos:
-        md += f"- [{repo['full_name']}]({repo['html_url']}): ⭐ {repo['stargazers_count']} — {repo['description'] or 'No description'}\n"
+        md += f"- [{repo['full_name']}]({repo['html_url']}): ⭐ {repo['stargazers_count']} \n"
     md += "\n"
     return md
 
