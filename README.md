@@ -1,23 +1,53 @@
 ## Trending On Date 2025-05-26
 
-- [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android): ⭐ 64 — FlyClash客户端安卓版本
-- [StargazerX0/ScaleKV](https://github.com/StargazerX0/ScaleKV): ⭐ 12 — No description
-- [Tongyi-Zhiwen/QwenLong-CPRS](https://github.com/Tongyi-Zhiwen/QwenLong-CPRS): ⭐ 12 — No description
-- [apkunpacker/DetectZygisk](https://github.com/apkunpacker/DetectZygisk): ⭐ 11 — A POC to detect zygisk
-- [complex-reasoning/RPG](https://github.com/complex-reasoning/RPG): ⭐ 11 — The official implementation of Regularized Policy Gradient (RPG) (https://arxiv.org/abs/2505.17508)
-- [aliyun/wuying-agentbay-sdk](https://github.com/aliyun/wuying-agentbay-sdk): ⭐ 8 — No description
-- [joeseesun/doubao_podcast](https://github.com/joeseesun/doubao_podcast): ⭐ 7 — charles抓包获取har文件，提取二进制生成豆包播客音频
-- [GAIR-NLP/thinking-with-generated-images](https://github.com/GAIR-NLP/thinking-with-generated-images): ⭐ 7 — Doodling our way to AGI ✏️ 🖼️ 🧠
-- [PamanGie/yolov8-ocsort-youtube-tracker](https://github.com/PamanGie/yolov8-ocsort-youtube-tracker): ⭐ 7 — No description
-- [phj128/CoDA](https://github.com/phj128/CoDA): ⭐ 6 — Code for "CoDA: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects", Arxiv 2025
-- [THU-MAIC/Awesome-AI-Era-Edu](https://github.com/THU-MAIC/Awesome-AI-Era-Edu): ⭐ 6 — No description
-- [zhanghxiao/multi-mind-chat](https://github.com/zhanghxiao/multi-mind-chat): ⭐ 6 — 欢迎来到 Multi-Mind Chat 智囊团！这不是你见过的那种普通聊天机器人，而是一个让多个AI角色协作讨论、共同解决问题的创新平台。想象一下，当你遇到复杂问题时，身边坐着几位专家，他们各自从不同角度分析，还会互相讨论，最后给你一个综合的解决方案。这就是我们想要实现的效果！
-- [Pangolin-spg/amazon-walmart-shopify-scrape-api](https://github.com/Pangolin-spg/amazon-walmart-shopify-scrape-api): ⭐ 6 — Powerful Scrape API for Amazon, Walmart, Shopify, Shopee, eBay. Get product details, rankings, HTML, JSON, and Markdown. 专为电商卖家、数据服务商和工具开发者设计的数据采集API。
-- [andersborgabiro/overture2stl](https://github.com/andersborgabiro/overture2stl): ⭐ 5 — A Python application that converts Overture map data to a cohesive STL model
-- [sulitulab/azure-openai-loadbalancer](https://github.com/sulitulab/azure-openai-loadbalancer): ⭐ 5 — A high-performance load balancer for Azure OpenAI API with automatic failover, transparent proxying, and distributed quota management.
-- [RKNITH/pySide6-calculator](https://github.com/RKNITH/pySide6-calculator): ⭐ 4 — No description
-- [jsr-p/tabx](https://github.com/jsr-p/tabx): ⭐ 4 — tabx - compose LaTeX tables using booktabs in Python
-- [RKNITH/webcam-filter-app-opencv](https://github.com/RKNITH/webcam-filter-app-opencv): ⭐ 4 — No description
-- [RKNITH/tkinter-calculator](https://github.com/RKNITH/tkinter-calculator): ⭐ 4 — No description
-- [tiaoyu1122/TiaoYu-1](https://github.com/tiaoyu1122/TiaoYu-1): ⭐ 4 — For People! For Freedom!
+- [mbadry1/Top-Deep-Learning](https://github.com/mbadry1/Top-Deep-Learning): ⭐ 1712 —  Top 200 deep learning Github repositories sorted by the number of stars.
+- [mbadry1/Trending-Deep-Learning](https://github.com/mbadry1/Trending-Deep-Learning): ⭐ 644 — Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.
+- [cncf/landscape](https://github.com/cncf/landscape): ⭐ 9577 — 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquarters location.
+- [andriyor/ghtopdep](https://github.com/andriyor/ghtopdep): ⭐ 303 — :star: CLI tool for sorting dependents repo by stars
+- [myogeshchavan97/github-repos-nodejs-api](https://github.com/myogeshchavan97/github-repos-nodejs-api): ⭐ 7 — Node.js API for getting list of GitHub repositories sorted by number of stars
+- [kvnxiao/sort-awesome-lists](https://github.com/kvnxiao/sort-awesome-lists): ⭐ 70 — Sorts awesome lists by number of stars in each GitHub repository
+- [sir-kokabi/github-sorter](https://github.com/sir-kokabi/github-sorter): ⭐ 32 — Sort Github Repos by Stars ⭐
+- [AlienKevin/meaningful-forks](https://github.com/AlienKevin/meaningful-forks): ⭐ 25 — Sort Github fork lists by the number of stars and commits ahead from the source repo.
+- [CrazyChickenDev/CrazyChickenDev](https://github.com/CrazyChickenDev/CrazyChickenDev): ⭐ 13 — :pen::art:A nicer look at my GitHub profile and repository stats with data visualizations of my top languages and stars. Sort through your top repos by number of stars, forks, and size.
+- [lon9/hugo_stars](https://github.com/lon9/hugo_stars): ⭐ 21 — Auto generated list of Hugo themes sorted by Github stars
+- [zer0yu/ghtracker](https://github.com/zer0yu/ghtracker): ⭐ 44 — CLI tool for tracking dependents repositories and sorting result by Stars ⭐
+- [AcademySoftwareFoundation/aswf-landscape](https://github.com/AcademySoftwareFoundation/aswf-landscape): ⭐ 131 — 🌄Landscape for popular open source projects used in the motion picture industry. This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through popular open source projects used for visual effects, animation, and image creation, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
+- [IonicaBizau/sort-github-user-repos](https://github.com/IonicaBizau/sort-github-user-repos): ⭐ 8 — :seat: Sort GitHub repositories by stars for user.
+- [magbanum/octoprofile](https://github.com/magbanum/octoprofile): ⭐ 15 — Visualize your GitHub profile in a better way with Charts and the top repos sorted according to stars, forks and sizes. Give it a try. ⚡
+- [weii41392/sort-awesome-list](https://github.com/weii41392/sort-awesome-list): ⭐ 4 — Sort any awesome list by GitHub Stars ✨
+- [Dicklesworthstone/most-influential-github-repo-stars](https://github.com/Dicklesworthstone/most-influential-github-repo-stars): ⭐ 16 — See the most influential users who have starred or forked a given repo (sorted by earned stars and follower count)
+- [vicanso/awesome-go](https://github.com/vicanso/awesome-go): ⭐ 7 — It's a mirror of `avelino/awesome-go`, which sorts the repos by stars, while original `awesome-go` sorts by alphabet only.
+- [SeanLuis/github-explorer](https://github.com/SeanLuis/github-explorer): ⭐ 48 — A modern open-source project explorer built with Nuxt 3, leveraging GitHub's API to discover and analyze trending repositories. Features real-time sorting by stars, comprehensive metadata visualization, and direct GitHub integration.
+- [zhangchengzheng91/stars-sorts](https://github.com/zhangchengzheng91/stars-sorts): ⭐ 0 — github stars sorts
+- [baumannzone/javascript-wars](https://github.com/baumannzone/javascript-wars): ⭐ 4 — ⭐️ Twitter bot for posting daily ranking of JavaScript most popular frameworks sort by GitHub stars
+- [myang5/enstars-outfit-sorter](https://github.com/myang5/enstars-outfit-sorter): ⭐ 2 — Tool for sorting and planning outfit-making in Ensemble Stars.
+- [yustnip/gh-repos-sorter](https://github.com/yustnip/gh-repos-sorter): ⭐ 0 — Sort GitHub repositories by stars
+- [itsazzad/sort-tabs-by-github-stars](https://github.com/itsazzad/sort-tabs-by-github-stars): ⭐ 0 — Sort tabs by GitHub stars
+- [jupblb/awesome-neovim-sorted](https://github.com/jupblb/awesome-neovim-sorted): ⭐ 1 — awesome-neovim sorted by stars
+- [MichaelKMalak/flutter_github_app](https://github.com/MichaelKMalak/flutter_github_app): ⭐ 0 — Listing Github Repos sorted by stars
+- [arnoldmitrica/mready](https://github.com/arnoldmitrica/mready): ⭐ 0 — MVVM Github repositories sorted by stars
+- [mariodujic/GitHub-Android-Example](https://github.com/mariodujic/GitHub-Android-Example): ⭐ 5 — Search GitHub repositories, sort results per stars, forks and latest updated. Inspect repositories and repository owners in more details, OAuth sign in. 
+- [fluteds/starred](https://github.com/fluteds/starred): ⭐ 9 — All my starred repos in an awesome list format that automatically updates my stars, project descriptions and names daily via workflow and sorted in the project's language order
+- [devsjc/awesome-starsorted](https://github.com/devsjc/awesome-starsorted): ⭐ 1 — Awesome lists sorted by stars, updated daily
+- [pekita1/awesome-stars](https://github.com/pekita1/awesome-stars): ⭐ 0 — auto gen stars list sort by language
+- [mentor-FE/Infinite-scroll](https://github.com/mentor-FE/Infinite-scroll): ⭐ 0 — Infinite scroll GitHub repos sorted by stars
+- [AwesomeCTR/awesome-rating](https://github.com/AwesomeCTR/awesome-rating): ⭐ 0 — Parsed repos sorted by Stars and Forks
+- [PPPeck313/GithubSearchAPI](https://github.com/PPPeck313/GithubSearchAPI): ⭐ 0 — Search repositories by name sorted by stars
+- [Doreapp/awesome-selfhosted-sorted](https://github.com/Doreapp/awesome-selfhosted-sorted): ⭐ 1 — Copy of awesome-selfhosted but sorted by stars
+- [anton-vorobiov-dev/nuxt-github-repos-list](https://github.com/anton-vorobiov-dev/nuxt-github-repos-list): ⭐ 0 — Repositories list with Vue.js sorted by stars
+- [TechNickAI/shitstar](https://github.com/TechNickAI/shitstar): ⭐ 0 — Sort through the shitcoins to find the stars
+- [bommojuvishu/no_nonsense_react_list](https://github.com/bommojuvishu/no_nonsense_react_list): ⭐ 0 — List of react libraries sorted by Github stars
+- [eric-erki/pwc](https://github.com/eric-erki/pwc): ⭐ 0 — Papers with code. Sorted by stars. Updated weekly.
+- [mcshakes/repo-explorer](https://github.com/mcshakes/repo-explorer): ⭐ 0 — Explore Github Repos. Sort By Stars. Search by Description
+- [vukhaihoan/dependents-github-sever](https://github.com/vukhaihoan/dependents-github-sever): ⭐ 0 — Sort dependents of github repository by stars or forks
+- [sahinemin/riscV-asm](https://github.com/sahinemin/riscV-asm): ⭐ 1 — RiscV sorting,recursive function and drawing triangle with stars
+- [ilimic1/fetch-github-dependents](https://github.com/ilimic1/fetch-github-dependents): ⭐ 0 — Get Github project dependents and sort them by stars.
+- [Rokurolize/stable-diffusion-extensions-ranked](https://github.com/Rokurolize/stable-diffusion-extensions-ranked): ⭐ 1 — Ranked list of extensions for the Stable Diffusion web UI, sorted by the number of stars, providing an overview of popular extensions to enhance the user experience.
+- [k-kurikuri/sort-awesome-go-by-stars](https://github.com/k-kurikuri/sort-awesome-go-by-stars): ⭐ 2 — This is a tool to sort the software listed in "awesome go" by the number of stars
+- [kcotar/Stellar_abudance_trees](https://github.com/kcotar/Stellar_abudance_trees): ⭐ 0 — Sorting stars in phylogenetic trees using their chemicall abundance information
+- [JustJoostNL/awesome-stars](https://github.com/JustJoostNL/awesome-stars): ⭐ 0 — A collection of all my stars formatted and sorted nicely.
+- [Bingqing-econ/stars](https://github.com/Bingqing-econ/stars): ⭐ 0 — Auto-generated list of my GitHub stars, sorted by language
+- [Rx-Metallica/Github-Explorer](https://github.com/Rx-Metallica/Github-Explorer): ⭐ 0 — Search for Repository and sort using name ,stars and forks
+- [pengqi/myStars](https://github.com/pengqi/myStars): ⭐ 0 — Sort stars. Add notes to some stars to make me quickly and easily find project I want   
+- [lfdata/lfdata-landscape](https://github.com/lfdata/lfdata-landscape): ⭐ 2 — 🌄Landscape for popular open source projects used in data management and analytics. This interactive landscape similar to that of the CNCF Landscape (https://l.cncf.io/) that sorts through popular open source projects used in data management and analytics, and shows details including GitHub stars, funding or market cap, first and last commits, contributor count and many more.
 
