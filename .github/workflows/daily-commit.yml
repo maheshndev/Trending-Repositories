@@ -1,16 +1,13 @@
-name: Update Trending Repositories in README
+name: Trending Repos Tracker
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
-  workflow_dispatch:     # Allow manual trigger
+    - cron: '0 0 * * *' # Every day at midnight UTC
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-trending:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
@@ -22,15 +19,20 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests python-dateutil PyGithub
 
-      - name: Run fetch_trending.py
-        run: python3 fetch_trending.py
+      - name: Run trending repo updater
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python update_trending.py
 
       - name: Commit and push changes
         run: |
-          git config user.name "${{ github.actor }}"
-          git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add README.md Trending\ On\ Month*.md || true
-          git diff --cached --quiet || git commit -m "Update trending repositories and archives"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Update trending repositories for $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push
