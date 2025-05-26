@@ -24,8 +24,8 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run update_readme.py
-        run: python3 update_readme.py
+      - name: Run fetch_trending.py
+        run: python3 fetch_trending.py
 
       - name: Commit and push changes
         run: |
