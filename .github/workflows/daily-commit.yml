@@ -27,7 +27,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python update_trending.py
+          python fetch_trending.py
 
       - name: Commit and push changes
         run: |
