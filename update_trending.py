@@ -24,7 +24,7 @@ headers = {
 
 def fetch_trending_repos():
     """Fetch trending repos by stars created in the past day"""
-    query_date = (datetime.utcnow() - timedelta(days=0)).strftime("%Y-%m-%d")
+    query_date = (datetime.utcnow() - timedelta(days=1)).strftime("%Y-%m-%d")
     url = (
         f"https://api.github.com/search/repositories"
         f"?q=created:>{query_date}&sort=stars&order=desc&per_page=20"
