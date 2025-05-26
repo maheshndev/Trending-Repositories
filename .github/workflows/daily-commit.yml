@@ -1,36 +1,36 @@
-name: Daily Trending Repositories
+name: Fetch Trending Repositories
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs daily at midnight UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:     # Allow manual triggering
 
 jobs:
   update-trending:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
-    - name: Install dependencies
-      run: pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-    - name: Fetch trending repositories and update README
-      run: python fetch_trending.py
+      - name: Run trending fetch and archive logic
+        run: python fetch_trending.py
 
-    - name: Commit and push changes
-      env:
-        GH_PAT: ${{ secrets.GH_PAT }}  # Your GitHub Personal Access Token
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
-        git add .
-        git commit -m "Update trending repositories - $(date +'%Y-%m-%d')" || echo "No changes to commit"
-        git push
+      - name: Commit and push changes
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
+          git add .
+          git commit -m "Update trending repositories - $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git push origin HEAD:main
