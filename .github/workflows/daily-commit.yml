@@ -1,9 +1,9 @@
-name: Trending Repositories Today
+name: Daily Trending Repositories
 
 on:
   schedule:
-    - cron: '*/20 * * * *'  # every 20 minutes
-  workflow_dispatch:        # allows manual trigger
+    - cron: '0 12 * * *'  # every day at 12:00 UTC
+  workflow_dispatch:
 
 jobs:
   update-trending:
@@ -19,16 +19,15 @@ jobs:
         python-version: '3.x'
 
     - name: Install dependencies
-      run: |
-        pip install requests beautifulsoup4
+      run: pip install requests
 
-    - name: Run trending fetch script
-      run: python find_trending_repos.py
+    - name: Run trending fetch and archive logic
+      run: python fetch_trending.py
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add README.md
-        git commit -m "Trending Repositories $(date +'%Y-%m-%d')" || echo "No changes to commit"
+        git add .
+        git commit -m "Update trending repositories - $(date +'%Y-%m-%d')" || echo "No changes to commit"
         git push
