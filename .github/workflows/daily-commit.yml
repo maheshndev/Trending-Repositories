@@ -1,9 +1,10 @@
-name: Fetch Trending Repositories
+name: Fetch Trending Repositories Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight UTC
-  workflow_dispatch:     # Allow manual triggering
+    # Run daily at 00:30 UTC (adjust as needed)
+    - cron: '30 0 * * *'
+  workflow_dispatch:  # allows manual trigger
 
 jobs:
   update-trending:
@@ -11,26 +12,26 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.x'
 
-      - name: Install dependencies
+      - name: Install requests
         run: pip install requests
 
       - name: Run trending fetch and archive logic
         run: python fetch_trending.py
 
       - name: Commit and push changes
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git remote set-url origin https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}
-          git add .
-          git commit -m "Update trending repositories - $(date +'%Y-%m-%d')" || echo "No changes to commit"
-          git push origin HEAD:main
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md Trending\ On\ Month\*.md || true
+          git diff --cached --quiet || git commit -m "Update trending repositories - $(date +'%Y-%m-%d')"
+          git push
+        env:
+          # Use the automatically provided GITHUB_TOKEN for authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
