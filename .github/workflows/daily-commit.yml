@@ -1,22 +1,16 @@
-name: Update README with Trending Repositories
+name: Update Trending Repositories in README
 
 on:
-  push:
-    branches:
-      - main
   schedule:
-    - cron: '30 0 * * *'   # Daily at 00:30 UTC
-  pull_request:
-    branches:
-      - main
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Runs daily at 00:00 UTC
+  workflow_dispatch:     # Allow manual trigger
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # To allow push back to repo
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -30,13 +24,13 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run fetch_trending.py
-        run: python3 fetch_trending.py
+      - name: Run update_readme.py
+        run: python3 update_readme.py
 
       - name: Commit and push changes
         run: |
           git config user.name "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add README.md Trending\ On\ Month\*.md || true
-          git diff --cached --quiet || git commit -m "Update trending repositories - $(date +'%Y-%m-%d')"
+          git add README.md Trending\ On\ Month*.md || true
+          git diff --cached --quiet || git commit -m "Update trending repositories and archives"
           git push
