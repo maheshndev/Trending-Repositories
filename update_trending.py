@@ -100,7 +100,7 @@ def main():
         last_month_num = last_month.month
         last_month_year = last_month.year
         last_month_name = last_month.strftime("%B")
-        last_archive_filename = f"Trending On Month {last_month_name}-{last_month_year}.md"
+        last_archive_filename = f"Trending-On-Month-{last_month_name}-{last_month_year}.md"
 
         with open(readme_path, "r", encoding="utf-8") as f:
             content = f.read()
