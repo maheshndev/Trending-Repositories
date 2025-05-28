@@ -13,7 +13,7 @@ current_month = today.strftime("%B")
 current_year = today.year
 today_str = today.strftime("%Y-%m-%d")
 today_heading = f"## Trending On Date {today_str}"
-monthly_archive_filename = f"Trending On Month {current_month}-{current_year}.md"
+monthly_archive_filename = f"Trending-On-Month-{current_month}-{current_year}.md"
 readme_path = "README.md"
 
 headers = {
@@ -115,7 +115,7 @@ def main():
     # Collect archive links
     archive_links = [
         fname for fname in os.listdir(".")
-        if re.match(r"Trending On Month .*-\d{4}\.md", fname)
+        if re.match(r"Trending-On-Month-.*-\d{4}\.md", fname)
     ]
 
     # Build README
