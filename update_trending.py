@@ -58,24 +58,36 @@ def extract_month_section(text, month, year):
 
 
 def update_readme(new_content, archive_link=None, all_archive_links=[]):
-    with open(readme_path, "r", encoding="utf-8") as f:
-        content = f.read()
+    try:
+        with open(readme_path, "r", encoding="utf-8") as f:
+            existing_content = f.read()
+    except FileNotFoundError:
+        existing_content = ""
 
-    # Remove all trending sections
-    content = re.sub(r"## Trending On Date \d{4}-\d{2}-\d{2}.*?(?=## Trending On Date |\Z)", "", content, flags=re.DOTALL)
-
-    # Archive links block
+    # Separate existing archive links and trending content
     archive_links_md = ""
+    existing_trending_md = ""
+
+    archive_match = re.search(r"(## Monthly Archives.*?)(?=## Trending On Date |\Z)", existing_content, flags=re.DOTALL)
+    if archive_match:
+        archive_links_md = archive_match.group(1).strip() + "\n\n"
+        existing_trending_md = existing_content.replace(archive_links_md, "").strip()
+    else:
+        existing_trending_md = existing_content.strip()
+
+    # Regenerate archive link block
     if all_archive_links:
-        archive_links_md += "## Monthly Archives\n\n"
+        archive_links_md = "## Monthly Archives\n\n"
         for link in sorted(all_archive_links):
             archive_links_md += f"- [{link}](./{link})\n"
         archive_links_md += "\n"
 
-    # Final write
-    new_readme = archive_links_md + new_content
+    # Append new data at the top of existing trending content
+    final_readme = archive_links_md + new_content + existing_trending_md
+
     with open(readme_path, "w", encoding="utf-8") as f:
-        f.write(new_readme)
+        f.write(final_readme)
+
 
 
 def main():
