@@ -1,23 +1,23 @@
-## Trending On Date 2025-05-27
+## Trending On Date 2025-05-28
 
-- [devFelipeMarcos/clinic-schedule](https://github.com/devFelipeMarcos/clinic-schedule): ⭐ 2 
-- [heberfuentes94/website-main](https://github.com/heberfuentes94/website-main): ⭐ 2 
-- [igorodriguesaraujo/doctor-agenda](https://github.com/igorodriguesaraujo/doctor-agenda): ⭐ 2 
-- [devflowinc/uzi](https://github.com/devflowinc/uzi): ⭐ 2 
-- [rxymitchy/Mongo-DB-essentials](https://github.com/rxymitchy/Mongo-DB-essentials): ⭐ 1 
-- [azizbekrakhimjonov/IOT](https://github.com/azizbekrakhimjonov/IOT): ⭐ 1 
-- [4GeeksAcademy/eybagit-InstagramPost-lt55](https://github.com/4GeeksAcademy/eybagit-InstagramPost-lt55): ⭐ 1 
-- [Mdraugelis/ml_model_sim](https://github.com/Mdraugelis/ml_model_sim): ⭐ 1 
-- [Twilight-lxy/HobbyHub](https://github.com/Twilight-lxy/HobbyHub): ⭐ 1 
-- [liliamilanez/analise-titanic](https://github.com/liliamilanez/analise-titanic): ⭐ 1 
-- [balluarte/Projeto-Instagram](https://github.com/balluarte/Projeto-Instagram): ⭐ 1 
-- [choir94/Union](https://github.com/choir94/Union): ⭐ 1 
-- [m1r4i/HALIO](https://github.com/m1r4i/HALIO): ⭐ 1 
-- [municipoescolarsanbartolome/municipioescolarsanbartolome2025](https://github.com/municipoescolarsanbartolome/municipioescolarsanbartolome2025): ⭐ 1 
-- [H3kcerCat/Restart-Code](https://github.com/H3kcerCat/Restart-Code): ⭐ 1 
-- [Jose-Tiago/-backend-](https://github.com/Jose-Tiago/-backend-): ⭐ 1 
-- [IsaacMoretti/Calculate-BMI---Code-wars](https://github.com/IsaacMoretti/Calculate-BMI---Code-wars): ⭐ 1 
-- [Frusadev/fastapi-template](https://github.com/Frusadev/fastapi-template): ⭐ 1 
-- [rxymitchy/Bug-tracker](https://github.com/rxymitchy/Bug-tracker): ⭐ 1 
-- [PaulAMash/Firewall-Rule-Audit-and-Simulation](https://github.com/PaulAMash/Firewall-Rule-Audit-and-Simulation): ⭐ 1 
+- [RaulLiberato/doutor-agenda](https://github.com/RaulLiberato/doutor-agenda): ⭐ 3 
+- [zulfikriyahya/presensi-foto-gps](https://github.com/zulfikriyahya/presensi-foto-gps): ⭐ 2 
+- [zulfikriyahya/asesmen](https://github.com/zulfikriyahya/asesmen): ⭐ 2 
+- [lucasdickey/key-to-sleep](https://github.com/lucasdickey/key-to-sleep): ⭐ 2 
+- [zulfikriyahya/bailleys](https://github.com/zulfikriyahya/bailleys): ⭐ 2 
+- [yongyizang/music-source-restoration](https://github.com/yongyizang/music-source-restoration): ⭐ 1 
+- [adaor/siteplaneja-novo](https://github.com/adaor/siteplaneja-novo): ⭐ 1 
+- [OCAVIT/Evade-Auto-Bunny-Hop-and-Auto-Strafes](https://github.com/OCAVIT/Evade-Auto-Bunny-Hop-and-Auto-Strafes): ⭐ 1 
+- [Annguyen0410/Brainrot-Tic-Tac-Toe](https://github.com/Annguyen0410/Brainrot-Tic-Tac-Toe): ⭐ 1 
+- [Lucky1an/Zeno-grabber](https://github.com/Lucky1an/Zeno-grabber): ⭐ 1 
+- [SantiagoZera/ZMEF-2D](https://github.com/SantiagoZera/ZMEF-2D): ⭐ 1 
+- [LucasCarreiro001/Cadastro-Usu-rio-HTML](https://github.com/LucasCarreiro001/Cadastro-Usu-rio-HTML): ⭐ 1 
+- [Domjon24/Assignment-1-Candidate-Testing](https://github.com/Domjon24/Assignment-1-Candidate-Testing): ⭐ 1 
+- [rdente/portrait_healthcare_etl](https://github.com/rdente/portrait_healthcare_etl): ⭐ 1 
+- [Gabrielleao5563/Talk2](https://github.com/Gabrielleao5563/Talk2): ⭐ 1 
+- [rapatnaik/musicology](https://github.com/rapatnaik/musicology): ⭐ 1 
+- [yuvrajsingh835/snake-ventures](https://github.com/yuvrajsingh835/snake-ventures): ⭐ 1 
+- [aliyun/alibabacloud-iqs-tongxiao-mcp-server](https://github.com/aliyun/alibabacloud-iqs-tongxiao-mcp-server): ⭐ 1 
+- [KokonutGamer/supabase-oauth2-demo](https://github.com/KokonutGamer/supabase-oauth2-demo): ⭐ 1 
+- [yemiote/Secure-file-storage](https://github.com/yemiote/Secure-file-storage): ⭐ 1 
 
