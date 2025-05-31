@@ -2,6 +2,21 @@
 
 - [Trending-On-Month-April-2025.md](./Trending-On-Month-April-2025.md)
 
+## Trending On Date 2025-05-31
+
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 5862 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 22744 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): ⭐ 171272 
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail): ⭐ 3393 
+- [getzep/graphiti](https://github.com/getzep/graphiti): ⭐ 10284 
+- [anthropics/courses](https://github.com/anthropics/courses): ⭐ 12407 
+- [ccxt/ccxt](https://github.com/ccxt/ccxt): ⭐ 36614 
+- [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged): ⭐ 1333 
+- [KwaiVGI/LivePortrait](https://github.com/KwaiVGI/LivePortrait): ⭐ 15605 
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): ⭐ 13712 
+- [langgenius/dify](https://github.com/langgenius/dify): ⭐ 100012 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): ⭐ 127383 
+
 ## Trending On Date 2025-05-30
 
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): ⭐ 13042 
