@@ -1,25 +1,3 @@
-## Monthly Archives
-
-- [Trending-On-Month-April-2025.md](./Trending-On-Month-April-2025.md)
-- [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
-
-## Trending On Date 2025-06-01
-
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 6853 
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 10021 
-- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail): ⭐ 3818 
-- [fastapi/fastapi](https://github.com/fastapi/fastapi): ⭐ 85702 
-- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): ⭐ 97528 
-- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook): ⭐ 12701 
-- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 23127 
-- [frdel/agent-zero](https://github.com/frdel/agent-zero): ⭐ 7004 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing): ⭐ 70912 
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 84355 
-- [mui/mui-x](https://github.com/mui/mui-x): ⭐ 4993 
-- [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): ⭐ 6896 
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): ⭐ 56594 
-- [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves): ⭐ 2704 
-
 ## Trending On Date 2025-05-31
 
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 5862 
