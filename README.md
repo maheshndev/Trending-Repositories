@@ -3,6 +3,26 @@
 - [Trending-On-Month-April-2025.md](./Trending-On-Month-April-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-02
+
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 7948 
+- [anthropics/courses](https://github.com/anthropics/courses): ⭐ 13435 
+- [frdel/agent-zero](https://github.com/frdel/agent-zero): ⭐ 7339 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 10434 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt): ⭐ 32928 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 302157 
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): ⭐ 13179 
+- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): ⭐ 7148 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): ⭐ 171981 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 23559 
+- [coleam00/local-ai-packaged](https://github.com/coleam00/local-ai-packaged): ⭐ 1586 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing): ⭐ 71226 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 6183 
+- [assimp/assimp](https://github.com/assimp/assimp): ⭐ 11774 
+- [mui/mui-x](https://github.com/mui/mui-x): ⭐ 5138 
+- [googleapis/go-genai](https://github.com/googleapis/go-genai): ⭐ 418 
+- [GeostatsGuy/DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython): ⭐ 1544 
+
 ## Trending On Date 2025-06-01
 
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 6853 
