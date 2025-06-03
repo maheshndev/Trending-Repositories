@@ -5,6 +5,24 @@
 
 ## Trending On Date 2025-06-03
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 12374 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 303016 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 9017 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): ⭐ 20320 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 6513 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing): ⭐ 71527 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): ⭐ 5064 
+- [anthropics/courses](https://github.com/anthropics/courses): ⭐ 14090 
+- [frdel/agent-zero](https://github.com/frdel/agent-zero): ⭐ 7796 
+- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): ⭐ 7418 
+- [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves): ⭐ 2815 
+- [termux/termux-app](https://github.com/termux/termux-app): ⭐ 41942 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): ⭐ 4534 
+- [assimp/assimp](https://github.com/assimp/assimp): ⭐ 11915 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 34383 
+
+## Trending On Date 2025-06-03
+
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 11965 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 302808 
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 8909 
