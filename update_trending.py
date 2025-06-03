@@ -114,12 +114,21 @@ def main():
         with open(readme_path, "r", encoding="utf-8") as f:
             content = f.read()
 
+        # Extract last month's sections
         last_month_sections = extract_month_section(content, last_month_num, last_month_year)
         archive_content = "".join(last_month_sections)
 
         if archive_content:
+            # Save to archive file
             with open(last_archive_filename, "w", encoding="utf-8") as f:
                 f.write(archive_content)
+
+            # 💥 REMOVE previous month's sections from README
+            for section in last_month_sections:
+                content = content.replace(section, "")
+
+            with open(readme_path, "w", encoding="utf-8") as f:
+                f.write(content.strip())
 
     # Collect archive links
     archive_links = [
@@ -130,8 +139,9 @@ def main():
     # Append today’s data to the body
     readme_body = today_md
 
-    # Write README
+    # Write README (includes archive links + current month content only)
     update_readme(readme_body, all_archive_links=archive_links)
+
 
 
 if __name__ == "__main__":
