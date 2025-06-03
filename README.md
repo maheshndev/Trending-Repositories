@@ -1,7 +1,24 @@
 ## Monthly Archives
 
-- [Trending-On-Month-April-2025.md](./Trending-On-Month-April-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
+
+## Trending On Date 2025-06-03
+
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 12382 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 303018 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 9019 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): ⭐ 20321 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 6513 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing): ⭐ 71527 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): ⭐ 5065 
+- [anthropics/courses](https://github.com/anthropics/courses): ⭐ 14089 
+- [frdel/agent-zero](https://github.com/frdel/agent-zero): ⭐ 7798 
+- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): ⭐ 7418 
+- [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves): ⭐ 2816 
+- [termux/termux-app](https://github.com/termux/termux-app): ⭐ 41943 
+- [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI): ⭐ 4535 
+- [assimp/assimp](https://github.com/assimp/assimp): ⭐ 11915 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 34385 
 
 ## Trending On Date 2025-06-03
 
@@ -74,5 +91,4 @@
 - [mui/mui-x](https://github.com/mui/mui-x): ⭐ 4993 
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo): ⭐ 6896 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): ⭐ 56594 
-- [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves): ⭐ 2704 
-
+- [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves): ⭐ 2704
