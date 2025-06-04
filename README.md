@@ -2,6 +2,21 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-04
+
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 14039 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 7101 
+- [frdel/agent-zero](https://github.com/frdel/agent-zero): ⭐ 8104 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): ⭐ 28802 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 303579 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): ⭐ 20615 
+- [plankanban/planka](https://github.com/plankanban/planka): ⭐ 9517 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux): ⭐ 22078 
+- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): ⭐ 7605 
+- [WordPress/gutenberg](https://github.com/WordPress/gutenberg): ⭐ 11207 
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): ⭐ 13246 
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip): ⭐ 28535 
+
 ## Trending On Date 2025-06-03
 
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 12382 
