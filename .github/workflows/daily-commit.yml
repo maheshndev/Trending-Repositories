@@ -32,7 +32,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "maheshndev"
+          git config user.name "github-action"
           git config user.email "maheshnarsale@outlook.com"
           git add .
           git commit -m "Update trending repositories for $(date +'%Y-%m-%d')" || echo "No changes to commit"
