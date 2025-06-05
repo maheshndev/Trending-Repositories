@@ -18,22 +18,6 @@
 - [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships): ⭐ 38042 
 - [syncthing/syncthing](https://github.com/syncthing/syncthing): ⭐ 71883 
 
-## Trending On Date 2025-06-05
-
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 15647 
-- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): ⭐ 20907 
-- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 7625 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): ⭐ 87355 
-- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 304015 
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 35716 
-- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): ⭐ 7792 
-- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc): ⭐ 10167 
-- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): ⭐ 318840 
-- [scrapy/scrapy](https://github.com/scrapy/scrapy): ⭐ 55766 
-- [frdel/agent-zero](https://github.com/frdel/agent-zero): ⭐ 8468 
-- [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships): ⭐ 38012 
-- [syncthing/syncthing](https://github.com/syncthing/syncthing): ⭐ 71854 
-
 ## Trending On Date 2025-06-04
 
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 14039 
