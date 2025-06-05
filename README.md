@@ -4,6 +4,22 @@
 
 ## Trending On Date 2025-06-05
 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 15866 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): ⭐ 20941 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 7667 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): ⭐ 87528 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 304095 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 35871 
+- [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot): ⭐ 7816 
+- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc): ⭐ 10175 
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): ⭐ 318906 
+- [scrapy/scrapy](https://github.com/scrapy/scrapy): ⭐ 55832 
+- [frdel/agent-zero](https://github.com/frdel/agent-zero): ⭐ 8514 
+- [SimplifyJobs/Summer2025-Internships](https://github.com/SimplifyJobs/Summer2025-Internships): ⭐ 38042 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing): ⭐ 71883 
+
+## Trending On Date 2025-06-05
+
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 15647 
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): ⭐ 20907 
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 7625 
