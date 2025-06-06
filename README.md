@@ -2,6 +2,22 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-06
+
+- [frdel/agent-zero](https://github.com/frdel/agent-zero): ⭐ 8818 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 7901 
+- [scrapy/scrapy](https://github.com/scrapy/scrapy): ⭐ 56142 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 16600 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): ⭐ 87944 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird): ⭐ 14117 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown): ⭐ 4296 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 36322 
+- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot): ⭐ 12582 
+- [topoteretes/cognee](https://github.com/topoteretes/cognee): ⭐ 2894 
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent): ⭐ 5072 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning): ⭐ 230159 
+- [modelcontextprotocol/ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk): ⭐ 139 
+
 ## Trending On Date 2025-06-05
 
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 15866 
