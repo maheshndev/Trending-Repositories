@@ -2,6 +2,24 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-07
+
+- [netbirdio/netbird](https://github.com/netbirdio/netbird): ⭐ 14678 
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent): ⭐ 5307 
+- [topoteretes/cognee](https://github.com/topoteretes/cognee): ⭐ 3379 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): ⭐ 24884 
+- [codexu/note-gen](https://github.com/codexu/note-gen): ⭐ 3318 
+- [unslothai/notebooks](https://github.com/unslothai/notebooks): ⭐ 1315 
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): ⭐ 319279 
+- [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits): ⭐ 873 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): ⭐ 89993 
+- [coleam00/Archon](https://github.com/coleam00/Archon): ⭐ 4714 
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course): ⭐ 54604 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning): ⭐ 230485 
+- [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot): ⭐ 12787 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): ⭐ 385073 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 17012 
+
 ## Trending On Date 2025-06-06
 
 - [frdel/agent-zero](https://github.com/frdel/agent-zero): ⭐ 8818 
