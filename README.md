@@ -2,6 +2,25 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-08
+
+- [topoteretes/cognee](https://github.com/topoteretes/cognee): ⭐ 4122 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird): ⭐ 15020 
+- [codexu/note-gen](https://github.com/codexu/note-gen): ⭐ 3626 
+- [scrapy/scrapy](https://github.com/scrapy/scrapy): ⭐ 56491 
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits): ⭐ 12908 
+- [jwohlwend/boltz](https://github.com/jwohlwend/boltz): ⭐ 2033 
+- [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits): ⭐ 1038 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): ⭐ 24995 
+- [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro): ⭐ 1774 
+- [langgenius/dify](https://github.com/langgenius/dify): ⭐ 101876 
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course): ⭐ 54785 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): ⭐ 349947 
+- [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j): ⭐ 7863 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools): ⭐ 2741 
+- [vinta/awesome-python](https://github.com/vinta/awesome-python): ⭐ 245879 
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api): ⭐ 10003 
+
 ## Trending On Date 2025-06-07
 
 - [netbirdio/netbird](https://github.com/netbirdio/netbird): ⭐ 14678 
