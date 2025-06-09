@@ -2,6 +2,25 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-09
+
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero): ⭐ 5318 
+- [codexu/note-gen](https://github.com/codexu/note-gen): ⭐ 3958 
+- [langgenius/dify](https://github.com/langgenius/dify): ⭐ 102235 
+- [topoteretes/cognee](https://github.com/topoteretes/cognee): ⭐ 4616 
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core): ⭐ 28905 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 33700 
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): ⭐ 15408 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools): ⭐ 3120 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird): ⭐ 15198 
+- [Daymychen/art-design-pro](https://github.com/Daymychen/art-design-pro): ⭐ 1905 
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts): ⭐ 7143 
+- [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits): ⭐ 1167 
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way): ⭐ 44330 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): ⭐ 385680 
+- [unslothai/notebooks](https://github.com/unslothai/notebooks): ⭐ 1753 
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): ⭐ 25116 
+
 ## Trending On Date 2025-06-08
 
 - [topoteretes/cognee](https://github.com/topoteretes/cognee): ⭐ 4122 
