@@ -2,6 +2,25 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-10
+
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api): ⭐ 10821 
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero): ⭐ 5983 
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core): ⭐ 29052 
+- [topoteretes/cognee](https://github.com/topoteretes/cognee): ⭐ 5031 
+- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master): ⭐ 13413 
+- [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques): ⭐ 17171 
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI): ⭐ 7538 
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): ⭐ 16158 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): ⭐ 57260 
+- [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding): ⭐ 4653 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): ⭐ 26243 
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts): ⭐ 7402 
+- [linsomniac/spotify_to_ytmusic](https://github.com/linsomniac/spotify_to_ytmusic): ⭐ 3447 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 34085 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate): ⭐ 23080 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): ⭐ 40540 
+
 ## Trending On Date 2025-06-09
 
 - [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero): ⭐ 5318 
