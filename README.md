@@ -2,6 +2,23 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-11
+
+- [jwohlwend/boltz](https://github.com/jwohlwend/boltz): ⭐ 2428 
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero): ⭐ 6355 
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api): ⭐ 11440 
+- [friuns2/BlackFriday-GPTs-Prompts](https://github.com/friuns2/BlackFriday-GPTs-Prompts): ⭐ 7657 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): ⭐ 57613 
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI): ⭐ 8160 
+- [ourongxing/newsnow](https://github.com/ourongxing/newsnow): ⭐ 10844 
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): ⭐ 16658 
+- [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm): ⭐ 16891 
+- [XTLS/Xray-core](https://github.com/XTLS/Xray-core): ⭐ 29174 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri): ⭐ 8081 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers): ⭐ 52805 
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents): ⭐ 12960 
+- [PathOfBuildingCommunity/PathOfBuilding](https://github.com/PathOfBuildingCommunity/PathOfBuilding): ⭐ 4712 
+
 ## Trending On Date 2025-06-10
 
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api): ⭐ 10821 
