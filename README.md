@@ -2,6 +2,18 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-12
+
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome): ⭐ 365953 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 35274 
+- [alphacep/vosk-api](https://github.com/alphacep/vosk-api): ⭐ 11811 
+- [jwohlwend/boltz](https://github.com/jwohlwend/boltz): ⭐ 2681 
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api): ⭐ 4203 
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): ⭐ 17063 
+- [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm): ⭐ 17308 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 20662 
+- [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM): ⭐ 7798 
+
 ## Trending On Date 2025-06-11
 
 - [jwohlwend/boltz](https://github.com/jwohlwend/boltz): ⭐ 2428 
