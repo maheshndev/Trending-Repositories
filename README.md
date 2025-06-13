@@ -2,6 +2,19 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-13
+
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 37030 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome): ⭐ 366835 
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d): ⭐ 1644 
+- [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm): ⭐ 17686 
+- [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api): ⭐ 4490 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 25741 
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval): ⭐ 7475 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri): ⭐ 8251 
+- [FareedKhan-dev/all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques): ⭐ 2889 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 35870 
+
 ## Trending On Date 2025-06-12
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome): ⭐ 365953 
