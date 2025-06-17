@@ -2,6 +2,21 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-17
+
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons): ⭐ 6982 
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook): ⭐ 13901 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 12800 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 43281 
+- [immich-app/immich](https://github.com/immich-app/immich): ⭐ 68262 
+- [huggingface/lerobot](https://github.com/huggingface/lerobot): ⭐ 14738 
+- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser): ⭐ 1660 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop): ⭐ 33020 
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer): ⭐ 6137 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 36601 
+- [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai): ⭐ 2927 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri): ⭐ 8785 
+
 ## Trending On Date 2025-06-16
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome): ⭐ 368403 
