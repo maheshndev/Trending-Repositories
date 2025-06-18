@@ -2,6 +2,17 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-18
+
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons): ⭐ 8147 
+- [menloresearch/jan](https://github.com/menloresearch/jan): ⭐ 30748 
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook): ⭐ 14701 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow): ⭐ 56418 
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP): ⭐ 7869 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch): ⭐ 9236 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 43833 
+- [continuedev/continue](https://github.com/continuedev/continue): ⭐ 27085 
+
 ## Trending On Date 2025-06-17
 
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons): ⭐ 6982 
