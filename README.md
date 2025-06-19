@@ -2,6 +2,23 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-19
+
+- [automatisch/automatisch](https://github.com/automatisch/automatisch): ⭐ 10258 
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook): ⭐ 15629 
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons): ⭐ 8665 
+- [menloresearch/jan](https://github.com/menloresearch/jan): ⭐ 31681 
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer): ⭐ 6784 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): ⭐ 29988 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb): ⭐ 55143 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow): ⭐ 56811 
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP): ⭐ 8004 
+- [php/frankenphp](https://github.com/php/frankenphp): ⭐ 8608 
+- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine): ⭐ 15276 
+- [moby/buildkit](https://github.com/moby/buildkit): ⭐ 8915 
+- [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2): ⭐ 375 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 85237 
+
 ## Trending On Date 2025-06-18
 
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons): ⭐ 8147 
