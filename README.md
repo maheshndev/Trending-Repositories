@@ -2,6 +2,25 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-20
+
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): ⭐ 31303 
+- [menloresearch/jan](https://github.com/menloresearch/jan): ⭐ 32110 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext): ⭐ 10727 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch): ⭐ 10977 
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons): ⭐ 8850 
+- [kortix-ai/suna](https://github.com/kortix-ai/suna): ⭐ 14866 
+- [cloudflare/ai](https://github.com/cloudflare/ai): ⭐ 449 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 85317 
+- [deepseek-ai/DeepEP](https://github.com/deepseek-ai/DeepEP): ⭐ 8107 
+- [php/frankenphp](https://github.com/php/frankenphp): ⭐ 8778 
+- [ollama/ollama](https://github.com/ollama/ollama): ⭐ 144206 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm): ⭐ 50157 
+- [espressif/esp-idf](https://github.com/espressif/esp-idf): ⭐ 15542 
+- [firebase/genkit](https://github.com/firebase/genkit): ⭐ 2228 
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook): ⭐ 16227 
+- [MystenLabs/sui](https://github.com/MystenLabs/sui): ⭐ 7092 
+
 ## Trending On Date 2025-06-19
 
 - [automatisch/automatisch](https://github.com/automatisch/automatisch): ⭐ 10258 
