@@ -2,6 +2,24 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-21
+
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): ⭐ 32708 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext): ⭐ 10953 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch): ⭐ 11207 
+- [php/frankenphp](https://github.com/php/frankenphp): ⭐ 8931 
+- [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2): ⭐ 445 
+- [grafana/loki](https://github.com/grafana/loki): ⭐ 25751 
+- [Mail-0/Zero](https://github.com/Mail-0/Zero): ⭐ 8293 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm): ⭐ 50310 
+- [gabime/spdlog](https://github.com/gabime/spdlog): ⭐ 26455 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n): ⭐ 109701 
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim): ⭐ 32526 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): ⭐ 51718 
+- [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook): ⭐ 16462 
+- [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit): ⭐ 9576 
+- [moby/buildkit](https://github.com/moby/buildkit): ⭐ 9046 
+
 ## Trending On Date 2025-06-20
 
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): ⭐ 31303 
