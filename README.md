@@ -2,6 +2,21 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-22
+
+- [typst/typst](https://github.com/typst/typst): ⭐ 42423 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): ⭐ 11015 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext): ⭐ 11135 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): ⭐ 33279 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): ⭐ 52171 
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram): ⭐ 26350 
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest): ⭐ 9678 
+- [ourongxing/newsnow](https://github.com/ourongxing/newsnow): ⭐ 11442 
+- [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit): ⭐ 9770 
+- [unionlabs/union](https://github.com/unionlabs/union): ⭐ 68039 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n): ⭐ 110202 
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): ⭐ 14169 
+
 ## Trending On Date 2025-06-21
 
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): ⭐ 32708 
