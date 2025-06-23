@@ -2,6 +2,24 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-23
+
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): ⭐ 53305 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): ⭐ 11502 
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim): ⭐ 32759 
+- [microsoft/edit](https://github.com/microsoft/edit): ⭐ 9041 
+- [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy): ⭐ 2121 
+- [kortix-ai/suna](https://github.com/kortix-ai/suna): ⭐ 15362 
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram): ⭐ 26413 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 14491 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): ⭐ 33565 
+- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest): ⭐ 9919 
+- [krishnadey30/LeetCode-Questions-CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise): ⭐ 16685 
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): ⭐ 88948 
+- [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext): ⭐ 11312 
+- [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws): ⭐ 13411 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n): ⭐ 110696 
+
 ## Trending On Date 2025-06-22
 
 - [typst/typst](https://github.com/typst/typst): ⭐ 42423 
