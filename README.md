@@ -2,6 +2,20 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-24
+
+- [microsoft/edit](https://github.com/microsoft/edit): ⭐ 9436 
+- [voideditor/void](https://github.com/voideditor/void): ⭐ 24649 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty): ⭐ 32027 
+- [kortix-ai/suna](https://github.com/kortix-ai/suna): ⭐ 15685 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 60191 
+- [typst/typst](https://github.com/typst/typst): ⭐ 42835 
+- [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart): ⭐ 877 
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): ⭐ 89296 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): ⭐ 80504 
+- [localsend/localsend](https://github.com/localsend/localsend): ⭐ 63142 
+- [isledecomp/isle-portable](https://github.com/isledecomp/isle-portable): ⭐ 523 
+
 ## Trending On Date 2025-06-23
 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): ⭐ 53305 
