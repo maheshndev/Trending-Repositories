@@ -2,6 +2,22 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-25
+
+- [DrKLO/Telegram](https://github.com/DrKLO/Telegram): ⭐ 26670 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): ⭐ 12254 
+- [microsoft/edit](https://github.com/microsoft/edit): ⭐ 9802 
+- [HarbourMasters/SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart): ⭐ 1026 
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts): ⭐ 10109 
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): ⭐ 1457 
+- [isledecomp/isle-portable](https://github.com/isledecomp/isle-portable): ⭐ 634 
+- [typst/typst](https://github.com/typst/typst): ⭐ 43114 
+- [Effect-TS/effect](https://github.com/Effect-TS/effect): ⭐ 9710 
+- [microsoft/playwright](https://github.com/microsoft/playwright): ⭐ 73909 
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python): ⭐ 20581 
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): ⭐ 89674 
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): ⭐ 48704 
+
 ## Trending On Date 2025-06-24
 
 - [microsoft/edit](https://github.com/microsoft/edit): ⭐ 9436 
