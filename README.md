@@ -2,6 +2,24 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-26
+
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): ⭐ 28508 
+- [vitejs/vite](https://github.com/vitejs/vite): ⭐ 73645 
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): ⭐ 1772 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ⭐ 38117 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): ⭐ 100310 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): ⭐ 68419 
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts): ⭐ 10469 
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python): ⭐ 20933 
+- [bgstaal/multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene): ⭐ 18432 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide): ⭐ 14474 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): ⭐ 390619 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome): ⭐ 373539 
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): ⭐ 25565 
+- [kilimchoi/engineering-blogs](https://github.com/kilimchoi/engineering-blogs): ⭐ 34003 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): ⭐ 20530 
+
 ## Trending On Date 2025-06-25
 
 - [DrKLO/Telegram](https://github.com/DrKLO/Telegram): ⭐ 26670 
