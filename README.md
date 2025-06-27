@@ -2,6 +2,26 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-27
+
+- [microsoft/edit](https://github.com/microsoft/edit): ⭐ 10720 
+- [mui/base-ui](https://github.com/mui/base-ui): ⭐ 3783 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): ⭐ 20834 
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry): ⭐ 1715 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): ⭐ 57911 
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts): ⭐ 10759 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty): ⭐ 29109 
+- [nexus-xyz/nexus-cli](https://github.com/nexus-xyz/nexus-cli): ⭐ 782 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ⭐ 38388 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): ⭐ 28918 
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway): ⭐ 8312 
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python): ⭐ 21210 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners): ⭐ 73112 
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide): ⭐ 15033 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 85972 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): ⭐ 68959 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): ⭐ 100889 
+
 ## Trending On Date 2025-06-26
 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): ⭐ 28508 
