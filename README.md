@@ -2,6 +2,23 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-28
+
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents): ⭐ 2620 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome): ⭐ 375026 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): ⭐ 21111 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty): ⭐ 29639 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux): ⭐ 22809 
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts): ⭐ 10970 
+- [gensyn-ai/rl-swarm](https://github.com/gensyn-ai/rl-swarm): ⭐ 898 
+- [rxi/microui](https://github.com/rxi/microui): ⭐ 4424 
+- [automatisch/automatisch](https://github.com/automatisch/automatisch): ⭐ 12120 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ⭐ 38558 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): ⭐ 69322 
+- [mui/base-ui](https://github.com/mui/base-ui): ⭐ 4134 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): ⭐ 101265 
+- [cline/cline](https://github.com/cline/cline): ⭐ 46502 
+
 ## Trending On Date 2025-06-27
 
 - [microsoft/edit](https://github.com/microsoft/edit): ⭐ 10720 
