@@ -2,6 +2,24 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-29
+
+- [twentyhq/twenty](https://github.com/twentyhq/twenty): ⭐ 30450 
+- [black-forest-labs/flux](https://github.com/black-forest-labs/flux): ⭐ 22909 
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite): ⭐ 13796 
+- [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore): ⭐ 1843 
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents): ⭐ 2926 
+- [rommapp/romm](https://github.com/rommapp/romm): ⭐ 5012 
+- [Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio): ⭐ 5762 
+- [midday-ai/midday](https://github.com/midday-ai/midday): ⭐ 8194 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 86388 
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): ⭐ 33958 
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): ⭐ 66362 
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller): ⭐ 5401 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): ⭐ 24959 
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook): ⭐ 13731 
+- [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop): ⭐ 13233 
+
 ## Trending On Date 2025-06-28
 
 - [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents): ⭐ 2620 
