@@ -2,6 +2,25 @@
 
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-06-30
+
+- [twentyhq/twenty](https://github.com/twentyhq/twenty): ⭐ 31405 
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite): ⭐ 14555 
+- [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen): ⭐ 303 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 86686 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 63028 
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents): ⭐ 3071 
+- [stanford-oval/storm](https://github.com/stanford-oval/storm): ⭐ 25208 
+- [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn): ⭐ 4539 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl): ⭐ 41057 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): ⭐ 22756 
+- [adityachandelgit/BookLore](https://github.com/adityachandelgit/BookLore): ⭐ 2104 
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): ⭐ 66535 
+- [mikumifa/biliTickerBuy](https://github.com/mikumifa/biliTickerBuy): ⭐ 2481 
+- [m1k1o/neko](https://github.com/m1k1o/neko): ⭐ 11315 
+- [LMCache/LMCache](https://github.com/LMCache/LMCache): ⭐ 2183 
+- [zyronon/typing-word](https://github.com/zyronon/typing-word): ⭐ 1892 
+
 ## Trending On Date 2025-06-29
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty): ⭐ 30450 
