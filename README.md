@@ -3,6 +3,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-02
+
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 88300 
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite): ⭐ 17252 
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval): ⭐ 8781 
+- [octra-labs/wallet-gen](https://github.com/octra-labs/wallet-gen): ⭐ 473 
+- [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE): ⭐ 44764 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty): ⭐ 32674 
+- [actualbudget/actual](https://github.com/actualbudget/actual): ⭐ 19860 
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 24407 
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): ⭐ 66990 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 42579 
+- [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources): ⭐ 7206 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 19821 
+- [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn): ⭐ 4963 
+- [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance): ⭐ 2138 
+
 ## Trending On Date 2025-07-01
 
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite): ⭐ 16014 
