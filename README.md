@@ -3,6 +3,25 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-03
+
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 90042 
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 24918 
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira): ⭐ 8963 
+- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming): ⭐ 6212 
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): ⭐ 24426 
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite): ⭐ 17769 
+- [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources): ⭐ 7695 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 42992 
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager): ⭐ 27067 
+- [snailyp/gemini-balance](https://github.com/snailyp/gemini-balance): ⭐ 2263 
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric): ⭐ 32135 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 20068 
+- [PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE): ⭐ 7075 
+- [openssl/openssl](https://github.com/openssl/openssl): ⭐ 27756 
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp): ⭐ 6146 
+- [mrdoob/three.js](https://github.com/mrdoob/three.js): ⭐ 107073 
+
 ## Trending On Date 2025-07-02
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 88300 
