@@ -3,6 +3,25 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-04
+
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 25523 
+- [mrdoob/three.js](https://github.com/mrdoob/three.js): ⭐ 107252 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 90953 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 44517 
+- [isaac-sim/IsaacLab](https://github.com/isaac-sim/IsaacLab): ⭐ 4169 
+- [openssl/openssl](https://github.com/openssl/openssl): ⭐ 27853 
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis): ⭐ 25548 
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications): ⭐ 35317 
+- [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources): ⭐ 8155 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): ⭐ 27517 
+- [btjawa/BiliTools](https://github.com/btjawa/BiliTools): ⭐ 1752 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia): ⭐ 3137 
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm): ⭐ 7112 
+- [llmware-ai/llmware](https://github.com/llmware-ai/llmware): ⭐ 14045 
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui): ⭐ 27680 
+- [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code): ⭐ 24718 
+
 ## Trending On Date 2025-07-03
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 90042 
