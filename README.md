@@ -3,6 +3,26 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-05
+
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 26501 
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis): ⭐ 25667 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 44717 
+- [swagger-api/swagger-ui](https://github.com/swagger-api/swagger-ui): ⭐ 27806 
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio): ⭐ 22972 
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE): ⭐ 52604 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 21635 
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm): ⭐ 7893 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia): ⭐ 3374 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb): ⭐ 31320 
+- [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts): ⭐ 3126 
+- [dockur/macos](https://github.com/dockur/macos): ⭐ 12552 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 20341 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools): ⭐ 4192 
+- [btjawa/BiliTools](https://github.com/btjawa/BiliTools): ⭐ 1935 
+- [Infisical/infisical](https://github.com/Infisical/infisical): ⭐ 18496 
+- [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms): ⭐ 191821 
+
 ## Trending On Date 2025-07-04
 
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 25523 
