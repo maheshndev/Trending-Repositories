@@ -3,6 +3,20 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-06
+
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 27298 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs): ⭐ 1081 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 44868 
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm): ⭐ 8286 
+- [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao): ⭐ 16010 
+- [megadose/toutatis](https://github.com/megadose/toutatis): ⭐ 2693 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): ⭐ 77291 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia): ⭐ 3535 
+- [directus/directus](https://github.com/directus/directus): ⭐ 31304 
+- [google/perfetto](https://github.com/google/perfetto): ⭐ 4259 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): ⭐ 395351 
+
 ## Trending On Date 2025-07-05
 
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 26501 
