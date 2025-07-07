@@ -3,6 +3,18 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-07
+
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 27776 
+- [dockur/macos](https://github.com/dockur/macos): ⭐ 14410 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 14783 
+- [vosen/ZLUDA](https://github.com/vosen/ZLUDA): ⭐ 12148 
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): ⭐ 26457 
+- [Alex313031/thorium](https://github.com/Alex313031/thorium): ⭐ 6080 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): ⭐ 395923 
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools): ⭐ 4514 
+- [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): ⭐ 6860 
+
 ## Trending On Date 2025-07-06
 
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 27298 
