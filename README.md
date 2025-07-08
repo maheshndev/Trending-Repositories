@@ -3,6 +3,19 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-08
+
+- [rustfs/rustfs](https://github.com/rustfs/rustfs): ⭐ 2090 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 15332 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music): ⭐ 24956 
+- [dockur/macos](https://github.com/dockur/macos): ⭐ 15042 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase): ⭐ 48652 
+- [commaai/openpilot](https://github.com/commaai/openpilot): ⭐ 54707 
+- [smallcloudai/refact](https://github.com/smallcloudai/refact): ⭐ 2656 
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents): ⭐ 6736 
+- [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering): ⭐ 2660 
+- [CodeWithHarry/Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course): ⭐ 9174 
+
 ## Trending On Date 2025-07-07
 
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 27776 
