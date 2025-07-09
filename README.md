@@ -3,6 +3,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-09
+
+- [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents): ⭐ 7447 
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent): ⭐ 2184 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music): ⭐ 25368 
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models): ⭐ 11501 
+- [gusmanb/logicanalyzer](https://github.com/gusmanb/logicanalyzer): ⭐ 3966 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 15842 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs): ⭐ 3208 
+- [commaai/openpilot](https://github.com/commaai/openpilot): ⭐ 55003 
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2): ⭐ 11954 
+- [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision): ⭐ 22023 
+- [dockur/macos](https://github.com/dockur/macos): ⭐ 15430 
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas): ⭐ 84160 
+- [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents): ⭐ 14041 
+- [forthespada/CS-Books](https://github.com/forthespada/CS-Books): ⭐ 23250 
+
 ## Trending On Date 2025-07-08
 
 - [rustfs/rustfs](https://github.com/rustfs/rustfs): ⭐ 2090 
