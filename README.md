@@ -3,6 +3,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-10
+
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox): ⭐ 4032 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs): ⭐ 3719 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 16171 
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent): ⭐ 2829 
+- [putyy/res-downloader](https://github.com/putyy/res-downloader): ⭐ 8239 
+- [ed-donner/agents](https://github.com/ed-donner/agents): ⭐ 1067 
+- [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin): ⭐ 9411 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 29634 
+- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients): ⭐ 4321 
+- [strapi/strapi](https://github.com/strapi/strapi): ⭐ 67481 
+- [microsoft/MoGe](https://github.com/microsoft/MoGe): ⭐ 1247 
+- [alibaba/MNN](https://github.com/alibaba/MNN): ⭐ 12385 
+- [ed-donner/llm_engineering](https://github.com/ed-donner/llm_engineering): ⭐ 2837 
+- [junegunn/fzf](https://github.com/junegunn/fzf): ⭐ 71780 
+
 ## Trending On Date 2025-07-09
 
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents): ⭐ 7447 
