@@ -3,6 +3,25 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-11
+
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent): ⭐ 3273 
+- [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop): ⭐ 2875 
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox): ⭐ 4966 
+- [LMCache/LMCache](https://github.com/LMCache/LMCache): ⭐ 2839 
+- [forthespada/CS-Books](https://github.com/forthespada/CS-Books): ⭐ 23666 
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101): ⭐ 74216 
+- [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni): ⭐ 1027 
+- [pybind/pybind11](https://github.com/pybind/pybind11): ⭐ 16869 
+- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients): ⭐ 4563 
+- [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2): ⭐ 12252 
+- [helm/helm](https://github.com/helm/helm): ⭐ 28178 
+- [coleam00/ai-agents-masterclass](https://github.com/coleam00/ai-agents-masterclass): ⭐ 2552 
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models): ⭐ 11917 
+- [volcengine/verl](https://github.com/volcengine/verl): ⭐ 10750 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform): ⭐ 45639 
+- [flutter/packages](https://github.com/flutter/packages): ⭐ 4840 
+
 ## Trending On Date 2025-07-10
 
 - [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox): ⭐ 4032 
