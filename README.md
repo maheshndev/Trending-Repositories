@@ -3,6 +3,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-12
+
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): ⭐ 68284 
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox): ⭐ 5576 
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent): ⭐ 3618 
+- [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop): ⭐ 2947 
+- [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni): ⭐ 1321 
+- [google/googletest](https://github.com/google/googletest): ⭐ 36352 
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101): ⭐ 74502 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik): ⭐ 17063 
+- [LMCache/LMCache](https://github.com/LMCache/LMCache): ⭐ 3008 
+- [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients): ⭐ 4749 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform): ⭐ 45775 
+- [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc): ⭐ 823 
+- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go): ⭐ 5856 
+- [getsentry/sentry](https://github.com/getsentry/sentry): ⭐ 41378 
+- [antiwork/flexile](https://github.com/antiwork/flexile): ⭐ 598 
+
 ## Trending On Date 2025-07-11
 
 - [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent): ⭐ 3273 
