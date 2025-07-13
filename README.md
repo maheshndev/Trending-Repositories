@@ -3,6 +3,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-13
+
+- [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni): ⭐ 1500 
+- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go): ⭐ 5916 
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox): ⭐ 5971 
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): ⭐ 68476 
+- [getzep/graphiti](https://github.com/getzep/graphiti): ⭐ 12712 
+- [pybind/pybind11](https://github.com/pybind/pybind11): ⭐ 16960 
+- [WordPress/wordpress-develop](https://github.com/WordPress/wordpress-develop): ⭐ 3001 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock): ⭐ 55435 
+- [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc): ⭐ 954 
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization): ⭐ 19418 
+- [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity): ⭐ 9477 
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): ⭐ 30201 
+- [psf/black](https://github.com/psf/black): ⭐ 40570 
+- [Alibaba-NLP/WebAgent](https://github.com/Alibaba-NLP/WebAgent): ⭐ 3801 
+- [odoo/odoo](https://github.com/odoo/odoo): ⭐ 44237 
+
 ## Trending On Date 2025-07-12
 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): ⭐ 68284 
