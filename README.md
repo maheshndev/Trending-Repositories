@@ -3,6 +3,21 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-14
+
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 20238 
+- [vercel/commerce](https://github.com/vercel/commerce): ⭐ 12870 
+- [block/goose](https://github.com/block/goose): ⭐ 16281 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): ⭐ 177410 
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass): ⭐ 7929 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): ⭐ 104730 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock): ⭐ 55665 
+- [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity): ⭐ 9753 
+- [microsoft/qlib](https://github.com/microsoft/qlib): ⭐ 26717 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand): ⭐ 13739 
+- [landing-ai/agentic-doc](https://github.com/landing-ai/agentic-doc): ⭐ 1134 
+- [getzep/graphiti](https://github.com/getzep/graphiti): ⭐ 12972 
+
 ## Trending On Date 2025-07-13
 
 - [snap-stanford/Biomni](https://github.com/snap-stanford/Biomni): ⭐ 1500 
