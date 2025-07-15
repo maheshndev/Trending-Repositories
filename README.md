@@ -3,6 +3,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-15
+
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 22133 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 61233 
+- [gorhill/uBlock](https://github.com/gorhill/uBlock): ⭐ 55973 
+- [microsoft/qlib](https://github.com/microsoft/qlib): ⭐ 26944 
+- [vercel/commerce](https://github.com/vercel/commerce): ⭐ 13122 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): ⭐ 34125 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev): ⭐ 105390 
+- [leaningtech/webvm](https://github.com/leaningtech/webvm): ⭐ 14942 
+- [OpenPipe/ART](https://github.com/OpenPipe/ART): ⭐ 1856 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): ⭐ 177888 
+- [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle): ⭐ 1530 
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): ⭐ 4071 
+- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl): ⭐ 2148 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): ⭐ 82515 
+- [getzep/graphiti](https://github.com/getzep/graphiti): ⭐ 13284 
+
 ## Trending On Date 2025-07-14
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 20238 
