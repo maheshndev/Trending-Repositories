@@ -3,6 +3,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-16
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 63002 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 67757 
+- [getzep/graphiti](https://github.com/getzep/graphiti): ⭐ 13633 
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass): ⭐ 8028 
+- [frappe/erpnext](https://github.com/frappe/erpnext): ⭐ 26564 
+- [nisargjhaveri/WirelessAndroidAutoDongle](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle): ⭐ 1673 
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): ⭐ 4588 
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): ⭐ 42733 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): ⭐ 34374 
+- [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate): ⭐ 6604 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 23236 
+- [OpenPipe/ART](https://github.com/OpenPipe/ART): ⭐ 2282 
+- [beeradmoore/dlss-swapper](https://github.com/beeradmoore/dlss-swapper): ⭐ 4495 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ⭐ 39928 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand): ⭐ 14131 
+
 ## Trending On Date 2025-07-15
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 22133 
