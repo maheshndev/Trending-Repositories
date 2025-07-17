@@ -3,6 +3,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-17
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 65048 
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT): ⭐ 21087 
+- [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree): ⭐ 18229 
+- [frappe/erpnext](https://github.com/frappe/erpnext): ⭐ 26822 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT): ⭐ 16100 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 23738 
+- [OpenPipe/ART](https://github.com/OpenPipe/ART): ⭐ 2674 
+- [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli): ⭐ 1157 
+- [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood): ⭐ 1521 
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent): ⭐ 6438 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): ⭐ 93159 
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna): ⭐ 18954 
+- [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat): ⭐ 8398 
+- [TomBursch/kitchenowl](https://github.com/TomBursch/kitchenowl): ⭐ 2369 
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything): ⭐ 50949 
+
 ## Trending On Date 2025-07-16
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 63002 
