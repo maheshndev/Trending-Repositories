@@ -3,6 +3,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-18
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 66640 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): ⭐ 21708 
+- [soxoj/maigret](https://github.com/soxoj/maigret): ⭐ 16085 
+- [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree): ⭐ 18507 
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT): ⭐ 21397 
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna): ⭐ 19217 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ⭐ 40162 
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): ⭐ 5434 
+- [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge): ⭐ 9798 
+- [strapi/strapi](https://github.com/strapi/strapi): ⭐ 67991 
+- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research): ⭐ 4775 
+- [helix-editor/helix](https://github.com/helix-editor/helix): ⭐ 38773 
+- [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs): ⭐ 36665 
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications): ⭐ 36279 
+- [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365): ⭐ 8164 
+
 ## Trending On Date 2025-07-17
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 65048 
