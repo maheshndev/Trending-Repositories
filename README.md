@@ -3,6 +3,25 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-19
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 67865 
+- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research): ⭐ 5054 
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything): ⭐ 51114 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): ⭐ 27200 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): ⭐ 22006 
+- [soxoj/maigret](https://github.com/soxoj/maigret): ⭐ 16497 
+- [arc53/DocsGPT](https://github.com/arc53/DocsGPT): ⭐ 16445 
+- [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video): ⭐ 7274 
+- [influxdata/telegraf](https://github.com/influxdata/telegraf): ⭐ 15835 
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT): ⭐ 21582 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n): ⭐ 120437 
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs): ⭐ 32277 
+- [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat): ⭐ 8438 
+- [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365): ⭐ 8362 
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai): ⭐ 11027 
+- [strapi/strapi](https://github.com/strapi/strapi): ⭐ 68233 
+
 ## Trending On Date 2025-07-18
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 66640 
