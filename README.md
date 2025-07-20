@@ -3,6 +3,27 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-20
+
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): ⭐ 27709 
+- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research): ⭐ 5290 
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx): ⭐ 15298 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4): ⭐ 24536 
+- [soxoj/maigret](https://github.com/soxoj/maigret): ⭐ 16800 
+- [github/github-mcp-server](https://github.com/github/github-mcp-server): ⭐ 17988 
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs): ⭐ 32879 
+- [bknd-io/bknd](https://github.com/bknd-io/bknd): ⭐ 2542 
+- [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning): ⭐ 14644 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n): ⭐ 121046 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): ⭐ 22175 
+- [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365): ⭐ 8468 
+- [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video): ⭐ 7384 
+- [strapi/strapi](https://github.com/strapi/strapi): ⭐ 68433 
+- [influxdata/telegraf](https://github.com/influxdata/telegraf): ⭐ 15919 
+- [actions/runner-images](https://github.com/actions/runner-images): ⭐ 11514 
+- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security): ⭐ 2776 
+- [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp): ⭐ 731 
+
 ## Trending On Date 2025-07-19
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 67865 
