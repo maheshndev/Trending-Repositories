@@ -3,6 +3,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-21
+
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher): ⭐ 10836 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): ⭐ 28093 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth): ⭐ 16792 
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs): ⭐ 33759 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe): ⭐ 47834 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 5347 
+- [roboflow/supervision](https://github.com/roboflow/supervision): ⭐ 28058 
+- [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4): ⭐ 24857 
+- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research): ⭐ 5528 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn): ⭐ 11836 
+- [bknd-io/bknd](https://github.com/bknd-io/bknd): ⭐ 2833 
+- [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises): ⭐ 1977 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n): ⭐ 121609 
+- [panaversity/learn-agentic-ai](https://github.com/panaversity/learn-agentic-ai): ⭐ 3282 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): ⭐ 54532 
+
 ## Trending On Date 2025-07-20
 
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): ⭐ 27709 
