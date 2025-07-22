@@ -3,6 +3,28 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-22
+
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe): ⭐ 49433 
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ⭐ 84535 
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): ⭐ 5359 
+- [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research): ⭐ 5858 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): ⭐ 28330 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 312107 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): ⭐ 48811 
+- [Lissy93/dashy](https://github.com/Lissy93/dashy): ⭐ 21778 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 31536 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth): ⭐ 17168 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): ⭐ 4611 
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher): ⭐ 12350 
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx): ⭐ 15536 
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs): ⭐ 35028 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 5677 
+- [Worklenz/worklenz](https://github.com/Worklenz/worklenz): ⭐ 2496 
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper): ⭐ 5713 
+- [Freika/dawarich](https://github.com/Freika/dawarich): ⭐ 5745 
+- [roboflow/supervision](https://github.com/roboflow/supervision): ⭐ 28955 
+
 ## Trending On Date 2025-07-21
 
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher): ⭐ 10836 
