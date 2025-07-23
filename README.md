@@ -3,6 +3,28 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-23
+
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher): ⭐ 14249 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe): ⭐ 50498 
+- [roboflow/supervision](https://github.com/roboflow/supervision): ⭐ 29471 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): ⭐ 49220 
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat): ⭐ 84862 
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs): ⭐ 35740 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth): ⭐ 17466 
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero): ⭐ 14830 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy): ⭐ 5312 
+- [p1ngul1n0/blackbird](https://github.com/p1ngul1n0/blackbird): ⭐ 4050 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): ⭐ 5378 
+- [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises): ⭐ 2088 
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): ⭐ 5874 
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models): ⭐ 12883 
+- [tracel-ai/burn](https://github.com/tracel-ai/burn): ⭐ 12075 
+- [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): ⭐ 28533 
+- [ankitects/anki](https://github.com/ankitects/anki): ⭐ 22626 
+- [microsoft/OmniParser](https://github.com/microsoft/OmniParser): ⭐ 22827 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 5925 
+
 ## Trending On Date 2025-07-22
 
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe): ⭐ 49433 
