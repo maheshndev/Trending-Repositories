@@ -3,6 +3,27 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-24
+
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher): ⭐ 16628 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe): ⭐ 51534 
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): ⭐ 44904 
+- [moby/moby](https://github.com/moby/moby): ⭐ 70194 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 22406 
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs): ⭐ 36230 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 312615 
+- [roboflow/supervision](https://github.com/roboflow/supervision): ⭐ 29812 
+- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr): ⭐ 12585 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 32059 
+- [frappe/hrms](https://github.com/frappe/hrms): ⭐ 3201 
+- [Sjj1024/PakePlus](https://github.com/Sjj1024/PakePlus): ⭐ 4962 
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip): ⭐ 32805 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj): ⭐ 17958 
+- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): ⭐ 9088 
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3): ⭐ 22937 
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help): ⭐ 23750 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): ⭐ 6054 
+
 ## Trending On Date 2025-07-23
 
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher): ⭐ 14249 
