@@ -3,6 +3,21 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-25
+
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher): ⭐ 18722 
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): ⭐ 45538 
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio): ⭐ 23679 
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip): ⭐ 33100 
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail): ⭐ 7330 
+- [frappe/hrms](https://github.com/frappe/hrms): ⭐ 3653 
+- [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3): ⭐ 23209 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 92612 
+- [minio/minio](https://github.com/minio/minio): ⭐ 54060 
+- [langchain-ai/rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch): ⭐ 4927 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm): ⭐ 26012 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 22605 
+
 ## Trending On Date 2025-07-24
 
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher): ⭐ 16628 
