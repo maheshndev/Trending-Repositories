@@ -3,6 +3,22 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-26
+
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder): ⭐ 8869 
+- [m1k1o/neko](https://github.com/m1k1o/neko): ⭐ 13634 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 22749 
+- [semgrep/semgrep](https://github.com/semgrep/semgrep): ⭐ 12266 
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): ⭐ 46087 
+- [frappe/hrms](https://github.com/frappe/hrms): ⭐ 4246 
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero): ⭐ 8934 
+- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated): ⭐ 9944 
+- [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai): ⭐ 9421 
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher): ⭐ 19694 
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail): ⭐ 7718 
+- [moby/moby](https://github.com/moby/moby): ⭐ 70304 
+- [twbs/bootstrap](https://github.com/twbs/bootstrap): ⭐ 172666 
+
 ## Trending On Date 2025-07-25
 
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher): ⭐ 18722 
