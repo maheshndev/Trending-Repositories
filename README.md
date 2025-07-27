@@ -3,6 +3,21 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-27
+
+- [frappe/hrms](https://github.com/frappe/hrms): ⭐ 4618 
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder): ⭐ 9352 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 22876 
+- [m1k1o/neko](https://github.com/m1k1o/neko): ⭐ 14020 
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail): ⭐ 7976 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak): ⭐ 28599 
+- [BerriAI/litellm](https://github.com/BerriAI/litellm): ⭐ 26251 
+- [Infisical/infisical](https://github.com/Infisical/infisical): ⭐ 19149 
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval): ⭐ 9533 
+- [dataease/dataease](https://github.com/dataease/dataease): ⭐ 20803 
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): ⭐ 103581 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): ⭐ 23257 
+
 ## Trending On Date 2025-07-26
 
 - [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder): ⭐ 8869 
