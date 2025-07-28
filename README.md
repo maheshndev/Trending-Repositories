@@ -3,6 +3,16 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-28
+
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis): ⭐ 26326 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 52239 
+- [frappe/hrms](https://github.com/frappe/hrms): ⭐ 4900 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 23007 
+- [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook): ⭐ 1825 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr): ⭐ 56824 
+- [Infisical/infisical](https://github.com/Infisical/infisical): ⭐ 19413 
+
 ## Trending On Date 2025-07-27
 
 - [frappe/hrms](https://github.com/frappe/hrms): ⭐ 4618 
