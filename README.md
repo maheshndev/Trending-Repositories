@@ -3,6 +3,20 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-29
+
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 53016 
+- [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis): ⭐ 26650 
+- [daveebbelaar/ai-cookbook](https://github.com/daveebbelaar/ai-cookbook): ⭐ 2175 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr): ⭐ 57211 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 93377 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): ⭐ 25466 
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl): ⭐ 14452 
+- [outline/outline](https://github.com/outline/outline): ⭐ 33211 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): ⭐ 2761 
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard): ⭐ 24109 
+- [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern): ⭐ 16652 
+
 ## Trending On Date 2025-07-28
 
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis): ⭐ 26326 
