@@ -3,6 +3,20 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-30
+
+- [9001/copyparty](https://github.com/9001/copyparty): ⭐ 10704 
+- [cloudwego/eino](https://github.com/cloudwego/eino): ⭐ 5678 
+- [n0-computer/iroh](https://github.com/n0-computer/iroh): ⭐ 6284 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr): ⭐ 57604 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 53580 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys): ⭐ 121471 
+- [lapce/lapce](https://github.com/lapce/lapce): ⭐ 36938 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): ⭐ 3564 
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer): ⭐ 11033 
+- [outline/outline](https://github.com/outline/outline): ⭐ 33463 
+- [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router): ⭐ 8624 
+
 ## Trending On Date 2025-07-29
 
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 53016 
