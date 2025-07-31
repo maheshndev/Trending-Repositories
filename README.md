@@ -3,6 +3,20 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-07-31
+
+- [9001/copyparty](https://github.com/9001/copyparty): ⭐ 14186 
+- [roboflow/supervision](https://github.com/roboflow/supervision): ⭐ 32036 
+- [outline/outline](https://github.com/outline/outline): ⭐ 33704 
+- [linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer): ⭐ 11432 
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr): ⭐ 57912 
+- [mikf/gallery-dl](https://github.com/mikf/gallery-dl): ⭐ 14637 
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome): ⭐ 387229 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): ⭐ 4129 
+- [cloudwego/eino](https://github.com/cloudwego/eino): ⭐ 5933 
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard): ⭐ 24369 
+- [LMCache/LMCache](https://github.com/LMCache/LMCache): ⭐ 3638 
+
 ## Trending On Date 2025-07-30
 
 - [9001/copyparty](https://github.com/9001/copyparty): ⭐ 10704 
