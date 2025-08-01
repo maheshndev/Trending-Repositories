@@ -21,7 +21,3 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): ⭐ 94501 
 - [cloudwego/eino](https://github.com/cloudwego/eino): ⭐ 6121 
 
-## Monthly Archives
-
-- [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
-- [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
