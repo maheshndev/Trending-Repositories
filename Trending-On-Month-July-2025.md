@@ -529,6 +529,3 @@
 - [visgl/deck.gl](https://github.com/visgl/deck.gl): ⭐ 13161 
 - [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents): ⭐ 3190 
 
-## Monthly Archives
-
-- [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
