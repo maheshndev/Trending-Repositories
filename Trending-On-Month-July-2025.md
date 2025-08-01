@@ -1,3 +1,8 @@
+## Monthly Archives
+
+- [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
+- [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
+- 
 ## Trending On Date 2025-07-31
 
 - [9001/copyparty](https://github.com/9001/copyparty): ⭐ 14186 
