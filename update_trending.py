@@ -130,11 +130,11 @@ def main():
             with open(readme_path, "w", encoding="utf-8") as f:
                 f.write(content.strip())
 
-    # # Collect archive links
-    # archive_links = [
-    #     fname for fname in os.listdir(".")
-    #     if re.match(r"Trending-On-Month-.*-\d{4}\.md", fname)
-    # ]
+    # Collect archive links
+    archive_links = [
+        fname for fname in os.listdir(".")
+        if re.match(r"Trending-On-Month-.*-\d{4}\.md", fname)
+    ]
 
     # Append today’s data to the body
     readme_body = today_md
