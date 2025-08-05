@@ -4,6 +4,18 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-05
+
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 7060 
+- [souzatharsis/podcastfy](https://github.com/souzatharsis/podcastfy): ⭐ 4584 
+- [actualbudget/actual](https://github.com/actualbudget/actual): ⭐ 20839 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia): ⭐ 5195 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): ⭐ 61980 
+- [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights): ⭐ 17265 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex): ⭐ 24588 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): ⭐ 42090 
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy): ⭐ 21523 
+
 ## Trending On Date 2025-08-04
 
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 5812 
