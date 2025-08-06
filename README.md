@@ -4,6 +4,22 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-06
+
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 9164 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex): ⭐ 25036 
+- [ethereum/solidity](https://github.com/ethereum/solidity): ⭐ 24772 
+- [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners): ⭐ 7091 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 6579 
+- [actualbudget/actual](https://github.com/actualbudget/actual): ⭐ 21129 
+- [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture): ⭐ 13766 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): ⭐ 359843 
+- [hashcat/hashcat](https://github.com/hashcat/hashcat): ⭐ 23637 
+- [TideDra/zotero-arxiv-daily](https://github.com/TideDra/zotero-arxiv-daily): ⭐ 2966 
+- [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher): ⭐ 33803 
+- [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy): ⭐ 21814 
+- [thewh1teagle/vibe](https://github.com/thewh1teagle/vibe): ⭐ 3403 
+
 ## Trending On Date 2025-08-05
 
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 7060 
