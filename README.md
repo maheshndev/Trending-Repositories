@@ -4,6 +4,25 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-07
+
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 11687 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 10778 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 6817 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand): ⭐ 15322 
+- [python-poetry/poetry](https://github.com/python-poetry/poetry): ⭐ 33619 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate): ⭐ 24724 
+- [ethereum/solidity](https://github.com/ethereum/solidity): ⭐ 24856 
+- [openssl/openssl](https://github.com/openssl/openssl): ⭐ 28227 
+- [themactep/thingino-firmware](https://github.com/themactep/thingino-firmware): ⭐ 967 
+- [dstotijn/hetty](https://github.com/dstotijn/hetty): ⭐ 7795 
+- [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights): ⭐ 17394 
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community): ⭐ 18529 
+- [open-edge-platform/anomalib](https://github.com/open-edge-platform/anomalib): ⭐ 4698 
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval): ⭐ 9923 
+- [prisma/prisma](https://github.com/prisma/prisma): ⭐ 43190 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook): ⭐ 66052 
+
 ## Trending On Date 2025-08-06
 
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 9164 
