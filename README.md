@@ -4,6 +4,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-08
+
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 12697 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand): ⭐ 15681 
+- [lvgl/lvgl](https://github.com/lvgl/lvgl): ⭐ 20616 
+- [vllm-project/vllm](https://github.com/vllm-project/vllm): ⭐ 54432 
+- [ollama/ollama](https://github.com/ollama/ollama): ⭐ 149384 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird): ⭐ 17758 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit): ⭐ 62954 
+- [ethereum/solidity](https://github.com/ethereum/solidity): ⭐ 24916 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 7038 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook): ⭐ 66333 
+- [prisma/prisma](https://github.com/prisma/prisma): ⭐ 43366 
+- [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live): ⭐ 11858 
+- [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm): ⭐ 22640 
+- [dotnet/efcore](https://github.com/dotnet/efcore): ⭐ 14279 
+
 ## Trending On Date 2025-08-07
 
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 11687 
