@@ -4,6 +4,22 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-09
+
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 13112 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook): ⭐ 66624 
+- [openai/codex](https://github.com/openai/codex): ⭐ 32872 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird): ⭐ 17919 
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons): ⭐ 7742 
+- [polarsource/polar](https://github.com/polarsource/polar): ⭐ 6158 
+- [python-poetry/poetry](https://github.com/python-poetry/poetry): ⭐ 33763 
+- [google/adk-python](https://github.com/google/adk-python): ⭐ 11847 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand): ⭐ 15910 
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): ⭐ 20700 
+- [backstage/backstage](https://github.com/backstage/backstage): ⭐ 31025 
+- [google/adk-samples](https://github.com/google/adk-samples): ⭐ 4274 
+- [openai/openai-python](https://github.com/openai/openai-python): ⭐ 27879 
+
 ## Trending On Date 2025-08-08
 
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 12697 
