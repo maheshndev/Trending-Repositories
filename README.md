@@ -4,6 +4,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-10
+
+- [openai/codex](https://github.com/openai/codex): ⭐ 33420 
+- [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live): ⭐ 12008 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 13352 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): ⭐ 74082 
+- [polarsource/polar](https://github.com/polarsource/polar): ⭐ 6417 
+- [exo-explore/exo](https://github.com/exo-explore/exo): ⭐ 29571 
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): ⭐ 4158 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 2933 
+- [libsdl-org/SDL](https://github.com/libsdl-org/SDL): ⭐ 13048 
+- [sinaptik-ai/pandas-ai](https://github.com/sinaptik-ai/pandas-ai): ⭐ 21614 
+- [openai/openai-python](https://github.com/openai/openai-python): ⭐ 28167 
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp): ⭐ 7115 
+- [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm): ⭐ 22887 
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom): ⭐ 4968 
+
 ## Trending On Date 2025-08-09
 
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 13112 
