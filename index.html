@@ -1,346 +1,421 @@
-
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>GitHub Trending</title>
-        <script src="https://cdn.tailwindcss.com"></script>
-        <script>
-        function openTab(evt, tabName) {
-            var i, tabcontent, tablinks;
-            tabcontent = document.getElementsByClassName("tabcontent");
-            for (i = 0; i < tabcontent.length; i++) {
-                tabcontent[i].style.display = "none";
-            }
-            tablinks = document.getElementsByClassName("tablink");
-            for (i = 0; i < tablinks.length; i++) {
-                tablinks[i].classList.remove("bg-blue-500","text-white");
-            }
-            document.getElementById(tabName).style.display = "grid";
-            evt.currentTarget.classList.add("bg-blue-500","text-white");
-        }
-        </script>
-    </head>
-    <body class="bg-gray-100">
-        <div class="max-w-6xl mx-auto py-8">
-            <h1 class="text-3xl font-bold mb-8">GitHub Trending (2025-08-11)</h1>
-            <div class="flex gap-4 mb-4">
-                <button class="tablink px-4 py-2 rounded bg-blue-500 text-white" onclick="openTab(event, 'Repositories')">Repositories</button>
-                <button class="tablink px-4 py-2 rounded bg-gray-200" onclick="openTab(event, 'Developers')">Developers</button>
-            </div>
-            <div id="Repositories" class="tabcontent grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Daily GitHub trending repositories and developers on 2025-08-11">
+    <meta name="keywords" content="GitHub, trending, repositories, developers, open-source, August 2025">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Trending - 2025-08-11</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+<div class="max-w-6xl mx-auto py-8">
+    <h1 class="text-3xl font-bold mb-8">GitHub Trending (2025-08-11)</h1>
+    <div class="tabs">
+        <button onclick="showTab('repos')" class="tab-btn">Repositories</button>
+        <button onclick="showTab('devs')" class="tab-btn">Developers</button>
+    </div>
+    <div id="repos" class="tab-content">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+    
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/umami-software/umami" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 umami-software/umami
             </a>
-            <p class="text-gray-500 mt-1">Umami is a modern, privacy-focused alternative to Google Analytics.</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: umami-software</p>
-            <p class="text-sm text-gray-600">Language: TypeScript | ⭐ 28930</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">Umami is a modern, privacy-focused alternative to Google Analytics.</p>
+            <p class="text-gray-500 mt-1">⭐ 28949 | Lang: TypeScript | Owner: umami-software</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/libsdl-org/SDL" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 libsdl-org/SDL
             </a>
-            <p class="text-gray-500 mt-1">Simple Directmedia Layer</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: libsdl-org</p>
-            <p class="text-sm text-gray-600">Language: C | ⭐ 13178</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">Simple Directmedia Layer</p>
+            <p class="text-gray-500 mt-1">⭐ 13178 | Lang: C | Owner: libsdl-org</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/menloresearch/jan" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 menloresearch/jan
             </a>
-            <p class="text-gray-500 mt-1">Jan is an open source alternative to ChatGPT that runs 100% offline on your computer</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: menloresearch</p>
-            <p class="text-sm text-gray-600">Language: TypeScript | ⭐ 36022</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">Jan is an open source alternative to ChatGPT that runs 100% offline on your computer</p>
+            <p class="text-gray-500 mt-1">⭐ 36026 | Lang: TypeScript | Owner: menloresearch</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/nomic-ai/gpt4all" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 nomic-ai/gpt4all
             </a>
-            <p class="text-gray-500 mt-1">GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: nomic-ai</p>
-            <p class="text-sm text-gray-600">Language: C++ | ⭐ 74376</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.</p>
+            <p class="text-gray-500 mt-1">⭐ 74378 | Lang: C++ | Owner: nomic-ai</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/openai/codex" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 openai/codex
             </a>
-            <p class="text-gray-500 mt-1">Lightweight coding agent that runs in your terminal</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: openai</p>
-            <p class="text-sm text-gray-600">Language: Rust | ⭐ 34098</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">Lightweight coding agent that runs in your terminal</p>
+            <p class="text-gray-500 mt-1">⭐ 34100 | Lang: Rust | Owner: openai</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/RSSNext/Folo" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 RSSNext/Folo
             </a>
-            <p class="text-gray-500 mt-1">🧡 Follow everything in one place</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: RSSNext</p>
-            <p class="text-sm text-gray-600">Language: TypeScript | ⭐ 31069</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">🧡 Follow everything in one place</p>
+            <p class="text-gray-500 mt-1">⭐ 31071 | Lang: TypeScript | Owner: RSSNext</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/polarsource/polar" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 polarsource/polar
             </a>
-            <p class="text-gray-500 mt-1">An open source engine for your digital products. Sell SaaS and digital products in minutes.</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: polarsource</p>
-            <p class="text-sm text-gray-600">Language: Python | ⭐ 6755</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">An open source engine for your digital products. Sell SaaS and digital products in minutes.</p>
+            <p class="text-gray-500 mt-1">⭐ 6756 | Lang: Python | Owner: polarsource</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/fastapi/full-stack-fastapi-template" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 fastapi/full-stack-fastapi-template
             </a>
-            <p class="text-gray-500 mt-1">Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: fastapi</p>
-            <p class="text-sm text-gray-600">Language: TypeScript | ⭐ 35684</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.</p>
+            <p class="text-gray-500 mt-1">⭐ 35687 | Lang: TypeScript | Owner: fastapi</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/topjohnwu/Magisk" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 topjohnwu/Magisk
             </a>
-            <p class="text-gray-500 mt-1">The Magic Mask for Android</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: topjohnwu</p>
-            <p class="text-sm text-gray-600">Language: Kotlin | ⭐ 55163</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">The Magic Mask for Android</p>
+            <p class="text-gray-500 mt-1">⭐ 55167 | Lang: Kotlin | Owner: topjohnwu</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/idosal/git-mcp" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 idosal/git-mcp
             </a>
-            <p class="text-gray-500 mt-1">Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: idosal</p>
-            <p class="text-sm text-gray-600">Language: TypeScript | ⭐ 4517</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project</p>
+            <p class="text-gray-500 mt-1">⭐ 4517 | Lang: TypeScript | Owner: idosal</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/binhnguyennus/awesome-scalability" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 binhnguyennus/awesome-scalability
             </a>
-            <p class="text-gray-500 mt-1">The Patterns of Scalable, Reliable, and Performant Large-Scale Systems</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: binhnguyennus</p>
-            <p class="text-sm text-gray-600">Language: Unknown | ⭐ 64251</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">The Patterns of Scalable, Reliable, and Performant Large-Scale Systems</p>
+            <p class="text-gray-500 mt-1">⭐ 64255 | Lang: N/A | Owner: binhnguyennus</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/openai/openai-node" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 openai/openai-node
             </a>
-            <p class="text-gray-500 mt-1">Official JavaScript / TypeScript library for the OpenAI API</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: openai</p>
-            <p class="text-sm text-gray-600">Language: TypeScript | ⭐ 9908</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">Official JavaScript / TypeScript library for the OpenAI API</p>
+            <p class="text-gray-500 mt-1">⭐ 9912 | Lang: TypeScript | Owner: openai</p>
+            <div class="mt-2"></div>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="https://github.com/xiaoyaocz/dart_simple_live" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 xiaoyaocz/dart_simple_live
             </a>
-            <p class="text-gray-500 mt-1">简简单单的看直播</p>
-            <p class="text-sm text-gray-600 mt-1">Owner: xiaoyaocz</p>
-            <p class="text-sm text-gray-600">Language: Dart | ⭐ 12204</p>
-            <div class="mt-2 flex flex-wrap gap-1"></div>
+            <p class="text-gray-700 mt-2">简简单单的看直播</p>
+            <p class="text-gray-500 mt-1">⭐ 12204 | Lang: Dart | Owner: xiaoyaocz</p>
+            <div class="mt-2"></div>
         </div>
-        
-            </div>
-            <div id="Developers" class="tabcontent grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" style="display:none;">
-                
+        </div></div><div id='devs' class='tab-content hidden'><div class='grid grid-cols-1 md:grid-cols-2 gap-4'>
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/lgallard" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Luis M. Gallardo D. <span class="text-gray-500">(lgallard)</span>
+            <a href="https://github.com#pa-lgallard" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Luis M. Gallardo D. (@lgallard)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/lgallard/qBittorrent-Controller" target="_blank" class="text-blue-500 hover:underline">qBittorrent-Controller</a></p>
-        </div>
-        
-        <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/Jarred-Sumner" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Jarred Sumner <span class="text-gray-500">(Jarred-Sumner)</span>
-            </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/Jarred-Sumner/node" target="_blank" class="text-blue-500 hover:underline">node</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/bolinfest" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Michael Bolin <span class="text-gray-500">(bolinfest)</span>
+            <a href="https://github.com#pa-Jarred-Sumner" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Jarred Sumner (@Jarred-Sumner)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/bolinfest/monaco-tm" target="_blank" class="text-blue-500 hover:underline">monaco-tm</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/EricLBuehler" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Eric Buehler <span class="text-gray-500">(EricLBuehler)</span>
+            <a href="https://github.com#pa-bolinfest" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Michael Bolin (@bolinfest)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/EricLBuehler/mistral.rs" target="_blank" class="text-blue-500 hover:underline">mistral.rs</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/emilk" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Emil Ernerfeldt <span class="text-gray-500">(emilk)</span>
+            <a href="https://github.com#pa-EricLBuehler" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Eric Buehler (@EricLBuehler)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/emilk/egui" target="_blank" class="text-blue-500 hover:underline">egui</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/idosal" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Ido Salomon <span class="text-gray-500">(idosal)</span>
+            <a href="https://github.com#pa-emilk" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Emil Ernerfeldt (@emilk)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/idosal/git-mcp" target="_blank" class="text-blue-500 hover:underline">git-mcp</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/christian-byrne" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Christian Byrne <span class="text-gray-500">(christian-byrne)</span>
+            <a href="https://github.com#pa-idosal" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Ido Salomon (@idosal)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/christian-byrne/audio-separation-nodes-comfyui" target="_blank" class="text-blue-500 hover:underline">audio-separation-nodes-comfyui</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/topjohnwu" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                John Wu <span class="text-gray-500">(topjohnwu)</span>
+            <a href="https://github.com#pa-christian-byrne" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Christian Byrne (@christian-byrne)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/topjohnwu/Magisk" target="_blank" class="text-blue-500 hover:underline">Magisk</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/cberner" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Christopher Berner <span class="text-gray-500">(cberner)</span>
+            <a href="https://github.com#pa-topjohnwu" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                John Wu (@topjohnwu)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/cberner/redb" target="_blank" class="text-blue-500 hover:underline">redb</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/jlowin" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Jeremiah Lowin <span class="text-gray-500">(jlowin)</span>
+            <a href="https://github.com#pa-cberner" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Christopher Berner (@cberner)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/jlowin/fastmcp" target="_blank" class="text-blue-500 hover:underline">fastmcp</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/mattt" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Mattt <span class="text-gray-500">(mattt)</span>
+            <a href="https://github.com#pa-jlowin" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Jeremiah Lowin (@jlowin)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/mattt/IntervalTree" target="_blank" class="text-blue-500 hover:underline">IntervalTree</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/masagrator" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                MasaGratoR <span class="text-gray-500">(masagrator)</span>
+            <a href="https://github.com#pa-mattt" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Mattt (@mattt)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/masagrator/FPSLocker-Warehouse" target="_blank" class="text-blue-500 hover:underline">FPSLocker-Warehouse</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/dsherret" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                David Sherret <span class="text-gray-500">(dsherret)</span>
+            <a href="https://github.com#pa-masagrator" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                MasaGratoR (@masagrator)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/dsherret/ts-morph" target="_blank" class="text-blue-500 hover:underline">ts-morph</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/0x676e67" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                0x676e67 <span class="text-gray-500">()</span>
+            <a href="https://github.com#pa-dsherret" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                David Sherret (@dsherret)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/0x676e67/rnet" target="_blank" class="text-blue-500 hover:underline">rnet</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/martinothamar" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Martin Othamar <span class="text-gray-500">(martinothamar)</span>
+            <a href="https://github.com#pa-0x676e67" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                0x676e67 (@)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/martinothamar/Mediator" target="_blank" class="text-blue-500 hover:underline">Mediator</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/chubin" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Igor Chubin <span class="text-gray-500">(chubin)</span>
+            <a href="https://github.com#pa-martinothamar" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Martin Othamar (@martinothamar)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/chubin/cheat.sh" target="_blank" class="text-blue-500 hover:underline">cheat.sh</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/mylinuxforwork" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Stephan Raabe <span class="text-gray-500">(mylinuxforwork)</span>
+            <a href="https://github.com#pa-chubin" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Igor Chubin (@chubin)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/mylinuxforwork/dotfiles" target="_blank" class="text-blue-500 hover:underline">dotfiles</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/jan-janssen" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Jan Janssen <span class="text-gray-500">(jan-janssen)</span>
+            <a href="https://github.com#pa-mylinuxforwork" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Stephan Raabe (@mylinuxforwork)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/jan-janssen/LangSim" target="_blank" class="text-blue-500 hover:underline">LangSim</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/comfyanonymous" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                comfyanonymous <span class="text-gray-500">()</span>
+            <a href="https://github.com#pa-jan-janssen" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Jan Janssen (@jan-janssen)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/comfyanonymous/ComfyUI" target="_blank" class="text-blue-500 hover:underline">ComfyUI</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/dqbd" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                David Duong <span class="text-gray-500">(dqbd)</span>
+            <a href="https://github.com#pa-comfyanonymous" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                comfyanonymous (@)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/dqbd/tiktokenizer" target="_blank" class="text-blue-500 hover:underline">tiktokenizer</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/bracesproul" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Brace Sproul <span class="text-gray-500">(bracesproul)</span>
+            <a href="https://github.com#pa-dqbd" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                David Duong (@dqbd)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/bracesproul/typescript-template" target="_blank" class="text-blue-500 hover:underline">typescript-template</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/azure-sdk" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Azure SDK Bot <span class="text-gray-500">(azure-sdk)</span>
+            <a href="https://github.com#pa-bracesproul" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Brace Sproul (@bracesproul)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/azure-sdk/azure-docs-sdk-java" target="_blank" class="text-blue-500 hover:underline">azure-docs-sdk-java</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/koterpillar" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Alexey Kotlyarov <span class="text-gray-500">(koterpillar)</span>
+            <a href="https://github.com#pa-azure-sdk" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Azure SDK Bot (@azure-sdk)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="" target="_blank" class="text-blue-500 hover:underline"></a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/donnemartin" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Donne Martin <span class="text-gray-500">(donnemartin)</span>
+            <a href="https://github.com#pa-koterpillar" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Alexey Kotlyarov (@koterpillar)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/donnemartin/system-design-primer" target="_blank" class="text-blue-500 hover:underline">system-design-primer</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
-            <a href="https://github.com/mikavilpas" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
-                Mika Vilpas <span class="text-gray-500">(mikavilpas)</span>
+            <a href="https://github.com#pa-donnemartin" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Donne Martin (@donnemartin)
             </a>
-            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="https://github.com/mikavilpas/yazi.nvim" target="_blank" class="text-blue-500 hover:underline">yazi.nvim</a></p>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
         
-            </div>
+        <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
+            <a href="https://github.com#pa-mikavilpas" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                Mika Vilpas (@mikavilpas)
+            </a>
+            <p class="text-gray-500 mt-1">
+                <a href="" target="_blank" class="text-blue-500 hover:underline">
+                    
+                </a>
+            </p>
         </div>
-    </body>
-    </html>
-    
+        </div></div>
+</div>
+<script>
+function showTab(tab) {
+    document.querySelectorAll('.tab-content').forEach(el => el.classList.add('hidden'));
+    document.getElementById(tab).classList.remove('hidden');
+}
+</script>
+</body>
+</html>
