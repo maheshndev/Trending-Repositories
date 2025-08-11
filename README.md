@@ -6,7 +6,7 @@
 
 ## Trending On Date 2025-08-11
 
-- [umami-software/umami](https://github.com/umami-software/umami): ⭐ 28966 
+- [umami-software/umami](https://github.com/umami-software/umami):  ⭐ 28966 
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL): ⭐ 13179 
 - [menloresearch/jan](https://github.com/menloresearch/jan): ⭐ 36037 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): ⭐ 74382 
