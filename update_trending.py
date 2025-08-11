@@ -18,36 +18,93 @@ old_dir = "old"
 
 os.makedirs(old_dir, exist_ok=True)
 
-
+# --------------------------
+# FETCH REPOS
+# --------------------------
 def fetch_trending_repos():
     url = "https://github.com/trending?since=daily"
     response = requests.get(url)
     if response.status_code != 200:
-        raise Exception(f"Failed to fetch trending page: {response.status_code}")
+        raise Exception(f"Failed to fetch trending repos: {response.status_code}")
 
     soup = BeautifulSoup(response.text, "html.parser")
     repo_list = []
 
     for repo in soup.find_all("article", class_="Box-row"):
+        # Repo name & URL
         repo_name_tag = repo.h2.a
         repo_name = repo_name_tag.get_text(strip=True).replace("\n", "").replace(" ", "")
         repo_url = "https://github.com" + repo_name_tag["href"]
+        owner = repo_name.split("/")[0] if "/" in repo_name else ""
+        
+        # Stars
         star_tag = repo.find("a", href=re.compile(r"/stargazers"))
         stars = star_tag.get_text(strip=True).replace(",", "") if star_tag else "0"
         try:
             stars = int(stars)
         except ValueError:
             stars = 0
-
+        
+        # Language
+        lang_tag = repo.find("span", itemprop="programmingLanguage")
+        language = lang_tag.get_text(strip=True) if lang_tag else "Unknown"
+        
+        # Description
+        desc_tag = repo.find("p", class_="col-9")
+        description = desc_tag.get_text(strip=True) if desc_tag else "No description provided."
+        
+        # Topics
+        topics = [t.get_text(strip=True) for t in repo.select(".topic-tag")]
+        
         repo_list.append({
             "full_name": repo_name,
+            "owner": owner,
             "html_url": repo_url,
-            "stargazers_count": stars
+            "stargazers_count": stars,
+            "language": language,
+            "description": description,
+            "topics": topics
         })
 
     return repo_list
 
+# --------------------------
+# FETCH DEVELOPERS
+# --------------------------
+def fetch_trending_developers():
+    url = "https://github.com/trending/developers?since=daily"
+    response = requests.get(url)
+    if response.status_code != 200:
+        raise Exception(f"Failed to fetch trending developers: {response.status_code}")
 
+    soup = BeautifulSoup(response.text, "html.parser")
+    dev_list = []
+
+    for dev in soup.find_all("article", class_="Box-row"):
+        name_tag = dev.find("h1", class_="h3")
+        username_tag = dev.find("p", class_="f4")
+        profile_link = "https://github.com" + name_tag.a["href"] if name_tag and name_tag.a else ""
+        fullname = name_tag.get_text(strip=True) if name_tag else ""
+        username = username_tag.get_text(strip=True) if username_tag else ""
+        
+        # Repo info (highlighted repo)
+        repo_name_tag = dev.find("h1", class_="h4")
+        repo_name = repo_name_tag.get_text(strip=True) if repo_name_tag else ""
+        repo_url = "https://github.com" + repo_name_tag.a["href"] if repo_name_tag and repo_name_tag.a else ""
+        
+        dev_list.append({
+            "full_name": fullname,
+            "username": username,
+            "profile_url": profile_link,
+            "repo_name": repo_name,
+            "repo_url": repo_url
+        })
+
+    return dev_list
+
+# --------------------------
+# FORMAT MARKDOWN
+# --------------------------
 def format_repos_md(repos):
     md = f"{today_heading}\n\n"
     for repo in repos:
@@ -55,144 +112,103 @@ def format_repos_md(repos):
     md += "\n"
     return md
 
-
-def format_repos_html(repos, date_str):
-    html = f"""
-    <div class="bg-gray-50 p-4 rounded-lg shadow mb-6">
-        <h2 class="text-xl font-bold text-gray-800 mb-4">Trending on {date_str}</h2>
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-    """
+# --------------------------
+# FORMAT HTML WITH TABS
+# --------------------------
+def format_html_with_tabs(repos, devs, date_str):
+    repos_html = ""
     for repo in repos:
-        html += f"""
+        topic_html = " ".join([f"<span class='bg-gray-200 text-gray-700 px-2 py-1 rounded text-xs'>{t}</span>" for t in repo['topics']])
+        repos_html += f"""
         <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
             <a href="{repo['html_url']}" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
                 {repo['full_name']}
             </a>
-            <p class="text-gray-500 mt-1">⭐ {repo['stargazers_count']} stars</p>
+            <p class="text-gray-500 mt-1">{repo['description']}</p>
+            <p class="text-sm text-gray-600 mt-1">Owner: {repo['owner']}</p>
+            <p class="text-sm text-gray-600">Language: {repo['language']} | ⭐ {repo['stargazers_count']}</p>
+            <div class="mt-2 flex flex-wrap gap-1">{topic_html}</div>
         </div>
         """
-    html += "</div></div>\n"
+
+    devs_html = ""
+    for dev in devs:
+        devs_html += f"""
+        <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
+            <a href="{dev['profile_url']}" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                {dev['full_name']} <span class="text-gray-500">({dev['username']})</span>
+            </a>
+            <p class="text-gray-600 mt-1">Highlighted Repo: <a href="{dev['repo_url']}" target="_blank" class="text-blue-500 hover:underline">{dev['repo_name']}</a></p>
+        </div>
+        """
+
+    html = f"""
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>GitHub Trending</title>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script>
+        function openTab(evt, tabName) {{
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {{
+                tabcontent[i].style.display = "none";
+            }}
+            tablinks = document.getElementsByClassName("tablink");
+            for (i = 0; i < tablinks.length; i++) {{
+                tablinks[i].classList.remove("bg-blue-500","text-white");
+            }}
+            document.getElementById(tabName).style.display = "grid";
+            evt.currentTarget.classList.add("bg-blue-500","text-white");
+        }}
+        </script>
+    </head>
+    <body class="bg-gray-100">
+        <div class="max-w-6xl mx-auto py-8">
+            <h1 class="text-3xl font-bold mb-8">GitHub Trending ({date_str})</h1>
+            <div class="flex gap-4 mb-4">
+                <button class="tablink px-4 py-2 rounded bg-blue-500 text-white" onclick="openTab(event, 'Repositories')">Repositories</button>
+                <button class="tablink px-4 py-2 rounded bg-gray-200" onclick="openTab(event, 'Developers')">Developers</button>
+            </div>
+            <div id="Repositories" class="tabcontent grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                {repos_html}
+            </div>
+            <div id="Developers" class="tabcontent grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4" style="display:none;">
+                {devs_html}
+            </div>
+        </div>
+    </body>
+    </html>
+    """
     return html
 
-
-def extract_month_section(text, month, year):
-    pattern = r"## Trending On Date (\d{4}-\d{2}-\d{2})"
-    matches = list(re.finditer(pattern, text))
-    to_move = []
-    for i in range(len(matches)):
-        date_str = matches[i].group(1)
-        date_obj = datetime.strptime(date_str, "%Y-%m-%d").date()
-        if date_obj.month == month and date_obj.year == year:
-            start = matches[i].start()
-            end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-            to_move.append(text[start:end])
-    return to_move
-
-
-def update_readme(new_content, all_archive_links=[]):
-    try:
-        with open(readme_path, "r", encoding="utf-8") as f:
-            existing_content = f.read()
-    except FileNotFoundError:
-        existing_content = ""
-
-    archive_links_md = ""
-    existing_trending_md = ""
-
-    archive_match = re.search(r"(## Monthly Archives.*?)(?=## Trending On Date |\Z)", existing_content, flags=re.DOTALL)
-    if archive_match:
-        archive_links_md = archive_match.group(1).strip() + "\n\n"
-        existing_trending_md = existing_content.replace(archive_links_md, "").strip()
-    else:
-        existing_trending_md = existing_content.strip()
-
-    if all_archive_links:
-        archive_links_md = "## Monthly Archives\n\n"
-        for link in sorted(all_archive_links):
-            archive_links_md += f"- [{link}](./{link})\n"
-        archive_links_md += "\n"
-
-    final_readme = archive_links_md + new_content + existing_trending_md
-
-    with open(readme_path, "w", encoding="utf-8") as f:
-        f.write(final_readme)
-
-
-def update_html(new_html):
-    html_template_start = """<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Trending</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gray-100">
-<div class="max-w-6xl mx-auto py-8">
-    <h1 class="text-3xl font-bold mb-8">GitHub Trending Repositories</h1>
-"""
-    html_template_end = """
-</div>
-</body>
-</html>
-"""
-
-    if os.path.exists(index_html_filename):
-        with open(index_html_filename, "r", encoding="utf-8") as f:
-            existing_html = f.read()
-        body_match = re.search(r"<div class=\"max-w-6xl.*?>(.*)</div>\s*</body>", existing_html, re.DOTALL)
-        if body_match:
-            body_content = body_match.group(1).strip()
-        else:
-            body_content = ""
-        updated_body = new_html + body_content
-    else:
-        updated_body = new_html
-
-    final_html = html_template_start + updated_body + html_template_end
-    with open(index_html_filename, "w", encoding="utf-8") as f:
-        f.write(final_html)
-
-
+# --------------------------
+# ARCHIVE SYSTEM
+# --------------------------
 def archive_month():
     last_month = (today.replace(day=1) - timedelta(days=1))
-    last_month_name = last_month.strftime("%B")
-    last_month_year = last_month.year
     last_month_last_day = last_month.strftime("%d-%m-%Y")
-
-    # Move HTML
     if os.path.exists(index_html_filename):
         archive_html_name = f"Trending-On-Month-{last_month_last_day}.html"
         os.rename(index_html_filename, os.path.join(old_dir, archive_html_name))
 
-
+# --------------------------
+# MAIN
+# --------------------------
 def main():
     trending_repos = fetch_trending_repos()
+    trending_devs = fetch_trending_developers()
     today_md = format_repos_md(trending_repos)
-    today_html = format_repos_html(trending_repos, today_str)
+    today_html = format_html_with_tabs(trending_repos, trending_devs, today_str)
 
     if today.day == 1:
         archive_month()
-        last_month = (today.replace(day=1) - timedelta(days=1))
-        last_month_sections = extract_month_section(
-            open(readme_path, "r", encoding="utf-8").read(),
-            last_month.month,
-            last_month.year
-        )
-        archive_content = "".join(last_month_sections)
 
-        if archive_content:
-            with open(f"Trending-On-Month-{last_month.strftime('%B')}-{last_month.year}.md", "w", encoding="utf-8") as f:
-                f.write(archive_content)
-
-    archive_links = [
-        fname for fname in os.listdir(".")
-        if re.match(r"Trending-On-Month-.*-\d{4}\.md", fname)
-    ]
-
-    update_readme(today_md, all_archive_links=archive_links)
-    update_html(today_html)
-
+    with open(index_html_filename, "w", encoding="utf-8") as f:
+        f.write(today_html)
 
 if __name__ == "__main__":
     main()
