@@ -12,11 +12,14 @@ current_year = today.year
 today_str = today.strftime("%Y-%m-%d")
 today_heading = f"## Trending On Date {today_str}"
 monthly_archive_filename = f"Trending-On-Month-{current_month}-{current_year}.md"
+monthly_html_filename = f"Trending-On-Month-{current_month}-{current_year}.html"
 readme_path = "README.md"
+old_dir = "old"
+
+os.makedirs(old_dir, exist_ok=True)
 
 
 def fetch_trending_repos():
-    """Scrape trending repositories from GitHub trending page (daily)"""
     url = "https://github.com/trending?since=daily"
     response = requests.get(url)
     if response.status_code != 200:
@@ -53,6 +56,25 @@ def format_repos_md(repos):
     return md
 
 
+def format_repos_html(repos, date_str):
+    html = f"""
+    <div class="bg-gray-50 p-4 rounded-lg shadow mb-6">
+        <h2 class="text-xl font-bold text-gray-800 mb-4">Trending on {date_str}</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+    """
+    for repo in repos:
+        html += f"""
+        <div class="bg-white rounded-lg shadow hover:shadow-lg transition p-4">
+            <a href="{repo['html_url']}" target="_blank" class="block text-lg font-semibold text-blue-600 hover:underline">
+                {repo['full_name']}
+            </a>
+            <p class="text-gray-500 mt-1">⭐ {repo['stargazers_count']} stars</p>
+        </div>
+        """
+    html += "</div></div>\n"
+    return html
+
+
 def extract_month_section(text, month, year):
     pattern = r"## Trending On Date (\d{4}-\d{2}-\d{2})"
     matches = list(re.finditer(pattern, text))
@@ -74,7 +96,6 @@ def update_readme(new_content, archive_link=None, all_archive_links=[]):
     except FileNotFoundError:
         existing_content = ""
 
-    # Separate existing archive links and trending content
     archive_links_md = ""
     existing_trending_md = ""
 
@@ -85,63 +106,88 @@ def update_readme(new_content, archive_link=None, all_archive_links=[]):
     else:
         existing_trending_md = existing_content.strip()
 
-    # Regenerate archive link block
     if all_archive_links:
         archive_links_md = "## Monthly Archives\n\n"
         for link in sorted(all_archive_links):
             archive_links_md += f"- [{link}](./{link})\n"
         archive_links_md += "\n"
 
-    # Append new data at the top of existing trending content
     final_readme = archive_links_md + new_content + existing_trending_md
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(final_readme)
 
 
+def update_html(new_html):
+    html_template_start = """<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Trending</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+<div class="max-w-6xl mx-auto py-8">
+    <h1 class="text-3xl font-bold mb-8">GitHub Trending Repositories</h1>
+"""
+    html_template_end = """
+</div>
+</body>
+</html>
+"""
+
+    if os.path.exists(monthly_html_filename):
+        with open(monthly_html_filename, "r", encoding="utf-8") as f:
+            existing_html = f.read()
+        body_match = re.search(r"<div class=\"max-w-6xl.*?>(.*)</div>\s*</body>", existing_html, re.DOTALL)
+        if body_match:
+            body_content = body_match.group(1).strip()
+        else:
+            body_content = ""
+        updated_body = new_html + body_content
+    else:
+        updated_body = new_html
+
+    final_html = html_template_start + updated_body + html_template_end
+    with open(monthly_html_filename, "w", encoding="utf-8") as f:
+        f.write(final_html)
+
+
+def archive_month():
+    last_month = (today.replace(day=1) - timedelta(days=1))
+    last_month_name = last_month.strftime("%B")
+    last_month_year = last_month.year
+
+    last_archive_md = f"Trending-On-Month-{last_month_name}-{last_month_year}.md"
+    last_archive_html = f"Trending-On-Month-{last_month_name}-{last_month_year}.html"
+
+    if os.path.exists(last_archive_html):
+        os.rename(last_archive_html, os.path.join(old_dir, last_archive_html))
+
+
 def main():
     trending_repos = fetch_trending_repos()
     today_md = format_repos_md(trending_repos)
+    today_html = format_repos_html(trending_repos, today_str)
 
     if today.day == 1:
-        # Archive last month's content
+        archive_month()
         last_month = (today.replace(day=1) - timedelta(days=1))
-        last_month_num = last_month.month
-        last_month_year = last_month.year
-        last_month_name = last_month.strftime("%B")
-        last_archive_filename = f"Trending-On-Month-{last_month_name}-{last_month_year}.md"
-
-        with open(readme_path, "r", encoding="utf-8") as f:
-            content = f.read()
-
-        # Extract last month's sections
-        last_month_sections = extract_month_section(content, last_month_num, last_month_year)
+        last_month_sections = extract_month_section(open(readme_path, "r", encoding="utf-8").read(), last_month.month, last_month.year)
         archive_content = "".join(last_month_sections)
 
         if archive_content:
-            # Save to archive file
-            with open(last_archive_filename, "w", encoding="utf-8") as f:
+            with open(f"Trending-On-Month-{last_month.strftime('%B')}-{last_month.year}.md", "w", encoding="utf-8") as f:
                 f.write(archive_content)
 
-            # 💥 REMOVE previous month's sections from README
-            for section in last_month_sections:
-                content = content.replace(section, "")
-
-            with open(readme_path, "w", encoding="utf-8") as f:
-                f.write(content.strip())
-
-    # Collect archive links
     archive_links = [
         fname for fname in os.listdir(".")
         if re.match(r"Trending-On-Month-.*-\d{4}\.md", fname)
     ]
 
-    # Append today’s data to the body
-    readme_body = today_md
-
-    # Write README (includes archive links + current month content only)
-    update_readme(readme_body, all_archive_links=archive_links)
-
+    update_readme(today_md, all_archive_links=archive_links)
+    update_html(today_html)
 
 
 if __name__ == "__main__":
