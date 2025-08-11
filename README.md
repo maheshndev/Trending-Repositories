@@ -4,6 +4,21 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-11
+
+- [umami-software/umami](https://github.com/umami-software/umami): ⭐ 28966 
+- [libsdl-org/SDL](https://github.com/libsdl-org/SDL): ⭐ 13179 
+- [menloresearch/jan](https://github.com/menloresearch/jan): ⭐ 36037 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): ⭐ 74382 
+- [openai/codex](https://github.com/openai/codex): ⭐ 34108 
+- [RSSNext/Folo](https://github.com/RSSNext/Folo): ⭐ 31074 
+- [polarsource/polar](https://github.com/polarsource/polar): ⭐ 6758 
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): ⭐ 35695 
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): ⭐ 55169 
+- [idosal/git-mcp](https://github.com/idosal/git-mcp): ⭐ 4524 
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): ⭐ 64258 
+- [openai/openai-node](https://github.com/openai/openai-node): ⭐ 9917 
+- [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live): ⭐ 12206 
 
 ## Trending On Date 2025-08-10
 
