@@ -20,38 +20,6 @@
 - [openai/openai-node](https://github.com/openai/openai-node): ⭐ 9903 
 - [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live): ⭐ 12201 
 
-## Trending On Date 2025-08-11
-
-- [umami-software/umami](https://github.com/umami-software/umami): ⭐ 28911 
-- [libsdl-org/SDL](https://github.com/libsdl-org/SDL): ⭐ 13177 
-- [menloresearch/jan](https://github.com/menloresearch/jan): ⭐ 36018 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): ⭐ 74368 
-- [openai/codex](https://github.com/openai/codex): ⭐ 34089 
-- [RSSNext/Folo](https://github.com/RSSNext/Folo): ⭐ 31064 
-- [polarsource/polar](https://github.com/polarsource/polar): ⭐ 6750 
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): ⭐ 35680 
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): ⭐ 55163 
-- [idosal/git-mcp](https://github.com/idosal/git-mcp): ⭐ 4513 
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): ⭐ 64246 
-- [openai/openai-node](https://github.com/openai/openai-node): ⭐ 9901 
-- [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live): ⭐ 12201 
-
-## Trending On Date 2025-08-11
-
-- [umami-software/umami](https://github.com/umami-software/umami): ⭐ 28584 
-- [libsdl-org/SDL](https://github.com/libsdl-org/SDL): ⭐ 13144 
-- [menloresearch/jan](https://github.com/menloresearch/jan): ⭐ 35924 
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): ⭐ 74279 
-- [openai/codex](https://github.com/openai/codex): ⭐ 33966 
-- [RSSNext/Folo](https://github.com/RSSNext/Folo): ⭐ 30964 
-- [polarsource/polar](https://github.com/polarsource/polar): ⭐ 6681 
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): ⭐ 35555 
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk): ⭐ 55118 
-- [idosal/git-mcp](https://github.com/idosal/git-mcp): ⭐ 4412 
-- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability): ⭐ 64129 
-- [openai/openai-node](https://github.com/openai/openai-node): ⭐ 9821 
-- [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live): ⭐ 12140 
-
 ## Trending On Date 2025-08-10
 
 - [openai/codex](https://github.com/openai/codex): ⭐ 33420 
