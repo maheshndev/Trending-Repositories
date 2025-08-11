@@ -12,8 +12,8 @@ current_year = today.year
 today_str = today.strftime("%Y-%m-%d")
 today_heading = f"## Trending On Date {today_str}"
 monthly_archive_filename = f"Trending-On-Month-{current_month}-{current_year}.md"
-monthly_html_filename = f"Trending-On-Month-{current_month}-{current_year}.html"
 readme_path = "README.md"
+index_html_filename = "index.html"  # Always current month
 old_dir = "old"
 
 os.makedirs(old_dir, exist_ok=True)
@@ -89,7 +89,7 @@ def extract_month_section(text, month, year):
     return to_move
 
 
-def update_readme(new_content, archive_link=None, all_archive_links=[]):
+def update_readme(new_content, all_archive_links=[]):
     try:
         with open(readme_path, "r", encoding="utf-8") as f:
             existing_content = f.read()
@@ -137,8 +137,8 @@ def update_html(new_html):
 </html>
 """
 
-    if os.path.exists(monthly_html_filename):
-        with open(monthly_html_filename, "r", encoding="utf-8") as f:
+    if os.path.exists(index_html_filename):
+        with open(index_html_filename, "r", encoding="utf-8") as f:
             existing_html = f.read()
         body_match = re.search(r"<div class=\"max-w-6xl.*?>(.*)</div>\s*</body>", existing_html, re.DOTALL)
         if body_match:
@@ -150,7 +150,7 @@ def update_html(new_html):
         updated_body = new_html
 
     final_html = html_template_start + updated_body + html_template_end
-    with open(monthly_html_filename, "w", encoding="utf-8") as f:
+    with open(index_html_filename, "w", encoding="utf-8") as f:
         f.write(final_html)
 
 
@@ -158,12 +158,12 @@ def archive_month():
     last_month = (today.replace(day=1) - timedelta(days=1))
     last_month_name = last_month.strftime("%B")
     last_month_year = last_month.year
+    last_month_last_day = last_month.strftime("%d-%m-%Y")
 
-    last_archive_md = f"Trending-On-Month-{last_month_name}-{last_month_year}.md"
-    last_archive_html = f"Trending-On-Month-{last_month_name}-{last_month_year}.html"
-
-    if os.path.exists(last_archive_html):
-        os.rename(last_archive_html, os.path.join(old_dir, last_archive_html))
+    # Move HTML
+    if os.path.exists(index_html_filename):
+        archive_html_name = f"Trending-On-Month-{last_month_last_day}.html"
+        os.rename(index_html_filename, os.path.join(old_dir, archive_html_name))
 
 
 def main():
@@ -174,7 +174,11 @@ def main():
     if today.day == 1:
         archive_month()
         last_month = (today.replace(day=1) - timedelta(days=1))
-        last_month_sections = extract_month_section(open(readme_path, "r", encoding="utf-8").read(), last_month.month, last_month.year)
+        last_month_sections = extract_month_section(
+            open(readme_path, "r", encoding="utf-8").read(),
+            last_month.month,
+            last_month.year
+        )
         archive_content = "".join(last_month_sections)
 
         if archive_content:
