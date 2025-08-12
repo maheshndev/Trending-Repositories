@@ -20,12 +20,7 @@
 - [umami-software/umami](https://github.com/umami-software/umami): ⭐ 29286 
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL): ⭐ 13243 
 - [idosal/git-mcp](https://github.com/idosal/git-mcp): ⭐ 4732 
-
-## Monthly Archives
-
-- [Trending-On-Month-July-2025.md](./Trending-On-Month-July-2025.md)
-- [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
-- [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md) 
+ 
 
 ## Trending On Date 2025-08-11
 
