@@ -2,6 +2,29 @@
 
 - [Trending-On-Month-July-2025.md](./Trending-On-Month-July-2025.md)
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
+- [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
+
+## Trending On Date 2025-08-12
+
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): ⭐ 75324 
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp): ⭐ 7499 
+- [trailofbits/buttercup](https://github.com/trailofbits/buttercup): ⭐ 538 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): ⭐ 16592 
+- [openai/codex](https://github.com/openai/codex): ⭐ 34397 
+- [menloresearch/jan](https://github.com/menloresearch/jan): ⭐ 36194 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 94636 
+- [midday-ai/midday](https://github.com/midday-ai/midday): ⭐ 9856 
+- [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live): ⭐ 12290 
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): ⭐ 35903 
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl): ⭐ 46695 
+- [umami-software/umami](https://github.com/umami-software/umami): ⭐ 29286 
+- [libsdl-org/SDL](https://github.com/libsdl-org/SDL): ⭐ 13243 
+- [idosal/git-mcp](https://github.com/idosal/git-mcp): ⭐ 4732 
+
+## Monthly Archives
+
+- [Trending-On-Month-July-2025.md](./Trending-On-Month-July-2025.md)
+- [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md) 
 
 ## Trending On Date 2025-08-11
