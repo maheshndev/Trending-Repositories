@@ -4,6 +4,28 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-13
+
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud): ⭐ 6912 
+- [microsoft/poml](https://github.com/microsoft/poml): ⭐ 980 
+- [denizsafak/abogen](https://github.com/denizsafak/abogen): ⭐ 2329 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): ⭐ 76030 
+- [umami-software/umami](https://github.com/umami-software/umami): ⭐ 29598 
+- [unslothai/notebooks](https://github.com/unslothai/notebooks): ⭐ 3008 
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): ⭐ 36234 
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector): ⭐ 5550 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 315659 
+- [apple/embedding-atlas](https://github.com/apple/embedding-atlas): ⭐ 1447 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 75536 
+- [libsdl-org/SDL](https://github.com/libsdl-org/SDL): ⭐ 13348 
+- [trailofbits/buttercup](https://github.com/trailofbits/buttercup): ⭐ 711 
+- [xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live): ⭐ 12387 
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor): ⭐ 25081 
+- [redis/go-redis](https://github.com/redis/go-redis): ⭐ 21238 
+- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil): ⭐ 4011 
+- [actions/checkout](https://github.com/actions/checkout): ⭐ 6847 
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert): ⭐ 55428 
+
 ## Trending On Date 2025-08-12
 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): ⭐ 75324 
