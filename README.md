@@ -4,6 +4,26 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-14
+
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud): ⭐ 7996 
+- [apple/embedding-atlas](https://github.com/apple/embedding-atlas): ⭐ 1912 
+- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet): ⭐ 26368 
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp): ⭐ 8120 
+- [menloresearch/jan](https://github.com/menloresearch/jan): ⭐ 36761 
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop): ⭐ 16062 
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert): ⭐ 55742 
+- [filamentphp/filament](https://github.com/filamentphp/filament): ⭐ 25566 
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector): ⭐ 5633 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): ⭐ 76265 
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor): ⭐ 25336 
+- [microsoft/poml](https://github.com/microsoft/poml): ⭐ 1647 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 76036 
+- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib): ⭐ 3815 
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template): ⭐ 36545 
+- [unslothai/notebooks](https://github.com/unslothai/notebooks): ⭐ 3264 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning): ⭐ 239398 
+
 ## Trending On Date 2025-08-13
 
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud): ⭐ 6912 
