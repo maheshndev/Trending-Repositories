@@ -4,6 +4,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-15
+
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud): ⭐ 8949 
+- [microsoft/poml](https://github.com/microsoft/poml): ⭐ 2108 
+- [pathwaycom/pathway](https://github.com/pathwaycom/pathway): ⭐ 31254 
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets): ⭐ 5444 
+- [redis/go-redis](https://github.com/redis/go-redis): ⭐ 21313 
+- [colmap/colmap](https://github.com/colmap/colmap): ⭐ 9276 
+- [angular/components](https://github.com/angular/components): ⭐ 24834 
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop): ⭐ 16324 
+- [midday-ai/midday](https://github.com/midday-ai/midday): ⭐ 10529 
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor): ⭐ 25481 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform): ⭐ 46115 
+- [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit): ⭐ 5816 
+- [apple/embedding-atlas](https://github.com/apple/embedding-atlas): ⭐ 2371 
+- [oop7/YTSage](https://github.com/oop7/YTSage): ⭐ 1552 
+
 ## Trending On Date 2025-08-14
 
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud): ⭐ 7996 
