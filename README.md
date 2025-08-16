@@ -4,6 +4,22 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-16
+
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp): ⭐ 8708 
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud): ⭐ 9483 
+- [budtmo/docker-android](https://github.com/budtmo/docker-android): ⭐ 12065 
+- [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM): ⭐ 3714 
+- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui): ⭐ 7254 
+- [datalab-to/marker](https://github.com/datalab-to/marker): ⭐ 27745 
+- [redis/go-redis](https://github.com/redis/go-redis): ⭐ 21375 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka): ⭐ 25165 
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum): ⭐ 4963 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 71723 
+- [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet): ⭐ 26601 
+- [dotnet/maui](https://github.com/dotnet/maui): ⭐ 22892 
+- [google/wire](https://github.com/google/wire): ⭐ 14123 
+
 ## Trending On Date 2025-08-15
 
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud): ⭐ 8949 
