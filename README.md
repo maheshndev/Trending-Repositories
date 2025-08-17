@@ -4,6 +4,21 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-17
+
+- [coleam00/Archon](https://github.com/coleam00/Archon): ⭐ 6662 
+- [microsoft/poml](https://github.com/microsoft/poml): ⭐ 2833 
+- [LMCache/LMCache](https://github.com/LMCache/LMCache): ⭐ 4347 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): ⭐ 411042 
+- [farhanashrafdev/90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity): ⭐ 10906 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac): ⭐ 86997 
+- [tsoding/nob.h](https://github.com/tsoding/nob.h): ⭐ 1508 
+- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge): ⭐ 1245 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 4147 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor): ⭐ 3626 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 58322 
+- [dtyq/magic](https://github.com/dtyq/magic): ⭐ 1980 
+
 ## Trending On Date 2025-08-16
 
 - [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp): ⭐ 8708 
