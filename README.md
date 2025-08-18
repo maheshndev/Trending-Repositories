@@ -4,6 +4,22 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-18
+
+- [coleam00/Archon](https://github.com/coleam00/Archon): ⭐ 7688 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 4917 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 58823 
+- [tsoding/nob.h](https://github.com/tsoding/nob.h): ⭐ 1602 
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai): ⭐ 2677 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor): ⭐ 4054 
+- [dtyq/magic](https://github.com/dtyq/magic): ⭐ 2267 
+- [LMCache/LMCache](https://github.com/LMCache/LMCache): ⭐ 4537 
+- [colmap/colmap](https://github.com/colmap/colmap): ⭐ 9493 
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): ⭐ 49863 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): ⭐ 36457 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): ⭐ 70563 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia): ⭐ 6228 
+
 ## Trending On Date 2025-08-17
 
 - [coleam00/Archon](https://github.com/coleam00/Archon): ⭐ 6662 
