@@ -4,6 +4,21 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-19
+
+- [coleam00/Archon](https://github.com/coleam00/Archon): ⭐ 9021 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 5670 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): ⭐ 36770 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): ⭐ 64977 
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates): ⭐ 9226 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor): ⭐ 4514 
+- [immich-app/immich](https://github.com/immich-app/immich): ⭐ 73308 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 59615 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia): ⭐ 6493 
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): ⭐ 50239 
+- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot): ⭐ 1692 
+- [mfts/papermark](https://github.com/mfts/papermark): ⭐ 7212 
+
 ## Trending On Date 2025-08-18
 
 - [coleam00/Archon](https://github.com/coleam00/Archon): ⭐ 7688 
