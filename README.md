@@ -4,6 +4,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-20
+
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 6568 
+- [coleam00/Archon](https://github.com/coleam00/Archon): ⭐ 9741 
+- [LMCache/LMCache](https://github.com/LMCache/LMCache): ⭐ 4807 
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail): ⭐ 9193 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): ⭐ 65777 
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): ⭐ 50535 
+- [imsyy/SPlayer](https://github.com/imsyy/SPlayer): ⭐ 4779 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 60275 
+- [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack): ⭐ 2133 
+- [immich-app/immich](https://github.com/immich-app/immich): ⭐ 73618 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor): ⭐ 4889 
+- [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS): ⭐ 7177 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter): ⭐ 35173 
+- [awslabs/mcp](https://github.com/awslabs/mcp): ⭐ 5746 
+
 ## Trending On Date 2025-08-19
 
 - [coleam00/Archon](https://github.com/coleam00/Archon): ⭐ 9021 
