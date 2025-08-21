@@ -4,6 +4,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-21
+
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 8687 
+- [moeru-ai/airi](https://github.com/moeru-ai/airi): ⭐ 3922 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): ⭐ 91870 
+- [bitwarden/clients](https://github.com/bitwarden/clients): ⭐ 10750 
+- [Leantime/leantime](https://github.com/Leantime/leantime): ⭐ 6133 
+- [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit): ⭐ 11685 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia): ⭐ 6878 
+- [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): ⭐ 37113 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): ⭐ 66419 
+- [laude-institute/terminal-bench](https://github.com/laude-institute/terminal-bench): ⭐ 499 
+- [ComposersDesktop/CDP8](https://github.com/ComposersDesktop/CDP8): ⭐ 365 
+- [epicenter-so/epicenter](https://github.com/epicenter-so/epicenter): ⭐ 2431 
+- [PixiEditor/PixiEditor](https://github.com/PixiEditor/PixiEditor): ⭐ 5190 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet): ⭐ 20877 
+
 ## Trending On Date 2025-08-20
 
 - [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 6568 
