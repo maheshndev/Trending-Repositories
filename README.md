@@ -4,6 +4,21 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-22
+
+- [moeru-ai/airi](https://github.com/moeru-ai/airi): ⭐ 5547 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 9948 
+- [google/googletest](https://github.com/google/googletest): ⭐ 36671 
+- [bitwarden/clients](https://github.com/bitwarden/clients): ⭐ 10901 
+- [Budibase/budibase](https://github.com/Budibase/budibase): ⭐ 25646 
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl): ⭐ 50602 
+- [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack): ⭐ 2632 
+- [nextjs/saas-starter](https://github.com/nextjs/saas-starter): ⭐ 13731 
+- [plait-board/drawnix](https://github.com/plait-board/drawnix): ⭐ 4757 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter): ⭐ 35483 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): ⭐ 92012 
+- [skills/introduction-to-github](https://github.com/skills/introduction-to-github): ⭐ 9402 
+
 ## Trending On Date 2025-08-21
 
 - [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 8687 
