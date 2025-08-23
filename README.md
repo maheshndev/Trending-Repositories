@@ -4,6 +4,22 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-23
+
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 11187 
+- [moeru-ai/airi](https://github.com/moeru-ai/airi): ⭐ 6854 
+- [google/googletest](https://github.com/google/googletest): ⭐ 36784 
+- [dataease/SQLBot](https://github.com/dataease/SQLBot): ⭐ 867 
+- [dream-num/univer](https://github.com/dream-num/univer): ⭐ 10124 
+- [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack): ⭐ 3101 
+- [puckeditor/puck](https://github.com/puckeditor/puck): ⭐ 7918 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy): ⭐ 23647 
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer): ⭐ 92114 
+- [SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound): ⭐ 2138 
+- [nextjs/saas-starter](https://github.com/nextjs/saas-starter): ⭐ 13942 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet): ⭐ 21049 
+- [Leantime/leantime](https://github.com/Leantime/leantime): ⭐ 6590 
+
 ## Trending On Date 2025-08-22
 
 - [moeru-ai/airi](https://github.com/moeru-ai/airi): ⭐ 5547 
