@@ -4,6 +4,29 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-24
+
+- [moeru-ai/airi](https://github.com/moeru-ai/airi): ⭐ 8020 
+- [plait-board/drawnix](https://github.com/plait-board/drawnix): ⭐ 5747 
+- [Budibase/budibase](https://github.com/Budibase/budibase): ⭐ 25956 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 11623 
+- [google/googletest](https://github.com/google/googletest): ⭐ 36852 
+- [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack): ⭐ 3464 
+- [Leantime/leantime](https://github.com/Leantime/leantime): ⭐ 6963 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): ⭐ 71632 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps): ⭐ 4846 
+- [zigtools/zls](https://github.com/zigtools/zls): ⭐ 4068 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 1793 
+- [scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app): ⭐ 788 
+- [puckeditor/puck](https://github.com/puckeditor/puck): ⭐ 8307 
+- [dream-num/univer](https://github.com/dream-num/univer): ⭐ 10364 
+- [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration): ⭐ 33564 
+- [google/highway](https://github.com/google/highway): ⭐ 4932 
+- [chartdb/chartdb](https://github.com/chartdb/chartdb): ⭐ 18198 
+- [dataease/SQLBot](https://github.com/dataease/SQLBot): ⭐ 1004 
+- [pestphp/pest](https://github.com/pestphp/pest): ⭐ 10700 
+- [NVIDIA-NeMo/RL](https://github.com/NVIDIA-NeMo/RL): ⭐ 760 
+
 ## Trending On Date 2025-08-23
 
 - [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 11187 
