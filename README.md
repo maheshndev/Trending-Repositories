@@ -4,6 +4,29 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-25
+
+- [winapps-org/winapps](https://github.com/winapps-org/winapps): ⭐ 6092 
+- [moeru-ai/airi](https://github.com/moeru-ai/airi): ⭐ 9315 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 2401 
+- [scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app): ⭐ 1028 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): ⭐ 366110 
+- [plait-board/drawnix](https://github.com/plait-board/drawnix): ⭐ 6384 
+- [midday-ai/midday](https://github.com/midday-ai/midday): ⭐ 11277 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 123737 
+- [django/django](https://github.com/django/django): ⭐ 84723 
+- [Klipper3d/klipper](https://github.com/Klipper3d/klipper): ⭐ 10699 
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java): ⭐ 62875 
+- [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack): ⭐ 4132 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 11889 
+- [puckeditor/puck](https://github.com/puckeditor/puck): ⭐ 8573 
+- [RSSNext/Folo](https://github.com/RSSNext/Folo): ⭐ 32169 
+- [dream-num/univer](https://github.com/dream-num/univer): ⭐ 10547 
+- [Leantime/leantime](https://github.com/Leantime/leantime): ⭐ 7286 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 35087 
+- [Budibase/budibase](https://github.com/Budibase/budibase): ⭐ 26244 
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): ⭐ 40376 
+
 ## Trending On Date 2025-08-24
 
 - [moeru-ai/airi](https://github.com/moeru-ai/airi): ⭐ 8020 
