@@ -4,6 +4,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-26
+
+- [plait-board/drawnix](https://github.com/plait-board/drawnix): ⭐ 7629 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 3396 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps): ⭐ 7275 
+- [moeru-ai/airi](https://github.com/moeru-ai/airi): ⭐ 10357 
+- [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack): ⭐ 4678 
+- [willccbb/verifiers](https://github.com/willccbb/verifiers): ⭐ 2256 
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader): ⭐ 21498 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⭐ 75424 
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero): ⭐ 15732 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): ⭐ 9622 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 95952 
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): ⭐ 40838 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 124072 
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis): ⭐ 11457 
+
 ## Trending On Date 2025-08-25
 
 - [winapps-org/winapps](https://github.com/winapps-org/winapps): ⭐ 6092 
