@@ -4,6 +4,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-27
+
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): ⭐ 11732 
+- [plait-board/drawnix](https://github.com/plait-board/drawnix): ⭐ 9006 
+- [willccbb/verifiers](https://github.com/willccbb/verifiers): ⭐ 2473 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 4099 
+- [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java): ⭐ 63031 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): ⭐ 6844 
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI): ⭐ 10977 
+- [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships): ⭐ 40401 
+- [tw93/Pake](https://github.com/tw93/Pake): ⭐ 41489 
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): ⭐ 41210 
+- [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge): ⭐ 1842 
+- [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships): ⭐ 6270 
+- [opf/openproject](https://github.com/opf/openproject): ⭐ 11974 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 21811 
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models): ⭐ 14708 
+
 ## Trending On Date 2025-08-26
 
 - [plait-board/drawnix](https://github.com/plait-board/drawnix): ⭐ 7629 
