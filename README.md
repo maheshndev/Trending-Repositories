@@ -4,6 +4,22 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-28
+
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): ⭐ 13812 
+- [plait-board/drawnix](https://github.com/plait-board/drawnix): ⭐ 9473 
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): ⭐ 1464 
+- [microsoft/terminal](https://github.com/microsoft/terminal): ⭐ 99434 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker): ⭐ 29425 
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero): ⭐ 16574 
+- [santinic/audiblez](https://github.com/santinic/audiblez): ⭐ 4670 
+- [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox): ⭐ 9932 
+- [OpenPipe/ART](https://github.com/OpenPipe/ART): ⭐ 6193 
+- [eythaann/Seelen-UI](https://github.com/eythaann/Seelen-UI): ⭐ 11497 
+- [twbs/bootstrap](https://github.com/twbs/bootstrap): ⭐ 173006 
+- [willccbb/verifiers](https://github.com/willccbb/verifiers): ⭐ 2634 
+- [spf13/cobra](https://github.com/spf13/cobra): ⭐ 41623 
+
 ## Trending On Date 2025-08-27
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): ⭐ 11732 
