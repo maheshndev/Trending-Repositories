@@ -4,6 +4,20 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-29
+
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): ⭐ 15919 
+- [Canner/WrenAI](https://github.com/Canner/WrenAI): ⭐ 10332 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker): ⭐ 29684 
+- [chroma-core/chroma](https://github.com/chroma-core/chroma): ⭐ 22430 
+- [twbs/bootstrap](https://github.com/twbs/bootstrap): ⭐ 173129 
+- [santinic/audiblez](https://github.com/santinic/audiblez): ⭐ 5087 
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero): ⭐ 16936 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform): ⭐ 46306 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): ⭐ 7188 
+- [microsoft/terminal](https://github.com/microsoft/terminal): ⭐ 99570 
+- [opf/openproject](https://github.com/opf/openproject): ⭐ 12262 
+
 ## Trending On Date 2025-08-28
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): ⭐ 13812 
