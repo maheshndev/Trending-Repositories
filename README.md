@@ -4,6 +4,26 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-30
+
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): ⭐ 2907 
+- [microsoft/mcp](https://github.com/microsoft/mcp): ⭐ 1105 
+- [Canner/WrenAI](https://github.com/Canner/WrenAI): ⭐ 10766 
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V): ⭐ 20472 
+- [twbs/bootstrap](https://github.com/twbs/bootstrap): ⭐ 173220 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 205139 
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 1480 
+- [nats-io/nats-server](https://github.com/nats-io/nats-server): ⭐ 17990 
+- [spf13/cobra](https://github.com/spf13/cobra): ⭐ 41701 
+- [microsoft/terminal](https://github.com/microsoft/terminal): ⭐ 99702 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): ⭐ 17109 
+- [mercurjs/mercur](https://github.com/mercurjs/mercur): ⭐ 813 
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app): ⭐ 4064 
+- [opf/openproject](https://github.com/opf/openproject): ⭐ 12436 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 25165 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): ⭐ 96682 
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course): ⭐ 60850 
+
 ## Trending On Date 2025-08-29
 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): ⭐ 15919 
