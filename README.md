@@ -4,6 +4,26 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-08-31
+
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 25699 
+- [inventree/InvenTree](https://github.com/inventree/InvenTree): ⭐ 5591 
+- [microsoft/mcp](https://github.com/microsoft/mcp): ⭐ 1502 
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): ⭐ 3683 
+- [activepieces/activepieces](https://github.com/activepieces/activepieces): ⭐ 16652 
+- [elixir-lang/expert](https://github.com/elixir-lang/expert): ⭐ 1084 
+- [laramies/theHarvester](https://github.com/laramies/theHarvester): ⭐ 13539 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform): ⭐ 46427 
+- [dockur/windows](https://github.com/dockur/windows): ⭐ 38167 
+- [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion): ⭐ 5483 
+- [bin456789/reinstall](https://github.com/bin456789/reinstall): ⭐ 6966 
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker): ⭐ 29955 
+- [Canner/WrenAI](https://github.com/Canner/WrenAI): ⭐ 10998 
+- [chroma-core/chroma](https://github.com/chroma-core/chroma): ⭐ 22755 
+- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets): ⭐ 64790 
+- [PathOfBuildingCommunity/PathOfBuilding-PoE2](https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2): ⭐ 1203 
+- [JetBrains/koog](https://github.com/JetBrains/koog): ⭐ 1749 
+
 ## Trending On Date 2025-08-30
 
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): ⭐ 2907 
