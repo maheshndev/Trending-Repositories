@@ -5,6 +5,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-02
+
+- [dockur/windows](https://github.com/dockur/windows): ⭐ 41199 
+- [JetBrains/koog](https://github.com/JetBrains/koog): ⭐ 2334 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 26209 
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): ⭐ 5583 
+- [activepieces/activepieces](https://github.com/activepieces/activepieces): ⭐ 17020 
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus): ⭐ 46220 
+- [laramies/theHarvester](https://github.com/laramies/theHarvester): ⭐ 13998 
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 1956 
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox): ⭐ 11120 
+- [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V): ⭐ 20974 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): ⭐ 7583 
+- [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load): ⭐ 9792 
+- [denizsafak/abogen](https://github.com/denizsafak/abogen): ⭐ 3260 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy): ⭐ 41628 
+
 ## Trending On Date 2025-09-01
 
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): ⭐ 4557 
