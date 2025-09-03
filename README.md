@@ -5,6 +5,21 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-03
+
+- [dockur/windows](https://github.com/dockur/windows): ⭐ 43049 
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI): ⭐ 36940 
+- [JetBrains/koog](https://github.com/JetBrains/koog): ⭐ 2679 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): ⭐ 8562 
+- [google/mangle](https://github.com/google/mangle): ⭐ 2058 
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox): ⭐ 11496 
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js): ⭐ 18242 
+- [LukeGus/Termix](https://github.com/LukeGus/Termix): ⭐ 2098 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): ⭐ 97152 
+- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot): ⭐ 3555 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust): ⭐ 31378 
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates): ⭐ 10792 
+
 ## Trending On Date 2025-09-02
 
 - [dockur/windows](https://github.com/dockur/windows): ⭐ 41199 
