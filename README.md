@@ -5,6 +5,29 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-04
+
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js): ⭐ 18795 
+- [dockur/windows](https://github.com/dockur/windows): ⭐ 43998 
+- [JetBrains/koog](https://github.com/JetBrains/koog): ⭐ 2807 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys): ⭐ 122969 
+- [LukeGus/Termix](https://github.com/LukeGus/Termix): ⭐ 2511 
+- [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers): ⭐ 3918 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): ⭐ 9295 
+- [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd): ⭐ 12669 
+- [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit): ⭐ 5917 
+- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture): ⭐ 18834 
+- [dotnet/eShop](https://github.com/dotnet/eShop): ⭐ 8856 
+- [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book): ⭐ 7431 
+- [dipakkr/A-to-Z-Resources-for-Students](https://github.com/dipakkr/A-to-Z-Resources-for-Students): ⭐ 19294 
+- [oraios/serena](https://github.com/oraios/serena): ⭐ 11206 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy): ⭐ 28214 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 5372 
+- [activepieces/activepieces](https://github.com/activepieces/activepieces): ⭐ 17390 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra): ⭐ 20609 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 48172 
+- [carthage-software/mago](https://github.com/carthage-software/mago): ⭐ 895 
+
 ## Trending On Date 2025-09-03
 
 - [dockur/windows](https://github.com/dockur/windows): ⭐ 43049 
