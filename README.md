@@ -5,6 +5,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-05
+
+- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot): ⭐ 4684 
+- [LukeGus/Termix](https://github.com/LukeGus/Termix): ⭐ 2906 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): ⭐ 97550 
+- [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI): ⭐ 37570 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy): ⭐ 28369 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys): ⭐ 123187 
+- [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js): ⭐ 19153 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog): ⭐ 20570 
+- [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch): ⭐ 27970 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase): ⭐ 50432 
+- [weaviate/elysia](https://github.com/weaviate/elysia): ⭐ 1339 
+- [socfortress/Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules): ⭐ 986 
+- [ansible/ansible](https://github.com/ansible/ansible): ⭐ 66258 
+- [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero): ⭐ 10062 
+
 ## Trending On Date 2025-09-04
 
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js): ⭐ 18795 
