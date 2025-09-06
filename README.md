@@ -5,6 +5,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-06
+
+- [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot): ⭐ 5301 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet): ⭐ 21470 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy): ⭐ 28504 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog): ⭐ 20782 
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent): ⭐ 16977 
+- [nukeop/nuclear](https://github.com/nukeop/nuclear): ⭐ 14342 
+- [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api): ⭐ 5183 
+- [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers): ⭐ 4362 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 8959 
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents): ⭐ 3838 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra): ⭐ 20854 
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT): ⭐ 17345 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 48472 
+- [apache/airflow](https://github.com/apache/airflow): ⭐ 42004 
+- [wazuh/wazuh](https://github.com/wazuh/wazuh): ⭐ 13354 
+
 ## Trending On Date 2025-09-05
 
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot): ⭐ 4684 
