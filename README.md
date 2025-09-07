@@ -5,6 +5,22 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-07
+
+- [zama-ai/fhevm](https://github.com/zama-ai/fhevm): ⭐ 17177 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy): ⭐ 28610 
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog): ⭐ 21005 
+- [rails/rails](https://github.com/rails/rails): ⭐ 57486 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet): ⭐ 21593 
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents): ⭐ 3929 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 9204 
+- [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent): ⭐ 17102 
+- [quarkusio/quarkus](https://github.com/quarkusio/quarkus): ⭐ 14917 
+- [apache/airflow](https://github.com/apache/airflow): ⭐ 42148 
+- [apple/embedding-atlas](https://github.com/apple/embedding-atlas): ⭐ 3587 
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft): ⭐ 3677 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): ⭐ 65258 
+
 ## Trending On Date 2025-09-06
 
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot): ⭐ 5301 
