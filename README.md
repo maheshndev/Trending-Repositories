@@ -5,6 +5,26 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-08
+
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 9881 
+- [zama-ai/fhevm](https://github.com/zama-ai/fhevm): ⭐ 17483 
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents): ⭐ 4031 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 29824 
+- [FIRST-Tech-Challenge/FtcRobotController](https://github.com/FIRST-Tech-Challenge/FtcRobotController): ⭐ 1010 
+- [openwrt/openwrt](https://github.com/openwrt/openwrt): ⭐ 23641 
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): ⭐ 8823 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): ⭐ 65538 
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft): ⭐ 3922 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet): ⭐ 21720 
+- [uutils/coreutils](https://github.com/uutils/coreutils): ⭐ 21177 
+- [pathwaycom/pathway](https://github.com/pathwaycom/pathway): ⭐ 37956 
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app): ⭐ 35664 
+- [henrygd/beszel](https://github.com/henrygd/beszel): ⭐ 14712 
+- [ossu/computer-science](https://github.com/ossu/computer-science): ⭐ 192204 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 47475 
+- [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot): ⭐ 1980 
+
 ## Trending On Date 2025-09-07
 
 - [zama-ai/fhevm](https://github.com/zama-ai/fhevm): ⭐ 17177 
