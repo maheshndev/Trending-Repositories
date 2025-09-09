@@ -5,6 +5,23 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-09
+
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 10773 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 36899 
+- [zama-ai/fhevm](https://github.com/zama-ai/fhevm): ⭐ 17805 
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop): ⭐ 18436 
+- [openwrt/openwrt](https://github.com/openwrt/openwrt): ⭐ 23762 
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode): ⭐ 9261 
+- [11cafe/jaaz](https://github.com/11cafe/jaaz): ⭐ 2977 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 81955 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 97282 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): ⭐ 65993 
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon): ⭐ 23414 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows): ⭐ 27045 
+- [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot): ⭐ 2443 
+- [uutils/coreutils](https://github.com/uutils/coreutils): ⭐ 21300 
+
 ## Trending On Date 2025-09-08
 
 - [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 9881 
