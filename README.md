@@ -5,6 +5,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-10
+
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 11229 
+- [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot): ⭐ 2784 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 82633 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): ⭐ 66357 
+- [vercel/examples](https://github.com/vercel/examples): ⭐ 4229 
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon): ⭐ 23680 
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app): ⭐ 38292 
+- [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR): ⭐ 36833 
+- [11cafe/jaaz](https://github.com/11cafe/jaaz): ⭐ 3534 
+- [pathwaycom/pathway](https://github.com/pathwaycom/pathway): ⭐ 40799 
+- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower): ⭐ 6019 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 32373 
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft): ⭐ 4182 
+- [immich-app/immich](https://github.com/immich-app/immich): ⭐ 76170 
+- [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent): ⭐ 6257 
+
 ## Trending On Date 2025-09-09
 
 - [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 10773 
