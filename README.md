@@ -5,6 +5,27 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-11
+
+- [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi): ⭐ 5582 
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry): ⭐ 3169 
+- [vercel/examples](https://github.com/vercel/examples): ⭐ 4415 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 37596 
+- [11cafe/jaaz](https://github.com/11cafe/jaaz): ⭐ 3985 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm): ⭐ 65460 
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english): ⭐ 27174 
+- [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract): ⭐ 69457 
+- [huggingface/aisheets](https://github.com/huggingface/aisheets): ⭐ 1230 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 83166 
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp): ⭐ 13308 
+- [HKUDS/AutoAgent](https://github.com/HKUDS/AutoAgent): ⭐ 6536 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): ⭐ 66705 
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui): ⭐ 25734 
+- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower): ⭐ 6126 
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): ⭐ 18229 
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder): ⭐ 13113 
+- [microsoft/terminal](https://github.com/microsoft/terminal): ⭐ 100157 
+
 ## Trending On Date 2025-09-10
 
 - [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 11229 
