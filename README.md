@@ -5,6 +5,28 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-12
+
+- [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi): ⭐ 6496 
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry): ⭐ 3673 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm): ⭐ 66053 
+- [google/material-design-icons](https://github.com/google/material-design-icons): ⭐ 52145 
+- [ccfos/nightingale](https://github.com/ccfos/nightingale): ⭐ 11784 
+- [mxrch/GHunt](https://github.com/mxrch/GHunt): ⭐ 17599 
+- [agno-agi/agno](https://github.com/agno-agi/agno): ⭐ 33188 
+- [trueadm/ripple](https://github.com/trueadm/ripple): ⭐ 2915 
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail): ⭐ 10225 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia): ⭐ 8069 
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui): ⭐ 26035 
+- [ClemensElflein/OpenMower](https://github.com/ClemensElflein/OpenMower): ⭐ 6191 
+- [epfml/ML_course](https://github.com/epfml/ML_course): ⭐ 1483 
+- [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra): ⭐ 60256 
+- [supabase/supabase](https://github.com/supabase/supabase): ⭐ 88436 
+- [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python): ⭐ 5138 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 83626 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows): ⭐ 28502 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 49205 
+
 ## Trending On Date 2025-09-11
 
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi): ⭐ 5582 
