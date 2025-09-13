@@ -5,6 +5,28 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-13
+
+- [trueadm/ripple](https://github.com/trueadm/ripple): ⭐ 3735 
+- [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi): ⭐ 7099 
+- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff): ⭐ 1171 
+- [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA): ⭐ 1650 
+- [firebase/genkit](https://github.com/firebase/genkit): ⭐ 3155 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows): ⭐ 29078 
+- [epfml/ML_course](https://github.com/epfml/ML_course): ⭐ 1618 
+- [expo/expo](https://github.com/expo/expo): ⭐ 43207 
+- [NVIDIA/garak](https://github.com/NVIDIA/garak): ⭐ 5457 
+- [milvus-io/milvus](https://github.com/milvus-io/milvus): ⭐ 37225 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): ⭐ 69808 
+- [livekit/livekit](https://github.com/livekit/livekit): ⭐ 14669 
+- [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python): ⭐ 5233 
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english): ⭐ 27810 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): ⭐ 336144 
+- [grpc/grpc-go](https://github.com/grpc/grpc-go): ⭐ 22213 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell): ⭐ 48470 
+- [kyverno/kyverno](https://github.com/kyverno/kyverno): ⭐ 6815 
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry): ⭐ 3922 
+
 ## Trending On Date 2025-09-12
 
 - [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi): ⭐ 6496 
