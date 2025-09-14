@@ -5,6 +5,25 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-14
+
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell): ⭐ 48956 
+- [trueadm/ripple](https://github.com/trueadm/ripple): ⭐ 4202 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia): ⭐ 8283 
+- [grpc/grpc-go](https://github.com/grpc/grpc-go): ⭐ 22273 
+- [sentient-agi/ROMA](https://github.com/sentient-agi/ROMA): ⭐ 1884 
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches): ⭐ 4352 
+- [Azure/azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python): ⭐ 5296 
+- [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff): ⭐ 1465 
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): ⭐ 69053 
+- [facebook/folly](https://github.com/facebook/folly): ⭐ 29806 
+- [huggingface/transformers](https://github.com/huggingface/transformers): ⭐ 149651 
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm): ⭐ 17178 
+- [simdjson/simdjson](https://github.com/simdjson/simdjson): ⭐ 21405 
+- [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention): ⭐ 3230 
+- [NVIDIA/garak](https://github.com/NVIDIA/garak): ⭐ 5645 
+- [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi): ⭐ 7329 
+
 ## Trending On Date 2025-09-13
 
 - [trueadm/ripple](https://github.com/trueadm/ripple): ⭐ 3735 
