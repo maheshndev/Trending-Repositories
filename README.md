@@ -5,6 +5,25 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-15
+
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell): ⭐ 49470 
+- [trueadm/ripple](https://github.com/trueadm/ripple): ⭐ 4507 
+- [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent): ⭐ 1881 
+- [ccxt/ccxt](https://github.com/ccxt/ccxt): ⭐ 38188 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 68422 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): ⭐ 24295 
+- [midday-ai/midday](https://github.com/midday-ai/midday): ⭐ 12063 
+- [ReVanced/revanced-patches](https://github.com/ReVanced/revanced-patches): ⭐ 4495 
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack): ⭐ 22383 
+- [docker/mcp-gateway](https://github.com/docker/mcp-gateway): ⭐ 463 
+- [firebase/genkit](https://github.com/firebase/genkit): ⭐ 3408 
+- [simdjson/simdjson](https://github.com/simdjson/simdjson): ⭐ 21689 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): ⭐ 52966 
+- [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps): ⭐ 5579 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 319604 
+- [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm): ⭐ 1969 
+
 ## Trending On Date 2025-09-14
 
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell): ⭐ 48956 
