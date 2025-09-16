@@ -5,6 +5,26 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-16
+
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): ⭐ 71319 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 74386 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell): ⭐ 49772 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 85229 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 40346 
+- [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer): ⭐ 10823 
+- [simdjson/simdjson](https://github.com/simdjson/simdjson): ⭐ 21987 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): ⭐ 24622 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 23456 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows): ⭐ 30380 
+- [ccxt/ccxt](https://github.com/ccxt/ccxt): ⭐ 38454 
+- [midday-ai/midday](https://github.com/midday-ai/midday): ⭐ 12264 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai): ⭐ 53252 
+- [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm): ⭐ 2113 
+- [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning): ⭐ 55785 
+- [mnh-jansson/open-battery-information](https://github.com/mnh-jansson/open-battery-information): ⭐ 443 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 6295 
+
 ## Trending On Date 2025-09-15
 
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell): ⭐ 49470 
