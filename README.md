@@ -5,6 +5,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-17
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 75883 
+- [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm): ⭐ 2259 
+- [dataease/SQLBot](https://github.com/dataease/SQLBot): ⭐ 1880 
+- [SkyworkAI/DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent): ⭐ 2346 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 40567 
+- [ccxt/ccxt](https://github.com/ccxt/ccxt): ⭐ 38682 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 6584 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): ⭐ 54177 
+- [Plachtaa/seed-vc](https://github.com/Plachtaa/seed-vc): ⭐ 3139 
+- [BasedHardware/omi](https://github.com/BasedHardware/omi): ⭐ 6549 
+- [mnh-jansson/open-battery-information](https://github.com/mnh-jansson/open-battery-information): ⭐ 534 
+- [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush): ⭐ 2441 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell): ⭐ 49928 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): ⭐ 24973 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 207278 
+
 ## Trending On Date 2025-09-16
 
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): ⭐ 71319 
