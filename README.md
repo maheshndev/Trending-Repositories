@@ -5,6 +5,26 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-18
+
+- [category-labs/monad](https://github.com/category-labs/monad): ⭐ 603 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 77423 
+- [category-labs/monad-bft](https://github.com/category-labs/monad-bft): ⭐ 360 
+- [WebKit/WebKit](https://github.com/WebKit/WebKit): ⭐ 9115 
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica): ⭐ 25259 
+- [openai/codex](https://github.com/openai/codex): ⭐ 42104 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb): ⭐ 57152 
+- [dataease/SQLBot](https://github.com/dataease/SQLBot): ⭐ 2189 
+- [google-research/timesfm](https://github.com/google-research/timesfm): ⭐ 5721 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 40823 
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch): ⭐ 7665 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 24095 
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser): ⭐ 9437 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice): ⭐ 22335 
+- [flutter/flutter](https://github.com/flutter/flutter): ⭐ 172516 
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): ⭐ 32978 
+- [curl/curl](https://github.com/curl/curl): ⭐ 38983 
+
 ## Trending On Date 2025-09-17
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 75883 
