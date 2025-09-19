@@ -5,6 +5,27 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-19
+
+- [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 78671 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 207618 
+- [curl/curl](https://github.com/curl/curl): ⭐ 39191 
+- [flutter/flutter](https://github.com/flutter/flutter): ⭐ 172685 
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch): ⭐ 8972 
+- [category-labs/monad](https://github.com/category-labs/monad): ⭐ 758 
+- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework): ⭐ 7727 
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): ⭐ 328522 
+- [BasedHardware/omi](https://github.com/BasedHardware/omi): ⭐ 6836 
+- [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol): ⭐ 29180 
+- [dataease/SQLBot](https://github.com/dataease/SQLBot): ⭐ 2392 
+- [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush): ⭐ 2649 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): ⭐ 54722 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth): ⭐ 45723 
+- [openai/codex](https://github.com/openai/codex): ⭐ 42603 
+- [tenstorrent/tt-metal](https://github.com/tenstorrent/tt-metal): ⭐ 1176 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 40993 
+- [cypress-io/cypress](https://github.com/cypress-io/cypress): ⭐ 49005 
+
 ## Trending On Date 2025-09-18
 
 - [category-labs/monad](https://github.com/category-labs/monad): ⭐ 603 
