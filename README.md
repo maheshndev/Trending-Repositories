@@ -5,6 +5,25 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-20
+
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch): ⭐ 10387 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim): ⭐ 22623 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy): ⭐ 8788 
+- [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat): ⭐ 7887 
+- [flutter/flutter](https://github.com/flutter/flutter): ⭐ 172831 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb): ⭐ 57398 
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2): ⭐ 33230 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt): ⭐ 22373 
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): ⭐ 7220 
+- [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol): ⭐ 29706 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): ⭐ 40700 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit): ⭐ 23303 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 79345 
+- [bitnami/containers](https://github.com/bitnami/containers): ⭐ 4117 
+- [google-research/timesfm](https://github.com/google-research/timesfm): ⭐ 6036 
+- [bitnami/charts](https://github.com/bitnami/charts): ⭐ 10005 
+
 ## Trending On Date 2025-09-19
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown): ⭐ 78671 
