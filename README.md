@@ -5,6 +5,26 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-21
+
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): ⭐ 9218 
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch): ⭐ 11492 
+- [flutter/flutter](https://github.com/flutter/flutter): ⭐ 172970 
+- [winfunc/opcode](https://github.com/winfunc/opcode): ⭐ 16828 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw): ⭐ 42052 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt): ⭐ 22432 
+- [linera-io/linera-protocol](https://github.com/linera-io/linera-protocol): ⭐ 30038 
+- [grafana/loki](https://github.com/grafana/loki): ⭐ 26521 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): ⭐ 41185 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit): ⭐ 23536 
+- [OpenMind/OM1](https://github.com/OpenMind/OM1): ⭐ 466 
+- [9001/copyparty](https://github.com/9001/copyparty): ⭐ 30402 
+- [knownsec/aipyapp](https://github.com/knownsec/aipyapp): ⭐ 2166 
+- [cypress-io/cypress](https://github.com/cypress-io/cypress): ⭐ 49192 
+- [unslothai/unsloth](https://github.com/unslothai/unsloth): ⭐ 45928 
+- [odoo/odoo](https://github.com/odoo/odoo): ⭐ 45961 
+- [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat): ⭐ 2914 
+
 ## Trending On Date 2025-09-20
 
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch): ⭐ 10387 
