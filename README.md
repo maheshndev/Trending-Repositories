@@ -5,6 +5,29 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-22
+
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch): ⭐ 12623 
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): ⭐ 11505 
+- [torvalds/linux](https://github.com/torvalds/linux): ⭐ 202712 
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim): ⭐ 22806 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 87020 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy): ⭐ 9084 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt): ⭐ 22485 
+- [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase): ⭐ 2664 
+- [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat): ⭐ 8074 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit): ⭐ 23745 
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners): ⭐ 41686 
+- [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher): ⭐ 2692 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw): ⭐ 42252 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): ⭐ 369247 
+- [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples): ⭐ 2141 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): ⭐ 35994 
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): ⭐ 137461 
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community): ⭐ 18876 
+- [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid): ⭐ 16150 
+- [9001/copyparty](https://github.com/9001/copyparty): ⭐ 30662 
+
 ## Trending On Date 2025-09-21
 
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): ⭐ 9218 
