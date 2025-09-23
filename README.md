@@ -5,6 +5,27 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-23
+
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): ⭐ 14177 
+- [bevyengine/bevy](https://github.com/bevyengine/bevy): ⭐ 42125 
+- [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch): ⭐ 13781 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw): ⭐ 42478 
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch): ⭐ 73944 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): ⭐ 29101 
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl): ⭐ 137726 
+- [mindcraft-bots/mindcraft](https://github.com/mindcraft-bots/mindcraft): ⭐ 3983 
+- [eslint/eslint](https://github.com/eslint/eslint): ⭐ 26357 
+- [poteto/hiring-without-whiteboards](https://github.com/poteto/hiring-without-whiteboards): ⭐ 49565 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): ⭐ 156689 
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): ⭐ 130088 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): ⭐ 369707 
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus): ⭐ 46565 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 320639 
+- [ziglang/zig](https://github.com/ziglang/zig): ⭐ 41187 
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade): ⭐ 42547 
+- [winfunc/opcode](https://github.com/winfunc/opcode): ⭐ 17133 
+
 ## Trending On Date 2025-09-22
 
 - [Alibaba-NLP/DeepResearch](https://github.com/Alibaba-NLP/DeepResearch): ⭐ 12623 
