@@ -5,6 +5,27 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-24
+
+- [gin-gonic/gin](https://github.com/gin-gonic/gin): ⭐ 84240 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 48341 
+- [gofiber/fiber](https://github.com/gofiber/fiber): ⭐ 37783 
+- [eslint/eslint](https://github.com/eslint/eslint): ⭐ 26449 
+- [fmtlib/fmt](https://github.com/fmtlib/fmt): ⭐ 22538 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): ⭐ 90726 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 87060 
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts): ⭐ 26386 
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): ⭐ 17382 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): ⭐ 370076 
+- [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase): ⭐ 3150 
+- [HKUDS/AI-Researcher](https://github.com/HKUDS/AI-Researcher): ⭐ 2890 
+- [foundry-rs/foundry](https://github.com/foundry-rs/foundry): ⭐ 9502 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript): ⭐ 106074 
+- [helm/helm](https://github.com/helm/helm): ⭐ 28525 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw): ⭐ 42711 
+- [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink): ⭐ 7573 
+- [Kludex/uvicorn](https://github.com/Kludex/uvicorn): ⭐ 9741 
+
 ## Trending On Date 2025-09-23
 
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): ⭐ 14177 
