@@ -5,6 +5,26 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-25
+
+- [cloudflare/capnweb](https://github.com/cloudflare/capnweb): ⭐ 1789 
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch): ⭐ 74325 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 48584 
+- [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything): ⭐ 5562 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics): ⭐ 46051 
+- [istio/istio](https://github.com/istio/istio): ⭐ 37361 
+- [gin-gonic/gin](https://github.com/gin-gonic/gin): ⭐ 84973 
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade): ⭐ 42957 
+- [bytedance/Dolphin](https://github.com/bytedance/Dolphin): ⭐ 6454 
+- [aliasrobotics/cai](https://github.com/aliasrobotics/cai): ⭐ 4230 
+- [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): ⭐ 17965 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): ⭐ 91712 
+- [solana-labs/solana](https://github.com/solana-labs/solana): ⭐ 14484 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan): ⭐ 37741 
+- [django/django](https://github.com/django/django): ⭐ 85152 
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101): ⭐ 76862 
+- [exo-explore/exo](https://github.com/exo-explore/exo): ⭐ 31222 
+
 ## Trending On Date 2025-09-24
 
 - [gin-gonic/gin](https://github.com/gin-gonic/gin): ⭐ 84240 
