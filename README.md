@@ -5,6 +5,25 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-26
+
+- [gin-gonic/gin](https://github.com/gin-gonic/gin): ⭐ 85477 
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 2952 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 127882 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 209138 
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english): ⭐ 29273 
+- [Olow304/memvid](https://github.com/Olow304/memvid): ⭐ 8967 
+- [TanStack/router](https://github.com/TanStack/router): ⭐ 11276 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 48803 
+- [coinbase/x402](https://github.com/coinbase/x402): ⭐ 1339 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python): ⭐ 50099 
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch): ⭐ 74704 
+- [OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts): ⭐ 26466 
+- [confident-ai/deepeval](https://github.com/confident-ai/deepeval): ⭐ 11175 
+- [cloudflare/capnweb](https://github.com/cloudflare/capnweb): ⭐ 2476 
+- [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink): ⭐ 7721 
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): ⭐ 13793 
+
 ## Trending On Date 2025-09-25
 
 - [cloudflare/capnweb](https://github.com/cloudflare/capnweb): ⭐ 1789 
