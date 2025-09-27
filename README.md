@@ -5,6 +5,24 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-27
+
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english): ⭐ 29991 
+- [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything): ⭐ 6350 
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 3247 
+- [gin-gonic/gin](https://github.com/gin-gonic/gin): ⭐ 85881 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy): ⭐ 10910 
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): ⭐ 14114 
+- [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder): ⭐ 3654 
+- [netdata/netdata](https://github.com/netdata/netdata): ⭐ 76127 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): ⭐ 43758 
+- [bytedance/Dolphin](https://github.com/bytedance/Dolphin): ⭐ 6830 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli): ⭐ 76951 
+- [exo-explore/exo](https://github.com/exo-explore/exo): ⭐ 31494 
+- [is-a-dev/register](https://github.com/is-a-dev/register): ⭐ 7790 
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook): ⭐ 14899 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics): ⭐ 46406 
+
 ## Trending On Date 2025-09-26
 
 - [gin-gonic/gin](https://github.com/gin-gonic/gin): ⭐ 85477 
