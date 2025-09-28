@@ -5,6 +5,29 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-28
+
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 3988 
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): ⭐ 14370 
+- [coinbase/x402](https://github.com/coinbase/x402): ⭐ 1579 
+- [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything): ⭐ 6918 
+- [gin-gonic/gin](https://github.com/gin-gonic/gin): ⭐ 85969 
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo): ⭐ 40325 
+- [frappe/erpnext](https://github.com/frappe/erpnext): ⭐ 28782 
+- [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk): ⭐ 9984 
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english): ⭐ 30464 
+- [directus/directus](https://github.com/directus/directus): ⭐ 32566 
+- [Olow304/memvid](https://github.com/Olow304/memvid): ⭐ 9418 
+- [imputnet/helium](https://github.com/imputnet/helium): ⭐ 3529 
+- [roboflow/supervision](https://github.com/roboflow/supervision): ⭐ 35304 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): ⭐ 12234 
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo): ⭐ 5139 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy): ⭐ 11281 
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): ⭐ 22917 
+- [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin): ⭐ 10443 
+- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore): ⭐ 37166 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): ⭐ 43891 
+
 ## Trending On Date 2025-09-27
 
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english): ⭐ 29991 
