@@ -5,6 +5,26 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-29
+
+- [commaai/openpilot](https://github.com/commaai/openpilot): ⭐ 56718 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): ⭐ 338232 
+- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): ⭐ 73351 
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 4596 
+- [typst/typst](https://github.com/typst/typst): ⭐ 46114 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 70543 
+- [microsoft/qlib](https://github.com/microsoft/qlib): ⭐ 31441 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 25362 
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo): ⭐ 40724 
+- [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english): ⭐ 30694 
+- [frappe/erpnext](https://github.com/frappe/erpnext): ⭐ 28986 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy): ⭐ 11630 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): ⭐ 44012 
+- [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework): ⭐ 36561 
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): ⭐ 14642 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 128681 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 40298 
+
 ## Trending On Date 2025-09-28
 
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 3988 
