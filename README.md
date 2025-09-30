@@ -5,6 +5,25 @@
 - [Trending-On-Month-June-2025.md](./Trending-On-Month-June-2025.md)
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 
+## Trending On Date 2025-09-30
+
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo): ⭐ 41898 
+- [commaai/openpilot](https://github.com/commaai/openpilot): ⭐ 57567 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): ⭐ 338710 
+- [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code): ⭐ 4128 
+- [frappe/erpnext](https://github.com/frappe/erpnext): ⭐ 29204 
+- [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks): ⭐ 5396 
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer): ⭐ 4956 
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod): ⭐ 12384 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 40815 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): ⭐ 44131 
+- [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx): ⭐ 14860 
+- [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas): ⭐ 85969 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): ⭐ 12548 
+- [langgenius/dify](https://github.com/langgenius/dify): ⭐ 115409 
+- [jsvine/pdfplumber](https://github.com/jsvine/pdfplumber): ⭐ 8576 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 25768 
+
 ## Trending On Date 2025-09-29
 
 - [commaai/openpilot](https://github.com/commaai/openpilot): ⭐ 56718 
