@@ -6,6 +6,24 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-02
+
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo): ⭐ 44945 
+- [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code): ⭐ 4670 
+- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): ⭐ 1815 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): ⭐ 66276 
+- [nextcloud/server](https://github.com/nextcloud/server): ⭐ 31663 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot): ⭐ 8749 
+- [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage): ⭐ 25662 
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course): ⭐ 64038 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy): ⭐ 29205 
+- [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR): ⭐ 15488 
+- [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer): ⭐ 21806 
+- [commaai/openpilot](https://github.com/commaai/openpilot): ⭐ 58096 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 41446 
+- [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator): ⭐ 2190 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 89263 
+
 ## Trending On Date 2025-10-01
 
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo): ⭐ 43728 
