@@ -6,6 +6,30 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-03
+
+- [nextcloud/server](https://github.com/nextcloud/server): ⭐ 32256 
+- [google/tunix](https://github.com/google/tunix): ⭐ 919 
+- [pathwaycom/pathway](https://github.com/pathwaycom/pathway): ⭐ 43984 
+- [cjpais/Handy](https://github.com/cjpais/Handy): ⭐ 1572 
+- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python): ⭐ 1987 
+- [atuinsh/desktop](https://github.com/atuinsh/desktop): ⭐ 964 
+- [SDWebImage/SDWebImage](https://github.com/SDWebImage/SDWebImage): ⭐ 25701 
+- [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video): ⭐ 8196 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 34884 
+- [immich-app/immich](https://github.com/immich-app/immich): ⭐ 78904 
+- [chiphuyen/aie-book](https://github.com/chiphuyen/aie-book): ⭐ 9810 
+- [actions/runner-images](https://github.com/actions/runner-images): ⭐ 11982 
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo): ⭐ 45476 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 16084 
+- [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor): ⭐ 9601 
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN): ⭐ 7796 
+- [quarkusio/quarkus](https://github.com/quarkusio/quarkus): ⭐ 15052 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 35304 
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates): ⭐ 12951 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra): ⭐ 21535 
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle): ⭐ 13716 
+
 ## Trending On Date 2025-10-02
 
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo): ⭐ 44945 
