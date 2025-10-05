@@ -6,6 +6,30 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-05
+
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 35626 
+- [meshery/meshery](https://github.com/meshery/meshery): ⭐ 8310 
+- [google/tunix](https://github.com/google/tunix): ⭐ 1473 
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web): ⭐ 1909 
+- [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle): ⭐ 13898 
+- [paaatrick/playball](https://github.com/paaatrick/playball): ⭐ 1056 
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ⭐ 41781 
+- [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S): ⭐ 6535 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra): ⭐ 21795 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet): ⭐ 22564 
+- [Infisical/infisical](https://github.com/Infisical/infisical): ⭐ 20446 
+- [signalapp/libsignal](https://github.com/signalapp/libsignal): ⭐ 4901 
+- [MudBlazor/MudBlazor](https://github.com/MudBlazor/MudBlazor): ⭐ 9669 
+- [pathwaycom/pathway](https://github.com/pathwaycom/pathway): ⭐ 44676 
+- [glide-browser/glide](https://github.com/glide-browser/glide): ⭐ 541 
+- [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core): ⭐ 11560 
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN): ⭐ 9060 
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave): ⭐ 3856 
+- [microsoft/agent-framework](https://github.com/microsoft/agent-framework): ⭐ 2196 
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app): ⭐ 41363 
+- [MotiaDev/motia](https://github.com/MotiaDev/motia): ⭐ 9132 
+
 ## Trending On Date 2025-10-04
 
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN): ⭐ 8499 
