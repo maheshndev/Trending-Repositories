@@ -6,6 +6,29 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-06
+
+- [microsoft/BitNet](https://github.com/microsoft/BitNet): ⭐ 23275 
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): ⭐ 16791 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 35990 
+- [meshery/meshery](https://github.com/meshery/meshery): ⭐ 8548 
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web): ⭐ 2136 
+- [glide-browser/glide](https://github.com/glide-browser/glide): ⭐ 732 
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI): ⭐ 90154 
+- [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN): ⭐ 9264 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra): ⭐ 22008 
+- [meshtastic/firmware](https://github.com/meshtastic/firmware): ⭐ 5800 
+- [pathwaycom/pathway](https://github.com/pathwaycom/pathway): ⭐ 45004 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri): ⭐ 12681 
+- [audacity/audacity](https://github.com/audacity/audacity): ⭐ 14734 
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free): ⭐ 65283 
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave): ⭐ 4029 
+- [evcc-io/evcc](https://github.com/evcc-io/evcc): ⭐ 5460 
+- [Infisical/infisical](https://github.com/Infisical/infisical): ⭐ 20667 
+- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader): ⭐ 2277 
+- [expressjs/express](https://github.com/expressjs/express): ⭐ 67858 
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager): ⭐ 10234 
+
 ## Trending On Date 2025-10-05
 
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 35626 
