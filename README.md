@@ -6,6 +6,30 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-07
+
+- [Infisical/infisical](https://github.com/Infisical/infisical): ⭐ 21449 
+- [meshery/meshery](https://github.com/meshery/meshery): ⭐ 8962 
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server): ⭐ 7691 
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web): ⭐ 2697 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet): ⭐ 23808 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 50978 
+- [audacity/audacity](https://github.com/audacity/audacity): ⭐ 14928 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 36251 
+- [openemr/openemr](https://github.com/openemr/openemr): ⭐ 3843 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): ⭐ 27127 
+- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader): ⭐ 2737 
+- [zama-ai/fhevm](https://github.com/zama-ai/fhevm): ⭐ 22510 
+- [pathwaycom/pathway](https://github.com/pathwaycom/pathway): ⭐ 45274 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 210094 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra): ⭐ 22201 
+- [htr-tech/zphisher](https://github.com/htr-tech/zphisher): ⭐ 14443 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): ⭐ 371735 
+- [google/osv.dev](https://github.com/google/osv.dev): ⭐ 2221 
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii): ⭐ 20664 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui): ⭐ 96312 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 15345 
+
 ## Trending On Date 2025-10-06
 
 - [microsoft/BitNet](https://github.com/microsoft/BitNet): ⭐ 23275 
