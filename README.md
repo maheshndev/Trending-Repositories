@@ -6,6 +6,26 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-08
+
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web): ⭐ 3965 
+- [trycua/cua](https://github.com/trycua/cua): ⭐ 10071 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 16692 
+- [Infisical/infisical](https://github.com/Infisical/infisical): ⭐ 22072 
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server): ⭐ 8064 
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise): ⭐ 44644 
+- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader): ⭐ 3356 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): ⭐ 27430 
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): ⭐ 17004 
+- [audacity/audacity](https://github.com/audacity/audacity): ⭐ 15102 
+- [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii): ⭐ 20896 
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python): ⭐ 15576 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet): ⭐ 23919 
+- [Morganamilo/paru](https://github.com/Morganamilo/paru): ⭐ 7418 
+- [openemr/openemr](https://github.com/openemr/openemr): ⭐ 4040 
+- [is-a-dev/register](https://github.com/is-a-dev/register): ⭐ 8407 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 15535 
+
 ## Trending On Date 2025-10-07
 
 - [Infisical/infisical](https://github.com/Infisical/infisical): ⭐ 21449 
