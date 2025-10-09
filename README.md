@@ -6,6 +6,21 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-09
+
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web): ⭐ 5549 
+- [Infisical/infisical](https://github.com/Infisical/infisical): ⭐ 22281 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand): ⭐ 17552 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 51598 
+- [BeehiveInnovations/zen-mcp-server](https://github.com/BeehiveInnovations/zen-mcp-server): ⭐ 8330 
+- [trycua/cua](https://github.com/trycua/cua): ⭐ 10357 
+- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader): ⭐ 3874 
+- [openemr/openemr](https://github.com/openemr/openemr): ⭐ 4203 
+- [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard): ⭐ 20000 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 15751 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui): ⭐ 96834 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): ⭐ 8593 
+
 ## Trending On Date 2025-10-08
 
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web): ⭐ 3965 
