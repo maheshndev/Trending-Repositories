@@ -6,6 +6,22 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-10
+
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web): ⭐ 6743 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): ⭐ 8887 
+- [google/computer-use-preview](https://github.com/google/computer-use-preview): ⭐ 675 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat): ⭐ 8322 
+- [timelinize/timelinize](https://github.com/timelinize/timelinize): ⭐ 2190 
+- [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt): ⭐ 6542 
+- [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz): ⭐ 1139 
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python): ⭐ 15989 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 52137 
+- [browserbase/stagehand](https://github.com/browserbase/stagehand): ⭐ 17885 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): ⭐ 99562 
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise): ⭐ 45110 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps): ⭐ 10847 
+
 ## Trending On Date 2025-10-09
 
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web): ⭐ 5549 
