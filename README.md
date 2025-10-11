@@ -6,6 +6,24 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-11
+
+- [browserbase/stagehand](https://github.com/browserbase/stagehand): ⭐ 18128 
+- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32): ⭐ 19417 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 36184 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 52569 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat): ⭐ 9269 
+- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent): ⭐ 8345 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): ⭐ 9139 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap): ⭐ 12398 
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web): ⭐ 7245 
+- [xyflow/xyflow](https://github.com/xyflow/xyflow): ⭐ 32441 
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): ⭐ 11456 
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop): ⭐ 6364 
+- [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz): ⭐ 1498 
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio): ⭐ 17533 
+- [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase): ⭐ 4450 
+
 ## Trending On Date 2025-10-10
 
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web): ⭐ 6743 
