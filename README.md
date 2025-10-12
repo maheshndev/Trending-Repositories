@@ -6,6 +6,21 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-12
+
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 36972 
+- [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL): ⭐ 14059 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense): ⭐ 9352 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): ⭐ 7233 
+- [timelinize/timelinize](https://github.com/timelinize/timelinize): ⭐ 2572 
+- [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz): ⭐ 1813 
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory): ⭐ 11803 
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop): ⭐ 6799 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap): ⭐ 12674 
+- [dataease/SQLBot](https://github.com/dataease/SQLBot): ⭐ 3805 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat): ⭐ 10002 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): ⭐ 77512 
+
 ## Trending On Date 2025-10-11
 
 - [browserbase/stagehand](https://github.com/browserbase/stagehand): ⭐ 18128 
