@@ -6,6 +6,29 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-13
+
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 37938 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): ⭐ 7522 
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop): ⭐ 7163 
+- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32): ⭐ 19848 
+- [daytonaio/daytona](https://github.com/daytonaio/daytona): ⭐ 22947 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 53078 
+- [WECENG/ticket-purchase](https://github.com/WECENG/ticket-purchase): ⭐ 4831 
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): ⭐ 39152 
+- [DearVa/Everywhere](https://github.com/DearVa/Everywhere): ⭐ 561 
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook): ⭐ 94838 
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio): ⭐ 17751 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat): ⭐ 66714 
+- [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz): ⭐ 2123 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy): ⭐ 13666 
+- [TibixDev/winboat](https://github.com/TibixDev/winboat): ⭐ 10589 
+- [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba): ⭐ 6132 
+- [oven-sh/bun](https://github.com/oven-sh/bun): ⭐ 81097 
+- [huggingface/diffusers](https://github.com/huggingface/diffusers): ⭐ 31149 
+- [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis): ⭐ 4823 
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU): ⭐ 45902 
+
 ## Trending On Date 2025-10-12
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 36972 
