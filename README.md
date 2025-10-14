@@ -6,6 +6,24 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-14
+
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 21020 
+- [coleam00/Archon](https://github.com/coleam00/Archon): ⭐ 12685 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 38602 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): ⭐ 22314 
+- [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis): ⭐ 5013 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): ⭐ 369055 
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): ⭐ 77786 
+- [oven-sh/bun](https://github.com/oven-sh/bun): ⭐ 81294 
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp): ⭐ 87692 
+- [PixelGuys/Cubyz](https://github.com/PixelGuys/Cubyz): ⭐ 2381 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy): ⭐ 13908 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): ⭐ 7848 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): ⭐ 28863 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): ⭐ 63267 
+- [nitrojs/nitro](https://github.com/nitrojs/nitro): ⭐ 8165 
+
 ## Trending On Date 2025-10-13
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 37938 
