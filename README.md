@@ -6,6 +6,24 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-15
+
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 22934 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 87481 
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars): ⭐ 30437 
+- [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba): ⭐ 6271 
+- [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm): ⭐ 19479 
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): ⭐ 22650 
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU): ⭐ 46345 
+- [nitrojs/nitro](https://github.com/nitrojs/nitro): ⭐ 8500 
+- [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis): ⭐ 5163 
+- [chili-chips-ba/wireguard-fpga](https://github.com/chili-chips-ba/wireguard-fpga): ⭐ 1050 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): ⭐ 63665 
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): ⭐ 18606 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): ⭐ 369763 
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt): ⭐ 3345 
+- [volcengine/MineContext](https://github.com/volcengine/MineContext): ⭐ 1687 
+
 ## Trending On Date 2025-10-14
 
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 21020 
