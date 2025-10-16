@@ -6,6 +6,26 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-16
+
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 23889 
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind): ⭐ 27701 
+- [nitrojs/nitro](https://github.com/nitrojs/nitro): ⭐ 8832 
+- [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs): ⭐ 15949 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT): ⭐ 45842 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 87616 
+- [envoyproxy/envoy](https://github.com/envoyproxy/envoy): ⭐ 26737 
+- [EvolutionAPI/evolution-api](https://github.com/EvolutionAPI/evolution-api): ⭐ 5814 
+- [devlikeapro/waha](https://github.com/devlikeapro/waha): ⭐ 4674 
+- [enactic/openarm](https://github.com/enactic/openarm): ⭐ 1212 
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain): ⭐ 107027 
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates): ⭐ 6402 
+- [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba): ⭐ 6376 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): ⭐ 63985 
+- [nanobrowser/nanobrowser](https://github.com/nanobrowser/nanobrowser): ⭐ 10195 
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp): ⭐ 8557 
+- [tulir/whatsmeow](https://github.com/tulir/whatsmeow): ⭐ 4527 
+
 ## Trending On Date 2025-10-15
 
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 22934 
