@@ -6,6 +6,26 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-17
+
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 87907 
+- [devlikeapro/waha](https://github.com/devlikeapro/waha): ⭐ 4929 
+- [QwenLM/Qwen3-VL](https://github.com/QwenLM/Qwen3-VL): ⭐ 14828 
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates): ⭐ 6691 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT): ⭐ 46210 
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder): ⭐ 14980 
+- [envoyproxy/envoy](https://github.com/envoyproxy/envoy): ⭐ 26818 
+- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars): ⭐ 31298 
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs): ⭐ 30737 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex): ⭐ 26326 
+- [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher): ⭐ 10961 
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt): ⭐ 3493 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 24221 
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind): ⭐ 28116 
+- [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent): ⭐ 3326 
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java): ⭐ 8407 
+- [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook): ⭐ 21526 
+
 ## Trending On Date 2025-10-16
 
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 23889 
