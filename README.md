@@ -6,6 +6,26 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-18
+
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind): ⭐ 29175 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 88247 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): ⭐ 341042 
+- [dockur/windows](https://github.com/dockur/windows): ⭐ 47510 
+- [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa): ⭐ 3991 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex): ⭐ 26651 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 5167 
+- [stamparm/maltrail](https://github.com/stamparm/maltrail): ⭐ 7501 
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs): ⭐ 31029 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak): ⭐ 30336 
+- [devlikeapro/waha](https://github.com/devlikeapro/waha): ⭐ 5123 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): ⭐ 57962 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT): ⭐ 46511 
+- [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk): ⭐ 2639 
+- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos): ⭐ 7773 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys): ⭐ 124596 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm): ⭐ 11654 
+
 ## Trending On Date 2025-10-17
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 87907 
