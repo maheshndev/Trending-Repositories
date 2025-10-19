@@ -6,6 +6,27 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-19
+
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks): ⭐ 21364 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 88400 
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind): ⭐ 29944 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg): ⭐ 25822 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm): ⭐ 11848 
+- [pathwaycom/pathway](https://github.com/pathwaycom/pathway): ⭐ 48829 
+- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat): ⭐ 4361 
+- [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk): ⭐ 2721 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): ⭐ 58445 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys): ⭐ 124799 
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook): ⭐ 11867 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform): ⭐ 46864 
+- [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI): ⭐ 5855 
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models): ⭐ 16626 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): ⭐ 341260 
+- [storybookjs/storybook](https://github.com/storybookjs/storybook): ⭐ 88085 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 211199 
+- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser): ⭐ 4014 
+
 ## Trending On Date 2025-10-18
 
 - [jingyaogong/minimind](https://github.com/jingyaogong/minimind): ⭐ 29175 
