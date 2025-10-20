@@ -6,6 +6,29 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-20
+
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks): ⭐ 22166 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 5694 
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind): ⭐ 30231 
+- [atuinsh/desktop](https://github.com/atuinsh/desktop): ⭐ 1737 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): ⭐ 373465 
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak): ⭐ 8455 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): ⭐ 14768 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): ⭐ 58993 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 211421 
+- [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat): ⭐ 4555 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm): ⭐ 12017 
+- [microsoft/terminal](https://github.com/microsoft/terminal): ⭐ 100612 
+- [karpathy/micrograd](https://github.com/karpathy/micrograd): ⭐ 13069 
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook): ⭐ 12079 
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui): ⭐ 9421 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB): ⭐ 17796 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex): ⭐ 26952 
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent): ⭐ 33474 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg): ⭐ 25884 
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice): ⭐ 34927 
+
 ## Trending On Date 2025-10-19
 
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks): ⭐ 21364 
