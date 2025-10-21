@@ -6,6 +6,29 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-21
+
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks): ⭐ 23555 
+- [SagerNet/sing-box](https://github.com/SagerNet/sing-box): ⭐ 27368 
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook): ⭐ 12498 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 92251 
+- [huggingface/lerobot](https://github.com/huggingface/lerobot): ⭐ 18296 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm): ⭐ 12212 
+- [karpathy/micrograd](https://github.com/karpathy/micrograd): ⭐ 13173 
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui): ⭐ 9612 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 211635 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 6196 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry): ⭐ 25142 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): ⭐ 14975 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): ⭐ 59559 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB): ⭐ 17940 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy): ⭐ 15053 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep): ⭐ 56488 
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak): ⭐ 8954 
+- [tokio-rs/tokio](https://github.com/tokio-rs/tokio): ⭐ 29915 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): ⭐ 373926 
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas): ⭐ 17397 
+
 ## Trending On Date 2025-10-20
 
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks): ⭐ 22166 
