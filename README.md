@@ -6,6 +6,28 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-22
+
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak): ⭐ 10374 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): ⭐ 76494 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 6777 
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook): ⭐ 12928 
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks): ⭐ 24349 
+- [sharkdp/bat](https://github.com/sharkdp/bat): ⭐ 55328 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): ⭐ 15138 
+- [oceanbase/miniob](https://github.com/oceanbase/miniob): ⭐ 4116 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx): ⭐ 7935 
+- [servo/servo](https://github.com/servo/servo): ⭐ 32504 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 16524 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry): ⭐ 25298 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR): ⭐ 60091 
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui): ⭐ 9787 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books): ⭐ 374367 
+- [is-a-dev/register](https://github.com/is-a-dev/register): ⭐ 8758 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac): ⭐ 90619 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB): ⭐ 18080 
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book): ⭐ 3995 
+
 ## Trending On Date 2025-10-21
 
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks): ⭐ 23555 
