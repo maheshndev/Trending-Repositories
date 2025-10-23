@@ -6,6 +6,26 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-23
+
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak): ⭐ 12111 
+- [servo/servo](https://github.com/servo/servo): ⭐ 32813 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 14240 
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark): ⭐ 7855 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 7326 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 16734 
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech): ⭐ 23507 
+- [huggingface/chat-ui](https://github.com/huggingface/chat-ui): ⭐ 9977 
+- [rossant/awesome-math](https://github.com/rossant/awesome-math): ⭐ 10478 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb): ⭐ 33658 
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook): ⭐ 13293 
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB): ⭐ 18236 
+- [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks): ⭐ 24672 
+- [zyronon/TypeWords](https://github.com/zyronon/TypeWords): ⭐ 4181 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri): ⭐ 97907 
+- [remix-run/react-router](https://github.com/remix-run/react-router): ⭐ 55731 
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book): ⭐ 4354 
+
 ## Trending On Date 2025-10-22
 
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak): ⭐ 10374 
