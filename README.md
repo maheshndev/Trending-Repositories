@@ -6,6 +6,25 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-24
+
+- [minio/minio](https://github.com/minio/minio): ⭐ 56606 
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark): ⭐ 8819 
+- [mountain-loop/yaak](https://github.com/mountain-loop/yaak): ⭐ 13251 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 50449 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): ⭐ 33167 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 16943 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx): ⭐ 8175 
+- [rossant/awesome-math](https://github.com/rossant/awesome-math): ⭐ 11117 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): ⭐ 76963 
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book): ⭐ 4668 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 131919 
+- [meta-pytorch/torchforge](https://github.com/meta-pytorch/torchforge): ⭐ 298 
+- [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python): ⭐ 22396 
+- [guofei9987/scikit-opt](https://github.com/guofei9987/scikit-opt): ⭐ 6047 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac): ⭐ 91087 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): ⭐ 75378 
+
 ## Trending On Date 2025-10-23
 
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak): ⭐ 12111 
