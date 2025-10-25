@@ -6,6 +6,28 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-25
+
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 51467 
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark): ⭐ 9644 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): ⭐ 75685 
+- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr): ⭐ 13408 
+- [minio/minio](https://github.com/minio/minio): ⭐ 57143 
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): ⭐ 14644 
+- [zyronon/TypeWords](https://github.com/zyronon/TypeWords): ⭐ 4573 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): ⭐ 33374 
+- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell): ⭐ 50481 
+- [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video): ⭐ 8435 
+- [OpenMind/OM1](https://github.com/OpenMind/OM1): ⭐ 1048 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 132244 
+- [isaac-sim/IsaacSim](https://github.com/isaac-sim/IsaacSim): ⭐ 1705 
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs): ⭐ 26409 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs): ⭐ 10125 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb): ⭐ 34115 
+- [directus/directus](https://github.com/directus/directus): ⭐ 33173 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 17125 
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch): ⭐ 75210 
+
 ## Trending On Date 2025-10-24
 
 - [minio/minio](https://github.com/minio/minio): ⭐ 56606 
