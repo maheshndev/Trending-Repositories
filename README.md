@@ -6,6 +6,25 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-26
+
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 52557 
+- [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100): ⭐ 3817 
+- [coinbase/x402](https://github.com/coinbase/x402): ⭐ 2561 
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark): ⭐ 10072 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): ⭐ 33532 
+- [zephyrproject-rtos/zephyr](https://github.com/zephyrproject-rtos/zephyr): ⭐ 13483 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): ⭐ 75923 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): ⭐ 372591 
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud): ⭐ 11066 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 132555 
+- [OpenMind/OM1](https://github.com/OpenMind/OM1): ⭐ 1188 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac): ⭐ 91630 
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources): ⭐ 27023 
+- [minio/minio](https://github.com/minio/minio): ⭐ 57309 
+- [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx): ⭐ 8397 
+- [cjpais/Handy](https://github.com/cjpais/Handy): ⭐ 3187 
+
 ## Trending On Date 2025-10-25
 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 51467 
