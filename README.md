@@ -6,6 +6,24 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-27
+
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 53671 
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip): ⭐ 37839 
+- [cjpais/Handy](https://github.com/cjpais/Handy): ⭐ 3457 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 73190 
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning): ⭐ 2331 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): ⭐ 373172 
+- [coinbase/x402](https://github.com/coinbase/x402): ⭐ 2770 
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): ⭐ 324097 
+- [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui): ⭐ 25167 
+- [2dust/v2rayN](https://github.com/2dust/v2rayN): ⭐ 88787 
+- [chartdb/chartdb](https://github.com/chartdb/chartdb): ⭐ 19698 
+- [go-gitea/gitea](https://github.com/go-gitea/gitea): ⭐ 51523 
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): ⭐ 76176 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): ⭐ 33713 
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications): ⭐ 40013 
+
 ## Trending On Date 2025-10-26
 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 52557 
