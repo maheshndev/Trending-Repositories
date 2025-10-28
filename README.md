@@ -6,6 +6,21 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-28
+
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE): ⭐ 57204 
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip): ⭐ 38732 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): ⭐ 430565 
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning): ⭐ 2871 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 54356 
+- [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100): ⭐ 4068 
+- [coinbase/x402](https://github.com/coinbase/x402): ⭐ 3043 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): ⭐ 373773 
+- [bol-van/zapret](https://github.com/bol-van/zapret): ⭐ 12938 
+- [block/goose](https://github.com/block/goose): ⭐ 20736 
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): ⭐ 14371 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 73580 
+
 ## Trending On Date 2025-10-27
 
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 53671 
