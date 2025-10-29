@@ -6,6 +6,24 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-29
+
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE): ⭐ 58000 
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip): ⭐ 39169 
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning): ⭐ 3335 
+- [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc): ⭐ 2174 
+- [longbridge/gpui-component](https://github.com/longbridge/gpui-component): ⭐ 6049 
+- [juanfont/headscale](https://github.com/juanfont/headscale): ⭐ 32156 
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book): ⭐ 7073 
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): ⭐ 15080 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): ⭐ 19241 
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications): ⭐ 41494 
+- [coinbase/x402](https://github.com/coinbase/x402): ⭐ 3309 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 73923 
+- [cjpais/Handy](https://github.com/cjpais/Handy): ⭐ 4051 
+- [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero): ⭐ 9074 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): ⭐ 431166 
+
 ## Trending On Date 2025-10-28
 
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE): ⭐ 57204 
