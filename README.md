@@ -6,6 +6,21 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-30
+
+- [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink): ⭐ 7901 
+- [cjpais/Handy](https://github.com/cjpais/Handy): ⭐ 4511 
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): ⭐ 15765 
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector): ⭐ 5976 
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): ⭐ 92762 
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): ⭐ 69444 
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk): ⭐ 2296 
+- [block/goose](https://github.com/block/goose): ⭐ 21072 
+- [allenai/olmocr](https://github.com/allenai/olmocr): ⭐ 15093 
+- [dotnet/eShop](https://github.com/dotnet/eShop): ⭐ 9407 
+- [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE): ⭐ 58501 
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning): ⭐ 3941 
+
 ## Trending On Date 2025-10-29
 
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE): ⭐ 58000 
