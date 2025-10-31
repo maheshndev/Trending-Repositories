@@ -6,6 +6,25 @@
 - [Trending-On-Month-May-2025.md](./Trending-On-Month-May-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-10-31
+
+- [helm/helm](https://github.com/helm/helm): ⭐ 28799 
+- [storybookjs/storybook](https://github.com/storybookjs/storybook): ⭐ 88388 
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector): ⭐ 6074 
+- [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer): ⭐ 16345 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): ⭐ 19853 
+- [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib): ⭐ 15277 
+- [allenai/olmocr](https://github.com/allenai/olmocr): ⭐ 15368 
+- [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI): ⭐ 7152 
+- [janhq/jan](https://github.com/janhq/jan): ⭐ 38603 
+- [mem0ai/mem0](https://github.com/mem0ai/mem0): ⭐ 42277 
+- [iam-veeramalla/aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero): ⭐ 9392 
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning): ⭐ 4380 
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora): ⭐ 6924 
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates): ⭐ 11150 
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): ⭐ 93144 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 88678 
+
 ## Trending On Date 2025-10-30
 
 - [smartcontractkit/chainlink](https://github.com/smartcontractkit/chainlink): ⭐ 7901 
