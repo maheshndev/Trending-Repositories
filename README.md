@@ -7,6 +7,24 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-02
+
+- [get-convex/chef](https://github.com/get-convex/chef): ⭐ 2724 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs): ⭐ 14208 
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora): ⭐ 7195 
+- [janhq/jan](https://github.com/janhq/jan): ⭐ 38954 
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): ⭐ 93741 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): ⭐ 74749 
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): ⭐ 38919 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 88836 
+- [github/copilot-cli](https://github.com/github/copilot-cli): ⭐ 4523 
+- [YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro): ⭐ 33882 
+- [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic): ⭐ 6535 
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 3304 
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app): ⭐ 46414 
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev): ⭐ 4034 
+- [ossu/computer-science](https://github.com/ossu/computer-science): ⭐ 196747 
+
 ## Trending On Date 2025-11-01
 
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 88761 
