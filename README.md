@@ -7,6 +7,22 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-03
+
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 4388 
+- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service): ⭐ 4846 
+- [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning): ⭐ 6116 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 8417 
+- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm): ⭐ 7580 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 30581 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow): ⭐ 20131 
+- [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts): ⭐ 49084 
+- [moondevonyt/moon-dev-ai-agents](https://github.com/moondevonyt/moon-dev-ai-agents): ⭐ 2456 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs): ⭐ 14371 
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): ⭐ 22654 
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models): ⭐ 17173 
+- [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift): ⭐ 8045 
+
 ## Trending On Date 2025-11-02
 
 - [get-convex/chef](https://github.com/get-convex/chef): ⭐ 2724 
