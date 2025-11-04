@@ -7,6 +7,24 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-04
+
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 6777 
+- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm): ⭐ 7903 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 8809 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow): ⭐ 20489 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 31098 
+- [get-convex/chef](https://github.com/get-convex/chef): ⭐ 3084 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch): ⭐ 94591 
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): ⭐ 23029 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI): ⭐ 36608 
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): ⭐ 19004 
+- [fastfire/deepdarkCTI](https://github.com/fastfire/deepdarkCTI): ⭐ 6163 
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): ⭐ 3276 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): ⭐ 75020 
+- [sst/opentui](https://github.com/sst/opentui): ⭐ 3462 
+- [DearVa/Everywhere](https://github.com/DearVa/Everywhere): ⭐ 2116 
+
 ## Trending On Date 2025-11-03
 
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 4388 
