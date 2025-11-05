@@ -7,6 +7,28 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-05
+
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 11705 
+- [sst/opentui](https://github.com/sst/opentui): ⭐ 4051 
+- [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm): ⭐ 8196 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI): ⭐ 36931 
+- [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB): ⭐ 19113 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): ⭐ 20839 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): ⭐ 31793 
+- [DearVa/Everywhere](https://github.com/DearVa/Everywhere): ⭐ 2483 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 9134 
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek): ⭐ 23279 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow): ⭐ 20754 
+- [mudler/edgevpn](https://github.com/mudler/edgevpn): ⭐ 1496 
+- [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift): ⭐ 8484 
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents): ⭐ 4659 
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning): ⭐ 68621 
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications): ⭐ 43125 
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models): ⭐ 17404 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): ⭐ 36973 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): ⭐ 15627 
+
 ## Trending On Date 2025-11-04
 
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 6777 
