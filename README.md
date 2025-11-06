@@ -7,6 +7,27 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-06
+
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 15107 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): ⭐ 16218 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 9447 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase): ⭐ 17881 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI): ⭐ 37268 
+- [sst/opentui](https://github.com/sst/opentui): ⭐ 4468 
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager): ⭐ 7358 
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed): ⭐ 21196 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): ⭐ 21705 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): ⭐ 32175 
+- [GoogleCloudPlatform/vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio): ⭐ 602 
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): ⭐ 3638 
+- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents): ⭐ 4732 
+- [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic): ⭐ 4215 
+- [aandrew-me/ytDownloader](https://github.com/aandrew-me/ytDownloader): ⭐ 5991 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 31714 
+- [localstack/localstack](https://github.com/localstack/localstack): ⭐ 61400 
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): ⭐ 332466 
+
 ## Trending On Date 2025-11-05
 
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 11705 
