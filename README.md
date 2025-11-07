@@ -7,6 +7,22 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-07
+
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 18337 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): ⭐ 16745 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase): ⭐ 18291 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI): ⭐ 37585 
+- [sst/opentui](https://github.com/sst/opentui): ⭐ 4639 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): ⭐ 22319 
+- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk): ⭐ 2787 
+- [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon): ⭐ 442 
+- [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu): ⭐ 7255 
+- [ggml-org/ggml](https://github.com/ggml-org/ggml): ⭐ 13456 
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons): ⭐ 9845 
+- [localstack/localstack](https://github.com/localstack/localstack): ⭐ 62012 
+- [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning): ⭐ 68898 
+
 ## Trending On Date 2025-11-06
 
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 15107 
