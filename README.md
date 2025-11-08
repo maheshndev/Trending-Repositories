@@ -7,6 +7,29 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-08
+
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager): ⭐ 7689 
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 21597 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 17631 
+- [lima-vm/lima](https://github.com/lima-vm/lima): ⭐ 18444 
+- [awslabs/mcp](https://github.com/awslabs/mcp): ⭐ 7068 
+- [usestrix/strix](https://github.com/usestrix/strix): ⭐ 3351 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate): ⭐ 26862 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): ⭐ 22731 
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons): ⭐ 10250 
+- [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon): ⭐ 630 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 212707 
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): ⭐ 332825 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 75470 
+- [GoogleCloudPlatform/vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio): ⭐ 723 
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed): ⭐ 21478 
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): ⭐ 17020 
+- [antiwork/gumroad](https://github.com/antiwork/gumroad): ⭐ 7455 
+- [coder/code-server](https://github.com/coder/code-server): ⭐ 74677 
+- [remix-run/react-router](https://github.com/remix-run/react-router): ⭐ 55875 
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): ⭐ 46291 
+
 ## Trending On Date 2025-11-07
 
 - [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 18337 
