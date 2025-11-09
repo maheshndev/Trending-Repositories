@@ -7,6 +7,27 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-09
+
+- [usestrix/strix](https://github.com/usestrix/strix): ⭐ 4768 
+- [umami-software/umami](https://github.com/umami-software/umami): ⭐ 32332 
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager): ⭐ 7923 
+- [lima-vm/lima](https://github.com/lima-vm/lima): ⭐ 18598 
+- [nocobase/nocobase](https://github.com/nocobase/nocobase): ⭐ 18932 
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver): ⭐ 46506 
+- [localstack/localstack](https://github.com/localstack/localstack): ⭐ 62589 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 75784 
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 23081 
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave): ⭐ 4768 
+- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico): ⭐ 12956 
+- [penpot/penpot](https://github.com/penpot/penpot): ⭐ 41272 
+- [awslabs/mcp](https://github.com/awslabs/mcp): ⭐ 7252 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): ⭐ 377072 
+- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook): ⭐ 1534 
+- [ad-on-is/rachoon](https://github.com/ad-on-is/rachoon): ⭐ 758 
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons): ⭐ 10780 
+- [jamwithai/arxiv-paper-curator](https://github.com/jamwithai/arxiv-paper-curator): ⭐ 1349 
+
 ## Trending On Date 2025-11-08
 
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager): ⭐ 7689 
