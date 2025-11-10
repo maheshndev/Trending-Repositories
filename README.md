@@ -7,6 +7,27 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-10
+
+- [usestrix/strix](https://github.com/usestrix/strix): ⭐ 6885 
+- [umami-software/umami](https://github.com/umami-software/umami): ⭐ 32841 
+- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook): ⭐ 1625 
+- [mui/material-ui](https://github.com/mui/material-ui): ⭐ 97120 
+- [google/adk-go](https://github.com/google/adk-go): ⭐ 646 
+- [axios/axios](https://github.com/axios/axios): ⭐ 108157 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 17794 
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave): ⭐ 4941 
+- [HyDE-Project/HyDE](https://github.com/HyDE-Project/HyDE): ⭐ 6915 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui): ⭐ 158004 
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager): ⭐ 7987 
+- [librespot-org/librespot](https://github.com/librespot-org/librespot): ⭐ 5943 
+- [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2): ⭐ 8931 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 76248 
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex): ⭐ 51316 
+- [lima-vm/lima](https://github.com/lima-vm/lima): ⭐ 18763 
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin): ⭐ 51694 
+- [ziglang/zig](https://github.com/ziglang/zig): ⭐ 42145 
+
 ## Trending On Date 2025-11-09
 
 - [usestrix/strix](https://github.com/usestrix/strix): ⭐ 4768 
