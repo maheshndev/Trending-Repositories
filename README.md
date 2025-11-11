@@ -7,6 +7,23 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-11
+
+- [google/adk-go](https://github.com/google/adk-go): ⭐ 1550 
+- [usestrix/strix](https://github.com/usestrix/strix): ⭐ 8815 
+- [umami-software/umami](https://github.com/umami-software/umami): ⭐ 33188 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 54979 
+- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook): ⭐ 1756 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv): ⭐ 99207 
+- [lzhoang2801/OpCore-Simplify](https://github.com/lzhoang2801/OpCore-Simplify): ⭐ 2261 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri): ⭐ 14759 
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games): ⭐ 2197 
+- [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai): ⭐ 1672 
+- [librespot-org/librespot](https://github.com/librespot-org/librespot): ⭐ 6067 
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud): ⭐ 3459 
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland): ⭐ 10415 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows): ⭐ 39430 
+
 ## Trending On Date 2025-11-10
 
 - [usestrix/strix](https://github.com/usestrix/strix): ⭐ 6885 
