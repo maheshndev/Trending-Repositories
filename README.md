@@ -7,6 +7,26 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-12
+
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar): ⭐ 6638 
+- [google/adk-go](https://github.com/google/adk-go): ⭐ 2453 
+- [usestrix/strix](https://github.com/usestrix/strix): ⭐ 9653 
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games): ⭐ 3111 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 55321 
+- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns): ⭐ 2878 
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN): ⭐ 4090 
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): ⭐ 132036 
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): ⭐ 44591 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine): ⭐ 31183 
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): ⭐ 28568 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): ⭐ 10921 
+- [google/adk-docs](https://github.com/google/adk-docs): ⭐ 793 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 89028 
+- [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics): ⭐ 26422 
+- [google/adk-web](https://github.com/google/adk-web): ⭐ 504 
+- [WICG/email-verification-protocol](https://github.com/WICG/email-verification-protocol): ⭐ 306 
+
 ## Trending On Date 2025-11-11
 
 - [google/adk-go](https://github.com/google/adk-go): ⭐ 1550 
