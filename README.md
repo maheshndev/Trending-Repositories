@@ -7,6 +7,27 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-11-28
+
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar): ⭐ 31052 
+- [google/adk-go](https://github.com/google/adk-go): ⭐ 5226 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 59634 
+- [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip): ⭐ 43995 
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): ⭐ 89909 
+- [traefik/traefik](https://github.com/traefik/traefik): ⭐ 59572 
+- [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG): ⭐ 24628 
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games): ⭐ 8870 
+- [volcengine/verl](https://github.com/volcengine/verl): ⭐ 16759 
+- [GibsonAI/Memori](https://github.com/GibsonAI/Memori): ⭐ 7609 
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): ⭐ 135100 
+- [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai): ⭐ 5002 
+- [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds): ⭐ 14126 
+- [playcanvas/engine](https://github.com/playcanvas/engine): ⭐ 13330 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv): ⭐ 103486 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows): ⭐ 45023 
+- [milvus-io/milvus](https://github.com/milvus-io/milvus): ⭐ 40594 
+- [wolfpld/tracy](https://github.com/wolfpld/tracy): ⭐ 14320 
+
 ## Trending On Date 2025-11-27
 
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar): ⭐ 29911 
