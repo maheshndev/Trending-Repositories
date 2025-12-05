@@ -8,6 +8,26 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-05
+
+- [basecamp/fizzy](https://github.com/basecamp/fizzy): ⭐ 3071 
+- [oven-sh/bun](https://github.com/oven-sh/bun): ⭐ 83581 
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io): ⭐ 3162 
+- [openai/codex](https://github.com/openai/codex): ⭐ 51846 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird): ⭐ 56328 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): ⭐ 17964 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 35513 
+- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs): ⭐ 13010 
+- [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit): ⭐ 13043 
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): ⭐ 18758 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners): ⭐ 79754 
+- [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes): ⭐ 119008 
+- [lynx-family/lynx](https://github.com/lynx-family/lynx): ⭐ 13666 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): ⭐ 446240 
+- [wshobson/agents](https://github.com/wshobson/agents): ⭐ 21957 
+- [bin456789/reinstall](https://github.com/bin456789/reinstall): ⭐ 9287 
+- [bobeff/open-source-games](https://github.com/bobeff/open-source-games): ⭐ 10252 
+
 ## Trending On Date 2025-12-04
 
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar): ⭐ 36774 
