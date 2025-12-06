@@ -8,6 +8,24 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-06
+
+- [basecamp/fizzy](https://github.com/basecamp/fizzy): ⭐ 4373 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs): ⭐ 14442 
+- [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit): ⭐ 13291 
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io): ⭐ 3952 
+- [facebook/react](https://github.com/facebook/react): ⭐ 241200 
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools): ⭐ 34761 
+- [vercel/next.js](https://github.com/vercel/next.js): ⭐ 136196 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): ⭐ 18449 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh): ⭐ 550 
+- [oven-sh/bun](https://github.com/oven-sh/bun): ⭐ 84138 
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): ⭐ 95902 
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice): ⭐ 10544 
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): ⭐ 18841 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 36011 
+- [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS): ⭐ 7554 
+
 ## Trending On Date 2025-12-05
 
 - [basecamp/fizzy](https://github.com/basecamp/fizzy): ⭐ 3071 
