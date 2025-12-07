@@ -8,6 +8,25 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-07
+
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice): ⭐ 11076 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs): ⭐ 15150 
+- [RosettaCommons/foundry](https://github.com/RosettaCommons/foundry): ⭐ 417 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh): ⭐ 827 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): ⭐ 21432 
+- [psviderski/uncloud](https://github.com/psviderski/uncloud): ⭐ 3841 
+- [oven-sh/bun](https://github.com/oven-sh/bun): ⭐ 84393 
+- [facebook/react](https://github.com/facebook/react): ⭐ 241321 
+- [lynx-family/lynx](https://github.com/lynx-family/lynx): ⭐ 13777 
+- [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion): ⭐ 6705 
+- [sapientinc/HRM](https://github.com/sapientinc/HRM): ⭐ 12062 
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates): ⭐ 11542 
+- [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk): ⭐ 2593 
+- [golang/go](https://github.com/golang/go): ⭐ 131245 
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts): ⭐ 10871 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy): ⭐ 30192 
+
 ## Trending On Date 2025-12-06
 
 - [basecamp/fizzy](https://github.com/basecamp/fizzy): ⭐ 4373 
