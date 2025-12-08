@@ -8,6 +8,23 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-08
+
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice): ⭐ 12221 
+- [NVIDIA/cutile-python](https://github.com/NVIDIA/cutile-python): ⭐ 738 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): ⭐ 21790 
+- [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS): ⭐ 7642 
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts): ⭐ 11160 
+- [rustfs/rustfs](https://github.com/rustfs/rustfs): ⭐ 15553 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 36770 
+- [BeehiveInnovations/pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server): ⭐ 10146 
+- [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local): ⭐ 1400 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh): ⭐ 1066 
+- [ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects): ⭐ 19292 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate): ⭐ 27675 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 12608 
+- [activepieces/activepieces](https://github.com/activepieces/activepieces): ⭐ 19498 
+
 ## Trending On Date 2025-12-07
 
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice): ⭐ 11076 
