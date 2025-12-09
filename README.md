@@ -8,6 +8,20 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-09
+
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice): ⭐ 14404 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh): ⭐ 1320 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps): ⭐ 13243 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): ⭐ 22397 
+- [slidevjs/slidev](https://github.com/slidevjs/slidev): ⭐ 42726 
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk): ⭐ 3733 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 13224 
+- [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts): ⭐ 11498 
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 31638 
+- [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local): ⭐ 1579 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners): ⭐ 80678 
+
 ## Trending On Date 2025-12-08
 
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice): ⭐ 12221 
