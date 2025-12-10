@@ -8,6 +8,22 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-10
+
+- [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju): ⭐ 1628 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 1482 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 18013 
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice): ⭐ 16348 
+- [NVIDIA/cutile-python](https://github.com/NVIDIA/cutile-python): ⭐ 1210 
+- [google/adk-samples](https://github.com/google/adk-samples): ⭐ 7065 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): ⭐ 22797 
+- [zhu-xlab/GlobalBuildingAtlas](https://github.com/zhu-xlab/GlobalBuildingAtlas): ⭐ 1133 
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 32024 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 103064 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 37540 
+- [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher): ⭐ 24335 
+- [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever): ⭐ 20145 
+
 ## Trending On Date 2025-12-09
 
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice): ⭐ 14404 
