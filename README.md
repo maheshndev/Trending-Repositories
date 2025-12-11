@@ -8,6 +8,23 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-11
+
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 2760 
+- [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju): ⭐ 2804 
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md): ⭐ 9530 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook): ⭐ 14048 
+- [dyad-sh/dyad](https://github.com/dyad-sh/dyad): ⭐ 18239 
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents): ⭐ 7061 
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice): ⭐ 17026 
+- [block/goose](https://github.com/block/goose): ⭐ 23394 
+- [666ghj/BettaFish](https://github.com/666ghj/BettaFish): ⭐ 32339 
+- [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk): ⭐ 4136 
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): ⭐ 103454 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow): ⭐ 69401 
+- [google/adk-samples](https://github.com/google/adk-samples): ⭐ 7357 
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners): ⭐ 81314 
+
 ## Trending On Date 2025-12-10
 
 - [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju): ⭐ 1628 
