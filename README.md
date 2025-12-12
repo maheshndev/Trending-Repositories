@@ -8,6 +8,22 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-12
+
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 3816 
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora): ⭐ 8139 
+- [block/goose](https://github.com/block/goose): ⭐ 23808 
+- [KaijuEngine/kaiju](https://github.com/KaijuEngine/kaiju): ⭐ 3382 
+- [tempoxyz/tempo](https://github.com/tempoxyz/tempo): ⭐ 343 
+- [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2): ⭐ 750 
+- [mlabonne/llm-course](https://github.com/mlabonne/llm-course): ⭐ 69883 
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md): ⭐ 10337 
+- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security): ⭐ 3568 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 61650 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): ⭐ 37646 
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack): ⭐ 4124 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk): ⭐ 103955 
+
 ## Trending On Date 2025-12-11
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 2760 
