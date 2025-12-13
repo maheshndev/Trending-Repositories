@@ -8,6 +8,23 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-13
+
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 4730 
+- [block/goose](https://github.com/block/goose): ⭐ 24063 
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents): ⭐ 8332 
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md): ⭐ 10871 
+- [GoogleCloudPlatform/agent-starter-pack](https://github.com/GoogleCloudPlatform/agent-starter-pack): ⭐ 4391 
+- [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2): ⭐ 809 
+- [refly-ai/refly](https://github.com/refly-ai/refly): ⭐ 5202 
+- [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security): ⭐ 3704 
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io): ⭐ 8250 
+- [tursodatabase/turso](https://github.com/tursodatabase/turso): ⭐ 15218 
+- [langgenius/dify](https://github.com/langgenius/dify): ⭐ 121409 
+- [tempoxyz/tempo](https://github.com/tempoxyz/tempo): ⭐ 447 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow): ⭐ 69682 
+- [grpc/grpc-go](https://github.com/grpc/grpc-go): ⭐ 22618 
+
 ## Trending On Date 2025-12-12
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 3816 
