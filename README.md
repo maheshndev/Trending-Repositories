@@ -8,6 +8,24 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-14
+
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit): ⭐ 26187 
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io): ⭐ 9129 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 5254 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): ⭐ 37825 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 19471 
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora): ⭐ 8559 
+- [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc): ⭐ 3624 
+- [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2): ⭐ 856 
+- [tursodatabase/turso](https://github.com/tursodatabase/turso): ⭐ 15368 
+- [langgenius/dify](https://github.com/langgenius/dify): ⭐ 121603 
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents): ⭐ 8718 
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md): ⭐ 11244 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui): ⭐ 102007 
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT): ⭐ 51019 
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp): ⭐ 16620 
+
 ## Trending On Date 2025-12-13
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 4730 
