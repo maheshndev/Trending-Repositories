@@ -8,6 +8,24 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-15
+
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 20330 
+- [openai/codex](https://github.com/openai/codex): ⭐ 53174 
+- [mdn/content](https://github.com/mdn/content): ⭐ 10029 
+- [Morganamilo/paru](https://github.com/Morganamilo/paru): ⭐ 7819 
+- [Mebus/cupp](https://github.com/Mebus/cupp): ⭐ 5217 
+- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs): ⭐ 13700 
+- [daytonaio/daytona](https://github.com/daytonaio/daytona): ⭐ 37252 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui): ⭐ 102351 
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents): ⭐ 9106 
+- [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa): ⭐ 5950 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 5827 
+- [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook): ⭐ 2480 
+- [tursodatabase/turso](https://github.com/tursodatabase/turso): ⭐ 15512 
+- [Tencent/WeKnora](https://github.com/Tencent/WeKnora): ⭐ 8777 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 42740 
+
 ## Trending On Date 2025-12-14
 
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit): ⭐ 26187 
