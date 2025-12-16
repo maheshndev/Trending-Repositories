@@ -8,6 +8,24 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-16
+
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 21807 
+- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs): ⭐ 14119 
+- [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop): ⭐ 4544 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui): ⭐ 102684 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit): ⭐ 26771 
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio): ⭐ 68923 
+- [Morganamilo/paru](https://github.com/Morganamilo/paru): ⭐ 7903 
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): ⭐ 12408 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): ⭐ 35408 
+- [openai/codex](https://github.com/openai/codex): ⭐ 53831 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 42938 
+- [theOehrly/Fast-F1](https://github.com/theOehrly/Fast-F1): ⭐ 4042 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): ⭐ 10788 
+- [daytonaio/daytona](https://github.com/daytonaio/daytona): ⭐ 37527 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): ⭐ 384784 
+
 ## Trending On Date 2025-12-15
 
 - [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 20330 
