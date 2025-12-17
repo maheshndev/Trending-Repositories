@@ -8,6 +8,22 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-17
+
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 22932 
+- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs): ⭐ 14438 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 43127 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 7423 
+- [Morganamilo/paru](https://github.com/Morganamilo/paru): ⭐ 7960 
+- [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop): ⭐ 4736 
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte): ⭐ 2805 
+- [eudoxia0/hashcards](https://github.com/eudoxia0/hashcards): ⭐ 699 
+- [openai/codex](https://github.com/openai/codex): ⭐ 54079 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): ⭐ 11431 
+- [mdn/content](https://github.com/mdn/content): ⭐ 10277 
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): ⭐ 35754 
+- [mnh-jansson/open-battery-information](https://github.com/mnh-jansson/open-battery-information): ⭐ 885 
+
 ## Trending On Date 2025-12-16
 
 - [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 21807 
