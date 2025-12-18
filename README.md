@@ -8,6 +8,20 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-18
+
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): ⭐ 12080 
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox): ⭐ 15820 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 43383 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 23471 
+- [Free-TV/IPTV](https://github.com/Free-TV/IPTV): ⭐ 8624 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): ⭐ 62875 
+- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN): ⭐ 10448 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): ⭐ 386075 
+- [nicotsx/zerobyte](https://github.com/nicotsx/zerobyte): ⭐ 3236 
+- [jellyfin/jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop): ⭐ 4884 
+- [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym): ⭐ 267 
+
 ## Trending On Date 2025-12-17
 
 - [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 22932 
