@@ -8,6 +8,15 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-19
+
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 46720 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 43617 
+- [astral-sh/ty](https://github.com/astral-sh/ty): ⭐ 14844 
+- [letta-ai/letta](https://github.com/letta-ai/letta): ⭐ 19874 
+- [schollz/croc](https://github.com/schollz/croc): ⭐ 32935 
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox): ⭐ 16245 
+
 ## Trending On Date 2025-12-18
 
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX): ⭐ 12080 
