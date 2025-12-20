@@ -8,6 +8,19 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-20
+
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac): ⭐ 96337 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 47155 
+- [NVIDIA-NeMo/Gym](https://github.com/NVIDIA-NeMo/Gym): ⭐ 461 
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT): ⭐ 9613 
+- [exo-explore/exo](https://github.com/exo-explore/exo): ⭐ 33671 
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): ⭐ 72608 
+- [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang): ⭐ 1466 
+- [google/adk-js](https://github.com/google/adk-js): ⭐ 401 
+- [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning): ⭐ 19016 
+- [metabase/metabase](https://github.com/metabase/metabase): ⭐ 45158 
+
 ## Trending On Date 2025-12-19
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 46720 
