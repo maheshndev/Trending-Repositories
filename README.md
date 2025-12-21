@@ -8,6 +8,20 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-21
+
+- [exo-explore/exo](https://github.com/exo-explore/exo): ⭐ 34592 
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit): ⭐ 2049 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 47438 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot): ⭐ 15055 
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): ⭐ 72861 
+- [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang): ⭐ 1712 
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications): ⭐ 47180 
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT): ⭐ 9803 
+- [NexaAI/nexa-sdk](https://github.com/NexaAI/nexa-sdk): ⭐ 6767 
+- [astral-sh/ty](https://github.com/astral-sh/ty): ⭐ 15261 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv): ⭐ 105867 
+
 ## Trending On Date 2025-12-20
 
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac): ⭐ 96337 
