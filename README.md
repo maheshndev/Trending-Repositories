@@ -8,6 +8,18 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-22
+
+- [exo-explore/exo](https://github.com/exo-explore/exo): ⭐ 35713 
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT): ⭐ 10046 
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): ⭐ 73104 
+- [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang): ⭐ 1928 
+- [pollen-robotics/reachy_mini](https://github.com/pollen-robotics/reachy_mini): ⭐ 497 
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex): ⭐ 4439 
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications): ⭐ 47644 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 47724 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): ⭐ 199134 
+
 ## Trending On Date 2025-12-21
 
 - [exo-explore/exo](https://github.com/exo-explore/exo): ⭐ 34592 
