@@ -8,6 +8,26 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-23
+
+- [exo-explore/exo](https://github.com/exo-explore/exo): ⭐ 37077 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv): ⭐ 106464 
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): ⭐ 73388 
+- [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT): ⭐ 10346 
+- [anthropics/skills](https://github.com/anthropics/skills): ⭐ 25047 
+- [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex): ⭐ 4784 
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric): ⭐ 36077 
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow): ⭐ 192989 
+- [rendercv/rendercv](https://github.com/rendercv/rendercv): ⭐ 5117 
+- [home-assistant/core](https://github.com/home-assistant/core): ⭐ 83486 
+- [Semperis/EntraGoat](https://github.com/Semperis/EntraGoat): ⭐ 802 
+- [google/langextract](https://github.com/google/langextract): ⭐ 18235 
+- [expressjs/express](https://github.com/expressjs/express): ⭐ 68401 
+- [lintsinghua/DeepAudit](https://github.com/lintsinghua/DeepAudit): ⭐ 2435 
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications): ⭐ 48089 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x): ⭐ 451185 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI): ⭐ 40510 
+
 ## Trending On Date 2025-12-22
 
 - [exo-explore/exo](https://github.com/exo-explore/exo): ⭐ 35713 
