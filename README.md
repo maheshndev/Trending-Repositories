@@ -8,6 +8,23 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-24
+
+- [rendercv/rendercv](https://github.com/rendercv/rendercv): ⭐ 7000 
+- [exo-explore/exo](https://github.com/exo-explore/exo): ⭐ 37903 
+- [google/langextract](https://github.com/google/langextract): ⭐ 18669 
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN): ⭐ 5468 
+- [safety-research/bloom](https://github.com/safety-research/bloom): ⭐ 569 
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW): ⭐ 14565 
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure): ⭐ 7103 
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications): ⭐ 48449 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui): ⭐ 118682 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): ⭐ 13358 
+- [makeplane/plane](https://github.com/makeplane/plane): ⭐ 41097 
+- [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know): ⭐ 2872 
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings): ⭐ 73624 
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni): ⭐ 1415 
+
 ## Trending On Date 2025-12-23
 
 - [exo-explore/exo](https://github.com/exo-explore/exo): ⭐ 37077 
