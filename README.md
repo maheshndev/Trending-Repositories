@@ -8,6 +8,25 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-25
+
+- [rendercv/rendercv](https://github.com/rendercv/rendercv): ⭐ 9135 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm): ⭐ 68524 
+- [google/langextract](https://github.com/google/langextract): ⭐ 19071 
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni): ⭐ 1578 
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW): ⭐ 14964 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): ⭐ 13636 
+- [safety-research/bloom](https://github.com/safety-research/bloom): ⭐ 761 
+- [makeplane/plane](https://github.com/makeplane/plane): ⭐ 41419 
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN): ⭐ 5806 
+- [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric): ⭐ 36527 
+- [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin): ⭐ 2579 
+- [langgenius/dify](https://github.com/langgenius/dify): ⭐ 122982 
+- [anthropics/skills](https://github.com/anthropics/skills): ⭐ 26580 
+- [etcd-io/etcd](https://github.com/etcd-io/etcd): ⭐ 51127 
+- [facebookresearch/dinov3](https://github.com/facebookresearch/dinov3): ⭐ 9020 
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure): ⭐ 7368 
+
 ## Trending On Date 2025-12-24
 
 - [rendercv/rendercv](https://github.com/rendercv/rendercv): ⭐ 7000 
