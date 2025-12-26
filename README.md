@@ -8,6 +8,18 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-26
+
+- [rendercv/rendercv](https://github.com/rendercv/rendercv): ⭐ 10847 
+- [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know): ⭐ 3197 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm): ⭐ 68799 
+- [vendure-ecommerce/vendure](https://github.com/vendure-ecommerce/vendure): ⭐ 7592 
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN): ⭐ 6117 
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox): ⭐ 17763 
+- [makeplane/plane](https://github.com/makeplane/plane): ⭐ 41803 
+- [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni): ⭐ 1714 
+- [ModelTC/LightX2V](https://github.com/ModelTC/LightX2V): ⭐ 1435 
+
 ## Trending On Date 2025-12-25
 
 - [rendercv/rendercv](https://github.com/rendercv/rendercv): ⭐ 9135 
