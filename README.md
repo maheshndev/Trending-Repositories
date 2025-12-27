@@ -8,6 +8,15 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-27
+
+- [rendercv/rendercv](https://github.com/rendercv/rendercv): ⭐ 12184 
+- [langgenius/dify](https://github.com/langgenius/dify): ⭐ 123612 
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 40844 
+- [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface): ⭐ 866 
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN): ⭐ 6431 
+- [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin): ⭐ 3028 
+
 ## Trending On Date 2025-12-26
 
 - [rendercv/rendercv](https://github.com/rendercv/rendercv): ⭐ 10847 
