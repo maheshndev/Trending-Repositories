@@ -8,6 +8,14 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-28
+
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 215571 
+- [xerrors/Yuxi-Know](https://github.com/xerrors/Yuxi-Know): ⭐ 3473 
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto): ⭐ 3747 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 84522 
+- [rendercv/rendercv](https://github.com/rendercv/rendercv): ⭐ 12681 
+
 ## Trending On Date 2025-12-27
 
 - [rendercv/rendercv](https://github.com/rendercv/rendercv): ⭐ 12184 
