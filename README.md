@@ -8,6 +8,18 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-29
+
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): ⭐ 20155 
+- [tw93/Mole](https://github.com/tw93/Mole): ⭐ 21473 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 215852 
+- [Sergeydigl3/zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux): ⭐ 838 
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban): ⭐ 7399 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython): ⭐ 21142 
+- [QuantConnect/Lean](https://github.com/QuantConnect/Lean): ⭐ 14473 
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): ⭐ 84877 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh): ⭐ 3806 
+
 ## Trending On Date 2025-12-28
 
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 215571 
