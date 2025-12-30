@@ -8,6 +8,23 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-30
+
+- [QuantConnect/Lean](https://github.com/QuantConnect/Lean): ⭐ 14871 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython): ⭐ 21345 
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): ⭐ 20318 
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban): ⭐ 8016 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): ⭐ 25417 
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar): ⭐ 41338 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh): ⭐ 4125 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 103426 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): ⭐ 72032 
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox): ⭐ 19204 
+- [antiwork/gumroad](https://github.com/antiwork/gumroad): ⭐ 7944 
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python): ⭐ 216121 
+- [vanilla-wiiu/vanilla](https://github.com/vanilla-wiiu/vanilla): ⭐ 1473 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin): ⭐ 47099 
+
 ## Trending On Date 2025-12-29
 
 - [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): ⭐ 20155 
