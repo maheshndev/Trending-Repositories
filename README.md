@@ -8,6 +8,22 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2025-12-31
+
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban): ⭐ 9111 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): ⭐ 104125 
+- [QuantConnect/Lean](https://github.com/QuantConnect/Lean): ⭐ 15196 
+- [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics): ⭐ 9023 
+- [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide): ⭐ 807 
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox): ⭐ 19646 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython): ⭐ 21510 
+- [sinelaw/fresh](https://github.com/sinelaw/fresh): ⭐ 4341 
+- [alexta69/metube](https://github.com/alexta69/metube): ⭐ 11577 
+- [anthropics/skills](https://github.com/anthropics/skills): ⭐ 30229 
+- [cjpais/Handy](https://github.com/cjpais/Handy): ⭐ 9474 
+- [sst/opencode](https://github.com/sst/opencode): ⭐ 44485 
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): ⭐ 80520 
+
 ## Trending On Date 2025-12-30
 
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean): ⭐ 14871 
