@@ -9,6 +9,21 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-02
+
+- [awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples): ⭐ 1996 
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban): ⭐ 10787 
+- [usememos/memos](https://github.com/usememos/memos): ⭐ 48086 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps): ⭐ 12811 
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC): ⭐ 1904 
+- [HQarroum/docker-android](https://github.com/HQarroum/docker-android): ⭐ 1215 
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book): ⭐ 14483 
+- [Polymarket/agents](https://github.com/Polymarket/agents): ⭐ 1436 
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models): ⭐ 19388 
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN): ⭐ 7821 
+- [livekit/agents](https://github.com/livekit/agents): ⭐ 8800 
+- [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io): ⭐ 16187 
+
 ## Trending On Date 2026-01-01
 
 - [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC): ⭐ 1564 
