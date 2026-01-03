@@ -9,6 +9,18 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-03
+
+- [HQarroum/docker-android](https://github.com/HQarroum/docker-android): ⭐ 1765 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb): ⭐ 59918 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook): ⭐ 70417 
+- [ourongxing/newsnow](https://github.com/ourongxing/newsnow): ⭐ 16026 
+- [rossant/awesome-math](https://github.com/rossant/awesome-math): ⭐ 12970 
+- [usememos/memos](https://github.com/usememos/memos): ⭐ 48915 
+- [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily): ⭐ 43824 
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper): ⭐ 20052 
+- [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt): ⭐ 14511 
+
 ## Trending On Date 2026-01-02
 
 - [awslabs/amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples): ⭐ 1996 
