@@ -9,6 +9,17 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-04
+
+- [usememos/memos](https://github.com/usememos/memos): ⭐ 50219 
+- [ourongxing/newsnow](https://github.com/ourongxing/newsnow): ⭐ 16311 
+- [pathwaycom/pathway](https://github.com/pathwaycom/pathway): ⭐ 55969 
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): ⭐ 56454 
+- [HQarroum/docker-android](https://github.com/HQarroum/docker-android): ⭐ 2157 
+- [beancount/beancount](https://github.com/beancount/beancount): ⭐ 4965 
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js): ⭐ 9089 
+- [nukeop/nuclear](https://github.com/nukeop/nuclear): ⭐ 16796 
+
 ## Trending On Date 2026-01-03
 
 - [HQarroum/docker-android](https://github.com/HQarroum/docker-android): ⭐ 1765 
