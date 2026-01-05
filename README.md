@@ -9,6 +9,19 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-05
+
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): ⭐ 56813 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook): ⭐ 70645 
+- [nocodb/nocodb](https://github.com/nocodb/nocodb): ⭐ 60627 
+- [HQarroum/docker-android](https://github.com/HQarroum/docker-android): ⭐ 2487 
+- [usememos/memos](https://github.com/usememos/memos): ⭐ 51276 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): ⭐ 44517 
+- [ourongxing/newsnow](https://github.com/ourongxing/newsnow): ⭐ 16585 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode): ⭐ 47822 
+- [5rahim/seanime](https://github.com/5rahim/seanime): ⭐ 2143 
+- [python/cpython](https://github.com/python/cpython): ⭐ 70710 
+
 ## Trending On Date 2026-01-04
 
 - [usememos/memos](https://github.com/usememos/memos): ⭐ 50219 
