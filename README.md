@@ -9,6 +9,19 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-07
+
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): ⭐ 70092 
+- [Lissy93/web-check](https://github.com/Lissy93/web-check): ⭐ 27829 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys): ⭐ 127285 
+- [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action): ⭐ 4776 
+- [microsoft/BitNet](https://github.com/microsoft/BitNet): ⭐ 25381 
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis): ⭐ 6900 
+- [kirodotdev/Kiro](https://github.com/kirodotdev/Kiro): ⭐ 2682 
+- [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment): ⭐ 7095 
+- [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex): ⭐ 4732 
+- [bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting): ⭐ 5401 
+
 ## Trending On Date 2026-01-06
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode): ⭐ 49860 
