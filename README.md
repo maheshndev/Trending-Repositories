@@ -9,6 +9,22 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-08
+
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 11940 
+- [google/googletest](https://github.com/google/googletest): ⭐ 37770 
+- [Lissy93/web-check](https://github.com/Lissy93/web-check): ⭐ 28546 
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys): ⭐ 127610 
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): ⭐ 70184 
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp): ⭐ 19009 
+- [memvid/memvid](https://github.com/memvid/memvid): ⭐ 11412 
+- [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub): ⭐ 25290 
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook): ⭐ 16688 
+- [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis): ⭐ 7282 
+- [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro): ⭐ 1439 
+- [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker): ⭐ 2674 
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): ⭐ 28385 
+
 ## Trending On Date 2026-01-07
 
 - [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): ⭐ 70092 
