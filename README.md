@@ -9,6 +9,24 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-09
+
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp): ⭐ 19364 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 53420 
+- [nothings/stb](https://github.com/nothings/stb): ⭐ 31652 
+- [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker): ⭐ 3470 
+- [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf): ⭐ 70239 
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 12518 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe): ⭐ 12868 
+- [NVlabs/alpasim](https://github.com/NVlabs/alpasim): ⭐ 531 
+- [Lissy93/web-check](https://github.com/Lissy93/web-check): ⭐ 28989 
+- [google/googletest](https://github.com/google/googletest): ⭐ 37860 
+- [apache/superset](https://github.com/apache/superset): ⭐ 69847 
+- [memvid/memvid](https://github.com/memvid/memvid): ⭐ 11749 
+- [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo): ⭐ 2655 
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU): ⭐ 3824 
+- [HKUDS/VideoRAG](https://github.com/HKUDS/VideoRAG): ⭐ 2054 
+
 ## Trending On Date 2026-01-08
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): ⭐ 11940 
