@@ -9,6 +9,21 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-10
+
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp): ⭐ 19752 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 54162 
+- [obra/superpowers](https://github.com/obra/superpowers): ⭐ 15381 
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss): ⭐ 92477 
+- [netbirdio/netbird](https://github.com/netbirdio/netbird): ⭐ 20857 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): ⭐ 13943 
+- [Lightricks/ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo): ⭐ 2787 
+- [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker): ⭐ 3950 
+- [google/googletest](https://github.com/google/googletest): ⭐ 37942 
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop): ⭐ 21821 
+- [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever): ⭐ 21508 
+- [anomalyco/opencode](https://github.com/anomalyco/opencode): ⭐ 57428 
+
 ## Trending On Date 2026-01-09
 
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp): ⭐ 19364 
