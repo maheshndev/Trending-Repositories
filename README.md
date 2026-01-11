@@ -9,6 +9,22 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-11
+
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 54765 
+- [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp): ⭐ 20067 
+- [github/awesome-copilot](https://github.com/github/awesome-copilot): ⭐ 16954 
+- [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU): ⭐ 4280 
+- [obra/superpowers](https://github.com/obra/superpowers): ⭐ 16200 
+- [google/googletest](https://github.com/google/googletest): ⭐ 38023 
+- [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe): ⭐ 13263 
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop): ⭐ 22339 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): ⭐ 14260 
+- [opf/openproject](https://github.com/opf/openproject): ⭐ 13657 
+- [MiroMindAI/MiroThinker](https://github.com/MiroMindAI/MiroThinker): ⭐ 4229 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): ⭐ 77170 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty): ⭐ 38383 
+
 ## Trending On Date 2026-01-10
 
 - [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp): ⭐ 19752 
