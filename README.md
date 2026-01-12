@@ -9,6 +9,22 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-12
+
+- [anomalyco/opencode](https://github.com/anomalyco/opencode): ⭐ 62047 
+- [obra/superpowers](https://github.com/obra/superpowers): ⭐ 17116 
+- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code): ⭐ 1609 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): ⭐ 15599 
+- [makeplane/plane](https://github.com/makeplane/plane): ⭐ 43571 
+- [twitter/twemoji](https://github.com/twitter/twemoji): ⭐ 17445 
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop): ⭐ 22802 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty): ⭐ 38664 
+- [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): ⭐ 7944 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 55285 
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): ⭐ 14604 
+- [simstudioai/sim](https://github.com/simstudioai/sim): ⭐ 25430 
+- [gyoridavid/ai_agents_az](https://github.com/gyoridavid/ai_agents_az): ⭐ 2459 
+
 ## Trending On Date 2026-01-11
 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code): ⭐ 54765 
