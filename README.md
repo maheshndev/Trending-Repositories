@@ -9,6 +9,21 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-13
+
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): ⭐ 33643 
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): ⭐ 42187 
+- [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code): ⭐ 2243 
+- [iptv-org/iptv](https://github.com/iptv-org/iptv): ⭐ 109376 
+- [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): ⭐ 77532 
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop): ⭐ 23219 
+- [obra/superpowers](https://github.com/obra/superpowers): ⭐ 18737 
+- [ruvnet/claude-flow](https://github.com/ruvnet/claude-flow): ⭐ 11702 
+- [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): ⭐ 8148 
+- [mpv-player/mpv](https://github.com/mpv-player/mpv): ⭐ 33496 
+- [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev): ⭐ 28384 
+- [opf/openproject](https://github.com/opf/openproject): ⭐ 13957 
+
 ## Trending On Date 2026-01-12
 
 - [anomalyco/opencode](https://github.com/anomalyco/opencode): ⭐ 62047 
