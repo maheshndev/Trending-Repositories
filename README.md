@@ -9,6 +9,18 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-14
+
+- [obra/superpowers](https://github.com/obra/superpowers): ⭐ 20494 
+- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader): ⭐ 11016 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate): ⭐ 28979 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm): ⭐ 69555 
+- [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io): ⭐ 8327 
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz): ⭐ 16794 
+- [adam-maj/tiny-gpu](https://github.com/adam-maj/tiny-gpu): ⭐ 9845 
+- [Free-TV/IPTV](https://github.com/Free-TV/IPTV): ⭐ 10610 
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook): ⭐ 24111 
+
 ## Trending On Date 2026-01-13
 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): ⭐ 33643 
