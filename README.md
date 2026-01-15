@@ -9,6 +9,16 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-15
+
+- [obra/superpowers](https://github.com/obra/superpowers): ⭐ 22364 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm): ⭐ 69893 
+- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening): ⭐ 5017 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI): ⭐ 41584 
+- [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp): ⭐ 6008 
+- [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI): ⭐ 8450 
+- [rancher/rancher](https://github.com/rancher/rancher): ⭐ 25157 
+
 ## Trending On Date 2026-01-14
 
 - [obra/superpowers](https://github.com/obra/superpowers): ⭐ 20494 
