@@ -9,6 +9,19 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-16
+
+- [eigent-ai/eigent](https://github.com/eigent-ai/eigent): ⭐ 6130 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate): ⭐ 29378 
+- [obra/superpowers](https://github.com/obra/superpowers): ⭐ 24413 
+- [cilium/cilium](https://github.com/cilium/cilium): ⭐ 23359 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm): ⭐ 16453 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics): ⭐ 51444 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI): ⭐ 41927 
+- [google-ai-edge/mediapipe](https://github.com/google-ai-edge/mediapipe): ⭐ 33210 
+- [puckeditor/puck](https://github.com/puckeditor/puck): ⭐ 10662 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm): ⭐ 70233 
+
 ## Trending On Date 2026-01-15
 
 - [obra/superpowers](https://github.com/obra/superpowers): ⭐ 22364 
