@@ -9,6 +9,18 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-17
+
+- [obra/superpowers](https://github.com/obra/superpowers): ⭐ 26117 
+- [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots): ⭐ 1158 
+- [google/langextract](https://github.com/google/langextract): ⭐ 21194 
+- [cjpais/Handy](https://github.com/cjpais/Handy): ⭐ 11844 
+- [puckeditor/puck](https://github.com/puckeditor/puck): ⭐ 11066 
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics): ⭐ 51775 
+- [eigent-ai/eigent](https://github.com/eigent-ai/eigent): ⭐ 7552 
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): ⭐ 4311 
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md): ⭐ 15374 
+
 ## Trending On Date 2026-01-16
 
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent): ⭐ 6130 
