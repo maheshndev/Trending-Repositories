@@ -9,6 +9,14 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-18
+
+- [eigent-ai/eigent](https://github.com/eigent-ai/eigent): ⭐ 8674 
+- [obra/superpowers](https://github.com/obra/superpowers): ⭐ 27446 
+- [puckeditor/puck](https://github.com/puckeditor/puck): ⭐ 11402 
+- [google/langextract](https://github.com/google/langextract): ⭐ 21604 
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): ⭐ 4922 
+
 ## Trending On Date 2026-01-17
 
 - [obra/superpowers](https://github.com/obra/superpowers): ⭐ 26117 
