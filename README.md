@@ -9,6 +9,18 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-19
+
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): ⭐ 5702 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp): ⭐ 142512 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 17617 
+- [google/langextract](https://github.com/google/langextract): ⭐ 22095 
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM): ⭐ 4270 
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN): ⭐ 8996 
+- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): ⭐ 21236 
+- [tobi/try](https://github.com/tobi/try): ⭐ 2710 
+- [Mebus/cupp](https://github.com/Mebus/cupp): ⭐ 5563 
+
 ## Trending On Date 2026-01-18
 
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent): ⭐ 8674 
