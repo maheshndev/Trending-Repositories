@@ -282,3 +282,14 @@
 - [Trending-On-Month-November-2025.md](./Trending-On-Month-November-2025.md)
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-01-20
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/OpenBMB/VoxCPM' class='text-blue-600 hover:underline'>OpenBMB/VoxCPM</a> ⭐ 5119</li>
+<li class='mb-2'><a href='https://github.com/google/langextract' class='text-blue-600 hover:underline'>google/langextract</a> ⭐ 22887</li>
+<li class='mb-2'><a href='https://github.com/iOfficeAI/AionUi' class='text-blue-600 hover:underline'>iOfficeAI/AionUi</a> ⭐ 7167</li>
+<li class='mb-2'><a href='https://github.com/czlonkowski/n8n-mcp' class='text-blue-600 hover:underline'>czlonkowski/n8n-mcp</a> ⭐ 12324</li>
+<li class='mb-2'><a href='https://github.com/nautechsystems/nautilus_trader' class='text-blue-600 hover:underline'>nautechsystems/nautilus_trader</a> ⭐ 18190</li>
+<li class='mb-2'><a href='https://github.com/ahujasid/blender-mcp' class='text-blue-600 hover:underline'>ahujasid/blender-mcp</a> ⭐ 16037</li>
+<li class='mb-2'><a href='https://github.com/yichuan-w/LEANN' class='text-blue-600 hover:underline'>yichuan-w/LEANN</a> ⭐ 9427</li>
+<li class='mb-2'><a href='https://github.com/DavidXanatos/TaskExplorer' class='text-blue-600 hover:underline'>DavidXanatos/TaskExplorer</a> ⭐ 2575</li>
+
