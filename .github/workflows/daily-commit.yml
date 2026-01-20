@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -21,19 +21,16 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install requests
+      - name: Install dependencies
         run: pip install beautifulsoup4 requests
 
-      - name: Run update script
+      - name: Run trending update
         run: python3 update_trending.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
 
       - name: Commit and push changes
         run: |
           git config user.name "github-action"
           git config user.email "maheshnarsale@outlook.com"
-          git add .
-          git commit -m "Update trending repositories for $(date +'%Y-%m-%d')" || echo "No changes to commit"
+          git add index.html old/*.html README.md
+          git commit -m "Daily trending update $(date +'%Y-%m-%d')" || echo "No changes to commit"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
