@@ -9,6 +9,17 @@
 - [Trending-On-Month-October-2025.md](./Trending-On-Month-October-2025.md)
 - [Trending-On-Month-September-2025.md](./Trending-On-Month-September-2025.md)
 
+## Trending On Date 2026-01-20
+
+- [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM): ⭐ 4909 
+- [google/langextract](https://github.com/google/langextract): ⭐ 22710 
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): ⭐ 6868 
+- [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp): ⭐ 12192 
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): ⭐ 18065 
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp): ⭐ 15932 
+- [yichuan-w/LEANN](https://github.com/yichuan-w/LEANN): ⭐ 9328 
+- [DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer): ⭐ 2466 
+
 ## Trending On Date 2026-01-19
 
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi): ⭐ 5702 
