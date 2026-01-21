@@ -293,3 +293,14 @@
 <li class='mb-2'><a href='https://github.com/yichuan-w/LEANN' class='text-blue-600 hover:underline'>yichuan-w/LEANN</a> ⭐ 9427</li>
 <li class='mb-2'><a href='https://github.com/DavidXanatos/TaskExplorer' class='text-blue-600 hover:underline'>DavidXanatos/TaskExplorer</a> ⭐ 2575</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-01-21
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/microsoft/agent-lightning' class='text-blue-600 hover:underline'>microsoft/agent-lightning</a> ⭐ 10793</li>
+<li class='mb-2'><a href='https://github.com/iOfficeAI/AionUi' class='text-blue-600 hover:underline'>iOfficeAI/AionUi</a> ⭐ 7849</li>
+<li class='mb-2'><a href='https://github.com/google/langextract' class='text-blue-600 hover:underline'>google/langextract</a> ⭐ 23209</li>
+<li class='mb-2'><a href='https://github.com/AlexxIT/go2rtc' class='text-blue-600 hover:underline'>AlexxIT/go2rtc</a> ⭐ 11546</li>
+<li class='mb-2'><a href='https://github.com/lukasz-madon/awesome-remote-job' class='text-blue-600 hover:underline'>lukasz-madon/awesome-remote-job</a> ⭐ 42594</li>
+<li class='mb-2'><a href='https://github.com/tobi/try' class='text-blue-600 hover:underline'>tobi/try</a> ⭐ 2943</li>
+<li class='mb-2'><a href='https://github.com/DavidXanatos/TaskExplorer' class='text-blue-600 hover:underline'>DavidXanatos/TaskExplorer</a> ⭐ 2766</li>
+
