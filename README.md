@@ -304,3 +304,15 @@
 <li class='mb-2'><a href='https://github.com/tobi/try' class='text-blue-600 hover:underline'>tobi/try</a> ⭐ 2943</li>
 <li class='mb-2'><a href='https://github.com/DavidXanatos/TaskExplorer' class='text-blue-600 hover:underline'>DavidXanatos/TaskExplorer</a> ⭐ 2766</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-01-22
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tambo-ai/tambo' class='text-blue-600 hover:underline'>tambo-ai/tambo</a> ⭐ 3316</li>
+<li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 5696</li>
+<li class='mb-2'><a href='https://github.com/twitter/the-algorithm' class='text-blue-600 hover:underline'>twitter/the-algorithm</a> ⭐ 71378</li>
+<li class='mb-2'><a href='https://github.com/xai-org/grok-1' class='text-blue-600 hover:underline'>xai-org/grok-1</a> ⭐ 50965</li>
+<li class='mb-2'><a href='https://github.com/microsoft/agent-lightning' class='text-blue-600 hover:underline'>microsoft/agent-lightning</a> ⭐ 11208</li>
+<li class='mb-2'><a href='https://github.com/VectifyAI/PageIndex' class='text-blue-600 hover:underline'>VectifyAI/PageIndex</a> ⭐ 6106</li>
+<li class='mb-2'><a href='https://github.com/microsoft/Data-Science-For-Beginners' class='text-blue-600 hover:underline'>microsoft/Data-Science-For-Beginners</a> ⭐ 32282</li>
+<li class='mb-2'><a href='https://github.com/tobi/try' class='text-blue-600 hover:underline'>tobi/try</a> ⭐ 3146</li>
+
