@@ -316,3 +316,18 @@
 <li class='mb-2'><a href='https://github.com/microsoft/Data-Science-For-Beginners' class='text-blue-600 hover:underline'>microsoft/Data-Science-For-Beginners</a> ⭐ 32282</li>
 <li class='mb-2'><a href='https://github.com/tobi/try' class='text-blue-600 hover:underline'>tobi/try</a> ⭐ 3146</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-01-23
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/remotion-dev/remotion' class='text-blue-600 hover:underline'>remotion-dev/remotion</a> ⭐ 27080</li>
+<li class='mb-2'><a href='https://github.com/block/goose' class='text-blue-600 hover:underline'>block/goose</a> ⭐ 27175</li>
+<li class='mb-2'><a href='https://github.com/twitter/the-algorithm' class='text-blue-600 hover:underline'>twitter/the-algorithm</a> ⭐ 71768</li>
+<li class='mb-2'><a href='https://github.com/xai-org/grok-1' class='text-blue-600 hover:underline'>xai-org/grok-1</a> ⭐ 51235</li>
+<li class='mb-2'><a href='https://github.com/deepseek-ai/FlashMLA' class='text-blue-600 hover:underline'>deepseek-ai/FlashMLA</a> ⭐ 12157</li>
+<li class='mb-2'><a href='https://github.com/microsoft/agent-lightning' class='text-blue-600 hover:underline'>microsoft/agent-lightning</a> ⭐ 11476</li>
+<li class='mb-2'><a href='https://github.com/iOfficeAI/AionUi' class='text-blue-600 hover:underline'>iOfficeAI/AionUi</a> ⭐ 9268</li>
+<li class='mb-2'><a href='https://github.com/mastra-ai/mastra' class='text-blue-600 hover:underline'>mastra-ai/mastra</a> ⭐ 20177</li>
+<li class='mb-2'><a href='https://github.com/microsoft/Data-Science-For-Beginners' class='text-blue-600 hover:underline'>microsoft/Data-Science-For-Beginners</a> ⭐ 32888</li>
+<li class='mb-2'><a href='https://github.com/nexmoe/VidBee' class='text-blue-600 hover:underline'>nexmoe/VidBee</a> ⭐ 4666</li>
+<li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 8424</li>
+
