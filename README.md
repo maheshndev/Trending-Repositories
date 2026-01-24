@@ -331,3 +331,20 @@
 <li class='mb-2'><a href='https://github.com/nexmoe/VidBee' class='text-blue-600 hover:underline'>nexmoe/VidBee</a> ⭐ 4666</li>
 <li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 8424</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-01-24
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/remotion-dev/remotion' class='text-blue-600 hover:underline'>remotion-dev/remotion</a> ⭐ 28478</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 21279</li>
+<li class='mb-2'><a href='https://github.com/block/goose' class='text-blue-600 hover:underline'>block/goose</a> ⭐ 27608</li>
+<li class='mb-2'><a href='https://github.com/ai-dynamo/dynamo' class='text-blue-600 hover:underline'>ai-dynamo/dynamo</a> ⭐ 5918</li>
+<li class='mb-2'><a href='https://github.com/browser-use/browser-use' class='text-blue-600 hover:underline'>browser-use/browser-use</a> ⭐ 76389</li>
+<li class='mb-2'><a href='https://github.com/github/copilot-cli' class='text-blue-600 hover:underline'>github/copilot-cli</a> ⭐ 7240</li>
+<li class='mb-2'><a href='https://github.com/Asabeneh/30-Days-Of-Python' class='text-blue-600 hover:underline'>Asabeneh/30-Days-Of-Python</a> ⭐ 56348</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 59969</li>
+<li class='mb-2'><a href='https://github.com/deepseek-ai/FlashMLA' class='text-blue-600 hover:underline'>deepseek-ai/FlashMLA</a> ⭐ 12322</li>
+<li class='mb-2'><a href='https://github.com/microsoft/Data-Science-For-Beginners' class='text-blue-600 hover:underline'>microsoft/Data-Science-For-Beginners</a> ⭐ 33378</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/UltraRAG' class='text-blue-600 hover:underline'>OpenBMB/UltraRAG</a> ⭐ 2968</li>
+<li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 8648</li>
+<li class='mb-2'><a href='https://github.com/KellerJordan/modded-nanogpt' class='text-blue-600 hover:underline'>KellerJordan/modded-nanogpt</a> ⭐ 4387</li>
+
