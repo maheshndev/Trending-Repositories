@@ -348,3 +348,17 @@
 <li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 8648</li>
 <li class='mb-2'><a href='https://github.com/KellerJordan/modded-nanogpt' class='text-blue-600 hover:underline'>KellerJordan/modded-nanogpt</a> ⭐ 4387</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-01-25
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/remotion-dev/remotion' class='text-blue-600 hover:underline'>remotion-dev/remotion</a> ⭐ 29582</li>
+<li class='mb-2'><a href='https://github.com/VectifyAI/PageIndex' class='text-blue-600 hover:underline'>VectifyAI/PageIndex</a> ⭐ 8408</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/UltraRAG' class='text-blue-600 hover:underline'>OpenBMB/UltraRAG</a> ⭐ 3468</li>
+<li class='mb-2'><a href='https://github.com/browser-use/browser-use' class='text-blue-600 hover:underline'>browser-use/browser-use</a> ⭐ 76809</li>
+<li class='mb-2'><a href='https://github.com/block/goose' class='text-blue-600 hover:underline'>block/goose</a> ⭐ 28389</li>
+<li class='mb-2'><a href='https://github.com/Blaizzy/mlx-audio' class='text-blue-600 hover:underline'>Blaizzy/mlx-audio</a> ⭐ 3533</li>
+<li class='mb-2'><a href='https://github.com/simstudioai/sim' class='text-blue-600 hover:underline'>simstudioai/sim</a> ⭐ 26158</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 21660</li>
+<li class='mb-2'><a href='https://github.com/putyy/res-downloader' class='text-blue-600 hover:underline'>putyy/res-downloader</a> ⭐ 14378</li>
+<li class='mb-2'><a href='https://github.com/AI4Finance-Foundation/FinRobot' class='text-blue-600 hover:underline'>AI4Finance-Foundation/FinRobot</a> ⭐ 5238</li>
+
