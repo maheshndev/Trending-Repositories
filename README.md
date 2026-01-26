@@ -362,3 +362,16 @@
 <li class='mb-2'><a href='https://github.com/putyy/res-downloader' class='text-blue-600 hover:underline'>putyy/res-downloader</a> ⭐ 14378</li>
 <li class='mb-2'><a href='https://github.com/AI4Finance-Foundation/FinRobot' class='text-blue-600 hover:underline'>AI4Finance-Foundation/FinRobot</a> ⭐ 5238</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-01-26
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Blaizzy/mlx-audio' class='text-blue-600 hover:underline'>Blaizzy/mlx-audio</a> ⭐ 4311</li>
+<li class='mb-2'><a href='https://github.com/VectifyAI/PageIndex' class='text-blue-600 hover:underline'>VectifyAI/PageIndex</a> ⭐ 9095</li>
+<li class='mb-2'><a href='https://github.com/remotion-dev/remotion' class='text-blue-600 hover:underline'>remotion-dev/remotion</a> ⭐ 30707</li>
+<li class='mb-2'><a href='https://github.com/qarmin/czkawka' class='text-blue-600 hover:underline'>qarmin/czkawka</a> ⭐ 28592</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/UltraRAG' class='text-blue-600 hover:underline'>OpenBMB/UltraRAG</a> ⭐ 4081</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 22062</li>
+<li class='mb-2'><a href='https://github.com/openai/codex' class='text-blue-600 hover:underline'>openai/codex</a> ⭐ 57454</li>
+<li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 14723</li>
+<li class='mb-2'><a href='https://github.com/Psiphon-Inc/conduit' class='text-blue-600 hover:underline'>Psiphon-Inc/conduit</a> ⭐ 92</li>
+
