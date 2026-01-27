@@ -375,3 +375,15 @@
 <li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 14723</li>
 <li class='mb-2'><a href='https://github.com/Psiphon-Inc/conduit' class='text-blue-600 hover:underline'>Psiphon-Inc/conduit</a> ⭐ 92</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-01-27
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Blaizzy/mlx-audio' class='text-blue-600 hover:underline'>Blaizzy/mlx-audio</a> ⭐ 5116</li>
+<li class='mb-2'><a href='https://github.com/VectifyAI/PageIndex' class='text-blue-600 hover:underline'>VectifyAI/PageIndex</a> ⭐ 9801</li>
+<li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 15125</li>
+<li class='mb-2'><a href='https://github.com/block/goose' class='text-blue-600 hover:underline'>block/goose</a> ⭐ 29173</li>
+<li class='mb-2'><a href='https://github.com/remotion-dev/remotion' class='text-blue-600 hover:underline'>remotion-dev/remotion</a> ⭐ 32024</li>
+<li class='mb-2'><a href='https://github.com/AI4Finance-Foundation/FinRobot' class='text-blue-600 hover:underline'>AI4Finance-Foundation/FinRobot</a> ⭐ 5712</li>
+<li class='mb-2'><a href='https://github.com/k4yt3x/video2x' class='text-blue-600 hover:underline'>k4yt3x/video2x</a> ⭐ 18069</li>
+<li class='mb-2'><a href='https://github.com/business-science/ai-data-science-team' class='text-blue-600 hover:underline'>business-science/ai-data-science-team</a> ⭐ 4201</li>
+
