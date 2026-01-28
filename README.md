@@ -387,3 +387,13 @@
 <li class='mb-2'><a href='https://github.com/k4yt3x/video2x' class='text-blue-600 hover:underline'>k4yt3x/video2x</a> ⭐ 18069</li>
 <li class='mb-2'><a href='https://github.com/business-science/ai-data-science-team' class='text-blue-600 hover:underline'>business-science/ai-data-science-team</a> ⭐ 4201</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-01-28
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/badlogic/pi-mono' class='text-blue-600 hover:underline'>badlogic/pi-mono</a> ⭐ 2741</li>
+<li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 15590</li>
+<li class='mb-2'><a href='https://github.com/Blaizzy/mlx-audio' class='text-blue-600 hover:underline'>Blaizzy/mlx-audio</a> ⭐ 5450</li>
+<li class='mb-2'><a href='https://github.com/Free-TV/IPTV' class='text-blue-600 hover:underline'>Free-TV/IPTV</a> ⭐ 12579</li>
+<li class='mb-2'><a href='https://github.com/hashicorp/vault' class='text-blue-600 hover:underline'>hashicorp/vault</a> ⭐ 34121</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 90202</li>
+
