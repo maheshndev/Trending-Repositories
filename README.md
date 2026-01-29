@@ -397,3 +397,20 @@
 <li class='mb-2'><a href='https://github.com/hashicorp/vault' class='text-blue-600 hover:underline'>hashicorp/vault</a> ⭐ 34121</li>
 <li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 90202</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-01-29
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/moltbot/moltbot' class='text-blue-600 hover:underline'>moltbot/moltbot</a> ⭐ 89854</li>
+<li class='mb-2'><a href='https://github.com/badlogic/pi-mono' class='text-blue-600 hover:underline'>badlogic/pi-mono</a> ⭐ 3155</li>
+<li class='mb-2'><a href='https://github.com/hashicorp/vault' class='text-blue-600 hover:underline'>hashicorp/vault</a> ⭐ 34393</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 26662</li>
+<li class='mb-2'><a href='https://github.com/NevaMind-AI/memU' class='text-blue-600 hover:underline'>NevaMind-AI/memU</a> ⭐ 5588</li>
+<li class='mb-2'><a href='https://github.com/modelcontextprotocol/ext-apps' class='text-blue-600 hover:underline'>modelcontextprotocol/ext-apps</a> ⭐ 672</li>
+<li class='mb-2'><a href='https://github.com/MoonshotAI/kimi-cli' class='text-blue-600 hover:underline'>MoonshotAI/kimi-cli</a> ⭐ 4587</li>
+<li class='mb-2'><a href='https://github.com/kubernetes/ingress-nginx' class='text-blue-600 hover:underline'>kubernetes/ingress-nginx</a> ⭐ 19358</li>
+<li class='mb-2'><a href='https://github.com/protocolbuffers/protobuf' class='text-blue-600 hover:underline'>protocolbuffers/protobuf</a> ⭐ 70453</li>
+<li class='mb-2'><a href='https://github.com/lobehub/lobehub' class='text-blue-600 hover:underline'>lobehub/lobehub</a> ⭐ 70913</li>
+<li class='mb-2'><a href='https://github.com/ran-j/PS2Recomp' class='text-blue-600 hover:underline'>ran-j/PS2Recomp</a> ⭐ 1483</li>
+<li class='mb-2'><a href='https://github.com/bambulab/BambuStudio' class='text-blue-600 hover:underline'>bambulab/BambuStudio</a> ⭐ 3845</li>
+<li class='mb-2'><a href='https://github.com/GetStream/Vision-Agents' class='text-blue-600 hover:underline'>GetStream/Vision-Agents</a> ⭐ 4218</li>
+
