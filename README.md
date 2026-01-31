@@ -432,3 +432,21 @@
 <li class='mb-2'><a href='https://github.com/microsoft/playwright-cli' class='text-blue-600 hover:underline'>microsoft/playwright-cli</a> ⭐ 1690</li>
 <li class='mb-2'><a href='https://github.com/lobehub/lobehub' class='text-blue-600 hover:underline'>lobehub/lobehub</a> ⭐ 71233</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-01-31
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 120156</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 28598</li>
+<li class='mb-2'><a href='https://github.com/MoonshotAI/kimi-cli' class='text-blue-600 hover:underline'>MoonshotAI/kimi-cli</a> ⭐ 5304</li>
+<li class='mb-2'><a href='https://github.com/modelcontextprotocol/ext-apps' class='text-blue-600 hover:underline'>modelcontextprotocol/ext-apps</a> ⭐ 1022</li>
+<li class='mb-2'><a href='https://github.com/NevaMind-AI/memU' class='text-blue-600 hover:underline'>NevaMind-AI/memU</a> ⭐ 6479</li>
+<li class='mb-2'><a href='https://github.com/hashicorp/vault' class='text-blue-600 hover:underline'>hashicorp/vault</a> ⭐ 34826</li>
+<li class='mb-2'><a href='https://github.com/badlogic/pi-mono' class='text-blue-600 hover:underline'>badlogic/pi-mono</a> ⭐ 3764</li>
+<li class='mb-2'><a href='https://github.com/anomalyco/opencode-anthropic-auth' class='text-blue-600 hover:underline'>anomalyco/opencode-anthropic-auth</a> ⭐ 355</li>
+<li class='mb-2'><a href='https://github.com/protocolbuffers/protobuf' class='text-blue-600 hover:underline'>protocolbuffers/protobuf</a> ⭐ 70577</li>
+<li class='mb-2'><a href='https://github.com/pedroslopez/whatsapp-web.js' class='text-blue-600 hover:underline'>pedroslopez/whatsapp-web.js</a> ⭐ 20855</li>
+<li class='mb-2'><a href='https://github.com/TeamNewPipe/NewPipe' class='text-blue-600 hover:underline'>TeamNewPipe/NewPipe</a> ⭐ 36880</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 91233</li>
+<li class='mb-2'><a href='https://github.com/microsoft/playwright-cli' class='text-blue-600 hover:underline'>microsoft/playwright-cli</a> ⭐ 1937</li>
+<li class='mb-2'><a href='https://github.com/lobehub/lobehub' class='text-blue-600 hover:underline'>lobehub/lobehub</a> ⭐ 71572</li>
+
