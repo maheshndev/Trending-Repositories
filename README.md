@@ -450,3 +450,19 @@
 <li class='mb-2'><a href='https://github.com/microsoft/playwright-cli' class='text-blue-600 hover:underline'>microsoft/playwright-cli</a> ⭐ 1937</li>
 <li class='mb-2'><a href='https://github.com/lobehub/lobehub' class='text-blue-600 hover:underline'>lobehub/lobehub</a> ⭐ 71572</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-02-01
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ThePrimeagen/99' class='text-blue-600 hover:underline'>ThePrimeagen/99</a> ⭐ 2305</li>
+<li class='mb-2'><a href='https://github.com/microsoft/BitNet' class='text-blue-600 hover:underline'>microsoft/BitNet</a> ⭐ 27296</li>
+<li class='mb-2'><a href='https://github.com/microsoft/agent-lightning' class='text-blue-600 hover:underline'>microsoft/agent-lightning</a> ⭐ 12646</li>
+<li class='mb-2'><a href='https://github.com/PaddlePaddle/PaddleOCR' class='text-blue-600 hover:underline'>PaddlePaddle/PaddleOCR</a> ⭐ 69612</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 5881</li>
+<li class='mb-2'><a href='https://github.com/microsoft/PowerToys' class='text-blue-600 hover:underline'>microsoft/PowerToys</a> ⭐ 128760</li>
+<li class='mb-2'><a href='https://github.com/termux/termux-app' class='text-blue-600 hover:underline'>termux/termux-app</a> ⭐ 49536</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 133213</li>
+<li class='mb-2'><a href='https://github.com/pedroslopez/whatsapp-web.js' class='text-blue-600 hover:underline'>pedroslopez/whatsapp-web.js</a> ⭐ 21007</li>
+<li class='mb-2'><a href='https://github.com/AlexanderGrooff/mermaid-ascii' class='text-blue-600 hover:underline'>AlexanderGrooff/mermaid-ascii</a> ⭐ 857</li>
+<li class='mb-2'><a href='https://github.com/reconurge/flowsint' class='text-blue-600 hover:underline'>reconurge/flowsint</a> ⭐ 2150</li>
+<li class='mb-2'><a href='https://github.com/cline/cline' class='text-blue-600 hover:underline'>cline/cline</a> ⭐ 57380</li>
+
