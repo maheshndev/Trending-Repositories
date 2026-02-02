@@ -466,3 +466,18 @@
 <li class='mb-2'><a href='https://github.com/reconurge/flowsint' class='text-blue-600 hover:underline'>reconurge/flowsint</a> ⭐ 2150</li>
 <li class='mb-2'><a href='https://github.com/cline/cline' class='text-blue-600 hover:underline'>cline/cline</a> ⭐ 57380</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-02-02
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 142833</li>
+<li class='mb-2'><a href='https://github.com/ThePrimeagen/99' class='text-blue-600 hover:underline'>ThePrimeagen/99</a> ⭐ 2765</li>
+<li class='mb-2'><a href='https://github.com/pedramamini/Maestro' class='text-blue-600 hover:underline'>pedramamini/Maestro</a> ⭐ 993</li>
+<li class='mb-2'><a href='https://github.com/kovidgoyal/calibre' class='text-blue-600 hover:underline'>kovidgoyal/calibre</a> ⭐ 23644</li>
+<li class='mb-2'><a href='https://github.com/badlogic/pi-mono' class='text-blue-600 hover:underline'>badlogic/pi-mono</a> ⭐ 4987</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 16475</li>
+<li class='mb-2'><a href='https://github.com/microsoft/agent-lightning' class='text-blue-600 hover:underline'>microsoft/agent-lightning</a> ⭐ 12981</li>
+<li class='mb-2'><a href='https://github.com/amantus-ai/vibetunnel' class='text-blue-600 hover:underline'>amantus-ai/vibetunnel</a> ⭐ 3560</li>
+<li class='mb-2'><a href='https://github.com/steipete/CodexBar' class='text-blue-600 hover:underline'>steipete/CodexBar</a> ⭐ 3941</li>
+<li class='mb-2'><a href='https://github.com/j178/prek' class='text-blue-600 hover:underline'>j178/prek</a> ⭐ 4263</li>
+<li class='mb-2'><a href='https://github.com/vita-epfl/Stable-Video-Infinity' class='text-blue-600 hover:underline'>vita-epfl/Stable-Video-Infinity</a> ⭐ 1748</li>
+
