@@ -481,3 +481,19 @@
 <li class='mb-2'><a href='https://github.com/j178/prek' class='text-blue-600 hover:underline'>j178/prek</a> ⭐ 4263</li>
 <li class='mb-2'><a href='https://github.com/vita-epfl/Stable-Video-Infinity' class='text-blue-600 hover:underline'>vita-epfl/Stable-Video-Infinity</a> ⭐ 1748</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-02-03
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 18208</li>
+<li class='mb-2'><a href='https://github.com/ThePrimeagen/99' class='text-blue-600 hover:underline'>ThePrimeagen/99</a> ⭐ 3046</li>
+<li class='mb-2'><a href='https://github.com/termux/termux-app' class='text-blue-600 hover:underline'>termux/termux-app</a> ⭐ 49943</li>
+<li class='mb-2'><a href='https://github.com/pedramamini/Maestro' class='text-blue-600 hover:underline'>pedramamini/Maestro</a> ⭐ 1306</li>
+<li class='mb-2'><a href='https://github.com/netbirdio/netbird' class='text-blue-600 hover:underline'>netbirdio/netbird</a> ⭐ 21991</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/ChatDev' class='text-blue-600 hover:underline'>OpenBMB/ChatDev</a> ⭐ 29431</li>
+<li class='mb-2'><a href='https://github.com/autobrr/qui' class='text-blue-600 hover:underline'>autobrr/qui</a> ⭐ 2863</li>
+<li class='mb-2'><a href='https://github.com/badlogic/pi-mono' class='text-blue-600 hover:underline'>badlogic/pi-mono</a> ⭐ 5612</li>
+<li class='mb-2'><a href='https://github.com/VectifyAI/PageIndex' class='text-blue-600 hover:underline'>VectifyAI/PageIndex</a> ⭐ 12559</li>
+<li class='mb-2'><a href='https://github.com/karpathy/nanochat' class='text-blue-600 hover:underline'>karpathy/nanochat</a> ⭐ 41664</li>
+<li class='mb-2'><a href='https://github.com/kovidgoyal/calibre' class='text-blue-600 hover:underline'>kovidgoyal/calibre</a> ⭐ 23808</li>
+<li class='mb-2'><a href='https://github.com/langchain-ai/rag-from-scratch' class='text-blue-600 hover:underline'>langchain-ai/rag-from-scratch</a> ⭐ 6989</li>
+
