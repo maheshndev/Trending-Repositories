@@ -497,3 +497,18 @@
 <li class='mb-2'><a href='https://github.com/kovidgoyal/calibre' class='text-blue-600 hover:underline'>kovidgoyal/calibre</a> ⭐ 23808</li>
 <li class='mb-2'><a href='https://github.com/langchain-ai/rag-from-scratch' class='text-blue-600 hover:underline'>langchain-ai/rag-from-scratch</a> ⭐ 6989</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-02-04
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 20411</li>
+<li class='mb-2'><a href='https://github.com/masoncl/review-prompts' class='text-blue-600 hover:underline'>masoncl/review-prompts</a> ⭐ 369</li>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 3071</li>
+<li class='mb-2'><a href='https://github.com/automazeio/ccpm' class='text-blue-600 hover:underline'>automazeio/ccpm</a> ⭐ 6728</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 43587</li>
+<li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 10103</li>
+<li class='mb-2'><a href='https://github.com/karpathy/nanochat' class='text-blue-600 hover:underline'>karpathy/nanochat</a> ⭐ 42038</li>
+<li class='mb-2'><a href='https://github.com/kovidgoyal/calibre' class='text-blue-600 hover:underline'>kovidgoyal/calibre</a> ⭐ 23934</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/ChatDev' class='text-blue-600 hover:underline'>OpenBMB/ChatDev</a> ⭐ 29796</li>
+<li class='mb-2'><a href='https://github.com/pedramamini/Maestro' class='text-blue-600 hover:underline'>pedramamini/Maestro</a> ⭐ 1508</li>
+<li class='mb-2'><a href='https://github.com/vm0-ai/vm0' class='text-blue-600 hover:underline'>vm0-ai/vm0</a> ⭐ 719</li>
+
