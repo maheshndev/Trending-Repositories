@@ -512,3 +512,19 @@
 <li class='mb-2'><a href='https://github.com/pedramamini/Maestro' class='text-blue-600 hover:underline'>pedramamini/Maestro</a> ⭐ 1508</li>
 <li class='mb-2'><a href='https://github.com/vm0-ai/vm0' class='text-blue-600 hover:underline'>vm0-ai/vm0</a> ⭐ 719</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-02-05
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 22620</li>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 3730</li>
+<li class='mb-2'><a href='https://github.com/disler/claude-code-hooks-mastery' class='text-blue-600 hover:underline'>disler/claude-code-hooks-mastery</a> ⭐ 2384</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/ChatDev' class='text-blue-600 hover:underline'>OpenBMB/ChatDev</a> ⭐ 29994</li>
+<li class='mb-2'><a href='https://github.com/ankitects/anki' class='text-blue-600 hover:underline'>ankitects/anki</a> ⭐ 26174</li>
+<li class='mb-2'><a href='https://github.com/open-telemetry/opentelemetry-collector-contrib' class='text-blue-600 hover:underline'>open-telemetry/opentelemetry-collector-contrib</a> ⭐ 4354</li>
+<li class='mb-2'><a href='https://github.com/Canner/WrenAI' class='text-blue-600 hover:underline'>Canner/WrenAI</a> ⭐ 13947</li>
+<li class='mb-2'><a href='https://github.com/pedramamini/Maestro' class='text-blue-600 hover:underline'>pedramamini/Maestro</a> ⭐ 1666</li>
+<li class='mb-2'><a href='https://github.com/nvm-sh/nvm' class='text-blue-600 hover:underline'>nvm-sh/nvm</a> ⭐ 91258</li>
+<li class='mb-2'><a href='https://github.com/microsoft/qlib' class='text-blue-600 hover:underline'>microsoft/qlib</a> ⭐ 36550</li>
+<li class='mb-2'><a href='https://github.com/LadybirdBrowser/ladybird' class='text-blue-600 hover:underline'>LadybirdBrowser/ladybird</a> ⭐ 58280</li>
+<li class='mb-2'><a href='https://github.com/likec4/likec4' class='text-blue-600 hover:underline'>likec4/likec4</a> ⭐ 1455</li>
+
