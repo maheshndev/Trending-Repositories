@@ -528,3 +528,18 @@
 <li class='mb-2'><a href='https://github.com/LadybirdBrowser/ladybird' class='text-blue-600 hover:underline'>LadybirdBrowser/ladybird</a> ⭐ 58280</li>
 <li class='mb-2'><a href='https://github.com/likec4/likec4' class='text-blue-600 hover:underline'>likec4/likec4</a> ⭐ 1455</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-02-06
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/bytedance/UI-TARS-desktop' class='text-blue-600 hover:underline'>bytedance/UI-TARS-desktop</a> ⭐ 26747</li>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 4322</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 23748</li>
+<li class='mb-2'><a href='https://github.com/j178/prek' class='text-blue-600 hover:underline'>j178/prek</a> ⭐ 5528</li>
+<li class='mb-2'><a href='https://github.com/topoteretes/cognee' class='text-blue-600 hover:underline'>topoteretes/cognee</a> ⭐ 11859</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 45414</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 31377</li>
+<li class='mb-2'><a href='https://github.com/fish-shell/fish-shell' class='text-blue-600 hover:underline'>fish-shell/fish-shell</a> ⭐ 32395</li>
+<li class='mb-2'><a href='https://github.com/nvm-sh/nvm' class='text-blue-600 hover:underline'>nvm-sh/nvm</a> ⭐ 91382</li>
+<li class='mb-2'><a href='https://github.com/linshenkx/prompt-optimizer' class='text-blue-600 hover:underline'>linshenkx/prompt-optimizer</a> ⭐ 19383</li>
+<li class='mb-2'><a href='https://github.com/ZeroTworu/anet' class='text-blue-600 hover:underline'>ZeroTworu/anet</a> ⭐ 370</li>
+
