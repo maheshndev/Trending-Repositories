@@ -543,3 +543,15 @@
 <li class='mb-2'><a href='https://github.com/linshenkx/prompt-optimizer' class='text-blue-600 hover:underline'>linshenkx/prompt-optimizer</a> ⭐ 19383</li>
 <li class='mb-2'><a href='https://github.com/ZeroTworu/anet' class='text-blue-600 hover:underline'>ZeroTworu/anet</a> ⭐ 370</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-02-07
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 4889</li>
+<li class='mb-2'><a href='https://github.com/bytedance/UI-TARS-desktop' class='text-blue-600 hover:underline'>bytedance/UI-TARS-desktop</a> ⭐ 27126</li>
+<li class='mb-2'><a href='https://github.com/nvm-sh/nvm' class='text-blue-600 hover:underline'>nvm-sh/nvm</a> ⭐ 91506</li>
+<li class='mb-2'><a href='https://github.com/likec4/likec4' class='text-blue-600 hover:underline'>likec4/likec4</a> ⭐ 1822</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 31544</li>
+<li class='mb-2'><a href='https://github.com/ZeroTworu/anet' class='text-blue-600 hover:underline'>ZeroTworu/anet</a> ⭐ 537</li>
+<li class='mb-2'><a href='https://github.com/Flowseal/zapret-discord-youtube' class='text-blue-600 hover:underline'>Flowseal/zapret-discord-youtube</a> ⭐ 21970</li>
+<li class='mb-2'><a href='https://github.com/DataExpert-io/data-engineer-handbook' class='text-blue-600 hover:underline'>DataExpert-io/data-engineer-handbook</a> ⭐ 39882</li>
+
