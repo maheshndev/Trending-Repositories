@@ -555,3 +555,19 @@
 <li class='mb-2'><a href='https://github.com/Flowseal/zapret-discord-youtube' class='text-blue-600 hover:underline'>Flowseal/zapret-discord-youtube</a> ⭐ 21970</li>
 <li class='mb-2'><a href='https://github.com/DataExpert-io/data-engineer-handbook' class='text-blue-600 hover:underline'>DataExpert-io/data-engineer-handbook</a> ⭐ 39882</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-02-08
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/KeygraphHQ/shannon' class='text-blue-600 hover:underline'>KeygraphHQ/shannon</a> ⭐ 10160</li>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 6084</li>
+<li class='mb-2'><a href='https://github.com/microsoft/litebox' class='text-blue-600 hover:underline'>microsoft/litebox</a> ⭐ 1152</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 4756</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 47024</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/MiniCPM-o' class='text-blue-600 hover:underline'>OpenBMB/MiniCPM-o</a> ⭐ 23171</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 31694</li>
+<li class='mb-2'><a href='https://github.com/wavetermdev/waveterm' class='text-blue-600 hover:underline'>wavetermdev/waveterm</a> ⭐ 17151</li>
+<li class='mb-2'><a href='https://github.com/viarotel-org/escrcpy' class='text-blue-600 hover:underline'>viarotel-org/escrcpy</a> ⭐ 7852</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-claude-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-claude-skills</a> ⭐ 32054</li>
+<li class='mb-2'><a href='https://github.com/likec4/likec4' class='text-blue-600 hover:underline'>likec4/likec4</a> ⭐ 2092</li>
+<li class='mb-2'><a href='https://github.com/gitbutlerapp/gitbutler' class='text-blue-600 hover:underline'>gitbutlerapp/gitbutler</a> ⭐ 18014</li>
+
