@@ -571,3 +571,19 @@
 <li class='mb-2'><a href='https://github.com/likec4/likec4' class='text-blue-600 hover:underline'>likec4/likec4</a> ⭐ 2092</li>
 <li class='mb-2'><a href='https://github.com/gitbutlerapp/gitbutler' class='text-blue-600 hover:underline'>gitbutlerapp/gitbutler</a> ⭐ 18014</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On 2026-02-09
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/KeygraphHQ/shannon' class='text-blue-600 hover:underline'>KeygraphHQ/shannon</a> ⭐ 13521</li>
+<li class='mb-2'><a href='https://github.com/pydantic/monty' class='text-blue-600 hover:underline'>pydantic/monty</a> ⭐ 2871</li>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 7039</li>
+<li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 12725</li>
+<li class='mb-2'><a href='https://github.com/microsoft/litebox' class='text-blue-600 hover:underline'>microsoft/litebox</a> ⭐ 1437</li>
+<li class='mb-2'><a href='https://github.com/google/langextract' class='text-blue-600 hover:underline'>google/langextract</a> ⭐ 24793</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 47795</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/MiniCPM-o' class='text-blue-600 hover:underline'>OpenBMB/MiniCPM-o</a> ⭐ 23430</li>
+<li class='mb-2'><a href='https://github.com/likec4/likec4' class='text-blue-600 hover:underline'>likec4/likec4</a> ⭐ 2391</li>
+<li class='mb-2'><a href='https://github.com/iOfficeAI/AionUi' class='text-blue-600 hover:underline'>iOfficeAI/AionUi</a> ⭐ 13243</li>
+<li class='mb-2'><a href='https://github.com/home-assistant/addons' class='text-blue-600 hover:underline'>home-assistant/addons</a> ⭐ 2011</li>
+<li class='mb-2'><a href='https://github.com/gitbutlerapp/gitbutler' class='text-blue-600 hover:underline'>gitbutlerapp/gitbutler</a> ⭐ 18370</li>
+
