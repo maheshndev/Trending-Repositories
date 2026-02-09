@@ -9,7 +9,8 @@ today = datetime.utcnow().date()
 current_month = today.strftime("%B")
 current_year = today.year
 today_str = today.strftime("%Y-%m-%d")
-today_heading = f"Trending On {today_str}"
+today_heading = f"Trending On Date {today_str}"
+
 
 readme_path = "README.md"
 old_dir = "old"  # Directory for archived HTML files
