@@ -587,3 +587,20 @@
 <li class='mb-2'><a href='https://github.com/home-assistant/addons' class='text-blue-600 hover:underline'>home-assistant/addons</a> ⭐ 2011</li>
 <li class='mb-2'><a href='https://github.com/gitbutlerapp/gitbutler' class='text-blue-600 hover:underline'>gitbutlerapp/gitbutler</a> ⭐ 18370</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-10
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/KeygraphHQ/shannon' class='text-blue-600 hover:underline'>KeygraphHQ/shannon</a> ⭐ 17529</li>
+<li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 13596</li>
+<li class='mb-2'><a href='https://github.com/pydantic/monty' class='text-blue-600 hover:underline'>pydantic/monty</a> ⭐ 3996</li>
+<li class='mb-2'><a href='https://github.com/hsliuping/TradingAgents-CN' class='text-blue-600 hover:underline'>hsliuping/TradingAgents-CN</a> ⭐ 16292</li>
+<li class='mb-2'><a href='https://github.com/iOfficeAI/AionUi' class='text-blue-600 hover:underline'>iOfficeAI/AionUi</a> ⭐ 13873</li>
+<li class='mb-2'><a href='https://github.com/public-apis/public-apis' class='text-blue-600 hover:underline'>public-apis/public-apis</a> ⭐ 397260</li>
+<li class='mb-2'><a href='https://github.com/github/gh-aw' class='text-blue-600 hover:underline'>github/gh-aw</a> ⭐ 947</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 93184</li>
+<li class='mb-2'><a href='https://github.com/gitbutlerapp/gitbutler' class='text-blue-600 hover:underline'>gitbutlerapp/gitbutler</a> ⭐ 18666</li>
+<li class='mb-2'><a href='https://github.com/microsoft/litebox' class='text-blue-600 hover:underline'>microsoft/litebox</a> ⭐ 1738</li>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 7567</li>
+<li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 7884</li>
+<li class='mb-2'><a href='https://github.com/DrewThomasson/ebook2audiobook' class='text-blue-600 hover:underline'>DrewThomasson/ebook2audiobook</a> ⭐ 17880</li>
+
