@@ -604,3 +604,21 @@
 <li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 7884</li>
 <li class='mb-2'><a href='https://github.com/DrewThomasson/ebook2audiobook' class='text-blue-600 hover:underline'>DrewThomasson/ebook2audiobook</a> ⭐ 17880</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-11
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/google/langextract' class='text-blue-600 hover:underline'>google/langextract</a> ⭐ 28633</li>
+<li class='mb-2'><a href='https://github.com/iOfficeAI/AionUi' class='text-blue-600 hover:underline'>iOfficeAI/AionUi</a> ⭐ 14506</li>
+<li class='mb-2'><a href='https://github.com/KeygraphHQ/shannon' class='text-blue-600 hover:underline'>KeygraphHQ/shannon</a> ⭐ 19828</li>
+<li class='mb-2'><a href='https://github.com/github/gh-aw' class='text-blue-600 hover:underline'>github/gh-aw</a> ⭐ 1370</li>
+<li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 8191</li>
+<li class='mb-2'><a href='https://github.com/hsliuping/TradingAgents-CN' class='text-blue-600 hover:underline'>hsliuping/TradingAgents-CN</a> ⭐ 16700</li>
+<li class='mb-2'><a href='https://github.com/gitbutlerapp/gitbutler' class='text-blue-600 hover:underline'>gitbutlerapp/gitbutler</a> ⭐ 19047</li>
+<li class='mb-2'><a href='https://github.com/carlvellotti/claude-code-pm-course' class='text-blue-600 hover:underline'>carlvellotti/claude-code-pm-course</a> ⭐ 848</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 93650</li>
+<li class='mb-2'><a href='https://github.com/drawdb-io/drawdb' class='text-blue-600 hover:underline'>drawdb-io/drawdb</a> ⭐ 36353</li>
+<li class='mb-2'><a href='https://github.com/pydantic/monty' class='text-blue-600 hover:underline'>pydantic/monty</a> ⭐ 4562</li>
+<li class='mb-2'><a href='https://github.com/cheahjs/free-llm-api-resources' class='text-blue-600 hover:underline'>cheahjs/free-llm-api-resources</a> ⭐ 8731</li>
+<li class='mb-2'><a href='https://github.com/Jeffallan/claude-skills' class='text-blue-600 hover:underline'>Jeffallan/claude-skills</a> ⭐ 828</li>
+<li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 14175</li>
+
