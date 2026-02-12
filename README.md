@@ -622,3 +622,14 @@
 <li class='mb-2'><a href='https://github.com/Jeffallan/claude-skills' class='text-blue-600 hover:underline'>Jeffallan/claude-skills</a> ⭐ 828</li>
 <li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 14175</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-12
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/google/langextract' class='text-blue-600 hover:underline'>google/langextract</a> ⭐ 30537</li>
+<li class='mb-2'><a href='https://github.com/github/gh-aw' class='text-blue-600 hover:underline'>github/gh-aw</a> ⭐ 1764</li>
+<li class='mb-2'><a href='https://github.com/microsoft/PowerToys' class='text-blue-600 hover:underline'>microsoft/PowerToys</a> ⭐ 129425</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 24018</li>
+<li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 8493</li>
+<li class='mb-2'><a href='https://github.com/patchy631/ai-engineering-hub' class='text-blue-600 hover:underline'>patchy631/ai-engineering-hub</a> ⭐ 28669</li>
+<li class='mb-2'><a href='https://github.com/cheahjs/free-llm-api-resources' class='text-blue-600 hover:underline'>cheahjs/free-llm-api-resources</a> ⭐ 9559</li>
+
