@@ -633,3 +633,20 @@
 <li class='mb-2'><a href='https://github.com/patchy631/ai-engineering-hub' class='text-blue-600 hover:underline'>patchy631/ai-engineering-hub</a> ⭐ 28669</li>
 <li class='mb-2'><a href='https://github.com/cheahjs/free-llm-api-resources' class='text-blue-600 hover:underline'>cheahjs/free-llm-api-resources</a> ⭐ 9559</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-13
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tambo-ai/tambo' class='text-blue-600 hover:underline'>tambo-ai/tambo</a> ⭐ 9060</li>
+<li class='mb-2'><a href='https://github.com/danielmiessler/Personal_AI_Infrastructure' class='text-blue-600 hover:underline'>danielmiessler/Personal_AI_Infrastructure</a> ⭐ 7546</li>
+<li class='mb-2'><a href='https://github.com/google/langextract' class='text-blue-600 hover:underline'>google/langextract</a> ⭐ 31457</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 24423</li>
+<li class='mb-2'><a href='https://github.com/microsoft/PowerToys' class='text-blue-600 hover:underline'>microsoft/PowerToys</a> ⭐ 129667</li>
+<li class='mb-2'><a href='https://github.com/iOfficeAI/AionUi' class='text-blue-600 hover:underline'>iOfficeAI/AionUi</a> ⭐ 15409</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 94380</li>
+<li class='mb-2'><a href='https://github.com/rowboatlabs/rowboat' class='text-blue-600 hover:underline'>rowboatlabs/rowboat</a> ⭐ 5206</li>
+<li class='mb-2'><a href='https://github.com/github/gh-aw' class='text-blue-600 hover:underline'>github/gh-aw</a> ⭐ 2027</li>
+<li class='mb-2'><a href='https://github.com/unslothai/unsloth' class='text-blue-600 hover:underline'>unslothai/unsloth</a> ⭐ 52053</li>
+<li class='mb-2'><a href='https://github.com/cinnyapp/cinny' class='text-blue-600 hover:underline'>cinnyapp/cinny</a> ⭐ 2883</li>
+<li class='mb-2'><a href='https://github.com/Jeffallan/claude-skills' class='text-blue-600 hover:underline'>Jeffallan/claude-skills</a> ⭐ 1707</li>
+<li class='mb-2'><a href='https://github.com/HandsOnLLM/Hands-On-Large-Language-Models' class='text-blue-600 hover:underline'>HandsOnLLM/Hands-On-Large-Language-Models</a> ⭐ 20924</li>
+
