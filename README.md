@@ -650,3 +650,17 @@
 <li class='mb-2'><a href='https://github.com/Jeffallan/claude-skills' class='text-blue-600 hover:underline'>Jeffallan/claude-skills</a> ⭐ 1707</li>
 <li class='mb-2'><a href='https://github.com/HandsOnLLM/Hands-On-Large-Language-Models' class='text-blue-600 hover:underline'>HandsOnLLM/Hands-On-Large-Language-Models</a> ⭐ 20924</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-14
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/SynkraAI/aios-core' class='text-blue-600 hover:underline'>SynkraAI/aios-core</a> ⭐ 441</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 24734</li>
+<li class='mb-2'><a href='https://github.com/danielmiessler/Personal_AI_Infrastructure' class='text-blue-600 hover:underline'>danielmiessler/Personal_AI_Infrastructure</a> ⭐ 8080</li>
+<li class='mb-2'><a href='https://github.com/patchy631/ai-engineering-hub' class='text-blue-600 hover:underline'>patchy631/ai-engineering-hub</a> ⭐ 29330</li>
+<li class='mb-2'><a href='https://github.com/TelegramMessenger/MTProxy' class='text-blue-600 hover:underline'>TelegramMessenger/MTProxy</a> ⭐ 5889</li>
+<li class='mb-2'><a href='https://github.com/google-deepmind/superhuman' class='text-blue-600 hover:underline'>google-deepmind/superhuman</a> ⭐ 380</li>
+<li class='mb-2'><a href='https://github.com/cheahjs/free-llm-api-resources' class='text-blue-600 hover:underline'>cheahjs/free-llm-api-resources</a> ⭐ 10668</li>
+<li class='mb-2'><a href='https://github.com/HandsOnLLM/Hands-On-Large-Language-Models' class='text-blue-600 hover:underline'>HandsOnLLM/Hands-On-Large-Language-Models</a> ⭐ 21165</li>
+<li class='mb-2'><a href='https://github.com/THUDM/slime' class='text-blue-600 hover:underline'>THUDM/slime</a> ⭐ 4091</li>
+<li class='mb-2'><a href='https://github.com/DebugSwift/DebugSwift' class='text-blue-600 hover:underline'>DebugSwift/DebugSwift</a> ⭐ 1448</li>
+
