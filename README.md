@@ -679,3 +679,18 @@
 <li class='mb-2'><a href='https://github.com/ruby/ruby' class='text-blue-600 hover:underline'>ruby/ruby</a> ⭐ 23374</li>
 <li class='mb-2'><a href='https://github.com/cinnyapp/cinny' class='text-blue-600 hover:underline'>cinnyapp/cinny</a> ⭐ 3052</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-16
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/nautechsystems/nautilus_trader' class='text-blue-600 hover:underline'>nautechsystems/nautilus_trader</a> ⭐ 19336</li>
+<li class='mb-2'><a href='https://github.com/steipete/gogcli' class='text-blue-600 hover:underline'>steipete/gogcli</a> ⭐ 3005</li>
+<li class='mb-2'><a href='https://github.com/rowboatlabs/rowboat' class='text-blue-600 hover:underline'>rowboatlabs/rowboat</a> ⭐ 6835</li>
+<li class='mb-2'><a href='https://github.com/github/gh-aw' class='text-blue-600 hover:underline'>github/gh-aw</a> ⭐ 2728</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 25440</li>
+<li class='mb-2'><a href='https://github.com/alibaba/zvec' class='text-blue-600 hover:underline'>alibaba/zvec</a> ⭐ 2379</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 197529</li>
+<li class='mb-2'><a href='https://github.com/moonshine-ai/moonshine' class='text-blue-600 hover:underline'>moonshine-ai/moonshine</a> ⭐ 3844</li>
+<li class='mb-2'><a href='https://github.com/brave/brave-browser' class='text-blue-600 hover:underline'>brave/brave-browser</a> ⭐ 21552</li>
+<li class='mb-2'><a href='https://github.com/SynkraAI/aios-core' class='text-blue-600 hover:underline'>SynkraAI/aios-core</a> ⭐ 802</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/wifi-densepose' class='text-blue-600 hover:underline'>ruvnet/wifi-densepose</a> ⭐ 6509</li>
+
