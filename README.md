@@ -694,3 +694,17 @@
 <li class='mb-2'><a href='https://github.com/SynkraAI/aios-core' class='text-blue-600 hover:underline'>SynkraAI/aios-core</a> ⭐ 802</li>
 <li class='mb-2'><a href='https://github.com/ruvnet/wifi-densepose' class='text-blue-600 hover:underline'>ruvnet/wifi-densepose</a> ⭐ 6509</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-17
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/alibaba/zvec' class='text-blue-600 hover:underline'>alibaba/zvec</a> ⭐ 3670</li>
+<li class='mb-2'><a href='https://github.com/nautechsystems/nautilus_trader' class='text-blue-600 hover:underline'>nautechsystems/nautilus_trader</a> ⭐ 19798</li>
+<li class='mb-2'><a href='https://github.com/rowboatlabs/rowboat' class='text-blue-600 hover:underline'>rowboatlabs/rowboat</a> ⭐ 7341</li>
+<li class='mb-2'><a href='https://github.com/steipete/gogcli' class='text-blue-600 hover:underline'>steipete/gogcli</a> ⭐ 3528</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 201854</li>
+<li class='mb-2'><a href='https://github.com/SynkraAI/aios-core' class='text-blue-600 hover:underline'>SynkraAI/aios-core</a> ⭐ 1001</li>
+<li class='mb-2'><a href='https://github.com/letta-ai/letta-code' class='text-blue-600 hover:underline'>letta-ai/letta-code</a> ⭐ 1471</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/wifi-densepose' class='text-blue-600 hover:underline'>ruvnet/wifi-densepose</a> ⭐ 6816</li>
+<li class='mb-2'><a href='https://github.com/seerr-team/seerr' class='text-blue-600 hover:underline'>seerr-team/seerr</a> ⭐ 9083</li>
+<li class='mb-2'><a href='https://github.com/hummingbot/hummingbot' class='text-blue-600 hover:underline'>hummingbot/hummingbot</a> ⭐ 16589</li>
+
