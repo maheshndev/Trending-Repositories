@@ -708,3 +708,20 @@
 <li class='mb-2'><a href='https://github.com/seerr-team/seerr' class='text-blue-600 hover:underline'>seerr-team/seerr</a> ⭐ 9083</li>
 <li class='mb-2'><a href='https://github.com/hummingbot/hummingbot' class='text-blue-600 hover:underline'>hummingbot/hummingbot</a> ⭐ 16589</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-18
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 7278</li>
+<li class='mb-2'><a href='https://github.com/seerr-team/seerr' class='text-blue-600 hover:underline'>seerr-team/seerr</a> ⭐ 9342</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 53648</li>
+<li class='mb-2'><a href='https://github.com/steipete/gogcli' class='text-blue-600 hover:underline'>steipete/gogcli</a> ⭐ 3884</li>
+<li class='mb-2'><a href='https://github.com/alibaba/zvec' class='text-blue-600 hover:underline'>alibaba/zvec</a> ⭐ 4510</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 205605</li>
+<li class='mb-2'><a href='https://github.com/SynkraAI/aios-core' class='text-blue-600 hover:underline'>SynkraAI/aios-core</a> ⭐ 1211</li>
+<li class='mb-2'><a href='https://github.com/ashishps1/awesome-system-design-resources' class='text-blue-600 hover:underline'>ashishps1/awesome-system-design-resources</a> ⭐ 32839</li>
+<li class='mb-2'><a href='https://github.com/steipete/summarize' class='text-blue-600 hover:underline'>steipete/summarize</a> ⭐ 3465</li>
+<li class='mb-2'><a href='https://github.com/hummingbot/hummingbot' class='text-blue-600 hover:underline'>hummingbot/hummingbot</a> ⭐ 17066</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-quickstarts' class='text-blue-600 hover:underline'>anthropics/claude-quickstarts</a> ⭐ 14504</li>
+<li class='mb-2'><a href='https://github.com/davila7/claude-code-templates' class='text-blue-600 hover:underline'>davila7/claude-code-templates</a> ⭐ 20735</li>
+<li class='mb-2'><a href='https://github.com/OpenCTI-Platform/opencti' class='text-blue-600 hover:underline'>OpenCTI-Platform/opencti</a> ⭐ 8422</li>
+
