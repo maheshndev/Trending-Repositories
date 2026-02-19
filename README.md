@@ -725,3 +725,18 @@
 <li class='mb-2'><a href='https://github.com/davila7/claude-code-templates' class='text-blue-600 hover:underline'>davila7/claude-code-templates</a> ⭐ 20735</li>
 <li class='mb-2'><a href='https://github.com/OpenCTI-Platform/opencti' class='text-blue-600 hover:underline'>OpenCTI-Platform/opencti</a> ⭐ 8422</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-19
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/alibaba/zvec' class='text-blue-600 hover:underline'>alibaba/zvec</a> ⭐ 4932</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 8058</li>
+<li class='mb-2'><a href='https://github.com/OpenCTI-Platform/opencti' class='text-blue-600 hover:underline'>OpenCTI-Platform/opencti</a> ⭐ 8706</li>
+<li class='mb-2'><a href='https://github.com/QwenLM/qwen-code' class='text-blue-600 hover:underline'>QwenLM/qwen-code</a> ⭐ 18859</li>
+<li class='mb-2'><a href='https://github.com/NirDiamant/RAG_Techniques' class='text-blue-600 hover:underline'>NirDiamant/RAG_Techniques</a> ⭐ 25277</li>
+<li class='mb-2'><a href='https://github.com/harvard-edge/cs249r_book' class='text-blue-600 hover:underline'>harvard-edge/cs249r_book</a> ⭐ 19710</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 54512</li>
+<li class='mb-2'><a href='https://github.com/HailToDodongo/pyrite64' class='text-blue-600 hover:underline'>HailToDodongo/pyrite64</a> ⭐ 1316</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/composio' class='text-blue-600 hover:underline'>ComposioHQ/composio</a> ⭐ 26776</li>
+<li class='mb-2'><a href='https://github.com/p2r3/convert' class='text-blue-600 hover:underline'>p2r3/convert</a> ⭐ 1468</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 209004</li>
+
