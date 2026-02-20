@@ -740,3 +740,15 @@
 <li class='mb-2'><a href='https://github.com/p2r3/convert' class='text-blue-600 hover:underline'>p2r3/convert</a> ⭐ 1468</li>
 <li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 209004</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-20
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 55441</li>
+<li class='mb-2'><a href='https://github.com/RichardAtCT/claude-code-telegram' class='text-blue-600 hover:underline'>RichardAtCT/claude-code-telegram</a> ⭐ 980</li>
+<li class='mb-2'><a href='https://github.com/open-mercato/open-mercato' class='text-blue-600 hover:underline'>open-mercato/open-mercato</a> ⭐ 748</li>
+<li class='mb-2'><a href='https://github.com/harvard-edge/cs249r_book' class='text-blue-600 hover:underline'>harvard-edge/cs249r_book</a> ⭐ 20224</li>
+<li class='mb-2'><a href='https://github.com/HailToDodongo/pyrite64' class='text-blue-600 hover:underline'>HailToDodongo/pyrite64</a> ⭐ 1772</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 212012</li>
+<li class='mb-2'><a href='https://github.com/freemocap/freemocap' class='text-blue-600 hover:underline'>freemocap/freemocap</a> ⭐ 5222</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 8517</li>
+
