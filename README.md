@@ -752,3 +752,22 @@
 <li class='mb-2'><a href='https://github.com/freemocap/freemocap' class='text-blue-600 hover:underline'>freemocap/freemocap</a> ⭐ 5222</li>
 <li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 8517</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-21
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/vxcontrol/pentagi' class='text-blue-600 hover:underline'>vxcontrol/pentagi</a> ⭐ 3981</li>
+<li class='mb-2'><a href='https://github.com/blackboardsh/electrobun' class='text-blue-600 hover:underline'>blackboardsh/electrobun</a> ⭐ 6054</li>
+<li class='mb-2'><a href='https://github.com/HailToDodongo/pyrite64' class='text-blue-600 hover:underline'>HailToDodongo/pyrite64</a> ⭐ 2136</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 56274</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 32109</li>
+<li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 31565</li>
+<li class='mb-2'><a href='https://github.com/eslint/eslint' class='text-blue-600 hover:underline'>eslint/eslint</a> ⭐ 27061</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 7885</li>
+<li class='mb-2'><a href='https://github.com/Effect-TS/effect-smol' class='text-blue-600 hover:underline'>Effect-TS/effect-smol</a> ⭐ 373</li>
+<li class='mb-2'><a href='https://github.com/google-research/timesfm' class='text-blue-600 hover:underline'>google-research/timesfm</a> ⭐ 8852</li>
+<li class='mb-2'><a href='https://github.com/roboflow/trackers' class='text-blue-600 hover:underline'>roboflow/trackers</a> ⭐ 2730</li>
+<li class='mb-2'><a href='https://github.com/huggingface/skills' class='text-blue-600 hover:underline'>huggingface/skills</a> ⭐ 1438</li>
+<li class='mb-2'><a href='https://github.com/databricks-solutions/ai-dev-kit' class='text-blue-600 hover:underline'>databricks-solutions/ai-dev-kit</a> ⭐ 547</li>
+<li class='mb-2'><a href='https://github.com/freemocap/freemocap' class='text-blue-600 hover:underline'>freemocap/freemocap</a> ⭐ 5569</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/composio' class='text-blue-600 hover:underline'>ComposioHQ/composio</a> ⭐ 27020</li>
+
