@@ -771,3 +771,20 @@
 <li class='mb-2'><a href='https://github.com/freemocap/freemocap' class='text-blue-600 hover:underline'>freemocap/freemocap</a> ⭐ 5569</li>
 <li class='mb-2'><a href='https://github.com/ComposioHQ/composio' class='text-blue-600 hover:underline'>ComposioHQ/composio</a> ⭐ 27020</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-22
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/vxcontrol/pentagi' class='text-blue-600 hover:underline'>vxcontrol/pentagi</a> ⭐ 5645</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 1067</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 57049</li>
+<li class='mb-2'><a href='https://github.com/huggingface/skills' class='text-blue-600 hover:underline'>huggingface/skills</a> ⭐ 1704</li>
+<li class='mb-2'><a href='https://github.com/PowerShell/PowerShell' class='text-blue-600 hover:underline'>PowerShell/PowerShell</a> ⭐ 51557</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 68444</li>
+<li class='mb-2'><a href='https://github.com/stan-smith/FossFLOW' class='text-blue-600 hover:underline'>stan-smith/FossFLOW</a> ⭐ 17799</li>
+<li class='mb-2'><a href='https://github.com/ggml-org/ggml' class='text-blue-600 hover:underline'>ggml-org/ggml</a> ⭐ 14068</li>
+<li class='mb-2'><a href='https://github.com/Stremio/stremio-web' class='text-blue-600 hover:underline'>Stremio/stremio-web</a> ⭐ 9472</li>
+<li class='mb-2'><a href='https://github.com/HandsOnLLM/Hands-On-Large-Language-Models' class='text-blue-600 hover:underline'>HandsOnLLM/Hands-On-Large-Language-Models</a> ⭐ 22589</li>
+<li class='mb-2'><a href='https://github.com/RichardAtCT/claude-code-telegram' class='text-blue-600 hover:underline'>RichardAtCT/claude-code-telegram</a> ⭐ 1410</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/agents' class='text-blue-600 hover:underline'>cloudflare/agents</a> ⭐ 3456</li>
+<li class='mb-2'><a href='https://github.com/hiddify/hiddify-app' class='text-blue-600 hover:underline'>hiddify/hiddify-app</a> ⭐ 26419</li>
+
