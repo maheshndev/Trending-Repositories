@@ -788,3 +788,16 @@
 <li class='mb-2'><a href='https://github.com/cloudflare/agents' class='text-blue-600 hover:underline'>cloudflare/agents</a> ⭐ 3456</li>
 <li class='mb-2'><a href='https://github.com/hiddify/hiddify-app' class='text-blue-600 hover:underline'>hiddify/hiddify-app</a> ⭐ 26419</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-23
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/huggingface/skills' class='text-blue-600 hover:underline'>huggingface/skills</a> ⭐ 2715</li>
+<li class='mb-2'><a href='https://github.com/vxcontrol/pentagi' class='text-blue-600 hover:underline'>vxcontrol/pentagi</a> ⭐ 7101</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 68995</li>
+<li class='mb-2'><a href='https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools' class='text-blue-600 hover:underline'>x1xhlol/system-prompts-and-models-of-ai-tools</a> ⭐ 117916</li>
+<li class='mb-2'><a href='https://github.com/Stremio/stremio-web' class='text-blue-600 hover:underline'>Stremio/stremio-web</a> ⭐ 9724</li>
+<li class='mb-2'><a href='https://github.com/OpenBB-finance/OpenBB' class='text-blue-600 hover:underline'>OpenBB-finance/OpenBB</a> ⭐ 61012</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/agents' class='text-blue-600 hover:underline'>cloudflare/agents</a> ⭐ 3761</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 1536</li>
+<li class='mb-2'><a href='https://github.com/stan-smith/FossFLOW' class='text-blue-600 hover:underline'>stan-smith/FossFLOW</a> ⭐ 18197</li>
+
