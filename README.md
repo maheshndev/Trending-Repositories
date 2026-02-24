@@ -801,3 +801,21 @@
 <li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 1536</li>
 <li class='mb-2'><a href='https://github.com/stan-smith/FossFLOW' class='text-blue-600 hover:underline'>stan-smith/FossFLOW</a> ⭐ 18197</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-24
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools' class='text-blue-600 hover:underline'>x1xhlol/system-prompts-and-models-of-ai-tools</a> ⭐ 120934</li>
+<li class='mb-2'><a href='https://github.com/huggingface/skills' class='text-blue-600 hover:underline'>huggingface/skills</a> ⭐ 4010</li>
+<li class='mb-2'><a href='https://github.com/OpenBB-finance/OpenBB' class='text-blue-600 hover:underline'>OpenBB-finance/OpenBB</a> ⭐ 61472</li>
+<li class='mb-2'><a href='https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering' class='text-blue-600 hover:underline'>muratcankoylan/Agent-Skills-for-Context-Engineering</a> ⭐ 8996</li>
+<li class='mb-2'><a href='https://github.com/f/prompts.chat' class='text-blue-600 hover:underline'>f/prompts.chat</a> ⭐ 147093</li>
+<li class='mb-2'><a href='https://github.com/CompVis/stable-diffusion' class='text-blue-600 hover:underline'>CompVis/stable-diffusion</a> ⭐ 72501</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 1953</li>
+<li class='mb-2'><a href='https://github.com/Stremio/stremio-web' class='text-blue-600 hover:underline'>Stremio/stremio-web</a> ⭐ 9960</li>
+<li class='mb-2'><a href='https://github.com/stan-smith/FossFLOW' class='text-blue-600 hover:underline'>stan-smith/FossFLOW</a> ⭐ 18571</li>
+<li class='mb-2'><a href='https://github.com/VectifyAI/PageIndex' class='text-blue-600 hover:underline'>VectifyAI/PageIndex</a> ⭐ 16829</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/agents' class='text-blue-600 hover:underline'>cloudflare/agents</a> ⭐ 4028</li>
+<li class='mb-2'><a href='https://github.com/siteboon/claudecodeui' class='text-blue-600 hover:underline'>siteboon/claudecodeui</a> ⭐ 6639</li>
+<li class='mb-2'><a href='https://github.com/NevaMind-AI/memU' class='text-blue-600 hover:underline'>NevaMind-AI/memU</a> ⭐ 10148</li>
+<li class='mb-2'><a href='https://github.com/clash-verge-rev/clash-verge-rev' class='text-blue-600 hover:underline'>clash-verge-rev/clash-verge-rev</a> ⭐ 98272</li>
+
