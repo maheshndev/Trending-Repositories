@@ -819,3 +819,19 @@
 <li class='mb-2'><a href='https://github.com/NevaMind-AI/memU' class='text-blue-600 hover:underline'>NevaMind-AI/memU</a> ⭐ 10148</li>
 <li class='mb-2'><a href='https://github.com/clash-verge-rev/clash-verge-rev' class='text-blue-600 hover:underline'>clash-verge-rev/clash-verge-rev</a> ⭐ 98272</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-25
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/huggingface/skills' class='text-blue-600 hover:underline'>huggingface/skills</a> ⭐ 5429</li>
+<li class='mb-2'><a href='https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering' class='text-blue-600 hover:underline'>muratcankoylan/Agent-Skills-for-Context-Engineering</a> ⭐ 9978</li>
+<li class='mb-2'><a href='https://github.com/OpenBB-finance/OpenBB' class='text-blue-600 hover:underline'>OpenBB-finance/OpenBB</a> ⭐ 61912</li>
+<li class='mb-2'><a href='https://github.com/LadybirdBrowser/ladybird' class='text-blue-600 hover:underline'>LadybirdBrowser/ladybird</a> ⭐ 59120</li>
+<li class='mb-2'><a href='https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools' class='text-blue-600 hover:underline'>x1xhlol/system-prompts-and-models-of-ai-tools</a> ⭐ 123141</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 60539</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruvector' class='text-blue-600 hover:underline'>ruvnet/ruvector</a> ⭐ 751</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 12722</li>
+<li class='mb-2'><a href='https://github.com/GVCLab/PersonaLive' class='text-blue-600 hover:underline'>GVCLab/PersonaLive</a> ⭐ 2014</li>
+<li class='mb-2'><a href='https://github.com/HunxByts/GhostTrack' class='text-blue-600 hover:underline'>HunxByts/GhostTrack</a> ⭐ 7484</li>
+<li class='mb-2'><a href='https://github.com/VectifyAI/PageIndex' class='text-blue-600 hover:underline'>VectifyAI/PageIndex</a> ⭐ 17268</li>
+<li class='mb-2'><a href='https://github.com/openemr/openemr' class='text-blue-600 hover:underline'>openemr/openemr</a> ⭐ 4864</li>
+
