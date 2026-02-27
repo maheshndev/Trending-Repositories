@@ -855,3 +855,17 @@
 <li class='mb-2'><a href='https://github.com/liyupi/ai-guide' class='text-blue-600 hover:underline'>liyupi/ai-guide</a> ⭐ 7736</li>
 <li class='mb-2'><a href='https://github.com/siteboon/claudecodeui' class='text-blue-600 hover:underline'>siteboon/claudecodeui</a> ⭐ 7038</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-27
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/clockworklabs/SpacetimeDB' class='text-blue-600 hover:underline'>clockworklabs/SpacetimeDB</a> ⭐ 20906</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 63441</li>
+<li class='mb-2'><a href='https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering' class='text-blue-600 hover:underline'>muratcankoylan/Agent-Skills-for-Context-Engineering</a> ⭐ 11770</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 21160</li>
+<li class='mb-2'><a href='https://github.com/huggingface/skills' class='text-blue-600 hover:underline'>huggingface/skills</a> ⭐ 6997</li>
+<li class='mb-2'><a href='https://github.com/farion1231/cc-switch' class='text-blue-600 hover:underline'>farion1231/cc-switch</a> ⭐ 20719</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 16895</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/claude-flow' class='text-blue-600 hover:underline'>ruvnet/claude-flow</a> ⭐ 14996</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruvector' class='text-blue-600 hover:underline'>ruvnet/ruvector</a> ⭐ 1614</li>
+<li class='mb-2'><a href='https://github.com/moonshine-ai/moonshine' class='text-blue-600 hover:underline'>moonshine-ai/moonshine</a> ⭐ 5307</li>
+
