@@ -869,3 +869,23 @@
 <li class='mb-2'><a href='https://github.com/ruvnet/ruvector' class='text-blue-600 hover:underline'>ruvnet/ruvector</a> ⭐ 1614</li>
 <li class='mb-2'><a href='https://github.com/moonshine-ai/moonshine' class='text-blue-600 hover:underline'>moonshine-ai/moonshine</a> ⭐ 5307</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-02-28
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ruvnet/wifi-densepose' class='text-blue-600 hover:underline'>ruvnet/wifi-densepose</a> ⭐ 9368</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 21900</li>
+<li class='mb-2'><a href='https://github.com/moonshine-ai/moonshine' class='text-blue-600 hover:underline'>moonshine-ai/moonshine</a> ⭐ 5862</li>
+<li class='mb-2'><a href='https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering' class='text-blue-600 hover:underline'>muratcankoylan/Agent-Skills-for-Context-Engineering</a> ⭐ 12418</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 64815</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 15698</li>
+<li class='mb-2'><a href='https://github.com/datawhalechina/hello-agents' class='text-blue-600 hover:underline'>datawhalechina/hello-agents</a> ⭐ 23070</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 6248</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 18370</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 71194</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruvector' class='text-blue-600 hover:underline'>ruvnet/ruvector</a> ⭐ 1929</li>
+<li class='mb-2'><a href='https://github.com/Wei-Shaw/claude-relay-service' class='text-blue-600 hover:underline'>Wei-Shaw/claude-relay-service</a> ⭐ 8550</li>
+<li class='mb-2'><a href='https://github.com/tukaani-project/xz' class='text-blue-600 hover:underline'>tukaani-project/xz</a> ⭐ 1146</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 18127</li>
+<li class='mb-2'><a href='https://github.com/steipete/CodexBar' class='text-blue-600 hover:underline'>steipete/CodexBar</a> ⭐ 7059</li>
+<li class='mb-2'><a href='https://github.com/alibaba/OpenSandbox' class='text-blue-600 hover:underline'>alibaba/OpenSandbox</a> ⭐ 1497</li>
+
