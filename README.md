@@ -889,3 +889,24 @@
 <li class='mb-2'><a href='https://github.com/steipete/CodexBar' class='text-blue-600 hover:underline'>steipete/CodexBar</a> ⭐ 7059</li>
 <li class='mb-2'><a href='https://github.com/alibaba/OpenSandbox' class='text-blue-600 hover:underline'>alibaba/OpenSandbox</a> ⭐ 1497</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-01
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ruvnet/wifi-densepose' class='text-blue-600 hover:underline'>ruvnet/wifi-densepose</a> ⭐ 11391</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 19386</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 71864</li>
+<li class='mb-2'><a href='https://github.com/tukaani-project/xz' class='text-blue-600 hover:underline'>tukaani-project/xz</a> ⭐ 1235</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 98282</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 16588</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 22624</li>
+<li class='mb-2'><a href='https://github.com/Wei-Shaw/claude-relay-service' class='text-blue-600 hover:underline'>Wei-Shaw/claude-relay-service</a> ⭐ 8700</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 1141</li>
+<li class='mb-2'><a href='https://github.com/superset-sh/superset' class='text-blue-600 hover:underline'>superset-sh/superset</a> ⭐ 2464</li>
+<li class='mb-2'><a href='https://github.com/moonshine-ai/moonshine' class='text-blue-600 hover:underline'>moonshine-ai/moonshine</a> ⭐ 6275</li>
+<li class='mb-2'><a href='https://github.com/PaddlePaddle/Paddle' class='text-blue-600 hover:underline'>PaddlePaddle/Paddle</a> ⭐ 23703</li>
+<li class='mb-2'><a href='https://github.com/datagouv/datagouv-mcp' class='text-blue-600 hover:underline'>datagouv/datagouv-mcp</a> ⭐ 664</li>
+<li class='mb-2'><a href='https://github.com/Wei-Shaw/sub2api' class='text-blue-600 hover:underline'>Wei-Shaw/sub2api</a> ⭐ 2404</li>
+<li class='mb-2'><a href='https://github.com/X-PLUG/MobileAgent' class='text-blue-600 hover:underline'>X-PLUG/MobileAgent</a> ⭐ 7525</li>
+<li class='mb-2'><a href='https://github.com/alibaba/OpenSandbox' class='text-blue-600 hover:underline'>alibaba/OpenSandbox</a> ⭐ 2247</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 66017</li>
+
