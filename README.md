@@ -910,3 +910,20 @@
 <li class='mb-2'><a href='https://github.com/alibaba/OpenSandbox' class='text-blue-600 hover:underline'>alibaba/OpenSandbox</a> ⭐ 2247</li>
 <li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 66017</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-02
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 20359</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/wifi-densepose' class='text-blue-600 hover:underline'>ruvnet/wifi-densepose</a> ⭐ 17900</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 17363</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 89030</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 23026</li>
+<li class='mb-2'><a href='https://github.com/alibaba/OpenSandbox' class='text-blue-600 hover:underline'>alibaba/OpenSandbox</a> ⭐ 3433</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 98742</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/claude-scientific-skills' class='text-blue-600 hover:underline'>K-Dense-AI/claude-scientific-skills</a> ⭐ 10334</li>
+<li class='mb-2'><a href='https://github.com/basecamp/omarchy' class='text-blue-600 hover:underline'>basecamp/omarchy</a> ⭐ 20749</li>
+<li class='mb-2'><a href='https://github.com/X-PLUG/MobileAgent' class='text-blue-600 hover:underline'>X-PLUG/MobileAgent</a> ⭐ 7723</li>
+<li class='mb-2'><a href='https://github.com/datawhalechina/hello-agents' class='text-blue-600 hover:underline'>datawhalechina/hello-agents</a> ⭐ 23903</li>
+<li class='mb-2'><a href='https://github.com/superset-sh/superset' class='text-blue-600 hover:underline'>superset-sh/superset</a> ⭐ 2932</li>
+<li class='mb-2'><a href='https://github.com/NevaMind-AI/memU' class='text-blue-600 hover:underline'>NevaMind-AI/memU</a> ⭐ 12074</li>
+
