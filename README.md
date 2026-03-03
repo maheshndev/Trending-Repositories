@@ -927,3 +927,16 @@
 <li class='mb-2'><a href='https://github.com/superset-sh/superset' class='text-blue-600 hover:underline'>superset-sh/superset</a> ⭐ 2932</li>
 <li class='mb-2'><a href='https://github.com/NevaMind-AI/memU' class='text-blue-600 hover:underline'>NevaMind-AI/memU</a> ⭐ 12074</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-03
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ruvnet/wifi-densepose' class='text-blue-600 hover:underline'>ruvnet/wifi-densepose</a> ⭐ 22278</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 21466</li>
+<li class='mb-2'><a href='https://github.com/anthropics/prompt-eng-interactive-tutorial' class='text-blue-600 hover:underline'>anthropics/prompt-eng-interactive-tutorial</a> ⭐ 31658</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 18098</li>
+<li class='mb-2'><a href='https://github.com/alibaba/OpenSandbox' class='text-blue-600 hover:underline'>alibaba/OpenSandbox</a> ⭐ 4409</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 89658</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/claude-scientific-skills' class='text-blue-600 hover:underline'>K-Dense-AI/claude-scientific-skills</a> ⭐ 11132</li>
+<li class='mb-2'><a href='https://github.com/superset-sh/superset' class='text-blue-600 hover:underline'>superset-sh/superset</a> ⭐ 3547</li>
+<li class='mb-2'><a href='https://github.com/servo/servo' class='text-blue-600 hover:underline'>servo/servo</a> ⭐ 35774</li>
+
