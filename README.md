@@ -940,3 +940,17 @@
 <li class='mb-2'><a href='https://github.com/superset-sh/superset' class='text-blue-600 hover:underline'>superset-sh/superset</a> ⭐ 3547</li>
 <li class='mb-2'><a href='https://github.com/servo/servo' class='text-blue-600 hover:underline'>servo/servo</a> ⭐ 35774</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-04
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 25440</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/claude-scientific-skills' class='text-blue-600 hover:underline'>K-Dense-AI/claude-scientific-skills</a> ⭐ 11989</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 22215</li>
+<li class='mb-2'><a href='https://github.com/CodebuffAI/codebuff' class='text-blue-600 hover:underline'>CodebuffAI/codebuff</a> ⭐ 3293</li>
+<li class='mb-2'><a href='https://github.com/agentscope-ai/agentscope' class='text-blue-600 hover:underline'>agentscope-ai/agentscope</a> ⭐ 17059</li>
+<li class='mb-2'><a href='https://github.com/agentscope-ai/ReMe' class='text-blue-600 hover:underline'>agentscope-ai/ReMe</a> ⭐ 1313</li>
+<li class='mb-2'><a href='https://github.com/LMCache/LMCache' class='text-blue-600 hover:underline'>LMCache/LMCache</a> ⭐ 7410</li>
+<li class='mb-2'><a href='https://github.com/superset-sh/superset' class='text-blue-600 hover:underline'>superset-sh/superset</a> ⭐ 4213</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 565</li>
+<li class='mb-2'><a href='https://github.com/alibaba/OpenSandbox' class='text-blue-600 hover:underline'>alibaba/OpenSandbox</a> ⭐ 5433</li>
+
