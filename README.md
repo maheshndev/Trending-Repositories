@@ -954,3 +954,20 @@
 <li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 565</li>
 <li class='mb-2'><a href='https://github.com/alibaba/OpenSandbox' class='text-blue-600 hover:underline'>alibaba/OpenSandbox</a> ⭐ 5433</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-05
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/KeygraphHQ/shannon' class='text-blue-600 hover:underline'>KeygraphHQ/shannon</a> ⭐ 30518</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 5566</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 875</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/claude-scientific-skills' class='text-blue-600 hover:underline'>K-Dense-AI/claude-scientific-skills</a> ⭐ 12766</li>
+<li class='mb-2'><a href='https://github.com/CodebuffAI/codebuff' class='text-blue-600 hover:underline'>CodebuffAI/codebuff</a> ⭐ 3587</li>
+<li class='mb-2'><a href='https://github.com/agentscope-ai/ReMe' class='text-blue-600 hover:underline'>agentscope-ai/ReMe</a> ⭐ 1652</li>
+<li class='mb-2'><a href='https://github.com/alibaba/OpenSandbox' class='text-blue-600 hover:underline'>alibaba/OpenSandbox</a> ⭐ 6013</li>
+<li class='mb-2'><a href='https://github.com/FujiwaraChoki/MoneyPrinterV2' class='text-blue-600 hover:underline'>FujiwaraChoki/MoneyPrinterV2</a> ⭐ 14234</li>
+<li class='mb-2'><a href='https://github.com/ItzCrazyKns/Perplexica' class='text-blue-600 hover:underline'>ItzCrazyKns/Perplexica</a> ⭐ 30898</li>
+<li class='mb-2'><a href='https://github.com/agentscope-ai/agentscope' class='text-blue-600 hover:underline'>agentscope-ai/agentscope</a> ⭐ 17408</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 24964</li>
+<li class='mb-2'><a href='https://github.com/nautechsystems/nautilus_trader' class='text-blue-600 hover:underline'>nautechsystems/nautilus_trader</a> ⭐ 20753</li>
+<li class='mb-2'><a href='https://github.com/FlowiseAI/Flowise' class='text-blue-600 hover:underline'>FlowiseAI/Flowise</a> ⭐ 50112</li>
+
