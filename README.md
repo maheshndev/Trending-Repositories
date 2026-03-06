@@ -971,3 +971,18 @@
 <li class='mb-2'><a href='https://github.com/nautechsystems/nautilus_trader' class='text-blue-600 hover:underline'>nautechsystems/nautilus_trader</a> ⭐ 20753</li>
 <li class='mb-2'><a href='https://github.com/FlowiseAI/Flowise' class='text-blue-600 hover:underline'>FlowiseAI/Flowise</a> ⭐ 50112</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-06
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 7705</li>
+<li class='mb-2'><a href='https://github.com/TheCraigHewitt/seomachine' class='text-blue-600 hover:underline'>TheCraigHewitt/seomachine</a> ⭐ 1679</li>
+<li class='mb-2'><a href='https://github.com/KeygraphHQ/shannon' class='text-blue-600 hover:underline'>KeygraphHQ/shannon</a> ⭐ 31842</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 32895</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 27505</li>
+<li class='mb-2'><a href='https://github.com/inclusionAI/AReaL' class='text-blue-600 hover:underline'>inclusionAI/AReaL</a> ⭐ 4107</li>
+<li class='mb-2'><a href='https://github.com/microsoft/mcp-for-beginners' class='text-blue-600 hover:underline'>microsoft/mcp-for-beginners</a> ⭐ 14938</li>
+<li class='mb-2'><a href='https://github.com/CodebuffAI/codebuff' class='text-blue-600 hover:underline'>CodebuffAI/codebuff</a> ⭐ 3884</li>
+<li class='mb-2'><a href='https://github.com/FujiwaraChoki/MoneyPrinterV2' class='text-blue-600 hover:underline'>FujiwaraChoki/MoneyPrinterV2</a> ⭐ 14718</li>
+<li class='mb-2'><a href='https://github.com/agentscope-ai/ReMe' class='text-blue-600 hover:underline'>agentscope-ai/ReMe</a> ⭐ 1832</li>
+<li class='mb-2'><a href='https://github.com/microsoft/hve-core' class='text-blue-600 hover:underline'>microsoft/hve-core</a> ⭐ 320</li>
+
