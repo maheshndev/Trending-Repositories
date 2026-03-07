@@ -986,3 +986,18 @@
 <li class='mb-2'><a href='https://github.com/agentscope-ai/ReMe' class='text-blue-600 hover:underline'>agentscope-ai/ReMe</a> ⭐ 1832</li>
 <li class='mb-2'><a href='https://github.com/microsoft/hve-core' class='text-blue-600 hover:underline'>microsoft/hve-core</a> ⭐ 320</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-07
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 29579</li>
+<li class='mb-2'><a href='https://github.com/QwenLM/Qwen-Agent' class='text-blue-600 hover:underline'>QwenLM/Qwen-Agent</a> ⭐ 14666</li>
+<li class='mb-2'><a href='https://github.com/microsoft/hve-core' class='text-blue-600 hover:underline'>microsoft/hve-core</a> ⭐ 560</li>
+<li class='mb-2'><a href='https://github.com/Ed1s0nZ/CyberStrikeAI' class='text-blue-600 hover:underline'>Ed1s0nZ/CyberStrikeAI</a> ⭐ 1638</li>
+<li class='mb-2'><a href='https://github.com/inclusionAI/AReaL' class='text-blue-600 hover:underline'>inclusionAI/AReaL</a> ⭐ 4408</li>
+<li class='mb-2'><a href='https://github.com/lingfengQAQ/webnovel-writer' class='text-blue-600 hover:underline'>lingfengQAQ/webnovel-writer</a> ⭐ 797</li>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 12040</li>
+<li class='mb-2'><a href='https://github.com/TheCraigHewitt/seomachine' class='text-blue-600 hover:underline'>TheCraigHewitt/seomachine</a> ⭐ 2171</li>
+<li class='mb-2'><a href='https://github.com/virattt/ai-hedge-fund' class='text-blue-600 hover:underline'>virattt/ai-hedge-fund</a> ⭐ 46342</li>
+<li class='mb-2'><a href='https://github.com/aidenybai/react-grab' class='text-blue-600 hover:underline'>aidenybai/react-grab</a> ⭐ 6022</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 9898</li>
+
