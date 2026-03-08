@@ -1001,3 +1001,18 @@
 <li class='mb-2'><a href='https://github.com/aidenybai/react-grab' class='text-blue-600 hover:underline'>aidenybai/react-grab</a> ⭐ 6022</li>
 <li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 9898</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-08
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/666ghj/MiroFish' class='text-blue-600 hover:underline'>666ghj/MiroFish</a> ⭐ 5709</li>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 12742</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 10811</li>
+<li class='mb-2'><a href='https://github.com/GoogleCloudPlatform/generative-ai' class='text-blue-600 hover:underline'>GoogleCloudPlatform/generative-ai</a> ⭐ 13565</li>
+<li class='mb-2'><a href='https://github.com/agentjido/jido' class='text-blue-600 hover:underline'>agentjido/jido</a> ⭐ 1430</li>
+<li class='mb-2'><a href='https://github.com/QwenLM/Qwen-Agent' class='text-blue-600 hover:underline'>QwenLM/Qwen-Agent</a> ⭐ 15039</li>
+<li class='mb-2'><a href='https://github.com/virattt/ai-hedge-fund' class='text-blue-600 hover:underline'>virattt/ai-hedge-fund</a> ⭐ 46590</li>
+<li class='mb-2'><a href='https://github.com/microsoft/hve-core' class='text-blue-600 hover:underline'>microsoft/hve-core</a> ⭐ 758</li>
+<li class='mb-2'><a href='https://github.com/toeverything/AFFiNE' class='text-blue-600 hover:underline'>toeverything/AFFiNE</a> ⭐ 64720</li>
+<li class='mb-2'><a href='https://github.com/shadcn-ui/ui' class='text-blue-600 hover:underline'>shadcn-ui/ui</a> ⭐ 108200</li>
+<li class='mb-2'><a href='https://github.com/alibaba/page-agent' class='text-blue-600 hover:underline'>alibaba/page-agent</a> ⭐ 1411</li>
+
