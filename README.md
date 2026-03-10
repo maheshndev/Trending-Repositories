@@ -1032,3 +1032,19 @@
 <li class='mb-2'><a href='https://github.com/teng-lin/notebooklm-py' class='text-blue-600 hover:underline'>teng-lin/notebooklm-py</a> ⭐ 3772</li>
 <li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 1860</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-10
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/GoogleCloudPlatform/generative-ai' class='text-blue-600 hover:underline'>GoogleCloudPlatform/generative-ai</a> ⭐ 15313</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 290824</li>
+<li class='mb-2'><a href='https://github.com/666ghj/MiroFish' class='text-blue-600 hover:underline'>666ghj/MiroFish</a> ⭐ 11164</li>
+<li class='mb-2'><a href='https://github.com/karpathy/nanochat' class='text-blue-600 hover:underline'>karpathy/nanochat</a> ⭐ 45562</li>
+<li class='mb-2'><a href='https://github.com/666ghj/BettaFish' class='text-blue-600 hover:underline'>666ghj/BettaFish</a> ⭐ 37402</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 3000</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 3017</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 19585</li>
+<li class='mb-2'><a href='https://github.com/alibaba/page-agent' class='text-blue-600 hover:underline'>alibaba/page-agent</a> ⭐ 2642</li>
+<li class='mb-2'><a href='https://github.com/alirezarezvani/claude-skills' class='text-blue-600 hover:underline'>alirezarezvani/claude-skills</a> ⭐ 3403</li>
+<li class='mb-2'><a href='https://github.com/Raphire/Win11Debloat' class='text-blue-600 hover:underline'>Raphire/Win11Debloat</a> ⭐ 41243</li>
+<li class='mb-2'><a href='https://github.com/teng-lin/notebooklm-py' class='text-blue-600 hover:underline'>teng-lin/notebooklm-py</a> ⭐ 4267</li>
+
