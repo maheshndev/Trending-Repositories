@@ -1048,3 +1048,20 @@
 <li class='mb-2'><a href='https://github.com/Raphire/Win11Debloat' class='text-blue-600 hover:underline'>Raphire/Win11Debloat</a> ⭐ 41243</li>
 <li class='mb-2'><a href='https://github.com/teng-lin/notebooklm-py' class='text-blue-600 hover:underline'>teng-lin/notebooklm-py</a> ⭐ 4267</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-11
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 25690</li>
+<li class='mb-2'><a href='https://github.com/666ghj/MiroFish' class='text-blue-600 hover:underline'>666ghj/MiroFish</a> ⭐ 14352</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 3839</li>
+<li class='mb-2'><a href='https://github.com/promptfoo/promptfoo' class='text-blue-600 hover:underline'>promptfoo/promptfoo</a> ⭐ 11996</li>
+<li class='mb-2'><a href='https://github.com/GoogleCloudPlatform/generative-ai' class='text-blue-600 hover:underline'>GoogleCloudPlatform/generative-ai</a> ⭐ 15773</li>
+<li class='mb-2'><a href='https://github.com/virattt/ai-hedge-fund' class='text-blue-600 hover:underline'>virattt/ai-hedge-fund</a> ⭐ 47629</li>
+<li class='mb-2'><a href='https://github.com/karpathy/nanochat' class='text-blue-600 hover:underline'>karpathy/nanochat</a> ⭐ 46277</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 76650</li>
+<li class='mb-2'><a href='https://github.com/alibaba/page-agent' class='text-blue-600 hover:underline'>alibaba/page-agent</a> ⭐ 3703</li>
+<li class='mb-2'><a href='https://github.com/sepinf-inc/IPED' class='text-blue-600 hover:underline'>sepinf-inc/IPED</a> ⭐ 2225</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 298878</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 3697</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 28625</li>
+
