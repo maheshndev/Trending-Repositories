@@ -1065,3 +1065,16 @@
 <li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 3697</li>
 <li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 28625</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-12
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 30356</li>
+<li class='mb-2'><a href='https://github.com/666ghj/MiroFish' class='text-blue-600 hover:underline'>666ghj/MiroFish</a> ⭐ 16922</li>
+<li class='mb-2'><a href='https://github.com/promptfoo/promptfoo' class='text-blue-600 hover:underline'>promptfoo/promptfoo</a> ⭐ 12609</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 78178</li>
+<li class='mb-2'><a href='https://github.com/fishaudio/fish-speech' class='text-blue-600 hover:underline'>fishaudio/fish-speech</a> ⭐ 25848</li>
+<li class='mb-2'><a href='https://github.com/virattt/ai-hedge-fund' class='text-blue-600 hover:underline'>virattt/ai-hedge-fund</a> ⭐ 48196</li>
+<li class='mb-2'><a href='https://github.com/alibaba/page-agent' class='text-blue-600 hover:underline'>alibaba/page-agent</a> ⭐ 4864</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 5329</li>
+<li class='mb-2'><a href='https://github.com/AstrBotDevs/AstrBot' class='text-blue-600 hover:underline'>AstrBotDevs/AstrBot</a> ⭐ 21177</li>
+
