@@ -1078,3 +1078,20 @@
 <li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 5329</li>
 <li class='mb-2'><a href='https://github.com/AstrBotDevs/AstrBot' class='text-blue-600 hover:underline'>AstrBotDevs/AstrBot</a> ⭐ 21177</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-13
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/microsoft/BitNet' class='text-blue-600 hover:underline'>microsoft/BitNet</a> ⭐ 32462</li>
+<li class='mb-2'><a href='https://github.com/fishaudio/fish-speech' class='text-blue-600 hover:underline'>fishaudio/fish-speech</a> ⭐ 26419</li>
+<li class='mb-2'><a href='https://github.com/langflow-ai/openrag' class='text-blue-600 hover:underline'>langflow-ai/openrag</a> ⭐ 1619</li>
+<li class='mb-2'><a href='https://github.com/InsForge/InsForge' class='text-blue-600 hover:underline'>InsForge/InsForge</a> ⭐ 3143</li>
+<li class='mb-2'><a href='https://github.com/vectorize-io/hindsight' class='text-blue-600 hover:underline'>vectorize-io/hindsight</a> ⭐ 3134</li>
+<li class='mb-2'><a href='https://github.com/alibaba/page-agent' class='text-blue-600 hover:underline'>alibaba/page-agent</a> ⭐ 6170</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 80075</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 6216</li>
+<li class='mb-2'><a href='https://github.com/666ghj/MiroFish' class='text-blue-600 hover:underline'>666ghj/MiroFish</a> ⭐ 19359</li>
+<li class='mb-2'><a href='https://github.com/google-ai-edge/LiteRT' class='text-blue-600 hover:underline'>google-ai-edge/LiteRT</a> ⭐ 1683</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 35237</li>
+<li class='mb-2'><a href='https://github.com/google/A2UI' class='text-blue-600 hover:underline'>google/A2UI</a> ⭐ 12653</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 10310</li>
+
