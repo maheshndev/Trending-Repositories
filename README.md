@@ -1095,3 +1095,23 @@
 <li class='mb-2'><a href='https://github.com/google/A2UI' class='text-blue-600 hover:underline'>google/A2UI</a> ⭐ 12653</li>
 <li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 10310</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-14
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/microsoft/BitNet' class='text-blue-600 hover:underline'>microsoft/BitNet</a> ⭐ 34024</li>
+<li class='mb-2'><a href='https://github.com/langflow-ai/openrag' class='text-blue-600 hover:underline'>langflow-ai/openrag</a> ⭐ 2283</li>
+<li class='mb-2'><a href='https://github.com/lightpanda-io/browser' class='text-blue-600 hover:underline'>lightpanda-io/browser</a> ⭐ 15537</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 81966</li>
+<li class='mb-2'><a href='https://github.com/public-apis/public-apis' class='text-blue-600 hover:underline'>public-apis/public-apis</a> ⭐ 409518</li>
+<li class='mb-2'><a href='https://github.com/promptfoo/promptfoo' class='text-blue-600 hover:underline'>promptfoo/promptfoo</a> ⭐ 15318</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 40309</li>
+<li class='mb-2'><a href='https://github.com/dolthub/dolt' class='text-blue-600 hover:underline'>dolthub/dolt</a> ⭐ 21094</li>
+<li class='mb-2'><a href='https://github.com/google/A2UI' class='text-blue-600 hover:underline'>google/A2UI</a> ⭐ 13065</li>
+<li class='mb-2'><a href='https://github.com/fishaudio/fish-speech' class='text-blue-600 hover:underline'>fishaudio/fish-speech</a> ⭐ 26881</li>
+<li class='mb-2'><a href='https://github.com/alibaba/page-agent' class='text-blue-600 hover:underline'>alibaba/page-agent</a> ⭐ 7590</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 10805</li>
+<li class='mb-2'><a href='https://github.com/AstrBotDevs/AstrBot' class='text-blue-600 hover:underline'>AstrBotDevs/AstrBot</a> ⭐ 23863</li>
+<li class='mb-2'><a href='https://github.com/vectorize-io/hindsight' class='text-blue-600 hover:underline'>vectorize-io/hindsight</a> ⭐ 3670</li>
+<li class='mb-2'><a href='https://github.com/InsForge/InsForge' class='text-blue-600 hover:underline'>InsForge/InsForge</a> ⭐ 3655</li>
+<li class='mb-2'><a href='https://github.com/google-ai-edge/LiteRT' class='text-blue-600 hover:underline'>google-ai-edge/LiteRT</a> ⭐ 1867</li>
+
