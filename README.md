@@ -1115,3 +1115,17 @@
 <li class='mb-2'><a href='https://github.com/InsForge/InsForge' class='text-blue-600 hover:underline'>InsForge/InsForge</a> ⭐ 3655</li>
 <li class='mb-2'><a href='https://github.com/google-ai-edge/LiteRT' class='text-blue-600 hover:underline'>google-ai-edge/LiteRT</a> ⭐ 1867</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-15
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/volcengine/OpenViking' class='text-blue-600 hover:underline'>volcengine/OpenViking</a> ⭐ 10711</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 11362</li>
+<li class='mb-2'><a href='https://github.com/dimensionalOS/dimos' class='text-blue-600 hover:underline'>dimensionalOS/dimos</a> ⭐ 873</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 13827</li>
+<li class='mb-2'><a href='https://github.com/langflow-ai/openrag' class='text-blue-600 hover:underline'>langflow-ai/openrag</a> ⭐ 2738</li>
+<li class='mb-2'><a href='https://github.com/lightpanda-io/browser' class='text-blue-600 hover:underline'>lightpanda-io/browser</a> ⭐ 17172</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 43963</li>
+<li class='mb-2'><a href='https://github.com/fishaudio/fish-speech' class='text-blue-600 hover:underline'>fishaudio/fish-speech</a> ⭐ 27241</li>
+<li class='mb-2'><a href='https://github.com/InsForge/InsForge' class='text-blue-600 hover:underline'>InsForge/InsForge</a> ⭐ 4215</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 83607</li>
+
