@@ -1129,3 +1129,20 @@
 <li class='mb-2'><a href='https://github.com/InsForge/InsForge' class='text-blue-600 hover:underline'>InsForge/InsForge</a> ⭐ 4215</li>
 <li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 83607</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-16
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/lightpanda-io/browser' class='text-blue-600 hover:underline'>lightpanda-io/browser</a> ⭐ 18799</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 1177</li>
+<li class='mb-2'><a href='https://github.com/volcengine/OpenViking' class='text-blue-600 hover:underline'>volcengine/OpenViking</a> ⭐ 12578</li>
+<li class='mb-2'><a href='https://github.com/shareAI-lab/learn-claude-code' class='text-blue-600 hover:underline'>shareAI-lab/learn-claude-code</a> ⭐ 28083</li>
+<li class='mb-2'><a href='https://github.com/shanraisshan/claude-code-best-practice' class='text-blue-600 hover:underline'>shanraisshan/claude-code-best-practice</a> ⭐ 17116</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 86160</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 14756</li>
+<li class='mb-2'><a href='https://github.com/666ghj/MiroFish' class='text-blue-600 hover:underline'>666ghj/MiroFish</a> ⭐ 27477</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 14437</li>
+<li class='mb-2'><a href='https://github.com/topoteretes/cognee' class='text-blue-600 hover:underline'>topoteretes/cognee</a> ⭐ 13958</li>
+<li class='mb-2'><a href='https://github.com/InsForge/InsForge' class='text-blue-600 hover:underline'>InsForge/InsForge</a> ⭐ 4618</li>
+<li class='mb-2'><a href='https://github.com/voidzero-dev/vite-plus' class='text-blue-600 hover:underline'>voidzero-dev/vite-plus</a> ⭐ 1776</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 11989</li>
+
