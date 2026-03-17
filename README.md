@@ -1146,3 +1146,19 @@
 <li class='mb-2'><a href='https://github.com/voidzero-dev/vite-plus' class='text-blue-600 hover:underline'>voidzero-dev/vite-plus</a> ⭐ 1776</li>
 <li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 11989</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-17
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/666ghj/MiroFish' class='text-blue-600 hover:underline'>666ghj/MiroFish</a> ⭐ 30170</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 36923</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 1873</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 88845</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 15679</li>
+<li class='mb-2'><a href='https://github.com/lightpanda-io/browser' class='text-blue-600 hover:underline'>lightpanda-io/browser</a> ⭐ 20299</li>
+<li class='mb-2'><a href='https://github.com/volcengine/OpenViking' class='text-blue-600 hover:underline'>volcengine/OpenViking</a> ⭐ 14244</li>
+<li class='mb-2'><a href='https://github.com/shareAI-lab/learn-claude-code' class='text-blue-600 hover:underline'>shareAI-lab/learn-claude-code</a> ⭐ 29407</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 15323</li>
+<li class='mb-2'><a href='https://github.com/langchain-ai/deepagents' class='text-blue-600 hover:underline'>langchain-ai/deepagents</a> ⭐ 13026</li>
+<li class='mb-2'><a href='https://github.com/YishenTu/claudian' class='text-blue-600 hover:underline'>YishenTu/claudian</a> ⭐ 4209</li>
+<li class='mb-2'><a href='https://github.com/voidzero-dev/vite-plus' class='text-blue-600 hover:underline'>voidzero-dev/vite-plus</a> ⭐ 2282</li>
+
