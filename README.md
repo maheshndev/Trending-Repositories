@@ -1162,3 +1162,13 @@
 <li class='mb-2'><a href='https://github.com/YishenTu/claudian' class='text-blue-600 hover:underline'>YishenTu/claudian</a> ⭐ 4209</li>
 <li class='mb-2'><a href='https://github.com/voidzero-dev/vite-plus' class='text-blue-600 hover:underline'>voidzero-dev/vite-plus</a> ⭐ 2282</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-18
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 92678</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 479958</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 16796</li>
+<li class='mb-2'><a href='https://github.com/langchain-ai/deepagents' class='text-blue-600 hover:underline'>langchain-ai/deepagents</a> ⭐ 14226</li>
+<li class='mb-2'><a href='https://github.com/jarrodwatts/claude-hud' class='text-blue-600 hover:underline'>jarrodwatts/claude-hud</a> ⭐ 5719</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/workerd' class='text-blue-600 hover:underline'>cloudflare/workerd</a> ⭐ 7850</li>
+
