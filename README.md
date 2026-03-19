@@ -1172,3 +1172,13 @@
 <li class='mb-2'><a href='https://github.com/jarrodwatts/claude-hud' class='text-blue-600 hover:underline'>jarrodwatts/claude-hud</a> ⭐ 5719</li>
 <li class='mb-2'><a href='https://github.com/cloudflare/workerd' class='text-blue-600 hover:underline'>cloudflare/workerd</a> ⭐ 7850</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-19
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/jarrodwatts/claude-hud' class='text-blue-600 hover:underline'>jarrodwatts/claude-hud</a> ⭐ 7211</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 96467</li>
+<li class='mb-2'><a href='https://github.com/unslothai/unsloth' class='text-blue-600 hover:underline'>unslothai/unsloth</a> ⭐ 55916</li>
+<li class='mb-2'><a href='https://github.com/newton-physics/newton' class='text-blue-600 hover:underline'>newton-physics/newton</a> ⭐ 2937</li>
+<li class='mb-2'><a href='https://github.com/shadps4-emu/shadPS4' class='text-blue-600 hover:underline'>shadps4-emu/shadPS4</a> ⭐ 29916</li>
+<li class='mb-2'><a href='https://github.com/langchain-ai/open-swe' class='text-blue-600 hover:underline'>langchain-ai/open-swe</a> ⭐ 6419</li>
+
