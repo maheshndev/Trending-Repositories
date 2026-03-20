@@ -1182,3 +1182,19 @@
 <li class='mb-2'><a href='https://github.com/shadps4-emu/shadPS4' class='text-blue-600 hover:underline'>shadps4-emu/shadPS4</a> ⭐ 29916</li>
 <li class='mb-2'><a href='https://github.com/langchain-ai/open-swe' class='text-blue-600 hover:underline'>langchain-ai/open-swe</a> ⭐ 6419</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-20
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/opendataloader-project/opendataloader-pdf' class='text-blue-600 hover:underline'>opendataloader-project/opendataloader-pdf</a> ⭐ 5813</li>
+<li class='mb-2'><a href='https://github.com/langchain-ai/open-swe' class='text-blue-600 hover:underline'>langchain-ai/open-swe</a> ⭐ 7082</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 99405</li>
+<li class='mb-2'><a href='https://github.com/jarrodwatts/claude-hud' class='text-blue-600 hover:underline'>jarrodwatts/claude-hud</a> ⭐ 8595</li>
+<li class='mb-2'><a href='https://github.com/unslothai/unsloth' class='text-blue-600 hover:underline'>unslothai/unsloth</a> ⭐ 56750</li>
+<li class='mb-2'><a href='https://github.com/mobile-dev-inc/Maestro' class='text-blue-600 hover:underline'>mobile-dev-inc/Maestro</a> ⭐ 12484</li>
+<li class='mb-2'><a href='https://github.com/tw93/Mole' class='text-blue-600 hover:underline'>tw93/Mole</a> ⭐ 42006</li>
+<li class='mb-2'><a href='https://github.com/newton-physics/newton' class='text-blue-600 hover:underline'>newton-physics/newton</a> ⭐ 3242</li>
+<li class='mb-2'><a href='https://github.com/louis-e/arnis' class='text-blue-600 hover:underline'>louis-e/arnis</a> ⭐ 10822</li>
+<li class='mb-2'><a href='https://github.com/FujiwaraChoki/MoneyPrinterV2' class='text-blue-600 hover:underline'>FujiwaraChoki/MoneyPrinterV2</a> ⭐ 16109</li>
+<li class='mb-2'><a href='https://github.com/gsd-build/get-shit-done' class='text-blue-600 hover:underline'>gsd-build/get-shit-done</a> ⭐ 36216</li>
+<li class='mb-2'><a href='https://github.com/shareAI-lab/learn-claude-code' class='text-blue-600 hover:underline'>shareAI-lab/learn-claude-code</a> ⭐ 33758</li>
+
