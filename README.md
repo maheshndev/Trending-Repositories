@@ -1198,3 +1198,16 @@
 <li class='mb-2'><a href='https://github.com/gsd-build/get-shit-done' class='text-blue-600 hover:underline'>gsd-build/get-shit-done</a> ⭐ 36216</li>
 <li class='mb-2'><a href='https://github.com/shareAI-lab/learn-claude-code' class='text-blue-600 hover:underline'>shareAI-lab/learn-claude-code</a> ⭐ 33758</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-21
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/jarrodwatts/claude-hud' class='text-blue-600 hover:underline'>jarrodwatts/claude-hud</a> ⭐ 9574</li>
+<li class='mb-2'><a href='https://github.com/langchain-ai/open-swe' class='text-blue-600 hover:underline'>langchain-ai/open-swe</a> ⭐ 7660</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 101644</li>
+<li class='mb-2'><a href='https://github.com/opendataloader-project/opendataloader-pdf' class='text-blue-600 hover:underline'>opendataloader-project/opendataloader-pdf</a> ⭐ 7095</li>
+<li class='mb-2'><a href='https://github.com/louis-e/arnis' class='text-blue-600 hover:underline'>louis-e/arnis</a> ⭐ 11613</li>
+<li class='mb-2'><a href='https://github.com/newton-physics/newton' class='text-blue-600 hover:underline'>newton-physics/newton</a> ⭐ 3484</li>
+<li class='mb-2'><a href='https://github.com/vas3k/TaxHacker' class='text-blue-600 hover:underline'>vas3k/TaxHacker</a> ⭐ 1965</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 34162</li>
+<li class='mb-2'><a href='https://github.com/openrocket/openrocket' class='text-blue-600 hover:underline'>openrocket/openrocket</a> ⭐ 2229</li>
+
