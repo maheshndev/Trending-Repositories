@@ -1211,3 +1211,16 @@
 <li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 34162</li>
 <li class='mb-2'><a href='https://github.com/openrocket/openrocket' class='text-blue-600 hover:underline'>openrocket/openrocket</a> ⭐ 2229</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-22
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/FujiwaraChoki/MoneyPrinterV2' class='text-blue-600 hover:underline'>FujiwaraChoki/MoneyPrinterV2</a> ⭐ 17860</li>
+<li class='mb-2'><a href='https://github.com/systemd/systemd' class='text-blue-600 hover:underline'>systemd/systemd</a> ⭐ 15737</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 33390</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 6881</li>
+<li class='mb-2'><a href='https://github.com/opendataloader-project/opendataloader-pdf' class='text-blue-600 hover:underline'>opendataloader-project/opendataloader-pdf</a> ⭐ 7919</li>
+<li class='mb-2'><a href='https://github.com/jarrodwatts/claude-hud' class='text-blue-600 hover:underline'>jarrodwatts/claude-hud</a> ⭐ 10488</li>
+<li class='mb-2'><a href='https://github.com/protocolbuffers/protobuf' class='text-blue-600 hover:underline'>protocolbuffers/protobuf</a> ⭐ 70950</li>
+<li class='mb-2'><a href='https://github.com/vllm-project/vllm-omni' class='text-blue-600 hover:underline'>vllm-project/vllm-omni</a> ⭐ 3521</li>
+<li class='mb-2'><a href='https://github.com/louis-e/arnis' class='text-blue-600 hover:underline'>louis-e/arnis</a> ⭐ 12251</li>
+
