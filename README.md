@@ -1243,3 +1243,22 @@
 <li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 35642</li>
 <li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 51035</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-24
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/FujiwaraChoki/MoneyPrinterV2' class='text-blue-600 hover:underline'>FujiwaraChoki/MoneyPrinterV2</a> ⭐ 23084</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 39734</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 13494</li>
+<li class='mb-2'><a href='https://github.com/vxcontrol/pentagi' class='text-blue-600 hover:underline'>vxcontrol/pentagi</a> ⭐ 13049</li>
+<li class='mb-2'><a href='https://github.com/browser-use/browser-use' class='text-blue-600 hover:underline'>browser-use/browser-use</a> ⭐ 83723</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 39431</li>
+<li class='mb-2'><a href='https://github.com/tinygrad/tinygrad' class='text-blue-600 hover:underline'>tinygrad/tinygrad</a> ⭐ 31894</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/everything-claude-code' class='text-blue-600 hover:underline'>affaan-m/everything-claude-code</a> ⭐ 102171</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 11640</li>
+<li class='mb-2'><a href='https://github.com/jingyaogong/minimind' class='text-blue-600 hover:underline'>jingyaogong/minimind</a> ⭐ 42627</li>
+<li class='mb-2'><a href='https://github.com/hsliuping/TradingAgents-CN' class='text-blue-600 hover:underline'>hsliuping/TradingAgents-CN</a> ⭐ 20356</li>
+<li class='mb-2'><a href='https://github.com/kepano/obsidian-skills' class='text-blue-600 hover:underline'>kepano/obsidian-skills</a> ⭐ 16404</li>
+<li class='mb-2'><a href='https://github.com/czlonkowski/n8n-mcp' class='text-blue-600 hover:underline'>czlonkowski/n8n-mcp</a> ⭐ 16083</li>
+<li class='mb-2'><a href='https://github.com/iptv-org/iptv' class='text-blue-600 hover:underline'>iptv-org/iptv</a> ⭐ 113626</li>
+<li class='mb-2'><a href='https://github.com/hesreallyhim/awesome-claude-code' class='text-blue-600 hover:underline'>hesreallyhim/awesome-claude-code</a> ⭐ 31050</li>
+
