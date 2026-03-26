@@ -1280,3 +1280,19 @@
 <li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 34000</li>
 <li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 41363</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-26
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 7858</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 46474</li>
+<li class='mb-2'><a href='https://github.com/BerriAI/litellm' class='text-blue-600 hover:underline'>BerriAI/litellm</a> ⭐ 40703</li>
+<li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 6898</li>
+<li class='mb-2'><a href='https://github.com/letta-ai/claude-subconscious' class='text-blue-600 hover:underline'>letta-ai/claude-subconscious</a> ⭐ 1499</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 26281</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 16703</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 42366</li>
+<li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 19259</li>
+<li class='mb-2'><a href='https://github.com/FujiwaraChoki/MoneyPrinterV2' class='text-blue-600 hover:underline'>FujiwaraChoki/MoneyPrinterV2</a> ⭐ 25640</li>
+<li class='mb-2'><a href='https://github.com/usestrix/strix' class='text-blue-600 hover:underline'>usestrix/strix</a> ⭐ 21785</li>
+<li class='mb-2'><a href='https://github.com/hsliuping/TradingAgents-CN' class='text-blue-600 hover:underline'>hsliuping/TradingAgents-CN</a> ⭐ 21361</li>
+
