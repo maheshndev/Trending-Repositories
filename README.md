@@ -1296,3 +1296,16 @@
 <li class='mb-2'><a href='https://github.com/usestrix/strix' class='text-blue-600 hover:underline'>usestrix/strix</a> ⭐ 21785</li>
 <li class='mb-2'><a href='https://github.com/hsliuping/TradingAgents-CN' class='text-blue-600 hover:underline'>hsliuping/TradingAgents-CN</a> ⭐ 21361</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-27
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 10478</li>
+<li class='mb-2'><a href='https://github.com/Yeachan-Heo/oh-my-claudecode' class='text-blue-600 hover:underline'>Yeachan-Heo/oh-my-claudecode</a> ⭐ 12762</li>
+<li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 19039</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 43259</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 48635</li>
+<li class='mb-2'><a href='https://github.com/Vaibhavs10/insanely-fast-whisper' class='text-blue-600 hover:underline'>Vaibhavs10/insanely-fast-whisper</a> ⭐ 11305</li>
+<li class='mb-2'><a href='https://github.com/agentscope-ai/agentscope' class='text-blue-600 hover:underline'>agentscope-ai/agentscope</a> ⭐ 20520</li>
+<li class='mb-2'><a href='https://github.com/twentyhq/twenty' class='text-blue-600 hover:underline'>twentyhq/twenty</a> ⭐ 41317</li>
+<li class='mb-2'><a href='https://github.com/datalab-to/chandra' class='text-blue-600 hover:underline'>datalab-to/chandra</a> ⭐ 6227</li>
+
