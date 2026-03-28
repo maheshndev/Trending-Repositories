@@ -1309,3 +1309,19 @@
 <li class='mb-2'><a href='https://github.com/twentyhq/twenty' class='text-blue-600 hover:underline'>twentyhq/twenty</a> ⭐ 41317</li>
 <li class='mb-2'><a href='https://github.com/datalab-to/chandra' class='text-blue-600 hover:underline'>datalab-to/chandra</a> ⭐ 6227</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-28
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 12762</li>
+<li class='mb-2'><a href='https://github.com/hacksider/Deep-Live-Cam' class='text-blue-600 hover:underline'>hacksider/Deep-Live-Cam</a> ⭐ 83141</li>
+<li class='mb-2'><a href='https://github.com/SakanaAI/AI-Scientist-v2' class='text-blue-600 hover:underline'>SakanaAI/AI-Scientist-v2</a> ⭐ 2897</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 24712</li>
+<li class='mb-2'><a href='https://github.com/twentyhq/twenty' class='text-blue-600 hover:underline'>twentyhq/twenty</a> ⭐ 42040</li>
+<li class='mb-2'><a href='https://github.com/datalab-to/chandra' class='text-blue-600 hover:underline'>datalab-to/chandra</a> ⭐ 7054</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 118651</li>
+<li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 19719</li>
+<li class='mb-2'><a href='https://github.com/Yeachan-Heo/oh-my-claudecode' class='text-blue-600 hover:underline'>Yeachan-Heo/oh-my-claudecode</a> ⭐ 14008</li>
+<li class='mb-2'><a href='https://github.com/FreeCAD/FreeCAD' class='text-blue-600 hover:underline'>FreeCAD/FreeCAD</a> ⭐ 29683</li>
+<li class='mb-2'><a href='https://github.com/Vaibhavs10/insanely-fast-whisper' class='text-blue-600 hover:underline'>Vaibhavs10/insanely-fast-whisper</a> ⭐ 11896</li>
+<li class='mb-2'><a href='https://github.com/onyx-dot-app/onyx' class='text-blue-600 hover:underline'>onyx-dot-app/onyx</a> ⭐ 19174</li>
+
