@@ -1325,3 +1325,16 @@
 <li class='mb-2'><a href='https://github.com/Vaibhavs10/insanely-fast-whisper' class='text-blue-600 hover:underline'>Vaibhavs10/insanely-fast-whisper</a> ⭐ 11896</li>
 <li class='mb-2'><a href='https://github.com/onyx-dot-app/onyx' class='text-blue-600 hover:underline'>onyx-dot-app/onyx</a> ⭐ 19174</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-29
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/hacksider/Deep-Live-Cam' class='text-blue-600 hover:underline'>hacksider/Deep-Live-Cam</a> ⭐ 84391</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 120894</li>
+<li class='mb-2'><a href='https://github.com/SakanaAI/AI-Scientist-v2' class='text-blue-600 hover:underline'>SakanaAI/AI-Scientist-v2</a> ⭐ 3515</li>
+<li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 20237</li>
+<li class='mb-2'><a href='https://github.com/twentyhq/twenty' class='text-blue-600 hover:underline'>twentyhq/twenty</a> ⭐ 42460</li>
+<li class='mb-2'><a href='https://github.com/onyx-dot-app/onyx' class='text-blue-600 hover:underline'>onyx-dot-app/onyx</a> ⭐ 19786</li>
+<li class='mb-2'><a href='https://github.com/datalab-to/chandra' class='text-blue-600 hover:underline'>datalab-to/chandra</a> ⭐ 7622</li>
+<li class='mb-2'><a href='https://github.com/agentscope-ai/agentscope' class='text-blue-600 hover:underline'>agentscope-ai/agentscope</a> ⭐ 21643</li>
+<li class='mb-2'><a href='https://github.com/apache/superset' class='text-blue-600 hover:underline'>apache/superset</a> ⭐ 71488</li>
+
