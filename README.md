@@ -1338,3 +1338,19 @@
 <li class='mb-2'><a href='https://github.com/agentscope-ai/agentscope' class='text-blue-600 hover:underline'>agentscope-ai/agentscope</a> ⭐ 21643</li>
 <li class='mb-2'><a href='https://github.com/apache/superset' class='text-blue-600 hover:underline'>apache/superset</a> ⭐ 71488</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-30
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/luongnv89/claude-howto' class='text-blue-600 hover:underline'>luongnv89/claude-howto</a> ⭐ 7059</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 27545</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 16907</li>
+<li class='mb-2'><a href='https://github.com/OpenBB-finance/OpenBB' class='text-blue-600 hover:underline'>OpenBB-finance/OpenBB</a> ⭐ 64064</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 123217</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 42681</li>
+<li class='mb-2'><a href='https://github.com/hacksider/Deep-Live-Cam' class='text-blue-600 hover:underline'>hacksider/Deep-Live-Cam</a> ⭐ 85401</li>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 15494</li>
+<li class='mb-2'><a href='https://github.com/shareAI-lab/learn-claude-code' class='text-blue-600 hover:underline'>shareAI-lab/learn-claude-code</a> ⭐ 42832</li>
+<li class='mb-2'><a href='https://github.com/fastfetch-cli/fastfetch' class='text-blue-600 hover:underline'>fastfetch-cli/fastfetch</a> ⭐ 21182</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 36398</li>
+<li class='mb-2'><a href='https://github.com/twentyhq/twenty' class='text-blue-600 hover:underline'>twentyhq/twenty</a> ⭐ 42986</li>
+
