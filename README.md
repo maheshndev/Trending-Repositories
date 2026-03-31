@@ -1354,3 +1354,17 @@
 <li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 36398</li>
 <li class='mb-2'><a href='https://github.com/twentyhq/twenty' class='text-blue-600 hover:underline'>twentyhq/twenty</a> ⭐ 42986</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-03-31
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 30766</li>
+<li class='mb-2'><a href='https://github.com/luongnv89/claude-howto' class='text-blue-600 hover:underline'>luongnv89/claude-howto</a> ⭐ 10102</li>
+<li class='mb-2'><a href='https://github.com/shanraisshan/claude-code-best-practice' class='text-blue-600 hover:underline'>shanraisshan/claude-code-best-practice</a> ⭐ 26358</li>
+<li class='mb-2'><a href='https://github.com/hacksider/Deep-Live-Cam' class='text-blue-600 hover:underline'>hacksider/Deep-Live-Cam</a> ⭐ 86434</li>
+<li class='mb-2'><a href='https://github.com/OpenBB-finance/OpenBB' class='text-blue-600 hover:underline'>OpenBB-finance/OpenBB</a> ⭐ 64577</li>
+<li class='mb-2'><a href='https://github.com/freeCodeCamp/freeCodeCamp' class='text-blue-600 hover:underline'>freeCodeCamp/freeCodeCamp</a> ⭐ 439773</li>
+<li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 74787</li>
+<li class='mb-2'><a href='https://github.com/apache/superset' class='text-blue-600 hover:underline'>apache/superset</a> ⭐ 71969</li>
+<li class='mb-2'><a href='https://github.com/fastfetch-cli/fastfetch' class='text-blue-600 hover:underline'>fastfetch-cli/fastfetch</a> ⭐ 21433</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 18754</li>
+
