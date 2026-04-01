@@ -1368,3 +1368,21 @@
 <li class='mb-2'><a href='https://github.com/fastfetch-cli/fastfetch' class='text-blue-600 hover:underline'>fastfetch-cli/fastfetch</a> ⭐ 21433</li>
 <li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 18754</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-01
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/luongnv89/claude-howto' class='text-blue-600 hover:underline'>luongnv89/claude-howto</a> ⭐ 13399</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 33304</li>
+<li class='mb-2'><a href='https://github.com/Yeachan-Heo/oh-my-claudecode' class='text-blue-600 hover:underline'>Yeachan-Heo/oh-my-claudecode</a> ⭐ 19307</li>
+<li class='mb-2'><a href='https://github.com/shanraisshan/claude-code-best-practice' class='text-blue-600 hover:underline'>shanraisshan/claude-code-best-practice</a> ⭐ 28913</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 20502</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 128380</li>
+<li class='mb-2'><a href='https://github.com/microsoft/agent-lightning' class='text-blue-600 hover:underline'>microsoft/agent-lightning</a> ⭐ 16256</li>
+<li class='mb-2'><a href='https://github.com/PaddlePaddle/PaddleOCR' class='text-blue-600 hover:underline'>PaddlePaddle/PaddleOCR</a> ⭐ 74265</li>
+<li class='mb-2'><a href='https://github.com/Dimillian/Skills' class='text-blue-600 hover:underline'>Dimillian/Skills</a> ⭐ 2911</li>
+<li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 75598</li>
+<li class='mb-2'><a href='https://github.com/neovim/neovim' class='text-blue-600 hover:underline'>neovim/neovim</a> ⭐ 97970</li>
+<li class='mb-2'><a href='https://github.com/vas3k/TaxHacker' class='text-blue-600 hover:underline'>vas3k/TaxHacker</a> ⭐ 3779</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/ChatDev' class='text-blue-600 hover:underline'>OpenBMB/ChatDev</a> ⭐ 32442</li>
+<li class='mb-2'><a href='https://github.com/jwasham/coding-interview-university' class='text-blue-600 hover:underline'>jwasham/coding-interview-university</a> ⭐ 339698</li>
+
