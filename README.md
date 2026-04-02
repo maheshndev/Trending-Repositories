@@ -1386,3 +1386,14 @@
 <li class='mb-2'><a href='https://github.com/OpenBMB/ChatDev' class='text-blue-600 hover:underline'>OpenBMB/ChatDev</a> ⭐ 32442</li>
 <li class='mb-2'><a href='https://github.com/jwasham/coding-interview-university' class='text-blue-600 hover:underline'>jwasham/coding-interview-university</a> ⭐ 339698</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-02
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 101609</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 34524</li>
+<li class='mb-2'><a href='https://github.com/google-research/timesfm' class='text-blue-600 hover:underline'>google-research/timesfm</a> ⭐ 12226</li>
+<li class='mb-2'><a href='https://github.com/luongnv89/claude-howto' class='text-blue-600 hover:underline'>luongnv89/claude-howto</a> ⭐ 15768</li>
+<li class='mb-2'><a href='https://github.com/axios/axios' class='text-blue-600 hover:underline'>axios/axios</a> ⭐ 108879</li>
+<li class='mb-2'><a href='https://github.com/openai/codex' class='text-blue-600 hover:underline'>openai/codex</a> ⭐ 71853</li>
+<li class='mb-2'><a href='https://github.com/f/prompts.chat' class='text-blue-600 hover:underline'>f/prompts.chat</a> ⭐ 156106</li>
+
