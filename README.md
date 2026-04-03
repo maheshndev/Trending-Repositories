@@ -1397,3 +1397,11 @@
 <li class='mb-2'><a href='https://github.com/openai/codex' class='text-blue-600 hover:underline'>openai/codex</a> ⭐ 71853</li>
 <li class='mb-2'><a href='https://github.com/f/prompts.chat' class='text-blue-600 hover:underline'>f/prompts.chat</a> ⭐ 156106</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-03
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/siddharthvaddem/openscreen' class='text-blue-600 hover:underline'>siddharthvaddem/openscreen</a> ⭐ 16104</li>
+<li class='mb-2'><a href='https://github.com/Yeachan-Heo/oh-my-codex' class='text-blue-600 hover:underline'>Yeachan-Heo/oh-my-codex</a> ⭐ 11933</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 36473</li>
+<li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 77356</li>
+
