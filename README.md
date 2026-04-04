@@ -1405,3 +1405,14 @@
 <li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 36473</li>
 <li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 77356</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-04
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Yeachan-Heo/oh-my-codex' class='text-blue-600 hover:underline'>Yeachan-Heo/oh-my-codex</a> ⭐ 14218</li>
+<li class='mb-2'><a href='https://github.com/onyx-dot-app/onyx' class='text-blue-600 hover:underline'>onyx-dot-app/onyx</a> ⭐ 23352</li>
+<li class='mb-2'><a href='https://github.com/google-research/timesfm' class='text-blue-600 hover:underline'>google-research/timesfm</a> ⭐ 14155</li>
+<li class='mb-2'><a href='https://github.com/siddharthvaddem/openscreen' class='text-blue-600 hover:underline'>siddharthvaddem/openscreen</a> ⭐ 18269</li>
+<li class='mb-2'><a href='https://github.com/dmtrKovalenko/fff.nvim' class='text-blue-600 hover:underline'>dmtrKovalenko/fff.nvim</a> ⭐ 3283</li>
+<li class='mb-2'><a href='https://github.com/f/prompts.chat' class='text-blue-600 hover:underline'>f/prompts.chat</a> ⭐ 157207</li>
+<li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 78562</li>
+
