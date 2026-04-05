@@ -1416,3 +1416,15 @@
 <li class='mb-2'><a href='https://github.com/f/prompts.chat' class='text-blue-600 hover:underline'>f/prompts.chat</a> ⭐ 157207</li>
 <li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 78562</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-05
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Blaizzy/mlx-vlm' class='text-blue-600 hover:underline'>Blaizzy/mlx-vlm</a> ⭐ 3623</li>
+<li class='mb-2'><a href='https://github.com/onyx-dot-app/onyx' class='text-blue-600 hover:underline'>onyx-dot-app/onyx</a> ⭐ 24308</li>
+<li class='mb-2'><a href='https://github.com/Yeachan-Heo/oh-my-codex' class='text-blue-600 hover:underline'>Yeachan-Heo/oh-my-codex</a> ⭐ 15727</li>
+<li class='mb-2'><a href='https://github.com/siddharthvaddem/openscreen' class='text-blue-600 hover:underline'>siddharthvaddem/openscreen</a> ⭐ 20152</li>
+<li class='mb-2'><a href='https://github.com/telegramdesktop/tdesktop' class='text-blue-600 hover:underline'>telegramdesktop/tdesktop</a> ⭐ 30848</li>
+<li class='mb-2'><a href='https://github.com/block/goose' class='text-blue-600 hover:underline'>block/goose</a> ⭐ 35735</li>
+<li class='mb-2'><a href='https://github.com/microsoft/agent-framework' class='text-blue-600 hover:underline'>microsoft/agent-framework</a> ⭐ 8722</li>
+<li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 79410</li>
+
