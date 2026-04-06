@@ -1428,3 +1428,17 @@
 <li class='mb-2'><a href='https://github.com/microsoft/agent-framework' class='text-blue-600 hover:underline'>microsoft/agent-framework</a> ⭐ 8722</li>
 <li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 79410</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-06
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/google-ai-edge/gallery' class='text-blue-600 hover:underline'>google-ai-edge/gallery</a> ⭐ 17035</li>
+<li class='mb-2'><a href='https://github.com/Blaizzy/mlx-vlm' class='text-blue-600 hover:underline'>Blaizzy/mlx-vlm</a> ⭐ 3956</li>
+<li class='mb-2'><a href='https://github.com/siddharthvaddem/openscreen' class='text-blue-600 hover:underline'>siddharthvaddem/openscreen</a> ⭐ 22644</li>
+<li class='mb-2'><a href='https://github.com/block/goose' class='text-blue-600 hover:underline'>block/goose</a> ⭐ 37120</li>
+<li class='mb-2'><a href='https://github.com/onyx-dot-app/onyx' class='text-blue-600 hover:underline'>onyx-dot-app/onyx</a> ⭐ 25083</li>
+<li class='mb-2'><a href='https://github.com/badlogic/pi-mono' class='text-blue-600 hover:underline'>badlogic/pi-mono</a> ⭐ 31953</li>
+<li class='mb-2'><a href='https://github.com/dmtrKovalenko/fff.nvim' class='text-blue-600 hover:underline'>dmtrKovalenko/fff.nvim</a> ⭐ 3715</li>
+<li class='mb-2'><a href='https://github.com/google-ai-edge/LiteRT-LM' class='text-blue-600 hover:underline'>google-ai-edge/LiteRT-LM</a> ⭐ 1594</li>
+<li class='mb-2'><a href='https://github.com/telegramdesktop/tdesktop' class='text-blue-600 hover:underline'>telegramdesktop/tdesktop</a> ⭐ 31087</li>
+<li class='mb-2'><a href='https://github.com/freeCodeCamp/freeCodeCamp' class='text-blue-600 hover:underline'>freeCodeCamp/freeCodeCamp</a> ⭐ 441543</li>
+
