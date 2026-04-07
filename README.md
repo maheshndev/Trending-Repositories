@@ -1442,3 +1442,20 @@
 <li class='mb-2'><a href='https://github.com/telegramdesktop/tdesktop' class='text-blue-600 hover:underline'>telegramdesktop/tdesktop</a> ⭐ 31087</li>
 <li class='mb-2'><a href='https://github.com/freeCodeCamp/freeCodeCamp' class='text-blue-600 hover:underline'>freeCodeCamp/freeCodeCamp</a> ⭐ 441543</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-07
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 23558</li>
+<li class='mb-2'><a href='https://github.com/google-ai-edge/gallery' class='text-blue-600 hover:underline'>google-ai-edge/gallery</a> ⭐ 17939</li>
+<li class='mb-2'><a href='https://github.com/google-ai-edge/LiteRT-LM' class='text-blue-600 hover:underline'>google-ai-edge/LiteRT-LM</a> ⭐ 2058</li>
+<li class='mb-2'><a href='https://github.com/immich-app/immich' class='text-blue-600 hover:underline'>immich-app/immich</a> ⭐ 96916</li>
+<li class='mb-2'><a href='https://github.com/KeygraphHQ/shannon' class='text-blue-600 hover:underline'>KeygraphHQ/shannon</a> ⭐ 36615</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 28282</li>
+<li class='mb-2'><a href='https://github.com/tobi/qmd' class='text-blue-600 hover:underline'>tobi/qmd</a> ⭐ 18809</li>
+<li class='mb-2'><a href='https://github.com/TelegramMessenger/Telegram-iOS' class='text-blue-600 hover:underline'>TelegramMessenger/Telegram-iOS</a> ⭐ 8324</li>
+<li class='mb-2'><a href='https://github.com/kepano/obsidian-skills' class='text-blue-600 hover:underline'>kepano/obsidian-skills</a> ⭐ 20669</li>
+<li class='mb-2'><a href='https://github.com/ollama/ollama' class='text-blue-600 hover:underline'>ollama/ollama</a> ⭐ 167754</li>
+<li class='mb-2'><a href='https://github.com/ggml-org/llama.cpp' class='text-blue-600 hover:underline'>ggml-org/llama.cpp</a> ⭐ 102084</li>
+<li class='mb-2'><a href='https://github.com/siddharthvaddem/openscreen' class='text-blue-600 hover:underline'>siddharthvaddem/openscreen</a> ⭐ 24128</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/personaplex' class='text-blue-600 hover:underline'>NVIDIA/personaplex</a> ⭐ 7394</li>
+
