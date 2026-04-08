@@ -1459,3 +1459,16 @@
 <li class='mb-2'><a href='https://github.com/siddharthvaddem/openscreen' class='text-blue-600 hover:underline'>siddharthvaddem/openscreen</a> ⭐ 24128</li>
 <li class='mb-2'><a href='https://github.com/NVIDIA/personaplex' class='text-blue-600 hover:underline'>NVIDIA/personaplex</a> ⭐ 7394</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-08
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/google-ai-edge/gallery' class='text-blue-600 hover:underline'>google-ai-edge/gallery</a> ⭐ 18856</li>
+<li class='mb-2'><a href='https://github.com/google-ai-edge/LiteRT-LM' class='text-blue-600 hover:underline'>google-ai-edge/LiteRT-LM</a> ⭐ 2591</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/personaplex' class='text-blue-600 hover:underline'>NVIDIA/personaplex</a> ⭐ 7992</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 24596</li>
+<li class='mb-2'><a href='https://github.com/tobi/qmd' class='text-blue-600 hover:underline'>tobi/qmd</a> ⭐ 19606</li>
+<li class='mb-2'><a href='https://github.com/forrestchang/andrej-karpathy-skills' class='text-blue-600 hover:underline'>forrestchang/andrej-karpathy-skills</a> ⭐ 8116</li>
+<li class='mb-2'><a href='https://github.com/elebumm/RedditVideoMakerBot' class='text-blue-600 hover:underline'>elebumm/RedditVideoMakerBot</a> ⭐ 10078</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 12293</li>
+<li class='mb-2'><a href='https://github.com/TheCraigHewitt/seomachine' class='text-blue-600 hover:underline'>TheCraigHewitt/seomachine</a> ⭐ 3942</li>
+
