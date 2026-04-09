@@ -1472,3 +1472,18 @@
 <li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 12293</li>
 <li class='mb-2'><a href='https://github.com/TheCraigHewitt/seomachine' class='text-blue-600 hover:underline'>TheCraigHewitt/seomachine</a> ⭐ 3942</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-09
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/forrestchang/andrej-karpathy-skills' class='text-blue-600 hover:underline'>forrestchang/andrej-karpathy-skills</a> ⭐ 9104</li>
+<li class='mb-2'><a href='https://github.com/TheCraigHewitt/seomachine' class='text-blue-600 hover:underline'>TheCraigHewitt/seomachine</a> ⭐ 4643</li>
+<li class='mb-2'><a href='https://github.com/google-ai-edge/gallery' class='text-blue-600 hover:underline'>google-ai-edge/gallery</a> ⭐ 19552</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/personaplex' class='text-blue-600 hover:underline'>NVIDIA/personaplex</a> ⭐ 8469</li>
+<li class='mb-2'><a href='https://github.com/google-ai-edge/LiteRT-LM' class='text-blue-600 hover:underline'>google-ai-edge/LiteRT-LM</a> ⭐ 3013</li>
+<li class='mb-2'><a href='https://github.com/elebumm/RedditVideoMakerBot' class='text-blue-600 hover:underline'>elebumm/RedditVideoMakerBot</a> ⭐ 10521</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 141708</li>
+<li class='mb-2'><a href='https://github.com/newton-physics/newton' class='text-blue-600 hover:underline'>newton-physics/newton</a> ⭐ 4115</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 25363</li>
+<li class='mb-2'><a href='https://github.com/virattt/ai-hedge-fund' class='text-blue-600 hover:underline'>virattt/ai-hedge-fund</a> ⭐ 50732</li>
+<li class='mb-2'><a href='https://github.com/goharbor/harbor' class='text-blue-600 hover:underline'>goharbor/harbor</a> ⭐ 28140</li>
+
