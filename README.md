@@ -1487,3 +1487,17 @@
 <li class='mb-2'><a href='https://github.com/virattt/ai-hedge-fund' class='text-blue-600 hover:underline'>virattt/ai-hedge-fund</a> ⭐ 50732</li>
 <li class='mb-2'><a href='https://github.com/goharbor/harbor' class='text-blue-600 hover:underline'>goharbor/harbor</a> ⭐ 28140</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-10
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 45360</li>
+<li class='mb-2'><a href='https://github.com/forrestchang/andrej-karpathy-skills' class='text-blue-600 hover:underline'>forrestchang/andrej-karpathy-skills</a> ⭐ 10598</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 15008</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/VoxCPM' class='text-blue-600 hover:underline'>OpenBMB/VoxCPM</a> ⭐ 7754</li>
+<li class='mb-2'><a href='https://github.com/opendataloader-project/opendataloader-pdf' class='text-blue-600 hover:underline'>opendataloader-project/opendataloader-pdf</a> ⭐ 13899</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 143919</li>
+<li class='mb-2'><a href='https://github.com/TheCraigHewitt/seomachine' class='text-blue-600 hover:underline'>TheCraigHewitt/seomachine</a> ⭐ 5247</li>
+<li class='mb-2'><a href='https://github.com/coleam00/Archon' class='text-blue-600 hover:underline'>coleam00/Archon</a> ⭐ 14478</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 12235</li>
+<li class='mb-2'><a href='https://github.com/YishenTu/claudian' class='text-blue-600 hover:underline'>YishenTu/claudian</a> ⭐ 6882</li>
+
