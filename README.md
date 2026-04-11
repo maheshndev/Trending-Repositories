@@ -1501,3 +1501,19 @@
 <li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 12235</li>
 <li class='mb-2'><a href='https://github.com/YishenTu/claudian' class='text-blue-600 hover:underline'>YishenTu/claudian</a> ⭐ 6882</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-11
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 99860</li>
+<li class='mb-2'><a href='https://github.com/coleam00/Archon' class='text-blue-600 hover:underline'>coleam00/Archon</a> ⭐ 15692</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 52463</li>
+<li class='mb-2'><a href='https://github.com/rowboatlabs/rowboat' class='text-blue-600 hover:underline'>rowboatlabs/rowboat</a> ⭐ 11762</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/multica' class='text-blue-600 hover:underline'>multica-ai/multica</a> ⭐ 6179</li>
+<li class='mb-2'><a href='https://github.com/forrestchang/andrej-karpathy-skills' class='text-blue-600 hover:underline'>forrestchang/andrej-karpathy-skills</a> ⭐ 11808</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 12742</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 16025</li>
+<li class='mb-2'><a href='https://github.com/opendataloader-project/opendataloader-pdf' class='text-blue-600 hover:underline'>opendataloader-project/opendataloader-pdf</a> ⭐ 14843</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 145848</li>
+<li class='mb-2'><a href='https://github.com/jqlang/jq' class='text-blue-600 hover:underline'>jqlang/jq</a> ⭐ 34314</li>
+<li class='mb-2'><a href='https://github.com/shanraisshan/claude-code-best-practice' class='text-blue-600 hover:underline'>shanraisshan/claude-code-best-practice</a> ⭐ 35856</li>
+
