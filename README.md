@@ -1534,3 +1534,21 @@
 <li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 147244</li>
 <li class='mb-2'><a href='https://github.com/alexpate/awesome-design-systems' class='text-blue-600 hover:underline'>alexpate/awesome-design-systems</a> ⭐ 22509</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-13
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 68321</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 15942</li>
+<li class='mb-2'><a href='https://github.com/forrestchang/andrej-karpathy-skills' class='text-blue-600 hover:underline'>forrestchang/andrej-karpathy-skills</a> ⭐ 17287</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 105083</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/multica' class='text-blue-600 hover:underline'>multica-ai/multica</a> ⭐ 9587</li>
+<li class='mb-2'><a href='https://github.com/coleam00/Archon' class='text-blue-600 hover:underline'>coleam00/Archon</a> ⭐ 17132</li>
+<li class='mb-2'><a href='https://github.com/shanraisshan/claude-code-best-practice' class='text-blue-600 hover:underline'>shanraisshan/claude-code-best-practice</a> ⭐ 39278</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/VoxCPM' class='text-blue-600 hover:underline'>OpenBMB/VoxCPM</a> ⭐ 11447</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 50345</li>
+<li class='mb-2'><a href='https://github.com/ahujasid/blender-mcp' class='text-blue-600 hover:underline'>ahujasid/blender-mcp</a> ⭐ 19189</li>
+<li class='mb-2'><a href='https://github.com/rustfs/rustfs' class='text-blue-600 hover:underline'>rustfs/rustfs</a> ⭐ 25287</li>
+<li class='mb-2'><a href='https://github.com/virattt/ai-hedge-fund' class='text-blue-600 hover:underline'>virattt/ai-hedge-fund</a> ⭐ 52239</li>
+<li class='mb-2'><a href='https://github.com/snarktank/ralph' class='text-blue-600 hover:underline'>snarktank/ralph</a> ⭐ 16019</li>
+<li class='mb-2'><a href='https://github.com/TapXWorld/ChinaTextbook' class='text-blue-600 hover:underline'>TapXWorld/ChinaTextbook</a> ⭐ 68374</li>
+
