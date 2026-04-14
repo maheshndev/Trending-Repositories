@@ -1552,3 +1552,23 @@
 <li class='mb-2'><a href='https://github.com/snarktank/ralph' class='text-blue-600 hover:underline'>snarktank/ralph</a> ⭐ 16019</li>
 <li class='mb-2'><a href='https://github.com/TapXWorld/ChinaTextbook' class='text-blue-600 hover:underline'>TapXWorld/ChinaTextbook</a> ⭐ 68374</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-14
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/forrestchang/andrej-karpathy-skills' class='text-blue-600 hover:underline'>forrestchang/andrej-karpathy-skills</a> ⭐ 25927</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 78157</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 17089</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 53536</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 107149</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/multica' class='text-blue-600 hover:underline'>multica-ai/multica</a> ⭐ 11279</li>
+<li class='mb-2'><a href='https://github.com/coleam00/Archon' class='text-blue-600 hover:underline'>coleam00/Archon</a> ⭐ 17664</li>
+<li class='mb-2'><a href='https://github.com/snarktank/ralph' class='text-blue-600 hover:underline'>snarktank/ralph</a> ⭐ 16569</li>
+<li class='mb-2'><a href='https://github.com/virattt/ai-hedge-fund' class='text-blue-600 hover:underline'>virattt/ai-hedge-fund</a> ⭐ 53045</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-cookbooks' class='text-blue-600 hover:underline'>anthropics/claude-cookbooks</a> ⭐ 39603</li>
+<li class='mb-2'><a href='https://github.com/shanraisshan/claude-code-best-practice' class='text-blue-600 hover:underline'>shanraisshan/claude-code-best-practice</a> ⭐ 42008</li>
+<li class='mb-2'><a href='https://github.com/jamiepine/voicebox' class='text-blue-600 hover:underline'>jamiepine/voicebox</a> ⭐ 16403</li>
+<li class='mb-2'><a href='https://github.com/ahujasid/blender-mcp' class='text-blue-600 hover:underline'>ahujasid/blender-mcp</a> ⭐ 19528</li>
+<li class='mb-2'><a href='https://github.com/hacksider/Deep-Live-Cam' class='text-blue-600 hover:underline'>hacksider/Deep-Live-Cam</a> ⭐ 90286</li>
+<li class='mb-2'><a href='https://github.com/gsd-build/get-shit-done' class='text-blue-600 hover:underline'>gsd-build/get-shit-done</a> ⭐ 52200</li>
+<li class='mb-2'><a href='https://github.com/TapXWorld/ChinaTextbook' class='text-blue-600 hover:underline'>TapXWorld/ChinaTextbook</a> ⭐ 68965</li>
+
