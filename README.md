@@ -1572,3 +1572,19 @@
 <li class='mb-2'><a href='https://github.com/gsd-build/get-shit-done' class='text-blue-600 hover:underline'>gsd-build/get-shit-done</a> ⭐ 52200</li>
 <li class='mb-2'><a href='https://github.com/TapXWorld/ChinaTextbook' class='text-blue-600 hover:underline'>TapXWorld/ChinaTextbook</a> ⭐ 68965</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-15
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/forrestchang/andrej-karpathy-skills' class='text-blue-600 hover:underline'>forrestchang/andrej-karpathy-skills</a> ⭐ 34603</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 55981</li>
+<li class='mb-2'><a href='https://github.com/jamiepine/voicebox' class='text-blue-600 hover:underline'>jamiepine/voicebox</a> ⭐ 17446</li>
+<li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 11732</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 108560</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 152480</li>
+<li class='mb-2'><a href='https://github.com/chrislgarry/Apollo-11' class='text-blue-600 hover:underline'>chrislgarry/Apollo-11</a> ⭐ 66403</li>
+<li class='mb-2'><a href='https://github.com/virattt/ai-hedge-fund' class='text-blue-600 hover:underline'>virattt/ai-hedge-fund</a> ⭐ 54239</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 17847</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 85021</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-cookbooks' class='text-blue-600 hover:underline'>anthropics/claude-cookbooks</a> ⭐ 40312</li>
+<li class='mb-2'><a href='https://github.com/shanraisshan/claude-code-best-practice' class='text-blue-600 hover:underline'>shanraisshan/claude-code-best-practice</a> ⭐ 43959</li>
+
