@@ -1605,3 +1605,21 @@
 <li class='mb-2'><a href='https://github.com/google/magika' class='text-blue-600 hover:underline'>google/magika</a> ⭐ 13871</li>
 <li class='mb-2'><a href='https://github.com/Donchitos/Claude-Code-Game-Studios' class='text-blue-600 hover:underline'>Donchitos/Claude-Code-Game-Studios</a> ⭐ 10605</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-17
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/forrestchang/andrej-karpathy-skills' class='text-blue-600 hover:underline'>forrestchang/andrej-karpathy-skills</a> ⭐ 50447</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 60000</li>
+<li class='mb-2'><a href='https://github.com/lsdefine/GenericAgent' class='text-blue-600 hover:underline'>lsdefine/GenericAgent</a> ⭐ 2881</li>
+<li class='mb-2'><a href='https://github.com/jamiepine/voicebox' class='text-blue-600 hover:underline'>jamiepine/voicebox</a> ⭐ 19132</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/open-agents' class='text-blue-600 hover:underline'>vercel-labs/open-agents</a> ⭐ 3259</li>
+<li class='mb-2'><a href='https://github.com/google/magika' class='text-blue-600 hover:underline'>google/magika</a> ⭐ 14849</li>
+<li class='mb-2'><a href='https://github.com/steipete/wacli' class='text-blue-600 hover:underline'>steipete/wacli</a> ⭐ 1713</li>
+<li class='mb-2'><a href='https://github.com/topoteretes/cognee' class='text-blue-600 hover:underline'>topoteretes/cognee</a> ⭐ 15854</li>
+<li class='mb-2'><a href='https://github.com/z-lab/dflash' class='text-blue-600 hover:underline'>z-lab/dflash</a> ⭐ 1638</li>
+<li class='mb-2'><a href='https://github.com/Lordog/dive-into-llms' class='text-blue-600 hover:underline'>Lordog/dive-into-llms</a> ⭐ 30812</li>
+<li class='mb-2'><a href='https://github.com/openai/openai-agents-python' class='text-blue-600 hover:underline'>openai/openai-agents-python</a> ⭐ 21304</li>
+<li class='mb-2'><a href='https://github.com/EvoMap/evolver' class='text-blue-600 hover:underline'>EvoMap/evolver</a> ⭐ 3239</li>
+<li class='mb-2'><a href='https://github.com/SimoneAvogadro/android-reverse-engineering-skill' class='text-blue-600 hover:underline'>SimoneAvogadro/android-reverse-engineering-skill</a> ⭐ 2296</li>
+<li class='mb-2'><a href='https://github.com/BasedHardware/omi' class='text-blue-600 hover:underline'>BasedHardware/omi</a> ⭐ 9174</li>
+
