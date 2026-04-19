@@ -1642,3 +1642,17 @@
 <li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 9464</li>
 <li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 35880</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-19
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/thunderbird/thunderbolt' class='text-blue-600 hover:underline'>thunderbird/thunderbolt</a> ⭐ 1612</li>
+<li class='mb-2'><a href='https://github.com/BasedHardware/omi' class='text-blue-600 hover:underline'>BasedHardware/omi</a> ⭐ 10518</li>
+<li class='mb-2'><a href='https://github.com/openai/openai-agents-python' class='text-blue-600 hover:underline'>openai/openai-agents-python</a> ⭐ 22411</li>
+<li class='mb-2'><a href='https://github.com/EvoMap/evolver' class='text-blue-600 hover:underline'>EvoMap/evolver</a> ⭐ 5059</li>
+<li class='mb-2'><a href='https://github.com/deepseek-ai/DeepGEMM' class='text-blue-600 hover:underline'>deepseek-ai/DeepGEMM</a> ⭐ 6559</li>
+<li class='mb-2'><a href='https://github.com/Lordog/dive-into-llms' class='text-blue-600 hover:underline'>Lordog/dive-into-llms</a> ⭐ 32064</li>
+<li class='mb-2'><a href='https://github.com/aaddrick/claude-desktop-debian' class='text-blue-600 hover:underline'>aaddrick/claude-desktop-debian</a> ⭐ 3484</li>
+<li class='mb-2'><a href='https://github.com/rustdesk/rustdesk' class='text-blue-600 hover:underline'>rustdesk/rustdesk</a> ⭐ 112121</li>
+<li class='mb-2'><a href='https://github.com/SimoneAvogadro/android-reverse-engineering-skill' class='text-blue-600 hover:underline'>SimoneAvogadro/android-reverse-engineering-skill</a> ⭐ 3171</li>
+<li class='mb-2'><a href='https://github.com/tractorjuice/arc-kit' class='text-blue-600 hover:underline'>tractorjuice/arc-kit</a> ⭐ 759</li>
+
