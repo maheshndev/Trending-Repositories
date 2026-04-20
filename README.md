@@ -1656,3 +1656,17 @@
 <li class='mb-2'><a href='https://github.com/SimoneAvogadro/android-reverse-engineering-skill' class='text-blue-600 hover:underline'>SimoneAvogadro/android-reverse-engineering-skill</a> ⭐ 3171</li>
 <li class='mb-2'><a href='https://github.com/tractorjuice/arc-kit' class='text-blue-600 hover:underline'>tractorjuice/arc-kit</a> ⭐ 759</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-20
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Fincept-Corporation/FinceptTerminal' class='text-blue-600 hover:underline'>Fincept-Corporation/FinceptTerminal</a> ⭐ 6900</li>
+<li class='mb-2'><a href='https://github.com/thunderbird/thunderbolt' class='text-blue-600 hover:underline'>thunderbird/thunderbolt</a> ⭐ 2287</li>
+<li class='mb-2'><a href='https://github.com/tractorjuice/arc-kit' class='text-blue-600 hover:underline'>tractorjuice/arc-kit</a> ⭐ 1040</li>
+<li class='mb-2'><a href='https://github.com/openai/openai-agents-python' class='text-blue-600 hover:underline'>openai/openai-agents-python</a> ⭐ 23273</li>
+<li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 9934</li>
+<li class='mb-2'><a href='https://github.com/paperless-ngx/paperless-ngx' class='text-blue-600 hover:underline'>paperless-ngx/paperless-ngx</a> ⭐ 38935</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 47574</li>
+<li class='mb-2'><a href='https://github.com/EvoMap/evolver' class='text-blue-600 hover:underline'>EvoMap/evolver</a> ⭐ 5619</li>
+<li class='mb-2'><a href='https://github.com/BasedHardware/omi' class='text-blue-600 hover:underline'>BasedHardware/omi</a> ⭐ 11241</li>
+<li class='mb-2'><a href='https://github.com/Donchitos/Claude-Code-Game-Studios' class='text-blue-600 hover:underline'>Donchitos/Claude-Code-Game-Studios</a> ⭐ 13629</li>
+
