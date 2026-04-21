@@ -1670,3 +1670,17 @@
 <li class='mb-2'><a href='https://github.com/BasedHardware/omi' class='text-blue-600 hover:underline'>BasedHardware/omi</a> ⭐ 11241</li>
 <li class='mb-2'><a href='https://github.com/Donchitos/Claude-Code-Game-Studios' class='text-blue-600 hover:underline'>Donchitos/Claude-Code-Game-Studios</a> ⭐ 13629</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-21
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Fincept-Corporation/FinceptTerminal' class='text-blue-600 hover:underline'>Fincept-Corporation/FinceptTerminal</a> ⭐ 9780</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 48294</li>
+<li class='mb-2'><a href='https://github.com/thunderbird/thunderbolt' class='text-blue-600 hover:underline'>thunderbird/thunderbolt</a> ⭐ 2865</li>
+<li class='mb-2'><a href='https://github.com/paperless-ngx/paperless-ngx' class='text-blue-600 hover:underline'>paperless-ngx/paperless-ngx</a> ⭐ 39477</li>
+<li class='mb-2'><a href='https://github.com/tractorjuice/arc-kit' class='text-blue-600 hover:underline'>tractorjuice/arc-kit</a> ⭐ 1374</li>
+<li class='mb-2'><a href='https://github.com/koala73/worldmonitor' class='text-blue-600 hover:underline'>koala73/worldmonitor</a> ⭐ 50243</li>
+<li class='mb-2'><a href='https://github.com/openai/openai-agents-python' class='text-blue-600 hover:underline'>openai/openai-agents-python</a> ⭐ 24005</li>
+<li class='mb-2'><a href='https://github.com/deepseek-ai/DeepGEMM' class='text-blue-600 hover:underline'>deepseek-ai/DeepGEMM</a> ⭐ 6847</li>
+<li class='mb-2'><a href='https://github.com/pi-hole/pi-hole' class='text-blue-600 hover:underline'>pi-hole/pi-hole</a> ⭐ 57244</li>
+<li class='mb-2'><a href='https://github.com/XTLS/Xray-core' class='text-blue-600 hover:underline'>XTLS/Xray-core</a> ⭐ 37491</li>
+
