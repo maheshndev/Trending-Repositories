@@ -1684,3 +1684,16 @@
 <li class='mb-2'><a href='https://github.com/pi-hole/pi-hole' class='text-blue-600 hover:underline'>pi-hole/pi-hole</a> ⭐ 57244</li>
 <li class='mb-2'><a href='https://github.com/XTLS/Xray-core' class='text-blue-600 hover:underline'>XTLS/Xray-core</a> ⭐ 37491</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-22
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Fincept-Corporation/FinceptTerminal' class='text-blue-600 hover:underline'>Fincept-Corporation/FinceptTerminal</a> ⭐ 11755</li>
+<li class='mb-2'><a href='https://github.com/thunderbird/thunderbolt' class='text-blue-600 hover:underline'>thunderbird/thunderbolt</a> ⭐ 3514</li>
+<li class='mb-2'><a href='https://github.com/zilliztech/claude-context' class='text-blue-600 hover:underline'>zilliztech/claude-context</a> ⭐ 6690</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 48936</li>
+<li class='mb-2'><a href='https://github.com/microsoft/ai-agents-for-beginners' class='text-blue-600 hover:underline'>microsoft/ai-agents-for-beginners</a> ⭐ 57842</li>
+<li class='mb-2'><a href='https://github.com/dayanch96/YTLite' class='text-blue-600 hover:underline'>dayanch96/YTLite</a> ⭐ 4855</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/RAG-Anything' class='text-blue-600 hover:underline'>HKUDS/RAG-Anything</a> ⭐ 16976</li>
+<li class='mb-2'><a href='https://github.com/sansan0/TrendRadar' class='text-blue-600 hover:underline'>sansan0/TrendRadar</a> ⭐ 53762</li>
+<li class='mb-2'><a href='https://github.com/VoltAgent/awesome-agent-skills' class='text-blue-600 hover:underline'>VoltAgent/awesome-agent-skills</a> ⭐ 16835</li>
+
