@@ -1697,3 +1697,19 @@
 <li class='mb-2'><a href='https://github.com/sansan0/TrendRadar' class='text-blue-600 hover:underline'>sansan0/TrendRadar</a> ⭐ 53762</li>
 <li class='mb-2'><a href='https://github.com/VoltAgent/awesome-agent-skills' class='text-blue-600 hover:underline'>VoltAgent/awesome-agent-skills</a> ⭐ 16835</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-23
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/zilliztech/claude-context' class='text-blue-600 hover:underline'>zilliztech/claude-context</a> ⭐ 7639</li>
+<li class='mb-2'><a href='https://github.com/Fincept-Corporation/FinceptTerminal' class='text-blue-600 hover:underline'>Fincept-Corporation/FinceptTerminal</a> ⭐ 13216</li>
+<li class='mb-2'><a href='https://github.com/koala73/worldmonitor' class='text-blue-600 hover:underline'>koala73/worldmonitor</a> ⭐ 51681</li>
+<li class='mb-2'><a href='https://github.com/langfuse/langfuse' class='text-blue-600 hover:underline'>langfuse/langfuse</a> ⭐ 25677</li>
+<li class='mb-2'><a href='https://github.com/KeygraphHQ/shannon' class='text-blue-600 hover:underline'>KeygraphHQ/shannon</a> ⭐ 39653</li>
+<li class='mb-2'><a href='https://github.com/open-metadata/OpenMetadata' class='text-blue-600 hover:underline'>open-metadata/OpenMetadata</a> ⭐ 12231</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 49412</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/RAG-Anything' class='text-blue-600 hover:underline'>HKUDS/RAG-Anything</a> ⭐ 17604</li>
+<li class='mb-2'><a href='https://github.com/sansan0/TrendRadar' class='text-blue-600 hover:underline'>sansan0/TrendRadar</a> ⭐ 54534</li>
+<li class='mb-2'><a href='https://github.com/AIDC-AI/Pixelle-Video' class='text-blue-600 hover:underline'>AIDC-AI/Pixelle-Video</a> ⭐ 5729</li>
+<li class='mb-2'><a href='https://github.com/Z4nzu/hackingtool' class='text-blue-600 hover:underline'>Z4nzu/hackingtool</a> ⭐ 59801</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/skills' class='text-blue-600 hover:underline'>vercel-labs/skills</a> ⭐ 15551</li>
+
