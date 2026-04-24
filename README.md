@@ -1713,3 +1713,23 @@
 <li class='mb-2'><a href='https://github.com/Z4nzu/hackingtool' class='text-blue-600 hover:underline'>Z4nzu/hackingtool</a> ⭐ 59801</li>
 <li class='mb-2'><a href='https://github.com/vercel-labs/skills' class='text-blue-600 hover:underline'>vercel-labs/skills</a> ⭐ 15551</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-24
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/huggingface/ml-intern' class='text-blue-600 hover:underline'>huggingface/ml-intern</a> ⭐ 3533</li>
+<li class='mb-2'><a href='https://github.com/zilliztech/claude-context' class='text-blue-600 hover:underline'>zilliztech/claude-context</a> ⭐ 8500</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/RAG-Anything' class='text-blue-600 hover:underline'>HKUDS/RAG-Anything</a> ⭐ 18250</li>
+<li class='mb-2'><a href='https://github.com/Z4nzu/hackingtool' class='text-blue-600 hover:underline'>Z4nzu/hackingtool</a> ⭐ 61197</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 49870</li>
+<li class='mb-2'><a href='https://github.com/Anil-matcha/Open-Generative-AI' class='text-blue-600 hover:underline'>Anil-matcha/Open-Generative-AI</a> ⭐ 7063</li>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 5729</li>
+<li class='mb-2'><a href='https://github.com/open-metadata/OpenMetadata' class='text-blue-600 hover:underline'>open-metadata/OpenMetadata</a> ⭐ 12974</li>
+<li class='mb-2'><a href='https://github.com/microsoft/ai-agents-for-beginners' class='text-blue-600 hover:underline'>microsoft/ai-agents-for-beginners</a> ⭐ 58872</li>
+<li class='mb-2'><a href='https://github.com/PowerShell/PowerShell' class='text-blue-600 hover:underline'>PowerShell/PowerShell</a> ⭐ 52811</li>
+<li class='mb-2'><a href='https://github.com/cline/cline' class='text-blue-600 hover:underline'>cline/cline</a> ⭐ 60845</li>
+<li class='mb-2'><a href='https://github.com/microsoft/onnxruntime' class='text-blue-600 hover:underline'>microsoft/onnxruntime</a> ⭐ 20209</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 9491</li>
+<li class='mb-2'><a href='https://github.com/coreyhaines31/marketingskills' class='text-blue-600 hover:underline'>coreyhaines31/marketingskills</a> ⭐ 23931</li>
+<li class='mb-2'><a href='https://github.com/chiphuyen/aie-book' class='text-blue-600 hover:underline'>chiphuyen/aie-book</a> ⭐ 15222</li>
+<li class='mb-2'><a href='https://github.com/VoltAgent/awesome-agent-skills' class='text-blue-600 hover:underline'>VoltAgent/awesome-agent-skills</a> ⭐ 18179</li>
+
