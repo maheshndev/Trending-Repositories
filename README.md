@@ -1733,3 +1733,19 @@
 <li class='mb-2'><a href='https://github.com/chiphuyen/aie-book' class='text-blue-600 hover:underline'>chiphuyen/aie-book</a> ⭐ 15222</li>
 <li class='mb-2'><a href='https://github.com/VoltAgent/awesome-agent-skills' class='text-blue-600 hover:underline'>VoltAgent/awesome-agent-skills</a> ⭐ 18179</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-25
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 9176</li>
+<li class='mb-2'><a href='https://github.com/huggingface/ml-intern' class='text-blue-600 hover:underline'>huggingface/ml-intern</a> ⭐ 5416</li>
+<li class='mb-2'><a href='https://github.com/google/osv-scanner' class='text-blue-600 hover:underline'>google/osv-scanner</a> ⭐ 9541</li>
+<li class='mb-2'><a href='https://github.com/Z4nzu/hackingtool' class='text-blue-600 hover:underline'>Z4nzu/hackingtool</a> ⭐ 62433</li>
+<li class='mb-2'><a href='https://github.com/zilliztech/claude-context' class='text-blue-600 hover:underline'>zilliztech/claude-context</a> ⭐ 9040</li>
+<li class='mb-2'><a href='https://github.com/open-metadata/OpenMetadata' class='text-blue-600 hover:underline'>open-metadata/OpenMetadata</a> ⭐ 13377</li>
+<li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 33146</li>
+<li class='mb-2'><a href='https://github.com/dani-garcia/vaultwarden' class='text-blue-600 hover:underline'>dani-garcia/vaultwarden</a> ⭐ 59183</li>
+<li class='mb-2'><a href='https://github.com/Anil-matcha/Open-Generative-AI' class='text-blue-600 hover:underline'>Anil-matcha/Open-Generative-AI</a> ⭐ 7738</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 494889</li>
+<li class='mb-2'><a href='https://github.com/deepseek-ai/DeepEP' class='text-blue-600 hover:underline'>deepseek-ai/DeepEP</a> ⭐ 9343</li>
+<li class='mb-2'><a href='https://github.com/microsoft/typescript-go' class='text-blue-600 hover:underline'>microsoft/typescript-go</a> ⭐ 25029</li>
+
