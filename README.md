@@ -1749,3 +1749,19 @@
 <li class='mb-2'><a href='https://github.com/deepseek-ai/DeepEP' class='text-blue-600 hover:underline'>deepseek-ai/DeepEP</a> ⭐ 9343</li>
 <li class='mb-2'><a href='https://github.com/microsoft/typescript-go' class='text-blue-600 hover:underline'>microsoft/typescript-go</a> ⭐ 25029</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-26
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 11601</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 20234</li>
+<li class='mb-2'><a href='https://github.com/Z4nzu/hackingtool' class='text-blue-600 hover:underline'>Z4nzu/hackingtool</a> ⭐ 63994</li>
+<li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 33516</li>
+<li class='mb-2'><a href='https://github.com/davila7/claude-code-templates' class='text-blue-600 hover:underline'>davila7/claude-code-templates</a> ⭐ 25380</li>
+<li class='mb-2'><a href='https://github.com/deepseek-ai/DeepEP' class='text-blue-600 hover:underline'>deepseek-ai/DeepEP</a> ⭐ 9508</li>
+<li class='mb-2'><a href='https://github.com/PowerShell/PowerShell' class='text-blue-600 hover:underline'>PowerShell/PowerShell</a> ⭐ 53084</li>
+<li class='mb-2'><a href='https://github.com/RooCodeInc/Roo-Code' class='text-blue-600 hover:underline'>RooCodeInc/Roo-Code</a> ⭐ 23526</li>
+<li class='mb-2'><a href='https://github.com/huggingface/ml-intern' class='text-blue-600 hover:underline'>huggingface/ml-intern</a> ⭐ 6288</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 496060</li>
+<li class='mb-2'><a href='https://github.com/Universal-Commerce-Protocol/ucp' class='text-blue-600 hover:underline'>Universal-Commerce-Protocol/ucp</a> ⭐ 2802</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-codex-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-codex-skills</a> ⭐ 1520</li>
+
