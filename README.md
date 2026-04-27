@@ -1765,3 +1765,20 @@
 <li class='mb-2'><a href='https://github.com/Universal-Commerce-Protocol/ucp' class='text-blue-600 hover:underline'>Universal-Commerce-Protocol/ucp</a> ⭐ 2802</li>
 <li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-codex-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-codex-skills</a> ⭐ 1520</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-27
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 24312</li>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 13924</li>
+<li class='mb-2'><a href='https://github.com/Z4nzu/hackingtool' class='text-blue-600 hover:underline'>Z4nzu/hackingtool</a> ⭐ 65679</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 30292</li>
+<li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 33887</li>
+<li class='mb-2'><a href='https://github.com/microsoft/typescript-go' class='text-blue-600 hover:underline'>microsoft/typescript-go</a> ⭐ 25175</li>
+<li class='mb-2'><a href='https://github.com/trycua/cua' class='text-blue-600 hover:underline'>trycua/cua</a> ⭐ 14451</li>
+<li class='mb-2'><a href='https://github.com/gastownhall/beads' class='text-blue-600 hover:underline'>gastownhall/beads</a> ⭐ 21732</li>
+<li class='mb-2'><a href='https://github.com/curl/curl' class='text-blue-600 hover:underline'>curl/curl</a> ⭐ 41569</li>
+<li class='mb-2'><a href='https://github.com/home-assistant/core' class='text-blue-600 hover:underline'>home-assistant/core</a> ⭐ 86578</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 496882</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 364724</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-codex-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-codex-skills</a> ⭐ 2079</li>
+
