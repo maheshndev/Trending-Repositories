@@ -1782,3 +1782,20 @@
 <li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 364724</li>
 <li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-codex-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-codex-skills</a> ⭐ 2079</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-28
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 31113</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 31719</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-codex-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-codex-skills</a> ⭐ 2931</li>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 16320</li>
+<li class='mb-2'><a href='https://github.com/gastownhall/beads' class='text-blue-600 hover:underline'>gastownhall/beads</a> ⭐ 22266</li>
+<li class='mb-2'><a href='https://github.com/penpot/penpot' class='text-blue-600 hover:underline'>penpot/penpot</a> ⭐ 46704</li>
+<li class='mb-2'><a href='https://github.com/davila7/claude-code-templates' class='text-blue-600 hover:underline'>davila7/claude-code-templates</a> ⭐ 25836</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 43270</li>
+<li class='mb-2'><a href='https://github.com/Z4nzu/hackingtool' class='text-blue-600 hover:underline'>Z4nzu/hackingtool</a> ⭐ 67261</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 53926</li>
+<li class='mb-2'><a href='https://github.com/CJackHwang/ds2api' class='text-blue-600 hover:underline'>CJackHwang/ds2api</a> ⭐ 1900</li>
+<li class='mb-2'><a href='https://github.com/deepseek-ai/DeepSeek-V3' class='text-blue-600 hover:underline'>deepseek-ai/DeepSeek-V3</a> ⭐ 103147</li>
+<li class='mb-2'><a href='https://github.com/donnemartin/system-design-primer' class='text-blue-600 hover:underline'>donnemartin/system-design-primer</a> ⭐ 345269</li>
+
