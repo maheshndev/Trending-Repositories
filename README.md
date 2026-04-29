@@ -1799,3 +1799,20 @@
 <li class='mb-2'><a href='https://github.com/deepseek-ai/DeepSeek-V3' class='text-blue-600 hover:underline'>deepseek-ai/DeepSeek-V3</a> ⭐ 103147</li>
 <li class='mb-2'><a href='https://github.com/donnemartin/system-design-primer' class='text-blue-600 hover:underline'>donnemartin/system-design-primer</a> ⭐ 345269</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-04-29
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 38326</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 32729</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-codex-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-codex-skills</a> ⭐ 4131</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 44969</li>
+<li class='mb-2'><a href='https://github.com/davila7/claude-code-templates' class='text-blue-600 hover:underline'>davila7/claude-code-templates</a> ⭐ 26206</li>
+<li class='mb-2'><a href='https://github.com/HunxByts/GhostTrack' class='text-blue-600 hover:underline'>HunxByts/GhostTrack</a> ⭐ 10745</li>
+<li class='mb-2'><a href='https://github.com/fspecii/ace-step-ui' class='text-blue-600 hover:underline'>fspecii/ace-step-ui</a> ⭐ 1790</li>
+<li class='mb-2'><a href='https://github.com/public-apis/public-apis' class='text-blue-600 hover:underline'>public-apis/public-apis</a> ⭐ 428325</li>
+<li class='mb-2'><a href='https://github.com/CJackHwang/ds2api' class='text-blue-600 hover:underline'>CJackHwang/ds2api</a> ⭐ 2403</li>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 17648</li>
+<li class='mb-2'><a href='https://github.com/donnemartin/system-design-primer' class='text-blue-600 hover:underline'>donnemartin/system-design-primer</a> ⭐ 345922</li>
+<li class='mb-2'><a href='https://github.com/EbookFoundation/free-programming-books' class='text-blue-600 hover:underline'>EbookFoundation/free-programming-books</a> ⭐ 386704</li>
+<li class='mb-2'><a href='https://github.com/iamgio/quarkdown' class='text-blue-600 hover:underline'>iamgio/quarkdown</a> ⭐ 12147</li>
+
