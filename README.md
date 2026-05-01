@@ -1836,3 +1836,20 @@
 <li class='mb-2'><a href='https://github.com/gorhill/uBlock' class='text-blue-600 hover:underline'>gorhill/uBlock</a> ⭐ 64076</li>
 <li class='mb-2'><a href='https://github.com/microsoft/PowerToys' class='text-blue-600 hover:underline'>microsoft/PowerToys</a> ⭐ 132437</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-01
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/warpdotdev/warp' class='text-blue-600 hover:underline'>warpdotdev/warp</a> ⭐ 49506</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 57927</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 49814</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 174688</li>
+<li class='mb-2'><a href='https://github.com/lukilabs/craft-agents-oss' class='text-blue-600 hover:underline'>lukilabs/craft-agents-oss</a> ⭐ 5592</li>
+<li class='mb-2'><a href='https://github.com/public-apis/public-apis' class='text-blue-600 hover:underline'>public-apis/public-apis</a> ⭐ 429607</li>
+<li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 1930</li>
+<li class='mb-2'><a href='https://github.com/soxoj/maigret' class='text-blue-600 hover:underline'>soxoj/maigret</a> ⭐ 20886</li>
+<li class='mb-2'><a href='https://github.com/HunxByts/GhostTrack' class='text-blue-600 hover:underline'>HunxByts/GhostTrack</a> ⭐ 12217</li>
+<li class='mb-2'><a href='https://github.com/iamgio/quarkdown' class='text-blue-600 hover:underline'>iamgio/quarkdown</a> ⭐ 13129</li>
+<li class='mb-2'><a href='https://github.com/ghostty-org/ghostty' class='text-blue-600 hover:underline'>ghostty-org/ghostty</a> ⭐ 52918</li>
+<li class='mb-2'><a href='https://github.com/ForrestKnight/open-source-cs' class='text-blue-600 hover:underline'>ForrestKnight/open-source-cs</a> ⭐ 22401</li>
+<li class='mb-2'><a href='https://github.com/browserbase/skills' class='text-blue-600 hover:underline'>browserbase/skills</a> ⭐ 872</li>
+
