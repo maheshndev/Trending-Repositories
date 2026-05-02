@@ -1853,3 +1853,16 @@
 <li class='mb-2'><a href='https://github.com/ForrestKnight/open-source-cs' class='text-blue-600 hover:underline'>ForrestKnight/open-source-cs</a> ⭐ 22401</li>
 <li class='mb-2'><a href='https://github.com/browserbase/skills' class='text-blue-600 hover:underline'>browserbase/skills</a> ⭐ 872</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-02
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 60037</li>
+<li class='mb-2'><a href='https://github.com/soxoj/maigret' class='text-blue-600 hover:underline'>soxoj/maigret</a> ⭐ 21750</li>
+<li class='mb-2'><a href='https://github.com/warpdotdev/warp' class='text-blue-600 hover:underline'>warpdotdev/warp</a> ⭐ 51603</li>
+<li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 2400</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 52754</li>
+<li class='mb-2'><a href='https://github.com/browserbase/skills' class='text-blue-600 hover:underline'>browserbase/skills</a> ⭐ 1208</li>
+<li class='mb-2'><a href='https://github.com/simstudioai/sim' class='text-blue-600 hover:underline'>simstudioai/sim</a> ⭐ 28179</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 175698</li>
+<li class='mb-2'><a href='https://github.com/Flowseal/zapret-discord-youtube' class='text-blue-600 hover:underline'>Flowseal/zapret-discord-youtube</a> ⭐ 26981</li>
+
