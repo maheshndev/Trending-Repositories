@@ -1866,3 +1866,15 @@
 <li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 175698</li>
 <li class='mb-2'><a href='https://github.com/Flowseal/zapret-discord-youtube' class='text-blue-600 hover:underline'>Flowseal/zapret-discord-youtube</a> ⭐ 26981</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-03
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 63011</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 36953</li>
+<li class='mb-2'><a href='https://github.com/browserbase/skills' class='text-blue-600 hover:underline'>browserbase/skills</a> ⭐ 1548</li>
+<li class='mb-2'><a href='https://github.com/soxoj/maigret' class='text-blue-600 hover:underline'>soxoj/maigret</a> ⭐ 22860</li>
+<li class='mb-2'><a href='https://github.com/Flowseal/zapret-discord-youtube' class='text-blue-600 hover:underline'>Flowseal/zapret-discord-youtube</a> ⭐ 27126</li>
+<li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 2900</li>
+<li class='mb-2'><a href='https://github.com/ShareX/ShareX' class='text-blue-600 hover:underline'>ShareX/ShareX</a> ⭐ 36860</li>
+<li class='mb-2'><a href='https://github.com/jwasham/coding-interview-university' class='text-blue-600 hover:underline'>jwasham/coding-interview-university</a> ⭐ 344631</li>
+
