@@ -1878,3 +1878,16 @@
 <li class='mb-2'><a href='https://github.com/ShareX/ShareX' class='text-blue-600 hover:underline'>ShareX/ShareX</a> ⭐ 36860</li>
 <li class='mb-2'><a href='https://github.com/jwasham/coding-interview-university' class='text-blue-600 hover:underline'>jwasham/coding-interview-university</a> ⭐ 344631</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-04
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 39233</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 65505</li>
+<li class='mb-2'><a href='https://github.com/soxoj/maigret' class='text-blue-600 hover:underline'>soxoj/maigret</a> ⭐ 23924</li>
+<li class='mb-2'><a href='https://github.com/Hmbown/DeepSeek-TUI' class='text-blue-600 hover:underline'>Hmbown/DeepSeek-TUI</a> ⭐ 2278</li>
+<li class='mb-2'><a href='https://github.com/AIDC-AI/Pixelle-Video' class='text-blue-600 hover:underline'>AIDC-AI/Pixelle-Video</a> ⭐ 10119</li>
+<li class='mb-2'><a href='https://github.com/browserbase/skills' class='text-blue-600 hover:underline'>browserbase/skills</a> ⭐ 1858</li>
+<li class='mb-2'><a href='https://github.com/czlonkowski/n8n-mcp' class='text-blue-600 hover:underline'>czlonkowski/n8n-mcp</a> ⭐ 19570</li>
+<li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 3488</li>
+<li class='mb-2'><a href='https://github.com/openwrt/openwrt' class='text-blue-600 hover:underline'>openwrt/openwrt</a> ⭐ 26637</li>
+
