@@ -1891,3 +1891,22 @@
 <li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 3488</li>
 <li class='mb-2'><a href='https://github.com/openwrt/openwrt' class='text-blue-600 hover:underline'>openwrt/openwrt</a> ⭐ 26637</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-05
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 41593</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 67684</li>
+<li class='mb-2'><a href='https://github.com/browserbase/skills' class='text-blue-600 hover:underline'>browserbase/skills</a> ⭐ 2147</li>
+<li class='mb-2'><a href='https://github.com/Hmbown/DeepSeek-TUI' class='text-blue-600 hover:underline'>Hmbown/DeepSeek-TUI</a> ⭐ 4163</li>
+<li class='mb-2'><a href='https://github.com/soxoj/maigret' class='text-blue-600 hover:underline'>soxoj/maigret</a> ⭐ 24926</li>
+<li class='mb-2'><a href='https://github.com/qbittorrent/qBittorrent' class='text-blue-600 hover:underline'>qbittorrent/qBittorrent</a> ⭐ 37069</li>
+<li class='mb-2'><a href='https://github.com/czlonkowski/n8n-mcp' class='text-blue-600 hover:underline'>czlonkowski/n8n-mcp</a> ⭐ 19937</li>
+<li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 3941</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 92748</li>
+<li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 23242</li>
+<li class='mb-2'><a href='https://github.com/Flowseal/zapret-discord-youtube' class='text-blue-600 hover:underline'>Flowseal/zapret-discord-youtube</a> ⭐ 27321</li>
+<li class='mb-2'><a href='https://github.com/fspecii/ace-step-ui' class='text-blue-600 hover:underline'>fspecii/ace-step-ui</a> ⭐ 2876</li>
+<li class='mb-2'><a href='https://github.com/jellyfin/jellyfin' class='text-blue-600 hover:underline'>jellyfin/jellyfin</a> ⭐ 51168</li>
+<li class='mb-2'><a href='https://github.com/cocoindex-io/cocoindex' class='text-blue-600 hover:underline'>cocoindex-io/cocoindex</a> ⭐ 8040</li>
+<li class='mb-2'><a href='https://github.com/docusealco/docuseal' class='text-blue-600 hover:underline'>docusealco/docuseal</a> ⭐ 13332</li>
+
