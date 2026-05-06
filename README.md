@@ -1910,3 +1910,22 @@
 <li class='mb-2'><a href='https://github.com/cocoindex-io/cocoindex' class='text-blue-600 hover:underline'>cocoindex-io/cocoindex</a> ⭐ 8040</li>
 <li class='mb-2'><a href='https://github.com/docusealco/docuseal' class='text-blue-600 hover:underline'>docusealco/docuseal</a> ⭐ 13332</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-06
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Hmbown/DeepSeek-TUI' class='text-blue-600 hover:underline'>Hmbown/DeepSeek-TUI</a> ⭐ 8560</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 43912</li>
+<li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 23882</li>
+<li class='mb-2'><a href='https://github.com/docusealco/docuseal' class='text-blue-600 hover:underline'>docusealco/docuseal</a> ⭐ 14104</li>
+<li class='mb-2'><a href='https://github.com/bwya77/vscode-dark-islands' class='text-blue-600 hover:underline'>bwya77/vscode-dark-islands</a> ⭐ 7915</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 13159</li>
+<li class='mb-2'><a href='https://github.com/cocoindex-io/cocoindex' class='text-blue-600 hover:underline'>cocoindex-io/cocoindex</a> ⭐ 8446</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 93774</li>
+<li class='mb-2'><a href='https://github.com/jwasham/coding-interview-university' class='text-blue-600 hover:underline'>jwasham/coding-interview-university</a> ⭐ 345893</li>
+<li class='mb-2'><a href='https://github.com/Arindam200/awesome-ai-apps' class='text-blue-600 hover:underline'>Arindam200/awesome-ai-apps</a> ⭐ 11444</li>
+<li class='mb-2'><a href='https://github.com/AIDC-AI/Pixelle-Video' class='text-blue-600 hover:underline'>AIDC-AI/Pixelle-Video</a> ⭐ 11951</li>
+<li class='mb-2'><a href='https://github.com/LearningCircuit/local-deep-research' class='text-blue-600 hover:underline'>LearningCircuit/local-deep-research</a> ⭐ 5226</li>
+<li class='mb-2'><a href='https://github.com/browserbase/skills' class='text-blue-600 hover:underline'>browserbase/skills</a> ⭐ 2427</li>
+<li class='mb-2'><a href='https://github.com/forrestchang/andrej-karpathy-skills' class='text-blue-600 hover:underline'>forrestchang/andrej-karpathy-skills</a> ⭐ 114373</li>
+<li class='mb-2'><a href='https://github.com/PriorLabs/TabPFN' class='text-blue-600 hover:underline'>PriorLabs/TabPFN</a> ⭐ 6392</li>
+
