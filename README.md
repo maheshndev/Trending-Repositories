@@ -1929,3 +1929,22 @@
 <li class='mb-2'><a href='https://github.com/forrestchang/andrej-karpathy-skills' class='text-blue-600 hover:underline'>forrestchang/andrej-karpathy-skills</a> ⭐ 114373</li>
 <li class='mb-2'><a href='https://github.com/PriorLabs/TabPFN' class='text-blue-600 hover:underline'>PriorLabs/TabPFN</a> ⭐ 6392</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-07
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Hmbown/DeepSeek-TUI' class='text-blue-600 hover:underline'>Hmbown/DeepSeek-TUI</a> ⭐ 14933</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 30919</li>
+<li class='mb-2'><a href='https://github.com/PriorLabs/TabPFN' class='text-blue-600 hover:underline'>PriorLabs/TabPFN</a> ⭐ 6615</li>
+<li class='mb-2'><a href='https://github.com/docusealco/docuseal' class='text-blue-600 hover:underline'>docusealco/docuseal</a> ⭐ 14978</li>
+<li class='mb-2'><a href='https://github.com/LearningCircuit/local-deep-research' class='text-blue-600 hover:underline'>LearningCircuit/local-deep-research</a> ⭐ 5734</li>
+<li class='mb-2'><a href='https://github.com/LadybirdBrowser/ladybird' class='text-blue-600 hover:underline'>LadybirdBrowser/ladybird</a> ⭐ 63012</li>
+<li class='mb-2'><a href='https://github.com/InsForge/InsForge' class='text-blue-600 hover:underline'>InsForge/InsForge</a> ⭐ 8515</li>
+<li class='mb-2'><a href='https://github.com/virattt/dexter' class='text-blue-600 hover:underline'>virattt/dexter</a> ⭐ 24415</li>
+<li class='mb-2'><a href='https://github.com/anthropics/financial-services' class='text-blue-600 hover:underline'>anthropics/financial-services</a> ⭐ 9284</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 45390</li>
+<li class='mb-2'><a href='https://github.com/cheahjs/free-llm-api-resources' class='text-blue-600 hover:underline'>cheahjs/free-llm-api-resources</a> ⭐ 20569</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 23234</li>
+<li class='mb-2'><a href='https://github.com/bwya77/vscode-dark-islands' class='text-blue-600 hover:underline'>bwya77/vscode-dark-islands</a> ⭐ 8232</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 65609</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 46424</li>
+
