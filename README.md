@@ -1948,3 +1948,19 @@
 <li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 65609</li>
 <li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 46424</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-08
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/anthropics/financial-services' class='text-blue-600 hover:underline'>anthropics/financial-services</a> ⭐ 12136</li>
+<li class='mb-2'><a href='https://github.com/Hmbown/DeepSeek-TUI' class='text-blue-600 hover:underline'>Hmbown/DeepSeek-TUI</a> ⭐ 19400</li>
+<li class='mb-2'><a href='https://github.com/z-lab/dflash' class='text-blue-600 hover:underline'>z-lab/dflash</a> ⭐ 3546</li>
+<li class='mb-2'><a href='https://github.com/InsForge/InsForge' class='text-blue-600 hover:underline'>InsForge/InsForge</a> ⭐ 8909</li>
+<li class='mb-2'><a href='https://github.com/LearningCircuit/local-deep-research' class='text-blue-600 hover:underline'>LearningCircuit/local-deep-research</a> ⭐ 6335</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 33233</li>
+<li class='mb-2'><a href='https://github.com/VectifyAI/PageIndex' class='text-blue-600 hover:underline'>VectifyAI/PageIndex</a> ⭐ 29666</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/open-agents' class='text-blue-600 hover:underline'>vercel-labs/open-agents</a> ⭐ 5089</li>
+<li class='mb-2'><a href='https://github.com/docusealco/docuseal' class='text-blue-600 hover:underline'>docusealco/docuseal</a> ⭐ 15681</li>
+<li class='mb-2'><a href='https://github.com/decolua/9router' class='text-blue-600 hover:underline'>decolua/9router</a> ⭐ 4705</li>
+<li class='mb-2'><a href='https://github.com/PriorLabs/TabPFN' class='text-blue-600 hover:underline'>PriorLabs/TabPFN</a> ⭐ 6811</li>
+<li class='mb-2'><a href='https://github.com/aaif-goose/goose' class='text-blue-600 hover:underline'>aaif-goose/goose</a> ⭐ 44558</li>
+
