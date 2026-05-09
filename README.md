@@ -1964,3 +1964,19 @@
 <li class='mb-2'><a href='https://github.com/PriorLabs/TabPFN' class='text-blue-600 hover:underline'>PriorLabs/TabPFN</a> ⭐ 6811</li>
 <li class='mb-2'><a href='https://github.com/aaif-goose/goose' class='text-blue-600 hover:underline'>aaif-goose/goose</a> ⭐ 44558</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-09
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/anthropics/financial-services' class='text-blue-600 hover:underline'>anthropics/financial-services</a> ⭐ 15462</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 35679</li>
+<li class='mb-2'><a href='https://github.com/Hmbown/DeepSeek-TUI' class='text-blue-600 hover:underline'>Hmbown/DeepSeek-TUI</a> ⭐ 22021</li>
+<li class='mb-2'><a href='https://github.com/z-lab/dflash' class='text-blue-600 hover:underline'>z-lab/dflash</a> ⭐ 3870</li>
+<li class='mb-2'><a href='https://github.com/decolua/9router' class='text-blue-600 hover:underline'>decolua/9router</a> ⭐ 5695</li>
+<li class='mb-2'><a href='https://github.com/CloakHQ/CloakBrowser' class='text-blue-600 hover:underline'>CloakHQ/CloakBrowser</a> ⭐ 3167</li>
+<li class='mb-2'><a href='https://github.com/awslabs/aidlc-workflows' class='text-blue-600 hover:underline'>awslabs/aidlc-workflows</a> ⭐ 1794</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/AI-Trader' class='text-blue-600 hover:underline'>HKUDS/AI-Trader</a> ⭐ 14724</li>
+<li class='mb-2'><a href='https://github.com/LearningCircuit/local-deep-research' class='text-blue-600 hover:underline'>LearningCircuit/local-deep-research</a> ⭐ 6774</li>
+<li class='mb-2'><a href='https://github.com/lobehub/lobehub' class='text-blue-600 hover:underline'>lobehub/lobehub</a> ⭐ 76548</li>
+<li class='mb-2'><a href='https://github.com/datawhalechina/hello-agents' class='text-blue-600 hover:underline'>datawhalechina/hello-agents</a> ⭐ 44772</li>
+<li class='mb-2'><a href='https://github.com/flutter/skills' class='text-blue-600 hover:underline'>flutter/skills</a> ⭐ 1715</li>
+
