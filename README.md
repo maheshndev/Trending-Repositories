@@ -1980,3 +1980,20 @@
 <li class='mb-2'><a href='https://github.com/datawhalechina/hello-agents' class='text-blue-600 hover:underline'>datawhalechina/hello-agents</a> ⭐ 44772</li>
 <li class='mb-2'><a href='https://github.com/flutter/skills' class='text-blue-600 hover:underline'>flutter/skills</a> ⭐ 1715</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-10
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/anthropics/financial-services' class='text-blue-600 hover:underline'>anthropics/financial-services</a> ⭐ 17549</li>
+<li class='mb-2'><a href='https://github.com/bytedance/UI-TARS-desktop' class='text-blue-600 hover:underline'>bytedance/UI-TARS-desktop</a> ⭐ 31495</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/agentmemory' class='text-blue-600 hover:underline'>rohitg00/agentmemory</a> ⭐ 3531</li>
+<li class='mb-2'><a href='https://github.com/datawhalechina/hello-agents' class='text-blue-600 hover:underline'>datawhalechina/hello-agents</a> ⭐ 45771</li>
+<li class='mb-2'><a href='https://github.com/datawhalechina/easy-vibe' class='text-blue-600 hover:underline'>datawhalechina/easy-vibe</a> ⭐ 8595</li>
+<li class='mb-2'><a href='https://github.com/rowboatlabs/rowboat' class='text-blue-600 hover:underline'>rowboatlabs/rowboat</a> ⭐ 13825</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 38869</li>
+<li class='mb-2'><a href='https://github.com/masterking32/MasterDnsVPN' class='text-blue-600 hover:underline'>masterking32/MasterDnsVPN</a> ⭐ 2589</li>
+<li class='mb-2'><a href='https://github.com/playcanvas/supersplat' class='text-blue-600 hover:underline'>playcanvas/supersplat</a> ⭐ 6359</li>
+<li class='mb-2'><a href='https://github.com/Lordog/dive-into-llms' class='text-blue-600 hover:underline'>Lordog/dive-into-llms</a> ⭐ 36547</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 37498</li>
+<li class='mb-2'><a href='https://github.com/decolua/9router' class='text-blue-600 hover:underline'>decolua/9router</a> ⭐ 6605</li>
+<li class='mb-2'><a href='https://github.com/oracle-devrel/oracle-ai-developer-hub' class='text-blue-600 hover:underline'>oracle-devrel/oracle-ai-developer-hub</a> ⭐ 836</li>
+
