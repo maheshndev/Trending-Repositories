@@ -1997,3 +1997,19 @@
 <li class='mb-2'><a href='https://github.com/decolua/9router' class='text-blue-600 hover:underline'>decolua/9router</a> ⭐ 6605</li>
 <li class='mb-2'><a href='https://github.com/oracle-devrel/oracle-ai-developer-hub' class='text-blue-600 hover:underline'>oracle-devrel/oracle-ai-developer-hub</a> ⭐ 836</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-11
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/bytedance/UI-TARS-desktop' class='text-blue-600 hover:underline'>bytedance/UI-TARS-desktop</a> ⭐ 32324</li>
+<li class='mb-2'><a href='https://github.com/anthropics/financial-services' class='text-blue-600 hover:underline'>anthropics/financial-services</a> ⭐ 19116</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 38673</li>
+<li class='mb-2'><a href='https://github.com/CloakHQ/CloakBrowser' class='text-blue-600 hover:underline'>CloakHQ/CloakBrowser</a> ⭐ 4943</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/AI-Trader' class='text-blue-600 hover:underline'>HKUDS/AI-Trader</a> ⭐ 15702</li>
+<li class='mb-2'><a href='https://github.com/jundot/omlx' class='text-blue-600 hover:underline'>jundot/omlx</a> ⭐ 13368</li>
+<li class='mb-2'><a href='https://github.com/datawhalechina/easy-vibe' class='text-blue-600 hover:underline'>datawhalechina/easy-vibe</a> ⭐ 9305</li>
+<li class='mb-2'><a href='https://github.com/playcanvas/supersplat' class='text-blue-600 hover:underline'>playcanvas/supersplat</a> ⭐ 6885</li>
+<li class='mb-2'><a href='https://github.com/lsdefine/GenericAgent' class='text-blue-600 hover:underline'>lsdefine/GenericAgent</a> ⭐ 10604</li>
+<li class='mb-2'><a href='https://github.com/decolua/9router' class='text-blue-600 hover:underline'>decolua/9router</a> ⭐ 7450</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/everything-claude-code' class='text-blue-600 hover:underline'>affaan-m/everything-claude-code</a> ⭐ 178457</li>
+<li class='mb-2'><a href='https://github.com/datawhalechina/hello-agents' class='text-blue-600 hover:underline'>datawhalechina/hello-agents</a> ⭐ 46784</li>
+
