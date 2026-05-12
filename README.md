@@ -2013,3 +2013,20 @@
 <li class='mb-2'><a href='https://github.com/affaan-m/everything-claude-code' class='text-blue-600 hover:underline'>affaan-m/everything-claude-code</a> ⭐ 178457</li>
 <li class='mb-2'><a href='https://github.com/datawhalechina/hello-agents' class='text-blue-600 hover:underline'>datawhalechina/hello-agents</a> ⭐ 46784</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-12
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/bytedance/UI-TARS-desktop' class='text-blue-600 hover:underline'>bytedance/UI-TARS-desktop</a> ⭐ 33114</li>
+<li class='mb-2'><a href='https://github.com/CloakHQ/CloakBrowser' class='text-blue-600 hover:underline'>CloakHQ/CloakBrowser</a> ⭐ 6418</li>
+<li class='mb-2'><a href='https://github.com/yikart/AiToEarn' class='text-blue-600 hover:underline'>yikart/AiToEarn</a> ⭐ 10987</li>
+<li class='mb-2'><a href='https://github.com/playcanvas/supersplat' class='text-blue-600 hover:underline'>playcanvas/supersplat</a> ⭐ 7424</li>
+<li class='mb-2'><a href='https://github.com/datawhalechina/easy-vibe' class='text-blue-600 hover:underline'>datawhalechina/easy-vibe</a> ⭐ 10041</li>
+<li class='mb-2'><a href='https://github.com/decolua/9router' class='text-blue-600 hover:underline'>decolua/9router</a> ⭐ 8483</li>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 1598</li>
+<li class='mb-2'><a href='https://github.com/millionco/react-doctor' class='text-blue-600 hover:underline'>millionco/react-doctor</a> ⭐ 8156</li>
+<li class='mb-2'><a href='https://github.com/Lordog/dive-into-llms' class='text-blue-600 hover:underline'>Lordog/dive-into-llms</a> ⭐ 37391</li>
+<li class='mb-2'><a href='https://github.com/AUTOMATIC1111/stable-diffusion-webui' class='text-blue-600 hover:underline'>AUTOMATIC1111/stable-diffusion-webui</a> ⭐ 162925</li>
+<li class='mb-2'><a href='https://github.com/rasbt/LLMs-from-scratch' class='text-blue-600 hover:underline'>rasbt/LLMs-from-scratch</a> ⭐ 93111</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 145145</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/agentmemory' class='text-blue-600 hover:underline'>rohitg00/agentmemory</a> ⭐ 4882</li>
+
