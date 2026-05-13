@@ -2030,3 +2030,18 @@
 <li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 145145</li>
 <li class='mb-2'><a href='https://github.com/rohitg00/agentmemory' class='text-blue-600 hover:underline'>rohitg00/agentmemory</a> ⭐ 4882</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-13
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 2973</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/agentmemory' class='text-blue-600 hover:underline'>rohitg00/agentmemory</a> ⭐ 6079</li>
+<li class='mb-2'><a href='https://github.com/CloakHQ/CloakBrowser' class='text-blue-600 hover:underline'>CloakHQ/CloakBrowser</a> ⭐ 8107</li>
+<li class='mb-2'><a href='https://github.com/apernet/hysteria' class='text-blue-600 hover:underline'>apernet/hysteria</a> ⭐ 20300</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 76527</li>
+<li class='mb-2'><a href='https://github.com/anonfaded/FadCam' class='text-blue-600 hover:underline'>anonfaded/FadCam</a> ⭐ 2272</li>
+<li class='mb-2'><a href='https://github.com/millionco/react-doctor' class='text-blue-600 hover:underline'>millionco/react-doctor</a> ⭐ 8833</li>
+<li class='mb-2'><a href='https://github.com/rasbt/LLMs-from-scratch' class='text-blue-600 hover:underline'>rasbt/LLMs-from-scratch</a> ⭐ 93905</li>
+<li class='mb-2'><a href='https://github.com/datawhalechina/hello-agents' class='text-blue-600 hover:underline'>datawhalechina/hello-agents</a> ⭐ 48421</li>
+<li class='mb-2'><a href='https://github.com/yikart/AiToEarn' class='text-blue-600 hover:underline'>yikart/AiToEarn</a> ⭐ 12030</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/AI-Trader' class='text-blue-600 hover:underline'>HKUDS/AI-Trader</a> ⭐ 16719</li>
+
