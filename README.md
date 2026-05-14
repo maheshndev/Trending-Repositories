@@ -2045,3 +2045,26 @@
 <li class='mb-2'><a href='https://github.com/yikart/AiToEarn' class='text-blue-600 hover:underline'>yikart/AiToEarn</a> ⭐ 12030</li>
 <li class='mb-2'><a href='https://github.com/HKUDS/AI-Trader' class='text-blue-600 hover:underline'>HKUDS/AI-Trader</a> ⭐ 16719</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-14
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 5889</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/agentmemory' class='text-blue-600 hover:underline'>rohitg00/agentmemory</a> ⭐ 7888</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 189786</li>
+<li class='mb-2'><a href='https://github.com/yikart/AiToEarn' class='text-blue-600 hover:underline'>yikart/AiToEarn</a> ⭐ 13086</li>
+<li class='mb-2'><a href='https://github.com/influxdata/telegraf' class='text-blue-600 hover:underline'>influxdata/telegraf</a> ⭐ 17037</li>
+<li class='mb-2'><a href='https://github.com/millionco/react-doctor' class='text-blue-600 hover:underline'>millionco/react-doctor</a> ⭐ 9341</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 21227</li>
+<li class='mb-2'><a href='https://github.com/danielmiessler/Personal_AI_Infrastructure' class='text-blue-600 hover:underline'>danielmiessler/Personal_AI_Infrastructure</a> ⭐ 13445</li>
+<li class='mb-2'><a href='https://github.com/supertone-inc/supertonic' class='text-blue-600 hover:underline'>supertone-inc/supertonic</a> ⭐ 4471</li>
+<li class='mb-2'><a href='https://github.com/CloakHQ/CloakBrowser' class='text-blue-600 hover:underline'>CloakHQ/CloakBrowser</a> ⭐ 9696</li>
+<li class='mb-2'><a href='https://github.com/Greedeks/GTweak' class='text-blue-600 hover:underline'>Greedeks/GTweak</a> ⭐ 967</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 79382</li>
+<li class='mb-2'><a href='https://github.com/ArthurBrussee/brush' class='text-blue-600 hover:underline'>ArthurBrussee/brush</a> ⭐ 4402</li>
+<li class='mb-2'><a href='https://github.com/imthenachoman/How-To-Secure-A-Linux-Server' class='text-blue-600 hover:underline'>imthenachoman/How-To-Secure-A-Linux-Server</a> ⭐ 27158</li>
+<li class='mb-2'><a href='https://github.com/apernet/hysteria' class='text-blue-600 hover:underline'>apernet/hysteria</a> ⭐ 20654</li>
+<li class='mb-2'><a href='https://github.com/rasbt/LLMs-from-scratch' class='text-blue-600 hover:underline'>rasbt/LLMs-from-scratch</a> ⭐ 94535</li>
+<li class='mb-2'><a href='https://github.com/ton-blockchain/acton' class='text-blue-600 hover:underline'>ton-blockchain/acton</a> ⭐ 232</li>
+<li class='mb-2'><a href='https://github.com/trycua/cua' class='text-blue-600 hover:underline'>trycua/cua</a> ⭐ 16596</li>
+<li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 98527</li>
+
