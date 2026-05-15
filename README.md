@@ -2068,3 +2068,22 @@
 <li class='mb-2'><a href='https://github.com/trycua/cua' class='text-blue-600 hover:underline'>trycua/cua</a> ⭐ 16596</li>
 <li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 98527</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-15
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 56234</li>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 7938</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/agentmemory' class='text-blue-600 hover:underline'>rohitg00/agentmemory</a> ⭐ 9099</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 191456</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 21890</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 24886</li>
+<li class='mb-2'><a href='https://github.com/roboflow/supervision' class='text-blue-600 hover:underline'>roboflow/supervision</a> ⭐ 38944</li>
+<li class='mb-2'><a href='https://github.com/influxdata/telegraf' class='text-blue-600 hover:underline'>influxdata/telegraf</a> ⭐ 17239</li>
+<li class='mb-2'><a href='https://github.com/supertone-inc/supertonic' class='text-blue-600 hover:underline'>supertone-inc/supertonic</a> ⭐ 5431</li>
+<li class='mb-2'><a href='https://github.com/Genymobile/scrcpy' class='text-blue-600 hover:underline'>Genymobile/scrcpy</a> ⭐ 141438</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization' class='text-blue-600 hover:underline'>NVIDIA-AI-Blueprints/video-search-and-summarization</a> ⭐ 883</li>
+<li class='mb-2'><a href='https://github.com/CloakHQ/CloakBrowser' class='text-blue-600 hover:underline'>CloakHQ/CloakBrowser</a> ⭐ 11051</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 82747</li>
+<li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 99619</li>
+<li class='mb-2'><a href='https://github.com/garrytan/gstack' class='text-blue-600 hover:underline'>garrytan/gstack</a> ⭐ 96915</li>
+
