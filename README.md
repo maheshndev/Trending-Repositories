@@ -2087,3 +2087,19 @@
 <li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 99619</li>
 <li class='mb-2'><a href='https://github.com/garrytan/gstack' class='text-blue-600 hover:underline'>garrytan/gstack</a> ⭐ 96915</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-16
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 9179</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 192951</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 22527</li>
+<li class='mb-2'><a href='https://github.com/supertone-inc/supertonic' class='text-blue-600 hover:underline'>supertone-inc/supertonic</a> ⭐ 6112</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 57578</li>
+<li class='mb-2'><a href='https://github.com/influxdata/telegraf' class='text-blue-600 hover:underline'>influxdata/telegraf</a> ⭐ 17434</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 135246</li>
+<li class='mb-2'><a href='https://github.com/czlonkowski/n8n-mcp' class='text-blue-600 hover:underline'>czlonkowski/n8n-mcp</a> ⭐ 20917</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization' class='text-blue-600 hover:underline'>NVIDIA-AI-Blueprints/video-search-and-summarization</a> ⭐ 1187</li>
+<li class='mb-2'><a href='https://github.com/oven-sh/bun' class='text-blue-600 hover:underline'>oven-sh/bun</a> ⭐ 90642</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 85160</li>
+<li class='mb-2'><a href='https://github.com/joeseesun/qiaomu-anything-to-notebooklm' class='text-blue-600 hover:underline'>joeseesun/qiaomu-anything-to-notebooklm</a> ⭐ 2770</li>
+
