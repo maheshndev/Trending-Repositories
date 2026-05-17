@@ -2103,3 +2103,15 @@
 <li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 85160</li>
 <li class='mb-2'><a href='https://github.com/joeseesun/qiaomu-anything-to-notebooklm' class='text-blue-600 hover:underline'>joeseesun/qiaomu-anything-to-notebooklm</a> ⭐ 2770</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-17
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/oven-sh/bun' class='text-blue-600 hover:underline'>oven-sh/bun</a> ⭐ 91313</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 23254</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 194173</li>
+<li class='mb-2'><a href='https://github.com/Anil-matcha/Open-Generative-AI' class='text-blue-600 hover:underline'>Anil-matcha/Open-Generative-AI</a> ⭐ 14523</li>
+<li class='mb-2'><a href='https://github.com/supertone-inc/supertonic' class='text-blue-600 hover:underline'>supertone-inc/supertonic</a> ⭐ 6979</li>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 10957</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 58435</li>
+<li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 2632</li>
+
