@@ -2115,3 +2115,25 @@
 <li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 58435</li>
 <li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 2632</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-18
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 13907</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 35840</li>
+<li class='mb-2'><a href='https://github.com/calcom/cal.diy' class='text-blue-600 hover:underline'>calcom/cal.diy</a> ⭐ 43351</li>
+<li class='mb-2'><a href='https://github.com/oven-sh/bun' class='text-blue-600 hover:underline'>oven-sh/bun</a> ⭐ 91766</li>
+<li class='mb-2'><a href='https://github.com/Anil-matcha/Open-Generative-AI' class='text-blue-600 hover:underline'>Anil-matcha/Open-Generative-AI</a> ⭐ 15267</li>
+<li class='mb-2'><a href='https://github.com/BigBodyCobain/Shadowbroker' class='text-blue-600 hover:underline'>BigBodyCobain/Shadowbroker</a> ⭐ 7203</li>
+<li class='mb-2'><a href='https://github.com/tech-leads-club/agent-skills' class='text-blue-600 hover:underline'>tech-leads-club/agent-skills</a> ⭐ 3624</li>
+<li class='mb-2'><a href='https://github.com/NirDiamant/agents-towards-production' class='text-blue-600 hover:underline'>NirDiamant/agents-towards-production</a> ⭐ 20002</li>
+<li class='mb-2'><a href='https://github.com/dograh-hq/dograh' class='text-blue-600 hover:underline'>dograh-hq/dograh</a> ⭐ 1777</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 23911</li>
+<li class='mb-2'><a href='https://github.com/Light-Heart-Labs/DreamServer' class='text-blue-600 hover:underline'>Light-Heart-Labs/DreamServer</a> ⭐ 1266</li>
+<li class='mb-2'><a href='https://github.com/KeygraphHQ/shannon' class='text-blue-600 hover:underline'>KeygraphHQ/shannon</a> ⭐ 42790</li>
+<li class='mb-2'><a href='https://github.com/TryGhost/Ghost' class='text-blue-600 hover:underline'>TryGhost/Ghost</a> ⭐ 53369</li>
+<li class='mb-2'><a href='https://github.com/medusajs/medusa' class='text-blue-600 hover:underline'>medusajs/medusa</a> ⭐ 33563</li>
+<li class='mb-2'><a href='https://github.com/knadh/listmonk' class='text-blue-600 hover:underline'>knadh/listmonk</a> ⭐ 20655</li>
+<li class='mb-2'><a href='https://github.com/plausible/analytics' class='text-blue-600 hover:underline'>plausible/analytics</a> ⭐ 25508</li>
+<li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 3538</li>
+<li class='mb-2'><a href='https://github.com/microsoft/ai-agents-for-beginners' class='text-blue-600 hover:underline'>microsoft/ai-agents-for-beginners</a> ⭐ 62718</li>
+
