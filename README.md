@@ -2137,3 +2137,22 @@
 <li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 3538</li>
 <li class='mb-2'><a href='https://github.com/microsoft/ai-agents-for-beginners' class='text-blue-600 hover:underline'>microsoft/ai-agents-for-beginners</a> ⭐ 62718</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-19
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 17851</li>
+<li class='mb-2'><a href='https://github.com/Imbad0202/academic-research-skills' class='text-blue-600 hover:underline'>Imbad0202/academic-research-skills</a> ⭐ 12237</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 36816</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 24486</li>
+<li class='mb-2'><a href='https://github.com/supertone-inc/supertonic' class='text-blue-600 hover:underline'>supertone-inc/supertonic</a> ⭐ 8427</li>
+<li class='mb-2'><a href='https://github.com/ggml-org/llama.cpp' class='text-blue-600 hover:underline'>ggml-org/llama.cpp</a> ⭐ 111125</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 60013</li>
+<li class='mb-2'><a href='https://github.com/CloakHQ/CloakBrowser' class='text-blue-600 hover:underline'>CloakHQ/CloakBrowser</a> ⭐ 15436</li>
+<li class='mb-2'><a href='https://github.com/tech-leads-club/agent-skills' class='text-blue-600 hover:underline'>tech-leads-club/agent-skills</a> ⭐ 4112</li>
+<li class='mb-2'><a href='https://github.com/BigBodyCobain/Shadowbroker' class='text-blue-600 hover:underline'>BigBodyCobain/Shadowbroker</a> ⭐ 7818</li>
+<li class='mb-2'><a href='https://github.com/humanlayer/12-factor-agents' class='text-blue-600 hover:underline'>humanlayer/12-factor-agents</a> ⭐ 20716</li>
+<li class='mb-2'><a href='https://github.com/NVlabs/Sana' class='text-blue-600 hover:underline'>NVlabs/Sana</a> ⭐ 6601</li>
+<li class='mb-2'><a href='https://github.com/microsoft/ai-agents-for-beginners' class='text-blue-600 hover:underline'>microsoft/ai-agents-for-beginners</a> ⭐ 63572</li>
+<li class='mb-2'><a href='https://github.com/ZhuLinsen/daily_stock_analysis' class='text-blue-600 hover:underline'>ZhuLinsen/daily_stock_analysis</a> ⭐ 37309</li>
+<li class='mb-2'><a href='https://github.com/plausible/analytics' class='text-blue-600 hover:underline'>plausible/analytics</a> ⭐ 26021</li>
+
