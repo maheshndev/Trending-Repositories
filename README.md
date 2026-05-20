@@ -2156,3 +2156,25 @@
 <li class='mb-2'><a href='https://github.com/ZhuLinsen/daily_stock_analysis' class='text-blue-600 hover:underline'>ZhuLinsen/daily_stock_analysis</a> ⭐ 37309</li>
 <li class='mb-2'><a href='https://github.com/plausible/analytics' class='text-blue-600 hover:underline'>plausible/analytics</a> ⭐ 26021</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-20
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 21755</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 37860</li>
+<li class='mb-2'><a href='https://github.com/Imbad0202/academic-research-skills' class='text-blue-600 hover:underline'>Imbad0202/academic-research-skills</a> ⭐ 14353</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 198681</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 20302</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/agentmemory' class='text-blue-600 hover:underline'>rohitg00/agentmemory</a> ⭐ 14313</li>
+<li class='mb-2'><a href='https://github.com/CloakHQ/CloakBrowser' class='text-blue-600 hover:underline'>CloakHQ/CloakBrowser</a> ⭐ 16776</li>
+<li class='mb-2'><a href='https://github.com/rtk-ai/rtk' class='text-blue-600 hover:underline'>rtk-ai/rtk</a> ⭐ 51077</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 101836</li>
+<li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 6863</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 138545</li>
+<li class='mb-2'><a href='https://github.com/humanlayer/12-factor-agents' class='text-blue-600 hover:underline'>humanlayer/12-factor-agents</a> ⭐ 21256</li>
+<li class='mb-2'><a href='https://github.com/Diolinux/PhotoGIMP' class='text-blue-600 hover:underline'>Diolinux/PhotoGIMP</a> ⭐ 10847</li>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 26443</li>
+<li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 15935</li>
+<li class='mb-2'><a href='https://github.com/frappe/erpnext' class='text-blue-600 hover:underline'>frappe/erpnext</a> ⭐ 34337</li>
+<li class='mb-2'><a href='https://github.com/microsoft/ai-agents-for-beginners' class='text-blue-600 hover:underline'>microsoft/ai-agents-for-beginners</a> ⭐ 64508</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/ViMax' class='text-blue-600 hover:underline'>HKUDS/ViMax</a> ⭐ 5554</li>
+
