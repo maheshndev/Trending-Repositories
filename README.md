@@ -2178,3 +2178,24 @@
 <li class='mb-2'><a href='https://github.com/microsoft/ai-agents-for-beginners' class='text-blue-600 hover:underline'>microsoft/ai-agents-for-beginners</a> ⭐ 64508</li>
 <li class='mb-2'><a href='https://github.com/HKUDS/ViMax' class='text-blue-600 hover:underline'>HKUDS/ViMax</a> ⭐ 5554</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-21
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 10283</li>
+<li class='mb-2'><a href='https://github.com/Imbad0202/academic-research-skills' class='text-blue-600 hover:underline'>Imbad0202/academic-research-skills</a> ⭐ 16571</li>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 23883</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 141274</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 9788</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 38634</li>
+<li class='mb-2'><a href='https://github.com/can1357/oh-my-pi' class='text-blue-600 hover:underline'>can1357/oh-my-pi</a> ⭐ 5504</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 200279</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 20876</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 102997</li>
+<li class='mb-2'><a href='https://github.com/rmyndharis/OpenWA' class='text-blue-600 hover:underline'>rmyndharis/OpenWA</a> ⭐ 4940</li>
+<li class='mb-2'><a href='https://github.com/truelockmc/streambert' class='text-blue-600 hover:underline'>truelockmc/streambert</a> ⭐ 3188</li>
+<li class='mb-2'><a href='https://github.com/opentoonz/opentoonz' class='text-blue-600 hover:underline'>opentoonz/opentoonz</a> ⭐ 6417</li>
+<li class='mb-2'><a href='https://github.com/zakirullin/files.md' class='text-blue-600 hover:underline'>zakirullin/files.md</a> ⭐ 2280</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/agentmemory' class='text-blue-600 hover:underline'>rohitg00/agentmemory</a> ⭐ 15252</li>
+<li class='mb-2'><a href='https://github.com/ggml-org/llama.cpp' class='text-blue-600 hover:underline'>ggml-org/llama.cpp</a> ⭐ 111899</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/ViMax' class='text-blue-600 hover:underline'>HKUDS/ViMax</a> ⭐ 6168</li>
+
