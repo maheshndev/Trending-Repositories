@@ -2199,3 +2199,26 @@
 <li class='mb-2'><a href='https://github.com/ggml-org/llama.cpp' class='text-blue-600 hover:underline'>ggml-org/llama.cpp</a> ⭐ 111899</li>
 <li class='mb-2'><a href='https://github.com/HKUDS/ViMax' class='text-blue-600 hover:underline'>HKUDS/ViMax</a> ⭐ 6168</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-22
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 22789</li>
+<li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 14095</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 143629</li>
+<li class='mb-2'><a href='https://github.com/dotnet/skills' class='text-blue-600 hover:underline'>dotnet/skills</a> ⭐ 2249</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 201760</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 39216</li>
+<li class='mb-2'><a href='https://github.com/rmyndharis/OpenWA' class='text-blue-600 hover:underline'>rmyndharis/OpenWA</a> ⭐ 5477</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 40569</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 10889</li>
+<li class='mb-2'><a href='https://github.com/teng-lin/notebooklm-py' class='text-blue-600 hover:underline'>teng-lin/notebooklm-py</a> ⭐ 14442</li>
+<li class='mb-2'><a href='https://github.com/can1357/oh-my-pi' class='text-blue-600 hover:underline'>can1357/oh-my-pi</a> ⭐ 5920</li>
+<li class='mb-2'><a href='https://github.com/antoinezambelli/forge' class='text-blue-600 hover:underline'>antoinezambelli/forge</a> ⭐ 1530</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/multica' class='text-blue-600 hover:underline'>multica-ai/multica</a> ⭐ 30862</li>
+<li class='mb-2'><a href='https://github.com/Imbad0202/academic-research-skills' class='text-blue-600 hover:underline'>Imbad0202/academic-research-skills</a> ⭐ 18367</li>
+<li class='mb-2'><a href='https://github.com/trimstray/the-book-of-secret-knowledge' class='text-blue-600 hover:underline'>trimstray/the-book-of-secret-knowledge</a> ⭐ 222556</li>
+<li class='mb-2'><a href='https://github.com/truelockmc/streambert' class='text-blue-600 hover:underline'>truelockmc/streambert</a> ⭐ 4126</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 103785</li>
+<li class='mb-2'><a href='https://github.com/alireza0/s-ui' class='text-blue-600 hover:underline'>alireza0/s-ui</a> ⭐ 8957</li>
+<li class='mb-2'><a href='https://github.com/Lum1104/Understand-Anything' class='text-blue-600 hover:underline'>Lum1104/Understand-Anything</a> ⭐ 16828</li>
+
