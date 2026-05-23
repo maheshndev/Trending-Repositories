@@ -2222,3 +2222,21 @@
 <li class='mb-2'><a href='https://github.com/alireza0/s-ui' class='text-blue-600 hover:underline'>alireza0/s-ui</a> ⭐ 8957</li>
 <li class='mb-2'><a href='https://github.com/Lum1104/Understand-Anything' class='text-blue-600 hover:underline'>Lum1104/Understand-Anything</a> ⭐ 16828</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-23
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 25143</li>
+<li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 16824</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 64106</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 12090</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 41022</li>
+<li class='mb-2'><a href='https://github.com/dotnet/skills' class='text-blue-600 hover:underline'>dotnet/skills</a> ⭐ 2557</li>
+<li class='mb-2'><a href='https://github.com/Lum1104/Understand-Anything' class='text-blue-600 hover:underline'>Lum1104/Understand-Anything</a> ⭐ 18900</li>
+<li class='mb-2'><a href='https://github.com/odoo/odoo' class='text-blue-600 hover:underline'>odoo/odoo</a> ⭐ 51166</li>
+<li class='mb-2'><a href='https://github.com/byJoey/cfnew' class='text-blue-600 hover:underline'>byJoey/cfnew</a> ⭐ 13328</li>
+<li class='mb-2'><a href='https://github.com/trimstray/the-book-of-secret-knowledge' class='text-blue-600 hover:underline'>trimstray/the-book-of-secret-knowledge</a> ⭐ 223262</li>
+<li class='mb-2'><a href='https://github.com/Fincept-Corporation/FinceptTerminal' class='text-blue-600 hover:underline'>Fincept-Corporation/FinceptTerminal</a> ⭐ 22686</li>
+<li class='mb-2'><a href='https://github.com/can1357/oh-my-pi' class='text-blue-600 hover:underline'>can1357/oh-my-pi</a> ⭐ 6393</li>
+<li class='mb-2'><a href='https://github.com/yt-dlp/yt-dlp' class='text-blue-600 hover:underline'>yt-dlp/yt-dlp</a> ⭐ 164413</li>
+<li class='mb-2'><a href='https://github.com/karpathy/nn-zero-to-hero' class='text-blue-600 hover:underline'>karpathy/nn-zero-to-hero</a> ⭐ 22416</li>
+
