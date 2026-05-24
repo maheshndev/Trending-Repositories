@@ -2240,3 +2240,23 @@
 <li class='mb-2'><a href='https://github.com/yt-dlp/yt-dlp' class='text-blue-600 hover:underline'>yt-dlp/yt-dlp</a> ⭐ 164413</li>
 <li class='mb-2'><a href='https://github.com/karpathy/nn-zero-to-hero' class='text-blue-600 hover:underline'>karpathy/nn-zero-to-hero</a> ⭐ 22416</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-24
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Lum1104/Understand-Anything' class='text-blue-600 hover:underline'>Lum1104/Understand-Anything</a> ⭐ 22031</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 26595</li>
+<li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 19873</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 13937</li>
+<li class='mb-2'><a href='https://github.com/Fincept-Corporation/FinceptTerminal' class='text-blue-600 hover:underline'>Fincept-Corporation/FinceptTerminal</a> ⭐ 23173</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 149939</li>
+<li class='mb-2'><a href='https://github.com/dotnet/skills' class='text-blue-600 hover:underline'>dotnet/skills</a> ⭐ 2769</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 41373</li>
+<li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 7528</li>
+<li class='mb-2'><a href='https://github.com/presenton/presenton' class='text-blue-600 hover:underline'>presenton/presenton</a> ⭐ 6454</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/multica' class='text-blue-600 hover:underline'>multica-ai/multica</a> ⭐ 31999</li>
+<li class='mb-2'><a href='https://github.com/trimstray/the-book-of-secret-knowledge' class='text-blue-600 hover:underline'>trimstray/the-book-of-secret-knowledge</a> ⭐ 223915</li>
+<li class='mb-2'><a href='https://github.com/odoo/odoo' class='text-blue-600 hover:underline'>odoo/odoo</a> ⭐ 51524</li>
+<li class='mb-2'><a href='https://github.com/NVlabs/LongLive' class='text-blue-600 hover:underline'>NVlabs/LongLive</a> ⭐ 1845</li>
+<li class='mb-2'><a href='https://github.com/yt-dlp/yt-dlp' class='text-blue-600 hover:underline'>yt-dlp/yt-dlp</a> ⭐ 165019</li>
+<li class='mb-2'><a href='https://github.com/janestreet/magic-trace' class='text-blue-600 hover:underline'>janestreet/magic-trace</a> ⭐ 5893</li>
+
