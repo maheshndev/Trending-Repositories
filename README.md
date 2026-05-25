@@ -2260,3 +2260,23 @@
 <li class='mb-2'><a href='https://github.com/yt-dlp/yt-dlp' class='text-blue-600 hover:underline'>yt-dlp/yt-dlp</a> ⭐ 165019</li>
 <li class='mb-2'><a href='https://github.com/janestreet/magic-trace' class='text-blue-600 hover:underline'>janestreet/magic-trace</a> ⭐ 5893</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-25
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Lum1104/Understand-Anything' class='text-blue-600 hover:underline'>Lum1104/Understand-Anything</a> ⭐ 26990</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 16562</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 27345</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 14207</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 152610</li>
+<li class='mb-2'><a href='https://github.com/earendil-works/pi' class='text-blue-600 hover:underline'>earendil-works/pi</a> ⭐ 54065</li>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 29239</li>
+<li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 22768</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/multica' class='text-blue-600 hover:underline'>multica-ai/multica</a> ⭐ 32626</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 25839</li>
+<li class='mb-2'><a href='https://github.com/manaflow-ai/cmux' class='text-blue-600 hover:underline'>manaflow-ai/cmux</a> ⭐ 19091</li>
+<li class='mb-2'><a href='https://github.com/666ghj/MiroFish' class='text-blue-600 hover:underline'>666ghj/MiroFish</a> ⭐ 62254</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 504348</li>
+<li class='mb-2'><a href='https://github.com/dotnet/skills' class='text-blue-600 hover:underline'>dotnet/skills</a> ⭐ 2990</li>
+<li class='mb-2'><a href='https://github.com/blakeblackshear/frigate' class='text-blue-600 hover:underline'>blakeblackshear/frigate</a> ⭐ 32908</li>
+<li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 8491</li>
+
