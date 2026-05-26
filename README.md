@@ -2280,3 +2280,24 @@
 <li class='mb-2'><a href='https://github.com/blakeblackshear/frigate' class='text-blue-600 hover:underline'>blakeblackshear/frigate</a> ⭐ 32908</li>
 <li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 8491</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-26
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Lum1104/Understand-Anything' class='text-blue-600 hover:underline'>Lum1104/Understand-Anything</a> ⭐ 31870</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 15691</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 18968</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 192700</li>
+<li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 9379</li>
+<li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 25674</li>
+<li class='mb-2'><a href='https://github.com/manaflow-ai/cmux' class='text-blue-600 hover:underline'>manaflow-ai/cmux</a> ⭐ 19561</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 155331</li>
+<li class='mb-2'><a href='https://github.com/Fincept-Corporation/FinceptTerminal' class='text-blue-600 hover:underline'>Fincept-Corporation/FinceptTerminal</a> ⭐ 23945</li>
+<li class='mb-2'><a href='https://github.com/paperless-ngx/paperless-ngx' class='text-blue-600 hover:underline'>paperless-ngx/paperless-ngx</a> ⭐ 41395</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-cookbooks' class='text-blue-600 hover:underline'>anthropics/claude-cookbooks</a> ⭐ 44094</li>
+<li class='mb-2'><a href='https://github.com/Leonxlnx/taste-skill' class='text-blue-600 hover:underline'>Leonxlnx/taste-skill</a> ⭐ 19943</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 39807</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 26067</li>
+<li class='mb-2'><a href='https://github.com/Axorax/awesome-free-apps' class='text-blue-600 hover:underline'>Axorax/awesome-free-apps</a> ⭐ 4636</li>
+<li class='mb-2'><a href='https://github.com/hardikpandya/stop-slop' class='text-blue-600 hover:underline'>hardikpandya/stop-slop</a> ⭐ 4502</li>
+<li class='mb-2'><a href='https://github.com/garrytan/gstack' class='text-blue-600 hover:underline'>garrytan/gstack</a> ⭐ 102627</li>
+
