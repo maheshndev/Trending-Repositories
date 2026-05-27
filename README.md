@@ -2301,3 +2301,21 @@
 <li class='mb-2'><a href='https://github.com/hardikpandya/stop-slop' class='text-blue-600 hover:underline'>hardikpandya/stop-slop</a> ⭐ 4502</li>
 <li class='mb-2'><a href='https://github.com/garrytan/gstack' class='text-blue-600 hover:underline'>garrytan/gstack</a> ⭐ 102627</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-27
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Lum1104/Understand-Anything' class='text-blue-600 hover:underline'>Lum1104/Understand-Anything</a> ⭐ 36545</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 194703</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 21020</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 16780</li>
+<li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 10228</li>
+<li class='mb-2'><a href='https://github.com/hardikpandya/stop-slop' class='text-blue-600 hover:underline'>hardikpandya/stop-slop</a> ⭐ 5113</li>
+<li class='mb-2'><a href='https://github.com/Leonxlnx/taste-skill' class='text-blue-600 hover:underline'>Leonxlnx/taste-skill</a> ⭐ 22254</li>
+<li class='mb-2'><a href='https://github.com/DigitalPlatDev/FreeDomain' class='text-blue-600 hover:underline'>DigitalPlatDev/FreeDomain</a> ⭐ 167674</li>
+<li class='mb-2'><a href='https://github.com/jellyfin/jellyfin' class='text-blue-600 hover:underline'>jellyfin/jellyfin</a> ⭐ 52430</li>
+<li class='mb-2'><a href='https://github.com/Axorax/awesome-free-apps' class='text-blue-600 hover:underline'>Axorax/awesome-free-apps</a> ⭐ 5382</li>
+<li class='mb-2'><a href='https://github.com/twentyhq/twenty' class='text-blue-600 hover:underline'>twentyhq/twenty</a> ⭐ 46925</li>
+<li class='mb-2'><a href='https://github.com/Open-Dev-Society/OpenStock' class='text-blue-600 hover:underline'>Open-Dev-Society/OpenStock</a> ⭐ 12225</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 78765</li>
+<li class='mb-2'><a href='https://github.com/st-tech/ppf-contact-solver' class='text-blue-600 hover:underline'>st-tech/ppf-contact-solver</a> ⭐ 3547</li>
+
