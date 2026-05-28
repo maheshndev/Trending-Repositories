@@ -2319,3 +2319,24 @@
 <li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 78765</li>
 <li class='mb-2'><a href='https://github.com/st-tech/ppf-contact-solver' class='text-blue-600 hover:underline'>st-tech/ppf-contact-solver</a> ⭐ 3547</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-28
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 62931</li>
+<li class='mb-2'><a href='https://github.com/Lum1104/Understand-Anything' class='text-blue-600 hover:underline'>Lum1104/Understand-Anything</a> ⭐ 40520</li>
+<li class='mb-2'><a href='https://github.com/hardikpandya/stop-slop' class='text-blue-600 hover:underline'>hardikpandya/stop-slop</a> ⭐ 5829</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 196226</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 17377</li>
+<li class='mb-2'><a href='https://github.com/Leonxlnx/taste-skill' class='text-blue-600 hover:underline'>Leonxlnx/taste-skill</a> ⭐ 24615</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 22081</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 26942</li>
+<li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 11084</li>
+<li class='mb-2'><a href='https://github.com/twentyhq/twenty' class='text-blue-600 hover:underline'>twentyhq/twenty</a> ⭐ 47407</li>
+<li class='mb-2'><a href='https://github.com/Chachamaru127/claude-code-harness' class='text-blue-600 hover:underline'>Chachamaru127/claude-code-harness</a> ⭐ 1913</li>
+<li class='mb-2'><a href='https://github.com/DigitalPlatDev/FreeDomain' class='text-blue-600 hover:underline'>DigitalPlatDev/FreeDomain</a> ⭐ 169363</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 209815</li>
+<li class='mb-2'><a href='https://github.com/byoungd/English-level-up-tips' class='text-blue-600 hover:underline'>byoungd/English-level-up-tips</a> ⭐ 47046</li>
+<li class='mb-2'><a href='https://github.com/iii-hq/iii' class='text-blue-600 hover:underline'>iii-hq/iii</a> ⭐ 16933</li>
+<li class='mb-2'><a href='https://github.com/Axorax/awesome-free-apps' class='text-blue-600 hover:underline'>Axorax/awesome-free-apps</a> ⭐ 5966</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 40282</li>
+
