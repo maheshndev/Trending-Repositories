@@ -2340,3 +2340,23 @@
 <li class='mb-2'><a href='https://github.com/Axorax/awesome-free-apps' class='text-blue-600 hover:underline'>Axorax/awesome-free-apps</a> ⭐ 5966</li>
 <li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 40282</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-29
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 66945</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 197469</li>
+<li class='mb-2'><a href='https://github.com/Leonxlnx/taste-skill' class='text-blue-600 hover:underline'>Leonxlnx/taste-skill</a> ⭐ 26734</li>
+<li class='mb-2'><a href='https://github.com/hardikpandya/stop-slop' class='text-blue-600 hover:underline'>hardikpandya/stop-slop</a> ⭐ 6507</li>
+<li class='mb-2'><a href='https://github.com/twentyhq/twenty' class='text-blue-600 hover:underline'>twentyhq/twenty</a> ⭐ 47937</li>
+<li class='mb-2'><a href='https://github.com/DigitalPlatDev/FreeDomain' class='text-blue-600 hover:underline'>DigitalPlatDev/FreeDomain</a> ⭐ 170882</li>
+<li class='mb-2'><a href='https://github.com/byoungd/English-level-up-tips' class='text-blue-600 hover:underline'>byoungd/English-level-up-tips</a> ⭐ 48772</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 127942</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 211304</li>
+<li class='mb-2'><a href='https://github.com/revfactory/harness' class='text-blue-600 hover:underline'>revfactory/harness</a> ⭐ 3957</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 506658</li>
+<li class='mb-2'><a href='https://github.com/Lum1104/Understand-Anything' class='text-blue-600 hover:underline'>Lum1104/Understand-Anything</a> ⭐ 43133</li>
+<li class='mb-2'><a href='https://github.com/unclecode/crawl4ai' class='text-blue-600 hover:underline'>unclecode/crawl4ai</a> ⭐ 67049</li>
+<li class='mb-2'><a href='https://github.com/OpenMOSS/MOSS-TTS' class='text-blue-600 hover:underline'>OpenMOSS/MOSS-TTS</a> ⭐ 2308</li>
+<li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 17826</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 143001</li>
+
