@@ -2360,3 +2360,24 @@
 <li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 17826</li>
 <li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 143001</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-30
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 69986</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 130168</li>
+<li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 18181</li>
+<li class='mb-2'><a href='https://github.com/twentyhq/twenty' class='text-blue-600 hover:underline'>twentyhq/twenty</a> ⭐ 48446</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 127939</li>
+<li class='mb-2'><a href='https://github.com/Leonxlnx/taste-skill' class='text-blue-600 hover:underline'>Leonxlnx/taste-skill</a> ⭐ 28279</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 1318</li>
+<li class='mb-2'><a href='https://github.com/run-llama/liteparse' class='text-blue-600 hover:underline'>run-llama/liteparse</a> ⭐ 7395</li>
+<li class='mb-2'><a href='https://github.com/galilai-group/stable-worldmodel' class='text-blue-600 hover:underline'>galilai-group/stable-worldmodel</a> ⭐ 1274</li>
+<li class='mb-2'><a href='https://github.com/byoungd/English-level-up-tips' class='text-blue-600 hover:underline'>byoungd/English-level-up-tips</a> ⭐ 49708</li>
+<li class='mb-2'><a href='https://github.com/Biohub/esm' class='text-blue-600 hover:underline'>Biohub/esm</a> ⭐ 2577</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 27004</li>
+<li class='mb-2'><a href='https://github.com/DigitalPlatDev/FreeDomain' class='text-blue-600 hover:underline'>DigitalPlatDev/FreeDomain</a> ⭐ 171904</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 198640</li>
+<li class='mb-2'><a href='https://github.com/hardikpandya/stop-slop' class='text-blue-600 hover:underline'>hardikpandya/stop-slop</a> ⭐ 7050</li>
+<li class='mb-2'><a href='https://github.com/DataTalksClub/data-engineering-zoomcamp' class='text-blue-600 hover:underline'>DataTalksClub/data-engineering-zoomcamp</a> ⭐ 41591</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 507445</li>
+
