@@ -2381,3 +2381,26 @@
 <li class='mb-2'><a href='https://github.com/DataTalksClub/data-engineering-zoomcamp' class='text-blue-600 hover:underline'>DataTalksClub/data-engineering-zoomcamp</a> ⭐ 41591</li>
 <li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 507445</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-05-31
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 132714</li>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 72209</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 128453</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 1479</li>
+<li class='mb-2'><a href='https://github.com/revfactory/harness' class='text-blue-600 hover:underline'>revfactory/harness</a> ⭐ 4303</li>
+<li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 18448</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 199425</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/VoxCPM' class='text-blue-600 hover:underline'>OpenBMB/VoxCPM</a> ⭐ 22844</li>
+<li class='mb-2'><a href='https://github.com/galilai-group/stable-worldmodel' class='text-blue-600 hover:underline'>galilai-group/stable-worldmodel</a> ⭐ 1482</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 27391</li>
+<li class='mb-2'><a href='https://github.com/run-llama/liteparse' class='text-blue-600 hover:underline'>run-llama/liteparse</a> ⭐ 7959</li>
+<li class='mb-2'><a href='https://github.com/chen08209/FlClash' class='text-blue-600 hover:underline'>chen08209/FlClash</a> ⭐ 40406</li>
+<li class='mb-2'><a href='https://github.com/FareedKhan-dev/train-llm-from-scratch' class='text-blue-600 hover:underline'>FareedKhan-dev/train-llm-from-scratch</a> ⭐ 2337</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 68989</li>
+<li class='mb-2'><a href='https://github.com/DataTalksClub/data-engineering-zoomcamp' class='text-blue-600 hover:underline'>DataTalksClub/data-engineering-zoomcamp</a> ⭐ 41801</li>
+<li class='mb-2'><a href='https://github.com/OpenMOSS/MOSS-TTS' class='text-blue-600 hover:underline'>OpenMOSS/MOSS-TTS</a> ⭐ 2661</li>
+<li class='mb-2'><a href='https://github.com/dreammis/social-auto-upload' class='text-blue-600 hover:underline'>dreammis/social-auto-upload</a> ⭐ 11838</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 144224</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 508334</li>
+
