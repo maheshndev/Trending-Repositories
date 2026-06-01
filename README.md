@@ -2404,3 +2404,22 @@
 <li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 144224</li>
 <li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 508334</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-01
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 74958</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 135473</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 56876</li>
+<li class='mb-2'><a href='https://github.com/nesquena/hermes-webui' class='text-blue-600 hover:underline'>nesquena/hermes-webui</a> ⭐ 10161</li>
+<li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 18776</li>
+<li class='mb-2'><a href='https://github.com/github/docs' class='text-blue-600 hover:underline'>github/docs</a> ⭐ 19767</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/VoxCPM' class='text-blue-600 hover:underline'>OpenBMB/VoxCPM</a> ⭐ 23684</li>
+<li class='mb-2'><a href='https://github.com/revfactory/harness' class='text-blue-600 hover:underline'>revfactory/harness</a> ⭐ 4699</li>
+<li class='mb-2'><a href='https://github.com/FareedKhan-dev/train-llm-from-scratch' class='text-blue-600 hover:underline'>FareedKhan-dev/train-llm-from-scratch</a> ⭐ 3104</li>
+<li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 23459</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 27774</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 129034</li>
+<li class='mb-2'><a href='https://github.com/nicobailon/pi-subagents' class='text-blue-600 hover:underline'>nicobailon/pi-subagents</a> ⭐ 1893</li>
+<li class='mb-2'><a href='https://github.com/emmabostian/developer-portfolios' class='text-blue-600 hover:underline'>emmabostian/developer-portfolios</a> ⭐ 23462</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 509526</li>
+
