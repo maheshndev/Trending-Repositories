@@ -2423,3 +2423,24 @@
 <li class='mb-2'><a href='https://github.com/emmabostian/developer-portfolios' class='text-blue-600 hover:underline'>emmabostian/developer-portfolios</a> ⭐ 23462</li>
 <li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 509526</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-02
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 138936</li>
+<li class='mb-2'><a href='https://github.com/nesquena/hermes-webui' class='text-blue-600 hover:underline'>nesquena/hermes-webui</a> ⭐ 11545</li>
+<li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 24102</li>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 77079</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 58261</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 32882</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 23087</li>
+<li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 19160</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 81886</li>
+<li class='mb-2'><a href='https://github.com/revfactory/harness' class='text-blue-600 hover:underline'>revfactory/harness</a> ⭐ 5242</li>
+<li class='mb-2'><a href='https://github.com/godotengine/godot' class='text-blue-600 hover:underline'>godotengine/godot</a> ⭐ 111706</li>
+<li class='mb-2'><a href='https://github.com/can1357/oh-my-pi' class='text-blue-600 hover:underline'>can1357/oh-my-pi</a> ⭐ 9542</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/VoxCPM' class='text-blue-600 hover:underline'>OpenBMB/VoxCPM</a> ⭐ 24394</li>
+<li class='mb-2'><a href='https://github.com/FareedKhan-dev/train-llm-from-scratch' class='text-blue-600 hover:underline'>FareedKhan-dev/train-llm-from-scratch</a> ⭐ 3810</li>
+<li class='mb-2'><a href='https://github.com/stefan-jansen/machine-learning-for-trading' class='text-blue-600 hover:underline'>stefan-jansen/machine-learning-for-trading</a> ⭐ 17951</li>
+<li class='mb-2'><a href='https://github.com/dmtrKovalenko/fff' class='text-blue-600 hover:underline'>dmtrKovalenko/fff</a> ⭐ 7238</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 510546</li>
+
