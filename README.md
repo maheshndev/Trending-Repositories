@@ -2444,3 +2444,18 @@
 <li class='mb-2'><a href='https://github.com/dmtrKovalenko/fff' class='text-blue-600 hover:underline'>dmtrKovalenko/fff</a> ⭐ 7238</li>
 <li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 510546</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-03
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/chopratejas/headroom' class='text-blue-600 hover:underline'>chopratejas/headroom</a> ⭐ 6970</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 141482</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 204272</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 59358</li>
+<li class='mb-2'><a href='https://github.com/nesquena/hermes-webui' class='text-blue-600 hover:underline'>nesquena/hermes-webui</a> ⭐ 12665</li>
+<li class='mb-2'><a href='https://github.com/reconurge/flowsint' class='text-blue-600 hover:underline'>reconurge/flowsint</a> ⭐ 4602</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/VoxCPM' class='text-blue-600 hover:underline'>OpenBMB/VoxCPM</a> ⭐ 25250</li>
+<li class='mb-2'><a href='https://github.com/stefan-jansen/machine-learning-for-trading' class='text-blue-600 hover:underline'>stefan-jansen/machine-learning-for-trading</a> ⭐ 18577</li>
+<li class='mb-2'><a href='https://github.com/jamwithai/production-agentic-rag-course' class='text-blue-600 hover:underline'>jamwithai/production-agentic-rag-course</a> ⭐ 6450</li>
+<li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 24747</li>
+<li class='mb-2'><a href='https://github.com/Open-LLM-VTuber/Open-LLM-VTuber' class='text-blue-600 hover:underline'>Open-LLM-VTuber/Open-LLM-VTuber</a> ⭐ 8488</li>
+
