@@ -2459,3 +2459,21 @@
 <li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 24747</li>
 <li class='mb-2'><a href='https://github.com/Open-LLM-VTuber/Open-LLM-VTuber' class='text-blue-600 hover:underline'>Open-LLM-VTuber/Open-LLM-VTuber</a> ⭐ 8488</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-04
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/chopratejas/headroom' class='text-blue-600 hover:underline'>chopratejas/headroom</a> ⭐ 10257</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 205993</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 35460</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 179460</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 143108</li>
+<li class='mb-2'><a href='https://github.com/nesquena/hermes-webui' class='text-blue-600 hover:underline'>nesquena/hermes-webui</a> ⭐ 13171</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 60443</li>
+<li class='mb-2'><a href='https://github.com/opendataloader-project/opendataloader-pdf' class='text-blue-600 hover:underline'>opendataloader-project/opendataloader-pdf</a> ⭐ 23400</li>
+<li class='mb-2'><a href='https://github.com/odoo/odoo' class='text-blue-600 hover:underline'>odoo/odoo</a> ⭐ 52007</li>
+<li class='mb-2'><a href='https://github.com/Open-LLM-VTuber/Open-LLM-VTuber' class='text-blue-600 hover:underline'>Open-LLM-VTuber/Open-LLM-VTuber</a> ⭐ 9066</li>
+<li class='mb-2'><a href='https://github.com/jwasham/coding-interview-university' class='text-blue-600 hover:underline'>jwasham/coding-interview-university</a> ⭐ 349137</li>
+<li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 18996</li>
+<li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 25265</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/Vibe-Trading' class='text-blue-600 hover:underline'>HKUDS/Vibe-Trading</a> ⭐ 10120</li>
+
