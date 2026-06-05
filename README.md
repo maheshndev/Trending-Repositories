@@ -2477,3 +2477,20 @@
 <li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 25265</li>
 <li class='mb-2'><a href='https://github.com/HKUDS/Vibe-Trading' class='text-blue-600 hover:underline'>HKUDS/Vibe-Trading</a> ⭐ 10120</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-05
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/chopratejas/headroom' class='text-blue-600 hover:underline'>chopratejas/headroom</a> ⭐ 12867</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 181266</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 207428</li>
+<li class='mb-2'><a href='https://github.com/PaddlePaddle/PaddleOCR' class='text-blue-600 hover:underline'>PaddlePaddle/PaddleOCR</a> ⭐ 80007</li>
+<li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 108678</li>
+<li class='mb-2'><a href='https://github.com/lfnovo/open-notebook' class='text-blue-600 hover:underline'>lfnovo/open-notebook</a> ⭐ 25194</li>
+<li class='mb-2'><a href='https://github.com/Open-LLM-VTuber/Open-LLM-VTuber' class='text-blue-600 hover:underline'>Open-LLM-VTuber/Open-LLM-VTuber</a> ⭐ 9699</li>
+<li class='mb-2'><a href='https://github.com/jwasham/coding-interview-university' class='text-blue-600 hover:underline'>jwasham/coding-interview-university</a> ⭐ 349826</li>
+<li class='mb-2'><a href='https://github.com/github/copilot-sdk' class='text-blue-600 hover:underline'>github/copilot-sdk</a> ⭐ 9024</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 35693</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw-windows-node' class='text-blue-600 hover:underline'>openclaw/openclaw-windows-node</a> ⭐ 1372</li>
+<li class='mb-2'><a href='https://github.com/reconurge/flowsint' class='text-blue-600 hover:underline'>reconurge/flowsint</a> ⭐ 5353</li>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 27715</li>
+
