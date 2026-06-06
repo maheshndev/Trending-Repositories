@@ -2494,3 +2494,24 @@
 <li class='mb-2'><a href='https://github.com/reconurge/flowsint' class='text-blue-600 hover:underline'>reconurge/flowsint</a> ⭐ 5353</li>
 <li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 27715</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-06
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 183367</li>
+<li class='mb-2'><a href='https://github.com/chopratejas/headroom' class='text-blue-600 hover:underline'>chopratejas/headroom</a> ⭐ 14631</li>
+<li class='mb-2'><a href='https://github.com/CopilotKit/CopilotKit' class='text-blue-600 hover:underline'>CopilotKit/CopilotKit</a> ⭐ 32754</li>
+<li class='mb-2'><a href='https://github.com/lfnovo/open-notebook' class='text-blue-600 hover:underline'>lfnovo/open-notebook</a> ⭐ 26080</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 208435</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 21653</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/cosmos' class='text-blue-600 hover:underline'>NVIDIA/cosmos</a> ⭐ 9450</li>
+<li class='mb-2'><a href='https://github.com/666ghj/MiroFish' class='text-blue-600 hover:underline'>666ghj/MiroFish</a> ⭐ 64749</li>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 28263</li>
+<li class='mb-2'><a href='https://github.com/PaddlePaddle/PaddleOCR' class='text-blue-600 hover:underline'>PaddlePaddle/PaddleOCR</a> ⭐ 80591</li>
+<li class='mb-2'><a href='https://github.com/openai/plugins' class='text-blue-600 hover:underline'>openai/plugins</a> ⭐ 1570</li>
+<li class='mb-2'><a href='https://github.com/MemPalace/mempalace' class='text-blue-600 hover:underline'>MemPalace/mempalace</a> ⭐ 53929</li>
+<li class='mb-2'><a href='https://github.com/withastro/flue' class='text-blue-600 hover:underline'>withastro/flue</a> ⭐ 4557</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw-windows-node' class='text-blue-600 hover:underline'>openclaw/openclaw-windows-node</a> ⭐ 1625</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 35875</li>
+<li class='mb-2'><a href='https://github.com/jwasham/coding-interview-university' class='text-blue-600 hover:underline'>jwasham/coding-interview-university</a> ⭐ 350439</li>
+<li class='mb-2'><a href='https://github.com/github/copilot-sdk' class='text-blue-600 hover:underline'>github/copilot-sdk</a> ⭐ 9276</li>
+
