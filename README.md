@@ -2515,3 +2515,25 @@
 <li class='mb-2'><a href='https://github.com/jwasham/coding-interview-university' class='text-blue-600 hover:underline'>jwasham/coding-interview-university</a> ⭐ 350439</li>
 <li class='mb-2'><a href='https://github.com/github/copilot-sdk' class='text-blue-600 hover:underline'>github/copilot-sdk</a> ⭐ 9276</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-07
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 28980</li>
+<li class='mb-2'><a href='https://github.com/CopilotKit/CopilotKit' class='text-blue-600 hover:underline'>CopilotKit/CopilotKit</a> ⭐ 33286</li>
+<li class='mb-2'><a href='https://github.com/MemPalace/mempalace' class='text-blue-600 hover:underline'>MemPalace/mempalace</a> ⭐ 54348</li>
+<li class='mb-2'><a href='https://github.com/danielmiessler/Personal_AI_Infrastructure' class='text-blue-600 hover:underline'>danielmiessler/Personal_AI_Infrastructure</a> ⭐ 15014</li>
+<li class='mb-2'><a href='https://github.com/openai/plugins' class='text-blue-600 hover:underline'>openai/plugins</a> ⭐ 1808</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 22474</li>
+<li class='mb-2'><a href='https://github.com/sveltejs/svelte' class='text-blue-600 hover:underline'>sveltejs/svelte</a> ⭐ 87018</li>
+<li class='mb-2'><a href='https://github.com/nginx/nginx' class='text-blue-600 hover:underline'>nginx/nginx</a> ⭐ 30706</li>
+<li class='mb-2'><a href='https://github.com/aquasecurity/trivy' class='text-blue-600 hover:underline'>aquasecurity/trivy</a> ⭐ 36018</li>
+<li class='mb-2'><a href='https://github.com/golang/go' class='text-blue-600 hover:underline'>golang/go</a> ⭐ 134524</li>
+<li class='mb-2'><a href='https://github.com/lfnovo/open-notebook' class='text-blue-600 hover:underline'>lfnovo/open-notebook</a> ⭐ 26694</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 219757</li>
+<li class='mb-2'><a href='https://github.com/santifer/career-ops' class='text-blue-600 hover:underline'>santifer/career-ops</a> ⭐ 49453</li>
+<li class='mb-2'><a href='https://github.com/openai/whisper' class='text-blue-600 hover:underline'>openai/whisper</a> ⭐ 101903</li>
+<li class='mb-2'><a href='https://github.com/vitejs/vite' class='text-blue-600 hover:underline'>vitejs/vite</a> ⭐ 81208</li>
+<li class='mb-2'><a href='https://github.com/microsoft/mxc' class='text-blue-600 hover:underline'>microsoft/mxc</a> ⭐ 608</li>
+<li class='mb-2'><a href='https://github.com/PaddlePaddle/PaddleOCR' class='text-blue-600 hover:underline'>PaddlePaddle/PaddleOCR</a> ⭐ 81017</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 48504</li>
+
