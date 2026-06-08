@@ -2537,3 +2537,22 @@
 <li class='mb-2'><a href='https://github.com/PaddlePaddle/PaddleOCR' class='text-blue-600 hover:underline'>PaddlePaddle/PaddleOCR</a> ⭐ 81017</li>
 <li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 48504</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-08
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 31650</li>
+<li class='mb-2'><a href='https://github.com/opencv/opencv' class='text-blue-600 hover:underline'>opencv/opencv</a> ⭐ 88162</li>
+<li class='mb-2'><a href='https://github.com/Leonxlnx/taste-skill' class='text-blue-600 hover:underline'>Leonxlnx/taste-skill</a> ⭐ 37089</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 186208</li>
+<li class='mb-2'><a href='https://github.com/lfnovo/open-notebook' class='text-blue-600 hover:underline'>lfnovo/open-notebook</a> ⭐ 27421</li>
+<li class='mb-2'><a href='https://github.com/yikart/AiToEarn' class='text-blue-600 hover:underline'>yikart/AiToEarn</a> ⭐ 18939</li>
+<li class='mb-2'><a href='https://github.com/aaif-goose/goose' class='text-blue-600 hover:underline'>aaif-goose/goose</a> ⭐ 47609</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 29803</li>
+<li class='mb-2'><a href='https://github.com/ggml-org/llama.cpp' class='text-blue-600 hover:underline'>ggml-org/llama.cpp</a> ⭐ 115404</li>
+<li class='mb-2'><a href='https://github.com/RyanCodrai/turbovec' class='text-blue-600 hover:underline'>RyanCodrai/turbovec</a> ⭐ 7411</li>
+<li class='mb-2'><a href='https://github.com/TapXWorld/ChinaTextbook' class='text-blue-600 hover:underline'>TapXWorld/ChinaTextbook</a> ⭐ 72618</li>
+<li class='mb-2'><a href='https://github.com/openai/plugins' class='text-blue-600 hover:underline'>openai/plugins</a> ⭐ 2091</li>
+<li class='mb-2'><a href='https://github.com/refactoringhq/tolaria' class='text-blue-600 hover:underline'>refactoringhq/tolaria</a> ⭐ 12984</li>
+<li class='mb-2'><a href='https://github.com/HunxByts/GhostTrack' class='text-blue-600 hover:underline'>HunxByts/GhostTrack</a> ⭐ 13783</li>
+<li class='mb-2'><a href='https://github.com/microsoft/pg_durable' class='text-blue-600 hover:underline'>microsoft/pg_durable</a> ⭐ 1507</li>
+
