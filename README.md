@@ -2556,3 +2556,23 @@
 <li class='mb-2'><a href='https://github.com/HunxByts/GhostTrack' class='text-blue-600 hover:underline'>HunxByts/GhostTrack</a> ⭐ 13783</li>
 <li class='mb-2'><a href='https://github.com/microsoft/pg_durable' class='text-blue-600 hover:underline'>microsoft/pg_durable</a> ⭐ 1507</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-09
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 34971</li>
+<li class='mb-2'><a href='https://github.com/RyanCodrai/turbovec' class='text-blue-600 hover:underline'>RyanCodrai/turbovec</a> ⭐ 9099</li>
+<li class='mb-2'><a href='https://github.com/google/skills' class='text-blue-600 hover:underline'>google/skills</a> ⭐ 12533</li>
+<li class='mb-2'><a href='https://github.com/refactoringhq/tolaria' class='text-blue-600 hover:underline'>refactoringhq/tolaria</a> ⭐ 13686</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 24444</li>
+<li class='mb-2'><a href='https://github.com/danielmiessler/Personal_AI_Infrastructure' class='text-blue-600 hover:underline'>danielmiessler/Personal_AI_Infrastructure</a> ⭐ 15498</li>
+<li class='mb-2'><a href='https://github.com/santifer/career-ops' class='text-blue-600 hover:underline'>santifer/career-ops</a> ⭐ 50676</li>
+<li class='mb-2'><a href='https://github.com/phuryn/pm-skills' class='text-blue-600 hover:underline'>phuryn/pm-skills</a> ⭐ 12820</li>
+<li class='mb-2'><a href='https://github.com/openai/plugins' class='text-blue-600 hover:underline'>openai/plugins</a> ⭐ 2356</li>
+<li class='mb-2'><a href='https://github.com/Andyyyy64/whichllm' class='text-blue-600 hover:underline'>Andyyyy64/whichllm</a> ⭐ 3559</li>
+<li class='mb-2'><a href='https://github.com/MemPalace/mempalace' class='text-blue-600 hover:underline'>MemPalace/mempalace</a> ⭐ 55007</li>
+<li class='mb-2'><a href='https://github.com/roboflow/supervision' class='text-blue-600 hover:underline'>roboflow/supervision</a> ⭐ 42433</li>
+<li class='mb-2'><a href='https://github.com/CopilotKit/CopilotKit' class='text-blue-600 hover:underline'>CopilotKit/CopilotKit</a> ⭐ 34210</li>
+<li class='mb-2'><a href='https://github.com/TapXWorld/ChinaTextbook' class='text-blue-600 hover:underline'>TapXWorld/ChinaTextbook</a> ⭐ 73081</li>
+<li class='mb-2'><a href='https://github.com/luongnv89/claude-howto' class='text-blue-600 hover:underline'>luongnv89/claude-howto</a> ⭐ 35887</li>
+<li class='mb-2'><a href='https://github.com/aaif-goose/goose' class='text-blue-600 hover:underline'>aaif-goose/goose</a> ⭐ 48163</li>
+
