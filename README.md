@@ -2576,3 +2576,23 @@
 <li class='mb-2'><a href='https://github.com/luongnv89/claude-howto' class='text-blue-600 hover:underline'>luongnv89/claude-howto</a> ⭐ 35887</li>
 <li class='mb-2'><a href='https://github.com/aaif-goose/goose' class='text-blue-600 hover:underline'>aaif-goose/goose</a> ⭐ 48163</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-10
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 37721</li>
+<li class='mb-2'><a href='https://github.com/RyanCodrai/turbovec' class='text-blue-600 hover:underline'>RyanCodrai/turbovec</a> ⭐ 10330</li>
+<li class='mb-2'><a href='https://github.com/roboflow/supervision' class='text-blue-600 hover:underline'>roboflow/supervision</a> ⭐ 43111</li>
+<li class='mb-2'><a href='https://github.com/opencv/opencv' class='text-blue-600 hover:underline'>opencv/opencv</a> ⭐ 88712</li>
+<li class='mb-2'><a href='https://github.com/refactoringhq/tolaria' class='text-blue-600 hover:underline'>refactoringhq/tolaria</a> ⭐ 14429</li>
+<li class='mb-2'><a href='https://github.com/aaif-goose/goose' class='text-blue-600 hover:underline'>aaif-goose/goose</a> ⭐ 48553</li>
+<li class='mb-2'><a href='https://github.com/Andyyyy64/whichllm' class='text-blue-600 hover:underline'>Andyyyy64/whichllm</a> ⭐ 4174</li>
+<li class='mb-2'><a href='https://github.com/TapXWorld/ChinaTextbook' class='text-blue-600 hover:underline'>TapXWorld/ChinaTextbook</a> ⭐ 73591</li>
+<li class='mb-2'><a href='https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools' class='text-blue-600 hover:underline'>x1xhlol/system-prompts-and-models-of-ai-tools</a> ⭐ 139242</li>
+<li class='mb-2'><a href='https://github.com/yikart/AiToEarn' class='text-blue-600 hover:underline'>yikart/AiToEarn</a> ⭐ 20065</li>
+<li class='mb-2'><a href='https://github.com/phuryn/pm-skills' class='text-blue-600 hover:underline'>phuryn/pm-skills</a> ⭐ 13546</li>
+<li class='mb-2'><a href='https://github.com/santifer/career-ops' class='text-blue-600 hover:underline'>santifer/career-ops</a> ⭐ 51851</li>
+<li class='mb-2'><a href='https://github.com/openai/plugins' class='text-blue-600 hover:underline'>openai/plugins</a> ⭐ 2640</li>
+<li class='mb-2'><a href='https://github.com/maziyarpanahi/openmed' class='text-blue-600 hover:underline'>maziyarpanahi/openmed</a> ⭐ 1944</li>
+<li class='mb-2'><a href='https://github.com/francescopace/espectre' class='text-blue-600 hover:underline'>francescopace/espectre</a> ⭐ 8267</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 49927</li>
+
