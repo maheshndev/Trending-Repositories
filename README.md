@@ -2596,3 +2596,24 @@
 <li class='mb-2'><a href='https://github.com/francescopace/espectre' class='text-blue-600 hover:underline'>francescopace/espectre</a> ⭐ 8267</li>
 <li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 49927</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-11
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 52293</li>
+<li class='mb-2'><a href='https://github.com/phuryn/pm-skills' class='text-blue-600 hover:underline'>phuryn/pm-skills</a> ⭐ 15215</li>
+<li class='mb-2'><a href='https://github.com/refactoringhq/tolaria' class='text-blue-600 hover:underline'>refactoringhq/tolaria</a> ⭐ 15024</li>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 39225</li>
+<li class='mb-2'><a href='https://github.com/soxoj/maigret' class='text-blue-600 hover:underline'>soxoj/maigret</a> ⭐ 32126</li>
+<li class='mb-2'><a href='https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools' class='text-blue-600 hover:underline'>x1xhlol/system-prompts-and-models-of-ai-tools</a> ⭐ 139586</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 223787</li>
+<li class='mb-2'><a href='https://github.com/masterking32/MasterDnsVPN' class='text-blue-600 hover:underline'>masterking32/MasterDnsVPN</a> ⭐ 5298</li>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 85245</li>
+<li class='mb-2'><a href='https://github.com/maziyarpanahi/openmed' class='text-blue-600 hover:underline'>maziyarpanahi/openmed</a> ⭐ 2374</li>
+<li class='mb-2'><a href='https://github.com/luongnv89/claude-howto' class='text-blue-600 hover:underline'>luongnv89/claude-howto</a> ⭐ 36615</li>
+<li class='mb-2'><a href='https://github.com/activeloopai/hivemind' class='text-blue-600 hover:underline'>activeloopai/hivemind</a> ⭐ 914</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 72958</li>
+<li class='mb-2'><a href='https://github.com/roboflow/supervision' class='text-blue-600 hover:underline'>roboflow/supervision</a> ⭐ 43652</li>
+<li class='mb-2'><a href='https://github.com/google/skills' class='text-blue-600 hover:underline'>google/skills</a> ⭐ 13359</li>
+<li class='mb-2'><a href='https://github.com/FareedKhan-dev/train-llm-from-scratch' class='text-blue-600 hover:underline'>FareedKhan-dev/train-llm-from-scratch</a> ⭐ 5334</li>
+<li class='mb-2'><a href='https://github.com/apple/container' class='text-blue-600 hover:underline'>apple/container</a> ⭐ 30092</li>
+
