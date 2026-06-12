@@ -2617,3 +2617,26 @@
 <li class='mb-2'><a href='https://github.com/FareedKhan-dev/train-llm-from-scratch' class='text-blue-600 hover:underline'>FareedKhan-dev/train-llm-from-scratch</a> ⭐ 5334</li>
 <li class='mb-2'><a href='https://github.com/apple/container' class='text-blue-600 hover:underline'>apple/container</a> ⭐ 30092</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-12
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/apple/container' class='text-blue-600 hover:underline'>apple/container</a> ⭐ 33037</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 55133</li>
+<li class='mb-2'><a href='https://github.com/maziyarpanahi/openmed' class='text-blue-600 hover:underline'>maziyarpanahi/openmed</a> ⭐ 2838</li>
+<li class='mb-2'><a href='https://github.com/phuryn/pm-skills' class='text-blue-600 hover:underline'>phuryn/pm-skills</a> ⭐ 16380</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/SkillSpector' class='text-blue-600 hover:underline'>NVIDIA/SkillSpector</a> ⭐ 2807</li>
+<li class='mb-2'><a href='https://github.com/soxoj/maigret' class='text-blue-600 hover:underline'>soxoj/maigret</a> ⭐ 32712</li>
+<li class='mb-2'><a href='https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools' class='text-blue-600 hover:underline'>x1xhlol/system-prompts-and-models-of-ai-tools</a> ⭐ 139931</li>
+<li class='mb-2'><a href='https://github.com/refactoringhq/tolaria' class='text-blue-600 hover:underline'>refactoringhq/tolaria</a> ⭐ 15464</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 225053</li>
+<li class='mb-2'><a href='https://github.com/restic/restic' class='text-blue-600 hover:underline'>restic/restic</a> ⭐ 34220</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 111738</li>
+<li class='mb-2'><a href='https://github.com/masterking32/MasterDnsVPN' class='text-blue-600 hover:underline'>masterking32/MasterDnsVPN</a> ⭐ 5750</li>
+<li class='mb-2'><a href='https://github.com/chatwoot/chatwoot' class='text-blue-600 hover:underline'>chatwoot/chatwoot</a> ⭐ 30422</li>
+<li class='mb-2'><a href='https://github.com/kenn-io/agentsview' class='text-blue-600 hover:underline'>kenn-io/agentsview</a> ⭐ 1754</li>
+<li class='mb-2'><a href='https://github.com/alchaincyf/zhangxuefeng-skill' class='text-blue-600 hover:underline'>alchaincyf/zhangxuefeng-skill</a> ⭐ 8024</li>
+<li class='mb-2'><a href='https://github.com/TapXWorld/ChinaTextbook' class='text-blue-600 hover:underline'>TapXWorld/ChinaTextbook</a> ⭐ 73983</li>
+<li class='mb-2'><a href='https://github.com/hexo-ai/sia' class='text-blue-600 hover:underline'>hexo-ai/sia</a> ⭐ 1385</li>
+<li class='mb-2'><a href='https://github.com/mattermost/mattermost' class='text-blue-600 hover:underline'>mattermost/mattermost</a> ⭐ 37379</li>
+<li class='mb-2'><a href='https://github.com/bannedbook/fanqiang' class='text-blue-600 hover:underline'>bannedbook/fanqiang</a> ⭐ 46962</li>
+
