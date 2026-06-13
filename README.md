@@ -2640,3 +2640,20 @@
 <li class='mb-2'><a href='https://github.com/mattermost/mattermost' class='text-blue-600 hover:underline'>mattermost/mattermost</a> ⭐ 37379</li>
 <li class='mb-2'><a href='https://github.com/bannedbook/fanqiang' class='text-blue-600 hover:underline'>bannedbook/fanqiang</a> ⭐ 46962</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-13
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 56994</li>
+<li class='mb-2'><a href='https://github.com/music-assistant/server' class='text-blue-600 hover:underline'>music-assistant/server</a> ⭐ 1810</li>
+<li class='mb-2'><a href='https://github.com/mattermost/mattermost' class='text-blue-600 hover:underline'>mattermost/mattermost</a> ⭐ 37658</li>
+<li class='mb-2'><a href='https://github.com/apple/container' class='text-blue-600 hover:underline'>apple/container</a> ⭐ 35262</li>
+<li class='mb-2'><a href='https://github.com/iptv-org/iptv' class='text-blue-600 hover:underline'>iptv-org/iptv</a> ⭐ 118087</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 226129</li>
+<li class='mb-2'><a href='https://github.com/refactoringhq/tolaria' class='text-blue-600 hover:underline'>refactoringhq/tolaria</a> ⭐ 15850</li>
+<li class='mb-2'><a href='https://github.com/maziyarpanahi/openmed' class='text-blue-600 hover:underline'>maziyarpanahi/openmed</a> ⭐ 3225</li>
+<li class='mb-2'><a href='https://github.com/LMCache/LMCache' class='text-blue-600 hover:underline'>LMCache/LMCache</a> ⭐ 8659</li>
+<li class='mb-2'><a href='https://github.com/phuryn/pm-skills' class='text-blue-600 hover:underline'>phuryn/pm-skills</a> ⭐ 17082</li>
+<li class='mb-2'><a href='https://github.com/masterking32/MasterDnsVPN' class='text-blue-600 hover:underline'>masterking32/MasterDnsVPN</a> ⭐ 6045</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 112492</li>
+<li class='mb-2'><a href='https://github.com/microsoft/PowerToys' class='text-blue-600 hover:underline'>microsoft/PowerToys</a> ⭐ 134376</li>
+
