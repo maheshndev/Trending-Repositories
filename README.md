@@ -2675,3 +2675,22 @@
 <li class='mb-2'><a href='https://github.com/swc-project/swc' class='text-blue-600 hover:underline'>swc-project/swc</a> ⭐ 33656</li>
 <li class='mb-2'><a href='https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools' class='text-blue-600 hover:underline'>x1xhlol/system-prompts-and-models-of-ai-tools</a> ⭐ 140335</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-15
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/iptv-org/iptv' class='text-blue-600 hover:underline'>iptv-org/iptv</a> ⭐ 121401</li>
+<li class='mb-2'><a href='https://github.com/freeCodeCamp/freeCodeCamp' class='text-blue-600 hover:underline'>freeCodeCamp/freeCodeCamp</a> ⭐ 447343</li>
+<li class='mb-2'><a href='https://github.com/pytest-dev/pytest' class='text-blue-600 hover:underline'>pytest-dev/pytest</a> ⭐ 14074</li>
+<li class='mb-2'><a href='https://github.com/swc-project/swc' class='text-blue-600 hover:underline'>swc-project/swc</a> ⭐ 33811</li>
+<li class='mb-2'><a href='https://github.com/chatwoot/chatwoot' class='text-blue-600 hover:underline'>chatwoot/chatwoot</a> ⭐ 31319</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/SkillSpector' class='text-blue-600 hover:underline'>NVIDIA/SkillSpector</a> ⭐ 5517</li>
+<li class='mb-2'><a href='https://github.com/meshery/meshery' class='text-blue-600 hover:underline'>meshery/meshery</a> ⭐ 10448</li>
+<li class='mb-2'><a href='https://github.com/cypress-io/cypress' class='text-blue-600 hover:underline'>cypress-io/cypress</a> ⭐ 50001</li>
+<li class='mb-2'><a href='https://github.com/GorvGoyl/Clone-Wars' class='text-blue-600 hover:underline'>GorvGoyl/Clone-Wars</a> ⭐ 35583</li>
+<li class='mb-2'><a href='https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots' class='text-blue-600 hover:underline'>Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots</a> ⭐ 2803</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 29985</li>
+<li class='mb-2'><a href='https://github.com/music-assistant/server' class='text-blue-600 hover:underline'>music-assistant/server</a> ⭐ 2227</li>
+<li class='mb-2'><a href='https://github.com/Free-TV/IPTV' class='text-blue-600 hover:underline'>Free-TV/IPTV</a> ⭐ 17004</li>
+<li class='mb-2'><a href='https://github.com/puppeteer/puppeteer' class='text-blue-600 hover:underline'>puppeteer/puppeteer</a> ⭐ 94677</li>
+<li class='mb-2'><a href='https://github.com/andrewyng/aisuite' class='text-blue-600 hover:underline'>andrewyng/aisuite</a> ⭐ 14442</li>
+
