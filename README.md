@@ -2694,3 +2694,25 @@
 <li class='mb-2'><a href='https://github.com/puppeteer/puppeteer' class='text-blue-600 hover:underline'>puppeteer/puppeteer</a> ⭐ 94677</li>
 <li class='mb-2'><a href='https://github.com/andrewyng/aisuite' class='text-blue-600 hover:underline'>andrewyng/aisuite</a> ⭐ 14442</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-16
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/iptv-org/iptv' class='text-blue-600 hover:underline'>iptv-org/iptv</a> ⭐ 123106</li>
+<li class='mb-2'><a href='https://github.com/teslamate-org/teslamate' class='text-blue-600 hover:underline'>teslamate-org/teslamate</a> ⭐ 8275</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 30628</li>
+<li class='mb-2'><a href='https://github.com/meshery/meshery' class='text-blue-600 hover:underline'>meshery/meshery</a> ⭐ 10670</li>
+<li class='mb-2'><a href='https://github.com/chatwoot/chatwoot' class='text-blue-600 hover:underline'>chatwoot/chatwoot</a> ⭐ 31755</li>
+<li class='mb-2'><a href='https://github.com/krahets/hello-algo' class='text-blue-600 hover:underline'>krahets/hello-algo</a> ⭐ 127058</li>
+<li class='mb-2'><a href='https://github.com/freeCodeCamp/freeCodeCamp' class='text-blue-600 hover:underline'>freeCodeCamp/freeCodeCamp</a> ⭐ 447998</li>
+<li class='mb-2'><a href='https://github.com/trycua/cua' class='text-blue-600 hover:underline'>trycua/cua</a> ⭐ 18215</li>
+<li class='mb-2'><a href='https://github.com/jwasham/coding-interview-university' class='text-blue-600 hover:underline'>jwasham/coding-interview-university</a> ⭐ 352397</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 33230</li>
+<li class='mb-2'><a href='https://github.com/music-assistant/server' class='text-blue-600 hover:underline'>music-assistant/server</a> ⭐ 2408</li>
+<li class='mb-2'><a href='https://github.com/Free-TV/IPTV' class='text-blue-600 hover:underline'>Free-TV/IPTV</a> ⭐ 17342</li>
+<li class='mb-2'><a href='https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots' class='text-blue-600 hover:underline'>Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots</a> ⭐ 3106</li>
+<li class='mb-2'><a href='https://github.com/Raphire/Win11Debloat' class='text-blue-600 hover:underline'>Raphire/Win11Debloat</a> ⭐ 48098</li>
+<li class='mb-2'><a href='https://github.com/mikeroyal/Self-Hosting-Guide' class='text-blue-600 hover:underline'>mikeroyal/Self-Hosting-Guide</a> ⭐ 21143</li>
+<li class='mb-2'><a href='https://github.com/itsfatduck/optimizerDuck' class='text-blue-600 hover:underline'>itsfatduck/optimizerDuck</a> ⭐ 3783</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/SkillSpector' class='text-blue-600 hover:underline'>NVIDIA/SkillSpector</a> ⭐ 6502</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 30346</li>
+
