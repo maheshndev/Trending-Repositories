@@ -2716,3 +2716,20 @@
 <li class='mb-2'><a href='https://github.com/NVIDIA/SkillSpector' class='text-blue-600 hover:underline'>NVIDIA/SkillSpector</a> ⭐ 6502</li>
 <li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 30346</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-17
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/freeCodeCamp/freeCodeCamp' class='text-blue-600 hover:underline'>freeCodeCamp/freeCodeCamp</a> ⭐ 448679</li>
+<li class='mb-2'><a href='https://github.com/swc-project/swc' class='text-blue-600 hover:underline'>swc-project/swc</a> ⭐ 33995</li>
+<li class='mb-2'><a href='https://github.com/teslamate-org/teslamate' class='text-blue-600 hover:underline'>teslamate-org/teslamate</a> ⭐ 8435</li>
+<li class='mb-2'><a href='https://github.com/iptv-org/iptv' class='text-blue-600 hover:underline'>iptv-org/iptv</a> ⭐ 124319</li>
+<li class='mb-2'><a href='https://github.com/puppeteer/puppeteer' class='text-blue-600 hover:underline'>puppeteer/puppeteer</a> ⭐ 94931</li>
+<li class='mb-2'><a href='https://github.com/meshery/meshery' class='text-blue-600 hover:underline'>meshery/meshery</a> ⭐ 10878</li>
+<li class='mb-2'><a href='https://github.com/cypress-io/cypress' class='text-blue-600 hover:underline'>cypress-io/cypress</a> ⭐ 50249</li>
+<li class='mb-2'><a href='https://github.com/music-assistant/server' class='text-blue-600 hover:underline'>music-assistant/server</a> ⭐ 2591</li>
+<li class='mb-2'><a href='https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation' class='text-blue-600 hover:underline'>Universal-Debloater-Alliance/universal-android-debloater-next-generation</a> ⭐ 7376</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/VoxCPM' class='text-blue-600 hover:underline'>OpenBMB/VoxCPM</a> ⭐ 30213</li>
+<li class='mb-2'><a href='https://github.com/alibaba/zvec' class='text-blue-600 hover:underline'>alibaba/zvec</a> ⭐ 10549</li>
+<li class='mb-2'><a href='https://github.com/rmyndharis/OpenWA' class='text-blue-600 hover:underline'>rmyndharis/OpenWA</a> ⭐ 9137</li>
+<li class='mb-2'><a href='https://github.com/n0-computer/iroh' class='text-blue-600 hover:underline'>n0-computer/iroh</a> ⭐ 9342</li>
+
