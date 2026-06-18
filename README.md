@@ -2733,3 +2733,27 @@
 <li class='mb-2'><a href='https://github.com/rmyndharis/OpenWA' class='text-blue-600 hover:underline'>rmyndharis/OpenWA</a> ⭐ 9137</li>
 <li class='mb-2'><a href='https://github.com/n0-computer/iroh' class='text-blue-600 hover:underline'>n0-computer/iroh</a> ⭐ 9342</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-18
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/DeusData/codebase-memory-mcp' class='text-blue-600 hover:underline'>DeusData/codebase-memory-mcp</a> ⭐ 5652</li>
+<li class='mb-2'><a href='https://github.com/n0-computer/iroh' class='text-blue-600 hover:underline'>n0-computer/iroh</a> ⭐ 9710</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 33451</li>
+<li class='mb-2'><a href='https://github.com/meshery/meshery' class='text-blue-600 hover:underline'>meshery/meshery</a> ⭐ 11051</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 231294</li>
+<li class='mb-2'><a href='https://github.com/google-research/timesfm' class='text-blue-600 hover:underline'>google-research/timesfm</a> ⭐ 22006</li>
+<li class='mb-2'><a href='https://github.com/RocketChat/Rocket.Chat' class='text-blue-600 hover:underline'>RocketChat/Rocket.Chat</a> ⭐ 45614</li>
+<li class='mb-2'><a href='https://github.com/continuedev/continue' class='text-blue-600 hover:underline'>continuedev/continue</a> ⭐ 33952</li>
+<li class='mb-2'><a href='https://github.com/penpot/penpot' class='text-blue-600 hover:underline'>penpot/penpot</a> ⭐ 50157</li>
+<li class='mb-2'><a href='https://github.com/krahets/hello-algo' class='text-blue-600 hover:underline'>krahets/hello-algo</a> ⭐ 127531</li>
+<li class='mb-2'><a href='https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation' class='text-blue-600 hover:underline'>Universal-Debloater-Alliance/universal-android-debloater-next-generation</a> ⭐ 7678</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 133913</li>
+<li class='mb-2'><a href='https://github.com/yairm210/Unciv' class='text-blue-600 hover:underline'>yairm210/Unciv</a> ⭐ 10698</li>
+<li class='mb-2'><a href='https://github.com/freeCodeCamp/freeCodeCamp' class='text-blue-600 hover:underline'>freeCodeCamp/freeCodeCamp</a> ⭐ 449192</li>
+<li class='mb-2'><a href='https://github.com/bytedance/UI-TARS-desktop' class='text-blue-600 hover:underline'>bytedance/UI-TARS-desktop</a> ⭐ 36731</li>
+<li class='mb-2'><a href='https://github.com/nautechsystems/nautilus_trader' class='text-blue-600 hover:underline'>nautechsystems/nautilus_trader</a> ⭐ 23855</li>
+<li class='mb-2'><a href='https://github.com/chatwoot/chatwoot' class='text-blue-600 hover:underline'>chatwoot/chatwoot</a> ⭐ 32423</li>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 5472</li>
+<li class='mb-2'><a href='https://github.com/alexzhang13/rlm' class='text-blue-600 hover:underline'>alexzhang13/rlm</a> ⭐ 4958</li>
+<li class='mb-2'><a href='https://github.com/makeplane/plane' class='text-blue-600 hover:underline'>makeplane/plane</a> ⭐ 51384</li>
+
