@@ -2757,3 +2757,24 @@
 <li class='mb-2'><a href='https://github.com/alexzhang13/rlm' class='text-blue-600 hover:underline'>alexzhang13/rlm</a> ⭐ 4958</li>
 <li class='mb-2'><a href='https://github.com/makeplane/plane' class='text-blue-600 hover:underline'>makeplane/plane</a> ⭐ 51384</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-19
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/google-research/timesfm' class='text-blue-600 hover:underline'>google-research/timesfm</a> ⭐ 23352</li>
+<li class='mb-2'><a href='https://github.com/n0-computer/iroh' class='text-blue-600 hover:underline'>n0-computer/iroh</a> ⭐ 10047</li>
+<li class='mb-2'><a href='https://github.com/freeCodeCamp/freeCodeCamp' class='text-blue-600 hover:underline'>freeCodeCamp/freeCodeCamp</a> ⭐ 449604</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 232543</li>
+<li class='mb-2'><a href='https://github.com/zai-org/GLM-5' class='text-blue-600 hover:underline'>zai-org/GLM-5</a> ⭐ 4202</li>
+<li class='mb-2'><a href='https://github.com/DeusData/codebase-memory-mcp' class='text-blue-600 hover:underline'>DeusData/codebase-memory-mcp</a> ⭐ 7205</li>
+<li class='mb-2'><a href='https://github.com/yifanfeng97/Hyper-Extract' class='text-blue-600 hover:underline'>yifanfeng97/Hyper-Extract</a> ⭐ 1843</li>
+<li class='mb-2'><a href='https://github.com/alibaba/zvec' class='text-blue-600 hover:underline'>alibaba/zvec</a> ⭐ 11281</li>
+<li class='mb-2'><a href='https://github.com/withastro/flue' class='text-blue-600 hover:underline'>withastro/flue</a> ⭐ 5549</li>
+<li class='mb-2'><a href='https://github.com/Kilo-Org/kilocode' class='text-blue-600 hover:underline'>Kilo-Org/kilocode</a> ⭐ 22261</li>
+<li class='mb-2'><a href='https://github.com/makeplane/plane' class='text-blue-600 hover:underline'>makeplane/plane</a> ⭐ 51887</li>
+<li class='mb-2'><a href='https://github.com/Kong/insomnia' class='text-blue-600 hover:underline'>Kong/insomnia</a> ⭐ 38722</li>
+<li class='mb-2'><a href='https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation' class='text-blue-600 hover:underline'>Universal-Debloater-Alliance/universal-android-debloater-next-generation</a> ⭐ 7947</li>
+<li class='mb-2'><a href='https://github.com/dotnet/aspnetcore' class='text-blue-600 hover:underline'>dotnet/aspnetcore</a> ⭐ 38103</li>
+<li class='mb-2'><a href='https://github.com/owainlewis/awesome-artificial-intelligence' class='text-blue-600 hover:underline'>owainlewis/awesome-artificial-intelligence</a> ⭐ 14449</li>
+<li class='mb-2'><a href='https://github.com/Lightricks/LTX-2' class='text-blue-600 hover:underline'>Lightricks/LTX-2</a> ⭐ 7522</li>
+<li class='mb-2'><a href='https://github.com/LibreTranslate/LibreTranslate' class='text-blue-600 hover:underline'>LibreTranslate/LibreTranslate</a> ⭐ 15014</li>
+
