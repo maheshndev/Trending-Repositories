@@ -2778,3 +2778,22 @@
 <li class='mb-2'><a href='https://github.com/Lightricks/LTX-2' class='text-blue-600 hover:underline'>Lightricks/LTX-2</a> ⭐ 7522</li>
 <li class='mb-2'><a href='https://github.com/LibreTranslate/LibreTranslate' class='text-blue-600 hover:underline'>LibreTranslate/LibreTranslate</a> ⭐ 15014</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-20
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/DeusData/codebase-memory-mcp' class='text-blue-600 hover:underline'>DeusData/codebase-memory-mcp</a> ⭐ 8377</li>
+<li class='mb-2'><a href='https://github.com/google-research/timesfm' class='text-blue-600 hover:underline'>google-research/timesfm</a> ⭐ 24121</li>
+<li class='mb-2'><a href='https://github.com/palmier-io/palmier-pro' class='text-blue-600 hover:underline'>palmier-io/palmier-pro</a> ⭐ 2005</li>
+<li class='mb-2'><a href='https://github.com/koala73/worldmonitor' class='text-blue-600 hover:underline'>koala73/worldmonitor</a> ⭐ 57341</li>
+<li class='mb-2'><a href='https://github.com/aishwaryanr/awesome-generative-ai-guide' class='text-blue-600 hover:underline'>aishwaryanr/awesome-generative-ai-guide</a> ⭐ 27679</li>
+<li class='mb-2'><a href='https://github.com/BuilderIO/agent-native' class='text-blue-600 hover:underline'>BuilderIO/agent-native</a> ⭐ 1087</li>
+<li class='mb-2'><a href='https://github.com/chopratejas/headroom' class='text-blue-600 hover:underline'>chopratejas/headroom</a> ⭐ 39036</li>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 6367</li>
+<li class='mb-2'><a href='https://github.com/zai-org/GLM-5' class='text-blue-600 hover:underline'>zai-org/GLM-5</a> ⭐ 4620</li>
+<li class='mb-2'><a href='https://github.com/withastro/flue' class='text-blue-600 hover:underline'>withastro/flue</a> ⭐ 5867</li>
+<li class='mb-2'><a href='https://github.com/n0-computer/iroh' class='text-blue-600 hover:underline'>n0-computer/iroh</a> ⭐ 10265</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 233480</li>
+<li class='mb-2'><a href='https://github.com/penpot/penpot' class='text-blue-600 hover:underline'>penpot/penpot</a> ⭐ 50637</li>
+<li class='mb-2'><a href='https://github.com/Kong/insomnia' class='text-blue-600 hover:underline'>Kong/insomnia</a> ⭐ 39018</li>
+<li class='mb-2'><a href='https://github.com/Lightricks/LTX-2' class='text-blue-600 hover:underline'>Lightricks/LTX-2</a> ⭐ 7689</li>
+
