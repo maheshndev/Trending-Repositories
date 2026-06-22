@@ -2818,3 +2818,23 @@
 <li class='mb-2'><a href='https://github.com/pppscn/SmsForwarder' class='text-blue-600 hover:underline'>pppscn/SmsForwarder</a> ⭐ 26523</li>
 <li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 7417</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-22
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/palmier-io/palmier-pro' class='text-blue-600 hover:underline'>palmier-io/palmier-pro</a> ⭐ 5599</li>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 9255</li>
+<li class='mb-2'><a href='https://github.com/chopratejas/headroom' class='text-blue-600 hover:underline'>chopratejas/headroom</a> ⭐ 44926</li>
+<li class='mb-2'><a href='https://github.com/tursodatabase/turso' class='text-blue-600 hover:underline'>tursodatabase/turso</a> ⭐ 20901</li>
+<li class='mb-2'><a href='https://github.com/penpot/penpot' class='text-blue-600 hover:underline'>penpot/penpot</a> ⭐ 52386</li>
+<li class='mb-2'><a href='https://github.com/ZhuLinsen/daily_stock_analysis' class='text-blue-600 hover:underline'>ZhuLinsen/daily_stock_analysis</a> ⭐ 44806</li>
+<li class='mb-2'><a href='https://github.com/koala73/worldmonitor' class='text-blue-600 hover:underline'>koala73/worldmonitor</a> ⭐ 58226</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 72709</li>
+<li class='mb-2'><a href='https://github.com/DeusData/codebase-memory-mcp' class='text-blue-600 hover:underline'>DeusData/codebase-memory-mcp</a> ⭐ 10540</li>
+<li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 17841</li>
+<li class='mb-2'><a href='https://github.com/mikumifa/biliTickerBuy' class='text-blue-600 hover:underline'>mikumifa/biliTickerBuy</a> ⭐ 3740</li>
+<li class='mb-2'><a href='https://github.com/smicallef/spiderfoot' class='text-blue-600 hover:underline'>smicallef/spiderfoot</a> ⭐ 18835</li>
+<li class='mb-2'><a href='https://github.com/topoteretes/cognee' class='text-blue-600 hover:underline'>topoteretes/cognee</a> ⭐ 18724</li>
+<li class='mb-2'><a href='https://github.com/byoungd/English-level-up-tips' class='text-blue-600 hover:underline'>byoungd/English-level-up-tips</a> ⭐ 54106</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 44574</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 140112</li>
+
