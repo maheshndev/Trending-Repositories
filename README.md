@@ -2838,3 +2838,23 @@
 <li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 44574</li>
 <li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 140112</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-23
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 12610</li>
+<li class='mb-2'><a href='https://github.com/palmier-io/palmier-pro' class='text-blue-600 hover:underline'>palmier-io/palmier-pro</a> ⭐ 7597</li>
+<li class='mb-2'><a href='https://github.com/jamiepine/voicebox' class='text-blue-600 hover:underline'>jamiepine/voicebox</a> ⭐ 32424</li>
+<li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 18847</li>
+<li class='mb-2'><a href='https://github.com/penpot/penpot' class='text-blue-600 hover:underline'>penpot/penpot</a> ⭐ 52951</li>
+<li class='mb-2'><a href='https://github.com/Stirling-Tools/Stirling-PDF' class='text-blue-600 hover:underline'>Stirling-Tools/Stirling-PDF</a> ⭐ 83113</li>
+<li class='mb-2'><a href='https://github.com/garrytan/gstack' class='text-blue-600 hover:underline'>garrytan/gstack</a> ⭐ 113288</li>
+<li class='mb-2'><a href='https://github.com/heygen-com/hyperframes' class='text-blue-600 hover:underline'>heygen-com/hyperframes</a> ⭐ 30147</li>
+<li class='mb-2'><a href='https://github.com/tursodatabase/turso' class='text-blue-600 hover:underline'>tursodatabase/turso</a> ⭐ 21556</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 73374</li>
+<li class='mb-2'><a href='https://github.com/DeusData/codebase-memory-mcp' class='text-blue-600 hover:underline'>DeusData/codebase-memory-mcp</a> ⭐ 11792</li>
+<li class='mb-2'><a href='https://github.com/ZhuLinsen/daily_stock_analysis' class='text-blue-600 hover:underline'>ZhuLinsen/daily_stock_analysis</a> ⭐ 46034</li>
+<li class='mb-2'><a href='https://github.com/firecrawl/firecrawl' class='text-blue-600 hover:underline'>firecrawl/firecrawl</a> ⭐ 137472</li>
+<li class='mb-2'><a href='https://github.com/JCodesMore/ai-website-cloner-template' class='text-blue-600 hover:underline'>JCodesMore/ai-website-cloner-template</a> ⭐ 17898</li>
+<li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 21117</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 141972</li>
+
