@@ -2878,3 +2878,20 @@
 <li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 201102</li>
 <li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 220640</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-25
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 19918</li>
+<li class='mb-2'><a href='https://github.com/ZhuLinsen/daily_stock_analysis' class='text-blue-600 hover:underline'>ZhuLinsen/daily_stock_analysis</a> ⭐ 48758</li>
+<li class='mb-2'><a href='https://github.com/apple/container' class='text-blue-600 hover:underline'>apple/container</a> ⭐ 42399</li>
+<li class='mb-2'><a href='https://github.com/interviewstreet/hiring-agent' class='text-blue-600 hover:underline'>interviewstreet/hiring-agent</a> ⭐ 2322</li>
+<li class='mb-2'><a href='https://github.com/JCodesMore/ai-website-cloner-template' class='text-blue-600 hover:underline'>JCodesMore/ai-website-cloner-template</a> ⭐ 19474</li>
+<li class='mb-2'><a href='https://github.com/revfactory/harness' class='text-blue-600 hover:underline'>revfactory/harness</a> ⭐ 7799</li>
+<li class='mb-2'><a href='https://github.com/flutter/flutter' class='text-blue-600 hover:underline'>flutter/flutter</a> ⭐ 177410</li>
+<li class='mb-2'><a href='https://github.com/andreknieriem/headunit-revived' class='text-blue-600 hover:underline'>andreknieriem/headunit-revived</a> ⭐ 1451</li>
+<li class='mb-2'><a href='https://github.com/stablyai/orca' class='text-blue-600 hover:underline'>stablyai/orca</a> ⭐ 6908</li>
+<li class='mb-2'><a href='https://github.com/google-labs-code/design.md' class='text-blue-600 hover:underline'>google-labs-code/design.md</a> ⭐ 17510</li>
+<li class='mb-2'><a href='https://github.com/Flowseal/zapret-discord-youtube' class='text-blue-600 hover:underline'>Flowseal/zapret-discord-youtube</a> ⭐ 30039</li>
+<li class='mb-2'><a href='https://github.com/kunchenguid/no-mistakes' class='text-blue-600 hover:underline'>kunchenguid/no-mistakes</a> ⭐ 2302</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 202205</li>
+
