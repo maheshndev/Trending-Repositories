@@ -2895,3 +2895,23 @@
 <li class='mb-2'><a href='https://github.com/kunchenguid/no-mistakes' class='text-blue-600 hover:underline'>kunchenguid/no-mistakes</a> ⭐ 2302</li>
 <li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 202205</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-26
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/google-labs-code/design.md' class='text-blue-600 hover:underline'>google-labs-code/design.md</a> ⭐ 19595</li>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 22371</li>
+<li class='mb-2'><a href='https://github.com/xbtlin/ai-berkshire' class='text-blue-600 hover:underline'>xbtlin/ai-berkshire</a> ⭐ 2188</li>
+<li class='mb-2'><a href='https://github.com/mauriceboe/TREK' class='text-blue-600 hover:underline'>mauriceboe/TREK</a> ⭐ 6845</li>
+<li class='mb-2'><a href='https://github.com/apple/container' class='text-blue-600 hover:underline'>apple/container</a> ⭐ 43299</li>
+<li class='mb-2'><a href='https://github.com/JCodesMore/ai-website-cloner-template' class='text-blue-600 hover:underline'>JCodesMore/ai-website-cloner-template</a> ⭐ 20624</li>
+<li class='mb-2'><a href='https://github.com/every-app/open-seo' class='text-blue-600 hover:underline'>every-app/open-seo</a> ⭐ 2610</li>
+<li class='mb-2'><a href='https://github.com/garrytan/gstack' class='text-blue-600 hover:underline'>garrytan/gstack</a> ⭐ 115926</li>
+<li class='mb-2'><a href='https://github.com/aws/agent-toolkit-for-aws' class='text-blue-600 hover:underline'>aws/agent-toolkit-for-aws</a> ⭐ 1166</li>
+<li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 21350</li>
+<li class='mb-2'><a href='https://github.com/alibaba/page-agent' class='text-blue-600 hover:underline'>alibaba/page-agent</a> ⭐ 19926</li>
+<li class='mb-2'><a href='https://github.com/IceWhaleTech/CasaOS' class='text-blue-600 hover:underline'>IceWhaleTech/CasaOS</a> ⭐ 34899</li>
+<li class='mb-2'><a href='https://github.com/opendatalab/MinerU' class='text-blue-600 hover:underline'>opendatalab/MinerU</a> ⭐ 69717</li>
+<li class='mb-2'><a href='https://github.com/Free-TV/IPTV' class='text-blue-600 hover:underline'>Free-TV/IPTV</a> ⭐ 18270</li>
+<li class='mb-2'><a href='https://github.com/shanraisshan/claude-code-best-practice' class='text-blue-600 hover:underline'>shanraisshan/claude-code-best-practice</a> ⭐ 60730</li>
+<li class='mb-2'><a href='https://github.com/NanmiCoder/MediaCrawler' class='text-blue-600 hover:underline'>NanmiCoder/MediaCrawler</a> ⭐ 52903</li>
+
