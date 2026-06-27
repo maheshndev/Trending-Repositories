@@ -2915,3 +2915,24 @@
 <li class='mb-2'><a href='https://github.com/shanraisshan/claude-code-best-practice' class='text-blue-600 hover:underline'>shanraisshan/claude-code-best-practice</a> ⭐ 60730</li>
 <li class='mb-2'><a href='https://github.com/NanmiCoder/MediaCrawler' class='text-blue-600 hover:underline'>NanmiCoder/MediaCrawler</a> ⭐ 52903</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-27
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/simplex-chat/simplex-chat' class='text-blue-600 hover:underline'>simplex-chat/simplex-chat</a> ⭐ 12725</li>
+<li class='mb-2'><a href='https://github.com/google-labs-code/design.md' class='text-blue-600 hover:underline'>google-labs-code/design.md</a> ⭐ 21423</li>
+<li class='mb-2'><a href='https://github.com/commaai/openpilot' class='text-blue-600 hover:underline'>commaai/openpilot</a> ⭐ 61822</li>
+<li class='mb-2'><a href='https://github.com/kunchenguid/no-mistakes' class='text-blue-600 hover:underline'>kunchenguid/no-mistakes</a> ⭐ 3490</li>
+<li class='mb-2'><a href='https://github.com/grafana/grafana' class='text-blue-600 hover:underline'>grafana/grafana</a> ⭐ 74949</li>
+<li class='mb-2'><a href='https://github.com/ripienaar/free-for-dev' class='text-blue-600 hover:underline'>ripienaar/free-for-dev</a> ⭐ 123782</li>
+<li class='mb-2'><a href='https://github.com/opendatalab/MinerU' class='text-blue-600 hover:underline'>opendatalab/MinerU</a> ⭐ 70502</li>
+<li class='mb-2'><a href='https://github.com/alchaincyf/zhangxuefeng-skill' class='text-blue-600 hover:underline'>alchaincyf/zhangxuefeng-skill</a> ⭐ 9292</li>
+<li class='mb-2'><a href='https://github.com/mauriceboe/TREK' class='text-blue-600 hover:underline'>mauriceboe/TREK</a> ⭐ 7725</li>
+<li class='mb-2'><a href='https://github.com/xbtlin/ai-berkshire' class='text-blue-600 hover:underline'>xbtlin/ai-berkshire</a> ⭐ 3203</li>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 23794</li>
+<li class='mb-2'><a href='https://github.com/aws/agent-toolkit-for-aws' class='text-blue-600 hover:underline'>aws/agent-toolkit-for-aws</a> ⭐ 1381</li>
+<li class='mb-2'><a href='https://github.com/NanmiCoder/MediaCrawler' class='text-blue-600 hover:underline'>NanmiCoder/MediaCrawler</a> ⭐ 53411</li>
+<li class='mb-2'><a href='https://github.com/garrytan/gstack' class='text-blue-600 hover:underline'>garrytan/gstack</a> ⭐ 116687</li>
+<li class='mb-2'><a href='https://github.com/IceWhaleTech/CasaOS' class='text-blue-600 hover:underline'>IceWhaleTech/CasaOS</a> ⭐ 35437</li>
+<li class='mb-2'><a href='https://github.com/JCodesMore/ai-website-cloner-template' class='text-blue-600 hover:underline'>JCodesMore/ai-website-cloner-template</a> ⭐ 21433</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 42486</li>
+
