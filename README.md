@@ -2936,3 +2936,27 @@
 <li class='mb-2'><a href='https://github.com/JCodesMore/ai-website-cloner-template' class='text-blue-600 hover:underline'>JCodesMore/ai-website-cloner-template</a> ⭐ 21433</li>
 <li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 42486</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-28
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/simplex-chat/simplex-chat' class='text-blue-600 hover:underline'>simplex-chat/simplex-chat</a> ⭐ 13954</li>
+<li class='mb-2'><a href='https://github.com/xbtlin/ai-berkshire' class='text-blue-600 hover:underline'>xbtlin/ai-berkshire</a> ⭐ 4328</li>
+<li class='mb-2'><a href='https://github.com/commaai/openpilot' class='text-blue-600 hover:underline'>commaai/openpilot</a> ⭐ 62105</li>
+<li class='mb-2'><a href='https://github.com/IceWhaleTech/CasaOS' class='text-blue-600 hover:underline'>IceWhaleTech/CasaOS</a> ⭐ 35833</li>
+<li class='mb-2'><a href='https://github.com/ripienaar/free-for-dev' class='text-blue-600 hover:underline'>ripienaar/free-for-dev</a> ⭐ 124211</li>
+<li class='mb-2'><a href='https://github.com/google-labs-code/design.md' class='text-blue-600 hover:underline'>google-labs-code/design.md</a> ⭐ 22418</li>
+<li class='mb-2'><a href='https://github.com/microsoft/PowerToys' class='text-blue-600 hover:underline'>microsoft/PowerToys</a> ⭐ 135734</li>
+<li class='mb-2'><a href='https://github.com/hugohe3/ppt-master' class='text-blue-600 hover:underline'>hugohe3/ppt-master</a> ⭐ 33195</li>
+<li class='mb-2'><a href='https://github.com/JCodesMore/ai-website-cloner-template' class='text-blue-600 hover:underline'>JCodesMore/ai-website-cloner-template</a> ⭐ 22202</li>
+<li class='mb-2'><a href='https://github.com/garrytan/gstack' class='text-blue-600 hover:underline'>garrytan/gstack</a> ⭐ 117330</li>
+<li class='mb-2'><a href='https://github.com/NanmiCoder/MediaCrawler' class='text-blue-600 hover:underline'>NanmiCoder/MediaCrawler</a> ⭐ 53823</li>
+<li class='mb-2'><a href='https://github.com/Anil-matcha/Open-Generative-AI' class='text-blue-600 hover:underline'>Anil-matcha/Open-Generative-AI</a> ⭐ 21435</li>
+<li class='mb-2'><a href='https://github.com/topoteretes/cognee' class='text-blue-600 hover:underline'>topoteretes/cognee</a> ⭐ 24074</li>
+<li class='mb-2'><a href='https://github.com/dbt-labs/dbt-core' class='text-blue-600 hover:underline'>dbt-labs/dbt-core</a> ⭐ 13240</li>
+<li class='mb-2'><a href='https://github.com/luongnv89/claude-howto' class='text-blue-600 hover:underline'>luongnv89/claude-howto</a> ⭐ 38670</li>
+<li class='mb-2'><a href='https://github.com/anomalyco/opencode' class='text-blue-600 hover:underline'>anomalyco/opencode</a> ⭐ 179831</li>
+<li class='mb-2'><a href='https://github.com/Fission-AI/OpenSpec' class='text-blue-600 hover:underline'>Fission-AI/OpenSpec</a> ⭐ 57193</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/Vibe-Trading' class='text-blue-600 hover:underline'>HKUDS/Vibe-Trading</a> ⭐ 13772</li>
+<li class='mb-2'><a href='https://github.com/keycloak/keycloak' class='text-blue-600 hover:underline'>keycloak/keycloak</a> ⭐ 35315</li>
+<li class='mb-2'><a href='https://github.com/every-app/open-seo' class='text-blue-600 hover:underline'>every-app/open-seo</a> ⭐ 3466</li>
+
