@@ -2960,3 +2960,20 @@
 <li class='mb-2'><a href='https://github.com/keycloak/keycloak' class='text-blue-600 hover:underline'>keycloak/keycloak</a> ⭐ 35315</li>
 <li class='mb-2'><a href='https://github.com/every-app/open-seo' class='text-blue-600 hover:underline'>every-app/open-seo</a> ⭐ 3466</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-29
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/simplex-chat/simplex-chat' class='text-blue-600 hover:underline'>simplex-chat/simplex-chat</a> ⭐ 15292</li>
+<li class='mb-2'><a href='https://github.com/ripienaar/free-for-dev' class='text-blue-600 hover:underline'>ripienaar/free-for-dev</a> ⭐ 125554</li>
+<li class='mb-2'><a href='https://github.com/commaai/openpilot' class='text-blue-600 hover:underline'>commaai/openpilot</a> ⭐ 62485</li>
+<li class='mb-2'><a href='https://github.com/xbtlin/ai-berkshire' class='text-blue-600 hover:underline'>xbtlin/ai-berkshire</a> ⭐ 5647</li>
+<li class='mb-2'><a href='https://github.com/Robbyant/lingbot-map' class='text-blue-600 hover:underline'>Robbyant/lingbot-map</a> ⭐ 8310</li>
+<li class='mb-2'><a href='https://github.com/DeusData/codebase-memory-mcp' class='text-blue-600 hover:underline'>DeusData/codebase-memory-mcp</a> ⭐ 20049</li>
+<li class='mb-2'><a href='https://github.com/cupy/cupy' class='text-blue-600 hover:underline'>cupy/cupy</a> ⭐ 11572</li>
+<li class='mb-2'><a href='https://github.com/altic-dev/FluidVoice' class='text-blue-600 hover:underline'>altic-dev/FluidVoice</a> ⭐ 3839</li>
+<li class='mb-2'><a href='https://github.com/opendatalab/MinerU' class='text-blue-600 hover:underline'>opendatalab/MinerU</a> ⭐ 71786</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/Vibe-Trading' class='text-blue-600 hover:underline'>HKUDS/Vibe-Trading</a> ⭐ 14474</li>
+<li class='mb-2'><a href='https://github.com/ByteByteGoHq/system-design-101' class='text-blue-600 hover:underline'>ByteByteGoHq/system-design-101</a> ⭐ 84626</li>
+<li class='mb-2'><a href='https://github.com/usestrix/strix' class='text-blue-600 hover:underline'>usestrix/strix</a> ⭐ 26855</li>
+<li class='mb-2'><a href='https://github.com/browser-use/video-use' class='text-blue-600 hover:underline'>browser-use/video-use</a> ⭐ 11222</li>
+
