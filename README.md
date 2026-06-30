@@ -2977,3 +2977,22 @@
 <li class='mb-2'><a href='https://github.com/usestrix/strix' class='text-blue-600 hover:underline'>usestrix/strix</a> ⭐ 26855</li>
 <li class='mb-2'><a href='https://github.com/browser-use/video-use' class='text-blue-600 hover:underline'>browser-use/video-use</a> ⭐ 11222</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-06-30
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/simplex-chat/simplex-chat' class='text-blue-600 hover:underline'>simplex-chat/simplex-chat</a> ⭐ 16764</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 119180</li>
+<li class='mb-2'><a href='https://github.com/cupy/cupy' class='text-blue-600 hover:underline'>cupy/cupy</a> ⭐ 11876</li>
+<li class='mb-2'><a href='https://github.com/altic-dev/FluidVoice' class='text-blue-600 hover:underline'>altic-dev/FluidVoice</a> ⭐ 4466</li>
+<li class='mb-2'><a href='https://github.com/soxoj/maigret' class='text-blue-600 hover:underline'>soxoj/maigret</a> ⭐ 34473</li>
+<li class='mb-2'><a href='https://github.com/commaai/openpilot' class='text-blue-600 hover:underline'>commaai/openpilot</a> ⭐ 62808</li>
+<li class='mb-2'><a href='https://github.com/ripienaar/free-for-dev' class='text-blue-600 hover:underline'>ripienaar/free-for-dev</a> ⭐ 126831</li>
+<li class='mb-2'><a href='https://github.com/logto-io/logto' class='text-blue-600 hover:underline'>logto-io/logto</a> ⭐ 12753</li>
+<li class='mb-2'><a href='https://github.com/xbtlin/ai-berkshire' class='text-blue-600 hover:underline'>xbtlin/ai-berkshire</a> ⭐ 6823</li>
+<li class='mb-2'><a href='https://github.com/browser-use/video-use' class='text-blue-600 hover:underline'>browser-use/video-use</a> ⭐ 12034</li>
+<li class='mb-2'><a href='https://github.com/Unclecheng-li/VulnClaw' class='text-blue-600 hover:underline'>Unclecheng-li/VulnClaw</a> ⭐ 1228</li>
+<li class='mb-2'><a href='https://github.com/0xNyk/council-of-high-intelligence' class='text-blue-600 hover:underline'>0xNyk/council-of-high-intelligence</a> ⭐ 1994</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/Vibe-Trading' class='text-blue-600 hover:underline'>HKUDS/Vibe-Trading</a> ⭐ 15211</li>
+<li class='mb-2'><a href='https://github.com/refactoringhq/tolaria' class='text-blue-600 hover:underline'>refactoringhq/tolaria</a> ⭐ 17593</li>
+<li class='mb-2'><a href='https://github.com/veracrypt/VeraCrypt' class='text-blue-600 hover:underline'>veracrypt/VeraCrypt</a> ⭐ 10526</li>
+
