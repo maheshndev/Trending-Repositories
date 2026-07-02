@@ -3019,3 +3019,27 @@
 <li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 242693</li>
 <li class='mb-2'><a href='https://github.com/Robbyant/lingbot-map' class='text-blue-600 hover:underline'>Robbyant/lingbot-map</a> ⭐ 8915</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-02
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 123823</li>
+<li class='mb-2'><a href='https://github.com/usestrix/strix' class='text-blue-600 hover:underline'>usestrix/strix</a> ⭐ 29946</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/Vibe-Trading' class='text-blue-600 hover:underline'>HKUDS/Vibe-Trading</a> ⭐ 16695</li>
+<li class='mb-2'><a href='https://github.com/hasaneyldrm/exercises-dataset' class='text-blue-600 hover:underline'>hasaneyldrm/exercises-dataset</a> ⭐ 8551</li>
+<li class='mb-2'><a href='https://github.com/facebook/astryx' class='text-blue-600 hover:underline'>facebook/astryx</a> ⭐ 2784</li>
+<li class='mb-2'><a href='https://github.com/diegosouzapw/OmniRoute' class='text-blue-600 hover:underline'>diegosouzapw/OmniRoute</a> ⭐ 9658</li>
+<li class='mb-2'><a href='https://github.com/allenai/olmocr' class='text-blue-600 hover:underline'>allenai/olmocr</a> ⭐ 18333</li>
+<li class='mb-2'><a href='https://github.com/logto-io/logto' class='text-blue-600 hover:underline'>logto-io/logto</a> ⭐ 13320</li>
+<li class='mb-2'><a href='https://github.com/togatoga/karukan' class='text-blue-600 hover:underline'>togatoga/karukan</a> ⭐ 600</li>
+<li class='mb-2'><a href='https://github.com/Mebus/cupp' class='text-blue-600 hover:underline'>Mebus/cupp</a> ⭐ 6265</li>
+<li class='mb-2'><a href='https://github.com/Unclecheng-li/VulnClaw' class='text-blue-600 hover:underline'>Unclecheng-li/VulnClaw</a> ⭐ 1623</li>
+<li class='mb-2'><a href='https://github.com/microsoft/AI-For-Beginners' class='text-blue-600 hover:underline'>microsoft/AI-For-Beginners</a> ⭐ 50621</li>
+<li class='mb-2'><a href='https://github.com/refactoringhq/tolaria' class='text-blue-600 hover:underline'>refactoringhq/tolaria</a> ⭐ 18059</li>
+<li class='mb-2'><a href='https://github.com/ogulcancelik/herdr' class='text-blue-600 hover:underline'>ogulcancelik/herdr</a> ⭐ 9688</li>
+<li class='mb-2'><a href='https://github.com/0xNyk/council-of-high-intelligence' class='text-blue-600 hover:underline'>0xNyk/council-of-high-intelligence</a> ⭐ 2701</li>
+<li class='mb-2'><a href='https://github.com/altic-dev/FluidVoice' class='text-blue-600 hover:underline'>altic-dev/FluidVoice</a> ⭐ 5562</li>
+<li class='mb-2'><a href='https://github.com/CoreBunch/Instatic' class='text-blue-600 hover:underline'>CoreBunch/Instatic</a> ⭐ 2053</li>
+<li class='mb-2'><a href='https://github.com/TencentCloud/CubeSandbox' class='text-blue-600 hover:underline'>TencentCloud/CubeSandbox</a> ⭐ 6848</li>
+<li class='mb-2'><a href='https://github.com/browser-use/video-use' class='text-blue-600 hover:underline'>browser-use/video-use</a> ⭐ 13297</li>
+<li class='mb-2'><a href='https://github.com/yikart/AiToEarn' class='text-blue-600 hover:underline'>yikart/AiToEarn</a> ⭐ 22641</li>
+
