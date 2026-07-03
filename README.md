@@ -3043,3 +3043,24 @@
 <li class='mb-2'><a href='https://github.com/browser-use/video-use' class='text-blue-600 hover:underline'>browser-use/video-use</a> ⭐ 13297</li>
 <li class='mb-2'><a href='https://github.com/yikart/AiToEarn' class='text-blue-600 hover:underline'>yikart/AiToEarn</a> ⭐ 22641</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-03
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/usestrix/strix' class='text-blue-600 hover:underline'>usestrix/strix</a> ⭐ 32496</li>
+<li class='mb-2'><a href='https://github.com/JuliusBrussee/caveman' class='text-blue-600 hover:underline'>JuliusBrussee/caveman</a> ⭐ 81264</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 125663</li>
+<li class='mb-2'><a href='https://github.com/hasaneyldrm/exercises-dataset' class='text-blue-600 hover:underline'>hasaneyldrm/exercises-dataset</a> ⭐ 9350</li>
+<li class='mb-2'><a href='https://github.com/santifer/career-ops' class='text-blue-600 hover:underline'>santifer/career-ops</a> ⭐ 57956</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 244585</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 45141</li>
+<li class='mb-2'><a href='https://github.com/browser-use/video-use' class='text-blue-600 hover:underline'>browser-use/video-use</a> ⭐ 13886</li>
+<li class='mb-2'><a href='https://github.com/actions/checkout' class='text-blue-600 hover:underline'>actions/checkout</a> ⭐ 8181</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 225262</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/Vibe-Trading' class='text-blue-600 hover:underline'>HKUDS/Vibe-Trading</a> ⭐ 17415</li>
+<li class='mb-2'><a href='https://github.com/agentskills/agentskills' class='text-blue-600 hover:underline'>agentskills/agentskills</a> ⭐ 21667</li>
+<li class='mb-2'><a href='https://github.com/openai/codex-plugin-cc' class='text-blue-600 hover:underline'>openai/codex-plugin-cc</a> ⭐ 22713</li>
+<li class='mb-2'><a href='https://github.com/langflow-ai/langflow' class='text-blue-600 hover:underline'>langflow-ai/langflow</a> ⭐ 150806</li>
+<li class='mb-2'><a href='https://github.com/pytorch/pytorch' class='text-blue-600 hover:underline'>pytorch/pytorch</a> ⭐ 101260</li>
+<li class='mb-2'><a href='https://github.com/harvard-edge/cs249r_book' class='text-blue-600 hover:underline'>harvard-edge/cs249r_book</a> ⭐ 25663</li>
+<li class='mb-2'><a href='https://github.com/ryanmcdermott/clean-code-javascript' class='text-blue-600 hover:underline'>ryanmcdermott/clean-code-javascript</a> ⭐ 94596</li>
+
