@@ -3064,3 +3064,26 @@
 <li class='mb-2'><a href='https://github.com/harvard-edge/cs249r_book' class='text-blue-600 hover:underline'>harvard-edge/cs249r_book</a> ⭐ 25663</li>
 <li class='mb-2'><a href='https://github.com/ryanmcdermott/clean-code-javascript' class='text-blue-600 hover:underline'>ryanmcdermott/clean-code-javascript</a> ⭐ 94596</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-04
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/usestrix/strix' class='text-blue-600 hover:underline'>usestrix/strix</a> ⭐ 34776</li>
+<li class='mb-2'><a href='https://github.com/openai/codex-plugin-cc' class='text-blue-600 hover:underline'>openai/codex-plugin-cc</a> ⭐ 23295</li>
+<li class='mb-2'><a href='https://github.com/JuliusBrussee/caveman' class='text-blue-600 hover:underline'>JuliusBrussee/caveman</a> ⭐ 83037</li>
+<li class='mb-2'><a href='https://github.com/elastic/elasticsearch' class='text-blue-600 hover:underline'>elastic/elasticsearch</a> ⭐ 77356</li>
+<li class='mb-2'><a href='https://github.com/actions/checkout' class='text-blue-600 hover:underline'>actions/checkout</a> ⭐ 8275</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 45521</li>
+<li class='mb-2'><a href='https://github.com/ansible/ansible' class='text-blue-600 hover:underline'>ansible/ansible</a> ⭐ 69227</li>
+<li class='mb-2'><a href='https://github.com/facebook/astryx' class='text-blue-600 hover:underline'>facebook/astryx</a> ⭐ 4730</li>
+<li class='mb-2'><a href='https://github.com/rommapp/romm' class='text-blue-600 hover:underline'>rommapp/romm</a> ⭐ 9841</li>
+<li class='mb-2'><a href='https://github.com/harvard-edge/cs249r_book' class='text-blue-600 hover:underline'>harvard-edge/cs249r_book</a> ⭐ 26221</li>
+<li class='mb-2'><a href='https://github.com/pytorch/pytorch' class='text-blue-600 hover:underline'>pytorch/pytorch</a> ⭐ 101451</li>
+<li class='mb-2'><a href='https://github.com/apache/maven' class='text-blue-600 hover:underline'>apache/maven</a> ⭐ 5238</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 135880</li>
+<li class='mb-2'><a href='https://github.com/ogulcancelik/herdr' class='text-blue-600 hover:underline'>ogulcancelik/herdr</a> ⭐ 10854</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 245597</li>
+<li class='mb-2'><a href='https://github.com/agentskills/agentskills' class='text-blue-600 hover:underline'>agentskills/agentskills</a> ⭐ 22025</li>
+<li class='mb-2'><a href='https://github.com/supabase/supabase' class='text-blue-600 hover:underline'>supabase/supabase</a> ⭐ 105511</li>
+<li class='mb-2'><a href='https://github.com/TencentCloud/CubeSandbox' class='text-blue-600 hover:underline'>TencentCloud/CubeSandbox</a> ⭐ 7191</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 126558</li>
+
