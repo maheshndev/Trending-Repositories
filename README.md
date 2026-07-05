@@ -3087,3 +3087,25 @@
 <li class='mb-2'><a href='https://github.com/TencentCloud/CubeSandbox' class='text-blue-600 hover:underline'>TencentCloud/CubeSandbox</a> ⭐ 7191</li>
 <li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 126558</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-05
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/openai/codex-plugin-cc' class='text-blue-600 hover:underline'>openai/codex-plugin-cc</a> ⭐ 24612</li>
+<li class='mb-2'><a href='https://github.com/JuliusBrussee/caveman' class='text-blue-600 hover:underline'>JuliusBrussee/caveman</a> ⭐ 84071</li>
+<li class='mb-2'><a href='https://github.com/alibaba/page-agent' class='text-blue-600 hover:underline'>alibaba/page-agent</a> ⭐ 23193</li>
+<li class='mb-2'><a href='https://github.com/usestrix/strix' class='text-blue-600 hover:underline'>usestrix/strix</a> ⭐ 36175</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 45809</li>
+<li class='mb-2'><a href='https://github.com/Zackriya-Solutions/meetily' class='text-blue-600 hover:underline'>Zackriya-Solutions/meetily</a> ⭐ 15401</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 49019</li>
+<li class='mb-2'><a href='https://github.com/harvard-edge/cs249r_book' class='text-blue-600 hover:underline'>harvard-edge/cs249r_book</a> ⭐ 26606</li>
+<li class='mb-2'><a href='https://github.com/rommapp/romm' class='text-blue-600 hover:underline'>rommapp/romm</a> ⭐ 10246</li>
+<li class='mb-2'><a href='https://github.com/ogulcancelik/herdr' class='text-blue-600 hover:underline'>ogulcancelik/herdr</a> ⭐ 11521</li>
+<li class='mb-2'><a href='https://github.com/dotnet/skills' class='text-blue-600 hover:underline'>dotnet/skills</a> ⭐ 3836</li>
+<li class='mb-2'><a href='https://github.com/agentskills/agentskills' class='text-blue-600 hover:underline'>agentskills/agentskills</a> ⭐ 22376</li>
+<li class='mb-2'><a href='https://github.com/immich-app/immich' class='text-blue-600 hover:underline'>immich-app/immich</a> ⭐ 105681</li>
+<li class='mb-2'><a href='https://github.com/chthollyphile/folia-major' class='text-blue-600 hover:underline'>chthollyphile/folia-major</a> ⭐ 1001</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 156671</li>
+<li class='mb-2'><a href='https://github.com/CoplayDev/unity-mcp' class='text-blue-600 hover:underline'>CoplayDev/unity-mcp</a> ⭐ 11642</li>
+<li class='mb-2'><a href='https://github.com/alirezarezvani/claude-skills' class='text-blue-600 hover:underline'>alirezarezvani/claude-skills</a> ⭐ 20193</li>
+<li class='mb-2'><a href='https://github.com/crynta/terax-ai' class='text-blue-600 hover:underline'>crynta/terax-ai</a> ⭐ 8087</li>
+
