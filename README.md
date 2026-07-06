@@ -3109,3 +3109,29 @@
 <li class='mb-2'><a href='https://github.com/alirezarezvani/claude-skills' class='text-blue-600 hover:underline'>alirezarezvani/claude-skills</a> ⭐ 20193</li>
 <li class='mb-2'><a href='https://github.com/crynta/terax-ai' class='text-blue-600 hover:underline'>crynta/terax-ai</a> ⭐ 8087</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-06
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Zackriya-Solutions/meetily' class='text-blue-600 hover:underline'>Zackriya-Solutions/meetily</a> ⭐ 17368</li>
+<li class='mb-2'><a href='https://github.com/openai/codex-plugin-cc' class='text-blue-600 hover:underline'>openai/codex-plugin-cc</a> ⭐ 25620</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 50176</li>
+<li class='mb-2'><a href='https://github.com/Leonxlnx/taste-skill' class='text-blue-600 hover:underline'>Leonxlnx/taste-skill</a> ⭐ 57725</li>
+<li class='mb-2'><a href='https://github.com/alirezarezvani/claude-skills' class='text-blue-600 hover:underline'>alirezarezvani/claude-skills</a> ⭐ 20670</li>
+<li class='mb-2'><a href='https://github.com/rommapp/romm' class='text-blue-600 hover:underline'>rommapp/romm</a> ⭐ 10606</li>
+<li class='mb-2'><a href='https://github.com/ogulcancelik/herdr' class='text-blue-600 hover:underline'>ogulcancelik/herdr</a> ⭐ 12183</li>
+<li class='mb-2'><a href='https://github.com/alibaba/page-agent' class='text-blue-600 hover:underline'>alibaba/page-agent</a> ⭐ 24048</li>
+<li class='mb-2'><a href='https://github.com/harvard-edge/cs249r_book' class='text-blue-600 hover:underline'>harvard-edge/cs249r_book</a> ⭐ 26910</li>
+<li class='mb-2'><a href='https://github.com/usestrix/strix' class='text-blue-600 hover:underline'>usestrix/strix</a> ⭐ 37278</li>
+<li class='mb-2'><a href='https://github.com/hesreallyhim/awesome-claude-code' class='text-blue-600 hover:underline'>hesreallyhim/awesome-claude-code</a> ⭐ 48455</li>
+<li class='mb-2'><a href='https://github.com/coreyhaines31/marketingskills' class='text-blue-600 hover:underline'>coreyhaines31/marketingskills</a> ⭐ 36523</li>
+<li class='mb-2'><a href='https://github.com/JuliusBrussee/caveman' class='text-blue-600 hover:underline'>JuliusBrussee/caveman</a> ⭐ 85011</li>
+<li class='mb-2'><a href='https://github.com/CoplayDev/unity-mcp' class='text-blue-600 hover:underline'>CoplayDev/unity-mcp</a> ⭐ 11992</li>
+<li class='mb-2'><a href='https://github.com/facebook/astryx' class='text-blue-600 hover:underline'>facebook/astryx</a> ⭐ 5993</li>
+<li class='mb-2'><a href='https://github.com/immich-app/immich' class='text-blue-600 hover:underline'>immich-app/immich</a> ⭐ 106179</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 76768</li>
+<li class='mb-2'><a href='https://github.com/gastownhall/gastown' class='text-blue-600 hover:underline'>gastownhall/gastown</a> ⭐ 16420</li>
+<li class='mb-2'><a href='https://github.com/dotnet/skills' class='text-blue-600 hover:underline'>dotnet/skills</a> ⭐ 4073</li>
+<li class='mb-2'><a href='https://github.com/OthmanAdi/planning-with-files' class='text-blue-600 hover:underline'>OthmanAdi/planning-with-files</a> ⭐ 24780</li>
+<li class='mb-2'><a href='https://github.com/steipete/CodexBar' class='text-blue-600 hover:underline'>steipete/CodexBar</a> ⭐ 16319</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 136344</li>
+
