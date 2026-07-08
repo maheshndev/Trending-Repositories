@@ -3155,3 +3155,20 @@
 <li class='mb-2'><a href='https://github.com/sindresorhus/awesome' class='text-blue-600 hover:underline'>sindresorhus/awesome</a> ⭐ 482378</li>
 <li class='mb-2'><a href='https://github.com/gastownhall/gastown' class='text-blue-600 hover:underline'>gastownhall/gastown</a> ⭐ 16734</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-08
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/MadsLorentzen/ai-job-search' class='text-blue-600 hover:underline'>MadsLorentzen/ai-job-search</a> ⭐ 11311</li>
+<li class='mb-2'><a href='https://github.com/Zackriya-Solutions/meetily' class='text-blue-600 hover:underline'>Zackriya-Solutions/meetily</a> ⭐ 20863</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 72268</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 78556</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 53111</li>
+<li class='mb-2'><a href='https://github.com/TencentCloud/CubeSandbox' class='text-blue-600 hover:underline'>TencentCloud/CubeSandbox</a> ⭐ 8509</li>
+<li class='mb-2'><a href='https://github.com/AhmadIbrahiim/Website-downloader' class='text-blue-600 hover:underline'>AhmadIbrahiim/Website-downloader</a> ⭐ 4096</li>
+<li class='mb-2'><a href='https://github.com/steipete/CodexBar' class='text-blue-600 hover:underline'>steipete/CodexBar</a> ⭐ 17063</li>
+<li class='mb-2'><a href='https://github.com/dotnet/skills' class='text-blue-600 hover:underline'>dotnet/skills</a> ⭐ 4332</li>
+<li class='mb-2'><a href='https://github.com/iOfficeAI/OfficeCLI' class='text-blue-600 hover:underline'>iOfficeAI/OfficeCLI</a> ⭐ 10171</li>
+<li class='mb-2'><a href='https://github.com/bradautomates/claude-video' class='text-blue-600 hover:underline'>bradautomates/claude-video</a> ⭐ 5260</li>
+<li class='mb-2'><a href='https://github.com/kyutai-labs/pocket-tts' class='text-blue-600 hover:underline'>kyutai-labs/pocket-tts</a> ⭐ 6247</li>
+<li class='mb-2'><a href='https://github.com/hesreallyhim/awesome-claude-code' class='text-blue-600 hover:underline'>hesreallyhim/awesome-claude-code</a> ⭐ 49184</li>
+
