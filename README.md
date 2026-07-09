@@ -3172,3 +3172,23 @@
 <li class='mb-2'><a href='https://github.com/kyutai-labs/pocket-tts' class='text-blue-600 hover:underline'>kyutai-labs/pocket-tts</a> ⭐ 6247</li>
 <li class='mb-2'><a href='https://github.com/hesreallyhim/awesome-claude-code' class='text-blue-600 hover:underline'>hesreallyhim/awesome-claude-code</a> ⭐ 49184</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-09
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/MadsLorentzen/ai-job-search' class='text-blue-600 hover:underline'>MadsLorentzen/ai-job-search</a> ⭐ 15690</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 74413</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 79213</li>
+<li class='mb-2'><a href='https://github.com/TencentCloud/TencentDB-Agent-Memory' class='text-blue-600 hover:underline'>TencentCloud/TencentDB-Agent-Memory</a> ⭐ 7744</li>
+<li class='mb-2'><a href='https://github.com/prisma/prisma' class='text-blue-600 hover:underline'>prisma/prisma</a> ⭐ 46610</li>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 50840</li>
+<li class='mb-2'><a href='https://github.com/argoproj/argo-cd' class='text-blue-600 hover:underline'>argoproj/argo-cd</a> ⭐ 23454</li>
+<li class='mb-2'><a href='https://github.com/iOfficeAI/OfficeCLI' class='text-blue-600 hover:underline'>iOfficeAI/OfficeCLI</a> ⭐ 12139</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 54332</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 249985</li>
+<li class='mb-2'><a href='https://github.com/alibaba/zvec' class='text-blue-600 hover:underline'>alibaba/zvec</a> ⭐ 14462</li>
+<li class='mb-2'><a href='https://github.com/Diolinux/PhotoGIMP' class='text-blue-600 hover:underline'>Diolinux/PhotoGIMP</a> ⭐ 15091</li>
+<li class='mb-2'><a href='https://github.com/wonderwhy-er/DesktopCommanderMCP' class='text-blue-600 hover:underline'>wonderwhy-er/DesktopCommanderMCP</a> ⭐ 6405</li>
+<li class='mb-2'><a href='https://github.com/huxingyi/autoremesher' class='text-blue-600 hover:underline'>huxingyi/autoremesher</a> ⭐ 2053</li>
+<li class='mb-2'><a href='https://github.com/bradautomates/claude-video' class='text-blue-600 hover:underline'>bradautomates/claude-video</a> ⭐ 6138</li>
+<li class='mb-2'><a href='https://github.com/TencentCloud/CubeSandbox' class='text-blue-600 hover:underline'>TencentCloud/CubeSandbox</a> ⭐ 8994</li>
+
