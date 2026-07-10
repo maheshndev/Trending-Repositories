@@ -3192,3 +3192,22 @@
 <li class='mb-2'><a href='https://github.com/bradautomates/claude-video' class='text-blue-600 hover:underline'>bradautomates/claude-video</a> ⭐ 6138</li>
 <li class='mb-2'><a href='https://github.com/TencentCloud/CubeSandbox' class='text-blue-600 hover:underline'>TencentCloud/CubeSandbox</a> ⭐ 8994</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-10
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/MadsLorentzen/ai-job-search' class='text-blue-600 hover:underline'>MadsLorentzen/ai-job-search</a> ⭐ 19376</li>
+<li class='mb-2'><a href='https://github.com/SmartlyDressedGames/U3-SDK' class='text-blue-600 hover:underline'>SmartlyDressedGames/U3-SDK</a> ⭐ 2100</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 76027</li>
+<li class='mb-2'><a href='https://github.com/VoltAgent/awesome-design-md' class='text-blue-600 hover:underline'>VoltAgent/awesome-design-md</a> ⭐ 99902</li>
+<li class='mb-2'><a href='https://github.com/iOfficeAI/OfficeCLI' class='text-blue-600 hover:underline'>iOfficeAI/OfficeCLI</a> ⭐ 13623</li>
+<li class='mb-2'><a href='https://github.com/wonderwhy-er/DesktopCommanderMCP' class='text-blue-600 hover:underline'>wonderwhy-er/DesktopCommanderMCP</a> ⭐ 6596</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-cookbooks' class='text-blue-600 hover:underline'>anthropics/claude-cookbooks</a> ⭐ 47219</li>
+<li class='mb-2'><a href='https://github.com/vxcontrol/pentagi' class='text-blue-600 hover:underline'>vxcontrol/pentagi</a> ⭐ 19500</li>
+<li class='mb-2'><a href='https://github.com/unclecode/crawl4ai' class='text-blue-600 hover:underline'>unclecode/crawl4ai</a> ⭐ 71909</li>
+<li class='mb-2'><a href='https://github.com/imthenachoman/How-To-Secure-A-Linux-Server' class='text-blue-600 hover:underline'>imthenachoman/How-To-Secure-A-Linux-Server</a> ⭐ 29142</li>
+<li class='mb-2'><a href='https://github.com/huxingyi/autoremesher' class='text-blue-600 hover:underline'>huxingyi/autoremesher</a> ⭐ 2399</li>
+<li class='mb-2'><a href='https://github.com/bradautomates/claude-video' class='text-blue-600 hover:underline'>bradautomates/claude-video</a> ⭐ 6780</li>
+<li class='mb-2'><a href='https://github.com/prisma/prisma' class='text-blue-600 hover:underline'>prisma/prisma</a> ⭐ 46934</li>
+<li class='mb-2'><a href='https://github.com/kyutai-labs/pocket-tts' class='text-blue-600 hover:underline'>kyutai-labs/pocket-tts</a> ⭐ 7033</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 55242</li>
+
