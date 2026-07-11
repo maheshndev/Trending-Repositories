@@ -3211,3 +3211,26 @@
 <li class='mb-2'><a href='https://github.com/kyutai-labs/pocket-tts' class='text-blue-600 hover:underline'>kyutai-labs/pocket-tts</a> ⭐ 7033</li>
 <li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 55242</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-11
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/wonderwhy-er/DesktopCommanderMCP' class='text-blue-600 hover:underline'>wonderwhy-er/DesktopCommanderMCP</a> ⭐ 7350</li>
+<li class='mb-2'><a href='https://github.com/oven-sh/bun' class='text-blue-600 hover:underline'>oven-sh/bun</a> ⭐ 94274</li>
+<li class='mb-2'><a href='https://github.com/abseil/abseil-cpp' class='text-blue-600 hover:underline'>abseil/abseil-cpp</a> ⭐ 17528</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 76869</li>
+<li class='mb-2'><a href='https://github.com/jbeder/yaml-cpp' class='text-blue-600 hover:underline'>jbeder/yaml-cpp</a> ⭐ 6085</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 164738</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 251829</li>
+<li class='mb-2'><a href='https://github.com/microsoft/TypeScript' class='text-blue-600 hover:underline'>microsoft/TypeScript</a> ⭐ 109787</li>
+<li class='mb-2'><a href='https://github.com/catchorg/Catch2' class='text-blue-600 hover:underline'>catchorg/Catch2</a> ⭐ 20619</li>
+<li class='mb-2'><a href='https://github.com/chriskohlhoff/asio' class='text-blue-600 hover:underline'>chriskohlhoff/asio</a> ⭐ 6074</li>
+<li class='mb-2'><a href='https://github.com/TencentCloud/TencentDB-Agent-Memory' class='text-blue-600 hover:underline'>TencentCloud/TencentDB-Agent-Memory</a> ⭐ 8263</li>
+<li class='mb-2'><a href='https://github.com/davila7/claude-code-templates' class='text-blue-600 hover:underline'>davila7/claude-code-templates</a> ⭐ 28782</li>
+<li class='mb-2'><a href='https://github.com/zeux/meshoptimizer' class='text-blue-600 hover:underline'>zeux/meshoptimizer</a> ⭐ 8029</li>
+<li class='mb-2'><a href='https://github.com/tailscale/tailscale' class='text-blue-600 hover:underline'>tailscale/tailscale</a> ⭐ 33678</li>
+<li class='mb-2'><a href='https://github.com/google-labs-code/stitch-skills' class='text-blue-600 hover:underline'>google-labs-code/stitch-skills</a> ⭐ 6765</li>
+<li class='mb-2'><a href='https://github.com/iOfficeAI/OfficeCLI' class='text-blue-600 hover:underline'>iOfficeAI/OfficeCLI</a> ⭐ 14486</li>
+<li class='mb-2'><a href='https://github.com/hashicorp/terraform' class='text-blue-600 hover:underline'>hashicorp/terraform</a> ⭐ 49181</li>
+<li class='mb-2'><a href='https://github.com/grpc/grpc' class='text-blue-600 hover:underline'>grpc/grpc</a> ⭐ 45142</li>
+<li class='mb-2'><a href='https://github.com/vercel/next.js' class='text-blue-600 hover:underline'>vercel/next.js</a> ⭐ 140729</li>
+
