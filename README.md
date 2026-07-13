@@ -3262,3 +3262,24 @@
 <li class='mb-2'><a href='https://github.com/ansible/ansible' class='text-blue-600 hover:underline'>ansible/ansible</a> ⭐ 69601</li>
 <li class='mb-2'><a href='https://github.com/nuxt/nuxt' class='text-blue-600 hover:underline'>nuxt/nuxt</a> ⭐ 60736</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-13
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Dicklesworthstone/destructive_command_guard' class='text-blue-600 hover:underline'>Dicklesworthstone/destructive_command_guard</a> ⭐ 3032</li>
+<li class='mb-2'><a href='https://github.com/wonderwhy-er/DesktopCommanderMCP' class='text-blue-600 hover:underline'>wonderwhy-er/DesktopCommanderMCP</a> ⭐ 8022</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/Vibe-Trading' class='text-blue-600 hover:underline'>HKUDS/Vibe-Trading</a> ⭐ 20674</li>
+<li class='mb-2'><a href='https://github.com/PrefectHQ/prefect' class='text-blue-600 hover:underline'>PrefectHQ/prefect</a> ⭐ 23187</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 118688</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-cookbooks' class='text-blue-600 hover:underline'>anthropics/claude-cookbooks</a> ⭐ 48488</li>
+<li class='mb-2'><a href='https://github.com/home-assistant/core' class='text-blue-600 hover:underline'>home-assistant/core</a> ⭐ 89116</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 33844</li>
+<li class='mb-2'><a href='https://github.com/ColeMurray/background-agents' class='text-blue-600 hover:underline'>ColeMurray/background-agents</a> ⭐ 2287</li>
+<li class='mb-2'><a href='https://github.com/k1tbyte/Wand-Enhancer' class='text-blue-600 hover:underline'>k1tbyte/Wand-Enhancer</a> ⭐ 6994</li>
+<li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 13775</li>
+<li class='mb-2'><a href='https://github.com/virattt/ai-hedge-fund' class='text-blue-600 hover:underline'>virattt/ai-hedge-fund</a> ⭐ 61444</li>
+<li class='mb-2'><a href='https://github.com/chen08209/FlClash' class='text-blue-600 hover:underline'>chen08209/FlClash</a> ⭐ 45270</li>
+<li class='mb-2'><a href='https://github.com/davila7/claude-code-templates' class='text-blue-600 hover:underline'>davila7/claude-code-templates</a> ⭐ 29270</li>
+<li class='mb-2'><a href='https://github.com/par274/sharpemu' class='text-blue-600 hover:underline'>par274/sharpemu</a> ⭐ 1315</li>
+<li class='mb-2'><a href='https://github.com/malisper/pgrust' class='text-blue-600 hover:underline'>malisper/pgrust</a> ⭐ 2523</li>
+<li class='mb-2'><a href='https://github.com/Nutlope/hallmark' class='text-blue-600 hover:underline'>Nutlope/hallmark</a> ⭐ 4360</li>
+
