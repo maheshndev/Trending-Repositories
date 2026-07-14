@@ -3283,3 +3283,17 @@
 <li class='mb-2'><a href='https://github.com/malisper/pgrust' class='text-blue-600 hover:underline'>malisper/pgrust</a> ⭐ 2523</li>
 <li class='mb-2'><a href='https://github.com/Nutlope/hallmark' class='text-blue-600 hover:underline'>Nutlope/hallmark</a> ⭐ 4360</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-14
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 66743</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/Vibe-Trading' class='text-blue-600 hover:underline'>HKUDS/Vibe-Trading</a> ⭐ 21856</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 41944</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 119730</li>
+<li class='mb-2'><a href='https://github.com/Nutlope/hallmark' class='text-blue-600 hover:underline'>Nutlope/hallmark</a> ⭐ 5235</li>
+<li class='mb-2'><a href='https://github.com/Raphire/Win11Debloat' class='text-blue-600 hover:underline'>Raphire/Win11Debloat</a> ⭐ 50928</li>
+<li class='mb-2'><a href='https://github.com/Graphify-Labs/graphify' class='text-blue-600 hover:underline'>Graphify-Labs/graphify</a> ⭐ 84869</li>
+<li class='mb-2'><a href='https://github.com/hasaneyldrm/exercises-dataset' class='text-blue-600 hover:underline'>hasaneyldrm/exercises-dataset</a> ⭐ 12672</li>
+<li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 120660</li>
+<li class='mb-2'><a href='https://github.com/coreyhaines31/marketingskills' class='text-blue-600 hover:underline'>coreyhaines31/marketingskills</a> ⭐ 38650</li>
+
