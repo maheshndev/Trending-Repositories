@@ -3297,3 +3297,22 @@
 <li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 120660</li>
 <li class='mb-2'><a href='https://github.com/coreyhaines31/marketingskills' class='text-blue-600 hover:underline'>coreyhaines31/marketingskills</a> ⭐ 38650</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-15
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 120917</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 170449</li>
+<li class='mb-2'><a href='https://github.com/Dicklesworthstone/destructive_command_guard' class='text-blue-600 hover:underline'>Dicklesworthstone/destructive_command_guard</a> ⭐ 4446</li>
+<li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 69306</li>
+<li class='mb-2'><a href='https://github.com/virattt/ai-hedge-fund' class='text-blue-600 hover:underline'>virattt/ai-hedge-fund</a> ⭐ 61909</li>
+<li class='mb-2'><a href='https://github.com/Nutlope/hallmark' class='text-blue-600 hover:underline'>Nutlope/hallmark</a> ⭐ 6228</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/Vibe-Trading' class='text-blue-600 hover:underline'>HKUDS/Vibe-Trading</a> ⭐ 22919</li>
+<li class='mb-2'><a href='https://github.com/Raphire/Win11Debloat' class='text-blue-600 hover:underline'>Raphire/Win11Debloat</a> ⭐ 51760</li>
+<li class='mb-2'><a href='https://github.com/hasaneyldrm/exercises-dataset' class='text-blue-600 hover:underline'>hasaneyldrm/exercises-dataset</a> ⭐ 13610</li>
+<li class='mb-2'><a href='https://github.com/penpot/penpot' class='text-blue-600 hover:underline'>penpot/penpot</a> ⭐ 56194</li>
+<li class='mb-2'><a href='https://github.com/AIEraDev/Clypra' class='text-blue-600 hover:underline'>AIEraDev/Clypra</a> ⭐ 2660</li>
+<li class='mb-2'><a href='https://github.com/par274/sharpemu' class='text-blue-600 hover:underline'>par274/sharpemu</a> ⭐ 2168</li>
+<li class='mb-2'><a href='https://github.com/chenyme/grok2api' class='text-blue-600 hover:underline'>chenyme/grok2api</a> ⭐ 5880</li>
+<li class='mb-2'><a href='https://github.com/Graphify-Labs/graphify' class='text-blue-600 hover:underline'>Graphify-Labs/graphify</a> ⭐ 86498</li>
+<li class='mb-2'><a href='https://github.com/HenryNdubuaku/maths-cs-ai-compendium' class='text-blue-600 hover:underline'>HenryNdubuaku/maths-cs-ai-compendium</a> ⭐ 5296</li>
+
