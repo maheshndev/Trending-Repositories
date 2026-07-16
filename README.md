@@ -3316,3 +3316,20 @@
 <li class='mb-2'><a href='https://github.com/Graphify-Labs/graphify' class='text-blue-600 hover:underline'>Graphify-Labs/graphify</a> ⭐ 86498</li>
 <li class='mb-2'><a href='https://github.com/HenryNdubuaku/maths-cs-ai-compendium' class='text-blue-600 hover:underline'>HenryNdubuaku/maths-cs-ai-compendium</a> ⭐ 5296</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-16
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 72023</li>
+<li class='mb-2'><a href='https://github.com/Nutlope/hallmark' class='text-blue-600 hover:underline'>Nutlope/hallmark</a> ⭐ 8768</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 172445</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 42555</li>
+<li class='mb-2'><a href='https://github.com/Dicklesworthstone/destructive_command_guard' class='text-blue-600 hover:underline'>Dicklesworthstone/destructive_command_guard</a> ⭐ 4798</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/Vibe-Trading' class='text-blue-600 hover:underline'>HKUDS/Vibe-Trading</a> ⭐ 23766</li>
+<li class='mb-2'><a href='https://github.com/openinterpreter/openinterpreter' class='text-blue-600 hover:underline'>openinterpreter/openinterpreter</a> ⭐ 65536</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 26347</li>
+<li class='mb-2'><a href='https://github.com/HenryNdubuaku/maths-cs-ai-compendium' class='text-blue-600 hover:underline'>HenryNdubuaku/maths-cs-ai-compendium</a> ⭐ 5970</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 121986</li>
+<li class='mb-2'><a href='https://github.com/coreyhaines31/marketingskills' class='text-blue-600 hover:underline'>coreyhaines31/marketingskills</a> ⭐ 39817</li>
+<li class='mb-2'><a href='https://github.com/YimMenu/YimMenuV2' class='text-blue-600 hover:underline'>YimMenu/YimMenuV2</a> ⭐ 1432</li>
+<li class='mb-2'><a href='https://github.com/hasaneyldrm/exercises-dataset' class='text-blue-600 hover:underline'>hasaneyldrm/exercises-dataset</a> ⭐ 14439</li>
+
