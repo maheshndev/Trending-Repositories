@@ -3333,3 +3333,24 @@
 <li class='mb-2'><a href='https://github.com/YimMenu/YimMenuV2' class='text-blue-600 hover:underline'>YimMenu/YimMenuV2</a> ⭐ 1432</li>
 <li class='mb-2'><a href='https://github.com/hasaneyldrm/exercises-dataset' class='text-blue-600 hover:underline'>hasaneyldrm/exercises-dataset</a> ⭐ 14439</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-17
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/apache/ossie' class='text-blue-600 hover:underline'>apache/ossie</a> ⭐ 935</li>
+<li class='mb-2'><a href='https://github.com/Nutlope/hallmark' class='text-blue-600 hover:underline'>Nutlope/hallmark</a> ⭐ 11019</li>
+<li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 74091</li>
+<li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 35874</li>
+<li class='mb-2'><a href='https://github.com/openinterpreter/openinterpreter' class='text-blue-600 hover:underline'>openinterpreter/openinterpreter</a> ⭐ 66015</li>
+<li class='mb-2'><a href='https://github.com/PrismML-Eng/Bonsai-demo' class='text-blue-600 hover:underline'>PrismML-Eng/Bonsai-demo</a> ⭐ 1539</li>
+<li class='mb-2'><a href='https://github.com/hasaneyldrm/exercises-dataset' class='text-blue-600 hover:underline'>hasaneyldrm/exercises-dataset</a> ⭐ 15093</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 122970</li>
+<li class='mb-2'><a href='https://github.com/lobehub/lobehub' class='text-blue-600 hover:underline'>lobehub/lobehub</a> ⭐ 80204</li>
+<li class='mb-2'><a href='https://github.com/YimMenu/YimMenuV2' class='text-blue-600 hover:underline'>YimMenu/YimMenuV2</a> ⭐ 1513</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 26917</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 174391</li>
+<li class='mb-2'><a href='https://github.com/github/copilot-sdk' class='text-blue-600 hover:underline'>github/copilot-sdk</a> ⭐ 9658</li>
+<li class='mb-2'><a href='https://github.com/ibelick/ui-skills' class='text-blue-600 hover:underline'>ibelick/ui-skills</a> ⭐ 4319</li>
+<li class='mb-2'><a href='https://github.com/Graphify-Labs/graphify' class='text-blue-600 hover:underline'>Graphify-Labs/graphify</a> ⭐ 89176</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 526395</li>
+<li class='mb-2'><a href='https://github.com/ossu/computer-science' class='text-blue-600 hover:underline'>ossu/computer-science</a> ⭐ 206578</li>
+
