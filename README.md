@@ -3354,3 +3354,21 @@
 <li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 526395</li>
 <li class='mb-2'><a href='https://github.com/ossu/computer-science' class='text-blue-600 hover:underline'>ossu/computer-science</a> ⭐ 206578</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-18
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 527445</li>
+<li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 36215</li>
+<li class='mb-2'><a href='https://github.com/HenryNdubuaku/maths-cs-ai-compendium' class='text-blue-600 hover:underline'>HenryNdubuaku/maths-cs-ai-compendium</a> ⭐ 6653</li>
+<li class='mb-2'><a href='https://github.com/Nutlope/hallmark' class='text-blue-600 hover:underline'>Nutlope/hallmark</a> ⭐ 12101</li>
+<li class='mb-2'><a href='https://github.com/github/copilot-sdk' class='text-blue-600 hover:underline'>github/copilot-sdk</a> ⭐ 9805</li>
+<li class='mb-2'><a href='https://github.com/anthropics/cwc-workshops' class='text-blue-600 hover:underline'>anthropics/cwc-workshops</a> ⭐ 1600</li>
+<li class='mb-2'><a href='https://github.com/PrismML-Eng/Bonsai-demo' class='text-blue-600 hover:underline'>PrismML-Eng/Bonsai-demo</a> ⭐ 1720</li>
+<li class='mb-2'><a href='https://github.com/protocolbuffers/protobuf' class='text-blue-600 hover:underline'>protocolbuffers/protobuf</a> ⭐ 71548</li>
+<li class='mb-2'><a href='https://github.com/tirth8205/code-review-graph' class='text-blue-600 hover:underline'>tirth8205/code-review-graph</a> ⭐ 19776</li>
+<li class='mb-2'><a href='https://github.com/docusealco/docuseal' class='text-blue-600 hover:underline'>docusealco/docuseal</a> ⭐ 17866</li>
+<li class='mb-2'><a href='https://github.com/openinterpreter/openinterpreter' class='text-blue-600 hover:underline'>openinterpreter/openinterpreter</a> ⭐ 66399</li>
+<li class='mb-2'><a href='https://github.com/RyanCodrai/turbovec' class='text-blue-600 hover:underline'>RyanCodrai/turbovec</a> ⭐ 13340</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 27391</li>
+<li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 74921</li>
+
