@@ -3372,3 +3372,18 @@
 <li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 27391</li>
 <li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 74921</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-19
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Robbyant/lingbot-map' class='text-blue-600 hover:underline'>Robbyant/lingbot-map</a> ⭐ 13006</li>
+<li class='mb-2'><a href='https://github.com/apache/ossie' class='text-blue-600 hover:underline'>apache/ossie</a> ⭐ 1290</li>
+<li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 36620</li>
+<li class='mb-2'><a href='https://github.com/ibelick/ui-skills' class='text-blue-600 hover:underline'>ibelick/ui-skills</a> ⭐ 5070</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 39144</li>
+<li class='mb-2'><a href='https://github.com/tirth8205/code-review-graph' class='text-blue-600 hover:underline'>tirth8205/code-review-graph</a> ⭐ 20215</li>
+<li class='mb-2'><a href='https://github.com/elder-plinius/G0DM0D3' class='text-blue-600 hover:underline'>elder-plinius/G0DM0D3</a> ⭐ 9531</li>
+<li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 23354</li>
+<li class='mb-2'><a href='https://github.com/KnockOutEZ/wigolo' class='text-blue-600 hover:underline'>KnockOutEZ/wigolo</a> ⭐ 1277</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 528330</li>
+<li class='mb-2'><a href='https://github.com/MoonshotAI/kimi-cli' class='text-blue-600 hover:underline'>MoonshotAI/kimi-cli</a> ⭐ 9517</li>
+
