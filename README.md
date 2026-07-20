@@ -3387,3 +3387,26 @@
 <li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 528330</li>
 <li class='mb-2'><a href='https://github.com/MoonshotAI/kimi-cli' class='text-blue-600 hover:underline'>MoonshotAI/kimi-cli</a> ⭐ 9517</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-20
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/bojieli/ai-agent-book' class='text-blue-600 hover:underline'>bojieli/ai-agent-book</a> ⭐ 6422</li>
+<li class='mb-2'><a href='https://github.com/tirth8205/code-review-graph' class='text-blue-600 hover:underline'>tirth8205/code-review-graph</a> ⭐ 21486</li>
+<li class='mb-2'><a href='https://github.com/kvcache-ai/ktransformers' class='text-blue-600 hover:underline'>kvcache-ai/ktransformers</a> ⭐ 18431</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 39806</li>
+<li class='mb-2'><a href='https://github.com/jamiepine/voicebox' class='text-blue-600 hover:underline'>jamiepine/voicebox</a> ⭐ 43470</li>
+<li class='mb-2'><a href='https://github.com/KnockOutEZ/wigolo' class='text-blue-600 hover:underline'>KnockOutEZ/wigolo</a> ⭐ 1942</li>
+<li class='mb-2'><a href='https://github.com/andrewrabert/jellium-desktop' class='text-blue-600 hover:underline'>andrewrabert/jellium-desktop</a> ⭐ 1309</li>
+<li class='mb-2'><a href='https://github.com/github/copilot-sdk' class='text-blue-600 hover:underline'>github/copilot-sdk</a> ⭐ 9977</li>
+<li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 36971</li>
+<li class='mb-2'><a href='https://github.com/microsoft/terminal' class='text-blue-600 hover:underline'>microsoft/terminal</a> ⭐ 104207</li>
+<li class='mb-2'><a href='https://github.com/AstrBotDevs/AstrBot' class='text-blue-600 hover:underline'>AstrBotDevs/AstrBot</a> ⭐ 36733</li>
+<li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 8973</li>
+<li class='mb-2'><a href='https://github.com/trycua/cua' class='text-blue-600 hover:underline'>trycua/cua</a> ⭐ 20257</li>
+<li class='mb-2'><a href='https://github.com/MoonshotAI/kimi-cli' class='text-blue-600 hover:underline'>MoonshotAI/kimi-cli</a> ⭐ 9932</li>
+<li class='mb-2'><a href='https://github.com/Flowseal/zapret-discord-youtube' class='text-blue-600 hover:underline'>Flowseal/zapret-discord-youtube</a> ⭐ 31040</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 529000</li>
+<li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 23674</li>
+<li class='mb-2'><a href='https://github.com/Canner/WrenAI' class='text-blue-600 hover:underline'>Canner/WrenAI</a> ⭐ 16250</li>
+<li class='mb-2'><a href='https://github.com/PKUFlyingPig/cs-self-learning' class='text-blue-600 hover:underline'>PKUFlyingPig/cs-self-learning</a> ⭐ 74226</li>
+
