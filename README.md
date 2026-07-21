@@ -3410,3 +3410,28 @@
 <li class='mb-2'><a href='https://github.com/Canner/WrenAI' class='text-blue-600 hover:underline'>Canner/WrenAI</a> ⭐ 16250</li>
 <li class='mb-2'><a href='https://github.com/PKUFlyingPig/cs-self-learning' class='text-blue-600 hover:underline'>PKUFlyingPig/cs-self-learning</a> ⭐ 74226</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-21
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/bojieli/ai-agent-book' class='text-blue-600 hover:underline'>bojieli/ai-agent-book</a> ⭐ 10635</li>
+<li class='mb-2'><a href='https://github.com/tirth8205/code-review-graph' class='text-blue-600 hover:underline'>tirth8205/code-review-graph</a> ⭐ 23406</li>
+<li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 9718</li>
+<li class='mb-2'><a href='https://github.com/diegosouzapw/OmniRoute' class='text-blue-600 hover:underline'>diegosouzapw/OmniRoute</a> ⭐ 22006</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 40639</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 134802</li>
+<li class='mb-2'><a href='https://github.com/kvcache-ai/ktransformers' class='text-blue-600 hover:underline'>kvcache-ai/ktransformers</a> ⭐ 18760</li>
+<li class='mb-2'><a href='https://github.com/jamiepine/voicebox' class='text-blue-600 hover:underline'>jamiepine/voicebox</a> ⭐ 44260</li>
+<li class='mb-2'><a href='https://github.com/topoteretes/cognee' class='text-blue-600 hover:underline'>topoteretes/cognee</a> ⭐ 28832</li>
+<li class='mb-2'><a href='https://github.com/Robbyant/lingbot-map' class='text-blue-600 hover:underline'>Robbyant/lingbot-map</a> ⭐ 14299</li>
+<li class='mb-2'><a href='https://github.com/every-app/open-seo' class='text-blue-600 hover:underline'>every-app/open-seo</a> ⭐ 5933</li>
+<li class='mb-2'><a href='https://github.com/MoonshotAI/kimi-cli' class='text-blue-600 hover:underline'>MoonshotAI/kimi-cli</a> ⭐ 10273</li>
+<li class='mb-2'><a href='https://github.com/AstrBotDevs/AstrBot' class='text-blue-600 hover:underline'>AstrBotDevs/AstrBot</a> ⭐ 37152</li>
+<li class='mb-2'><a href='https://github.com/PrefectHQ/fastmcp' class='text-blue-600 hover:underline'>PrefectHQ/fastmcp</a> ⭐ 26572</li>
+<li class='mb-2'><a href='https://github.com/KnockOutEZ/wigolo' class='text-blue-600 hover:underline'>KnockOutEZ/wigolo</a> ⭐ 2606</li>
+<li class='mb-2'><a href='https://github.com/tokio-rs/topcoat' class='text-blue-600 hover:underline'>tokio-rs/topcoat</a> ⭐ 1604</li>
+<li class='mb-2'><a href='https://github.com/iptv-org/iptv' class='text-blue-600 hover:underline'>iptv-org/iptv</a> ⭐ 133805</li>
+<li class='mb-2'><a href='https://github.com/oblien/openship' class='text-blue-600 hover:underline'>oblien/openship</a> ⭐ 4921</li>
+<li class='mb-2'><a href='https://github.com/microsoft/Ontology-Playground' class='text-blue-600 hover:underline'>microsoft/Ontology-Playground</a> ⭐ 1764</li>
+<li class='mb-2'><a href='https://github.com/handy-computer/transcribe.cpp' class='text-blue-600 hover:underline'>handy-computer/transcribe.cpp</a> ⭐ 1300</li>
+<li class='mb-2'><a href='https://github.com/moonshine-ai/moonshine' class='text-blue-600 hover:underline'>moonshine-ai/moonshine</a> ⭐ 9918</li>
+
