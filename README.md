@@ -3435,3 +3435,28 @@
 <li class='mb-2'><a href='https://github.com/handy-computer/transcribe.cpp' class='text-blue-600 hover:underline'>handy-computer/transcribe.cpp</a> ⭐ 1300</li>
 <li class='mb-2'><a href='https://github.com/moonshine-ai/moonshine' class='text-blue-600 hover:underline'>moonshine-ai/moonshine</a> ⭐ 9918</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-22
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/koala73/worldmonitor' class='text-blue-600 hover:underline'>koala73/worldmonitor</a> ⭐ 65756</li>
+<li class='mb-2'><a href='https://github.com/bojieli/ai-agent-book' class='text-blue-600 hover:underline'>bojieli/ai-agent-book</a> ⭐ 15007</li>
+<li class='mb-2'><a href='https://github.com/tirth8205/code-review-graph' class='text-blue-600 hover:underline'>tirth8205/code-review-graph</a> ⭐ 24657</li>
+<li class='mb-2'><a href='https://github.com/ayghri/i-have-adhd' class='text-blue-600 hover:underline'>ayghri/i-have-adhd</a> ⭐ 7007</li>
+<li class='mb-2'><a href='https://github.com/earthtojake/text-to-cad' class='text-blue-600 hover:underline'>earthtojake/text-to-cad</a> ⭐ 9207</li>
+<li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 10377</li>
+<li class='mb-2'><a href='https://github.com/oblien/openship' class='text-blue-600 hover:underline'>oblien/openship</a> ⭐ 6318</li>
+<li class='mb-2'><a href='https://github.com/AstrBotDevs/AstrBot' class='text-blue-600 hover:underline'>AstrBotDevs/AstrBot</a> ⭐ 37507</li>
+<li class='mb-2'><a href='https://github.com/every-app/open-seo' class='text-blue-600 hover:underline'>every-app/open-seo</a> ⭐ 6648</li>
+<li class='mb-2'><a href='https://github.com/tradesdontlie/tradingview-mcp' class='text-blue-600 hover:underline'>tradesdontlie/tradingview-mcp</a> ⭐ 4872</li>
+<li class='mb-2'><a href='https://github.com/AlexsJones/llmfit' class='text-blue-600 hover:underline'>AlexsJones/llmfit</a> ⭐ 30251</li>
+<li class='mb-2'><a href='https://github.com/hyprwm/Hyprland' class='text-blue-600 hover:underline'>hyprwm/Hyprland</a> ⭐ 37062</li>
+<li class='mb-2'><a href='https://github.com/chrislgarry/Apollo-11' class='text-blue-600 hover:underline'>chrislgarry/Apollo-11</a> ⭐ 69992</li>
+<li class='mb-2'><a href='https://github.com/DioxusLabs/dioxus' class='text-blue-600 hover:underline'>DioxusLabs/dioxus</a> ⭐ 37698</li>
+<li class='mb-2'><a href='https://github.com/langchain-ai/open_deep_research' class='text-blue-600 hover:underline'>langchain-ai/open_deep_research</a> ⭐ 12260</li>
+<li class='mb-2'><a href='https://github.com/diegosouzapw/OmniRoute' class='text-blue-600 hover:underline'>diegosouzapw/OmniRoute</a> ⭐ 23730</li>
+<li class='mb-2'><a href='https://github.com/agegr/pi-web' class='text-blue-600 hover:underline'>agegr/pi-web</a> ⭐ 1765</li>
+<li class='mb-2'><a href='https://github.com/schollz/croc' class='text-blue-600 hover:underline'>schollz/croc</a> ⭐ 36850</li>
+<li class='mb-2'><a href='https://github.com/microsoft/Ontology-Playground' class='text-blue-600 hover:underline'>microsoft/Ontology-Playground</a> ⭐ 2037</li>
+<li class='mb-2'><a href='https://github.com/dottxt-ai/outlines' class='text-blue-600 hover:underline'>dottxt-ai/outlines</a> ⭐ 14867</li>
+<li class='mb-2'><a href='https://github.com/KnockOutEZ/wigolo' class='text-blue-600 hover:underline'>KnockOutEZ/wigolo</a> ⭐ 3188</li>
+
