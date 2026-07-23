@@ -3460,3 +3460,26 @@
 <li class='mb-2'><a href='https://github.com/dottxt-ai/outlines' class='text-blue-600 hover:underline'>dottxt-ai/outlines</a> ⭐ 14867</li>
 <li class='mb-2'><a href='https://github.com/KnockOutEZ/wigolo' class='text-blue-600 hover:underline'>KnockOutEZ/wigolo</a> ⭐ 3188</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-23
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/koala73/worldmonitor' class='text-blue-600 hover:underline'>koala73/worldmonitor</a> ⭐ 69231</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 83929</li>
+<li class='mb-2'><a href='https://github.com/ayghri/i-have-adhd' class='text-blue-600 hover:underline'>ayghri/i-have-adhd</a> ⭐ 8408</li>
+<li class='mb-2'><a href='https://github.com/schollz/croc' class='text-blue-600 hover:underline'>schollz/croc</a> ⭐ 37692</li>
+<li class='mb-2'><a href='https://github.com/likec4/likec4' class='text-blue-600 hover:underline'>likec4/likec4</a> ⭐ 4324</li>
+<li class='mb-2'><a href='https://github.com/chrislgarry/Apollo-11' class='text-blue-600 hover:underline'>chrislgarry/Apollo-11</a> ⭐ 70657</li>
+<li class='mb-2'><a href='https://github.com/jamiepine/voicebox' class='text-blue-600 hover:underline'>jamiepine/voicebox</a> ⭐ 45839</li>
+<li class='mb-2'><a href='https://github.com/diegosouzapw/OmniRoute' class='text-blue-600 hover:underline'>diegosouzapw/OmniRoute</a> ⭐ 25472</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 32637</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-claude-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-claude-skills</a> ⭐ 68847</li>
+<li class='mb-2'><a href='https://github.com/oblien/openship' class='text-blue-600 hover:underline'>oblien/openship</a> ⭐ 7361</li>
+<li class='mb-2'><a href='https://github.com/agegr/pi-web' class='text-blue-600 hover:underline'>agegr/pi-web</a> ⭐ 2100</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 42330</li>
+<li class='mb-2'><a href='https://github.com/tirth8205/code-review-graph' class='text-blue-600 hover:underline'>tirth8205/code-review-graph</a> ⭐ 25388</li>
+<li class='mb-2'><a href='https://github.com/dreamhunter2333/cloudflare_temp_email' class='text-blue-600 hover:underline'>dreamhunter2333/cloudflare_temp_email</a> ⭐ 10836</li>
+<li class='mb-2'><a href='https://github.com/DioxusLabs/dioxus' class='text-blue-600 hover:underline'>DioxusLabs/dioxus</a> ⭐ 38048</li>
+<li class='mb-2'><a href='https://github.com/hyprwm/Hyprland' class='text-blue-600 hover:underline'>hyprwm/Hyprland</a> ⭐ 37311</li>
+<li class='mb-2'><a href='https://github.com/Pumpkin-MC/Pumpkin' class='text-blue-600 hover:underline'>Pumpkin-MC/Pumpkin</a> ⭐ 8462</li>
+<li class='mb-2'><a href='https://github.com/dottxt-ai/outlines' class='text-blue-600 hover:underline'>dottxt-ai/outlines</a> ⭐ 15134</li>
+
