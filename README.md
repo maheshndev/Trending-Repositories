@@ -3483,3 +3483,22 @@
 <li class='mb-2'><a href='https://github.com/Pumpkin-MC/Pumpkin' class='text-blue-600 hover:underline'>Pumpkin-MC/Pumpkin</a> ⭐ 8462</li>
 <li class='mb-2'><a href='https://github.com/dottxt-ai/outlines' class='text-blue-600 hover:underline'>dottxt-ai/outlines</a> ⭐ 15134</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-24
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/block/buzz' class='text-blue-600 hover:underline'>block/buzz</a> ⭐ 7155</li>
+<li class='mb-2'><a href='https://github.com/koala73/worldmonitor' class='text-blue-600 hover:underline'>koala73/worldmonitor</a> ⭐ 71784</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 33119</li>
+<li class='mb-2'><a href='https://github.com/Pumpkin-MC/Pumpkin' class='text-blue-600 hover:underline'>Pumpkin-MC/Pumpkin</a> ⭐ 8965</li>
+<li class='mb-2'><a href='https://github.com/citrolabs/ego-lite' class='text-blue-600 hover:underline'>citrolabs/ego-lite</a> ⭐ 1742</li>
+<li class='mb-2'><a href='https://github.com/chrislgarry/Apollo-11' class='text-blue-600 hover:underline'>chrislgarry/Apollo-11</a> ⭐ 71133</li>
+<li class='mb-2'><a href='https://github.com/diegosouzapw/OmniRoute' class='text-blue-600 hover:underline'>diegosouzapw/OmniRoute</a> ⭐ 27356</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-claude-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-claude-skills</a> ⭐ 69497</li>
+<li class='mb-2'><a href='https://github.com/earthtojake/text-to-cad' class='text-blue-600 hover:underline'>earthtojake/text-to-cad</a> ⭐ 10044</li>
+<li class='mb-2'><a href='https://github.com/agegr/pi-web' class='text-blue-600 hover:underline'>agegr/pi-web</a> ⭐ 2399</li>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 11638</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 85275</li>
+<li class='mb-2'><a href='https://github.com/likec4/likec4' class='text-blue-600 hover:underline'>likec4/likec4</a> ⭐ 4733</li>
+<li class='mb-2'><a href='https://github.com/Automattic/harper' class='text-blue-600 hover:underline'>Automattic/harper</a> ⭐ 12391</li>
+<li class='mb-2'><a href='https://github.com/jellyfin/jellyfin' class='text-blue-600 hover:underline'>jellyfin/jellyfin</a> ⭐ 54754</li>
+
