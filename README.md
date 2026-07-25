@@ -3502,3 +3502,23 @@
 <li class='mb-2'><a href='https://github.com/Automattic/harper' class='text-blue-600 hover:underline'>Automattic/harper</a> ⭐ 12391</li>
 <li class='mb-2'><a href='https://github.com/jellyfin/jellyfin' class='text-blue-600 hover:underline'>jellyfin/jellyfin</a> ⭐ 54754</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-25
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/block/buzz' class='text-blue-600 hover:underline'>block/buzz</a> ⭐ 10125</li>
+<li class='mb-2'><a href='https://github.com/koala73/worldmonitor' class='text-blue-600 hover:underline'>koala73/worldmonitor</a> ⭐ 73363</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-claude-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-claude-skills</a> ⭐ 70109</li>
+<li class='mb-2'><a href='https://github.com/Pumpkin-MC/Pumpkin' class='text-blue-600 hover:underline'>Pumpkin-MC/Pumpkin</a> ⭐ 9361</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 33517</li>
+<li class='mb-2'><a href='https://github.com/Automattic/harper' class='text-blue-600 hover:underline'>Automattic/harper</a> ⭐ 13071</li>
+<li class='mb-2'><a href='https://github.com/likec4/likec4' class='text-blue-600 hover:underline'>likec4/likec4</a> ⭐ 5044</li>
+<li class='mb-2'><a href='https://github.com/citrolabs/ego-lite' class='text-blue-600 hover:underline'>citrolabs/ego-lite</a> ⭐ 2655</li>
+<li class='mb-2'><a href='https://github.com/yorukot/superfile' class='text-blue-600 hover:underline'>yorukot/superfile</a> ⭐ 19621</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 85986</li>
+<li class='mb-2'><a href='https://github.com/CoreBunch/Instatic' class='text-blue-600 hover:underline'>CoreBunch/Instatic</a> ⭐ 4314</li>
+<li class='mb-2'><a href='https://github.com/chrislgarry/Apollo-11' class='text-blue-600 hover:underline'>chrislgarry/Apollo-11</a> ⭐ 71420</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 186890</li>
+<li class='mb-2'><a href='https://github.com/Lordog/dive-into-llms' class='text-blue-600 hover:underline'>Lordog/dive-into-llms</a> ⭐ 45033</li>
+<li class='mb-2'><a href='https://github.com/diegosouzapw/OmniRoute' class='text-blue-600 hover:underline'>diegosouzapw/OmniRoute</a> ⭐ 28933</li>
+<li class='mb-2'><a href='https://github.com/OtterMind/Chat2DB' class='text-blue-600 hover:underline'>OtterMind/Chat2DB</a> ⭐ 26363</li>
+
