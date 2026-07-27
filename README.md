@@ -3544,3 +3544,24 @@
 <li class='mb-2'><a href='https://github.com/andrewyng/aisuite' class='text-blue-600 hover:underline'>andrewyng/aisuite</a> ⭐ 15239</li>
 <li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 233346</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-27
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/permissionlesstech/bitchat' class='text-blue-600 hover:underline'>permissionlesstech/bitchat</a> ⭐ 30575</li>
+<li class='mb-2'><a href='https://github.com/citrolabs/ego-lite' class='text-blue-600 hover:underline'>citrolabs/ego-lite</a> ⭐ 4752</li>
+<li class='mb-2'><a href='https://github.com/block/buzz' class='text-blue-600 hover:underline'>block/buzz</a> ⭐ 13460</li>
+<li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 15087</li>
+<li class='mb-2'><a href='https://github.com/CoreBunch/Instatic' class='text-blue-600 hover:underline'>CoreBunch/Instatic</a> ⭐ 5757</li>
+<li class='mb-2'><a href='https://github.com/yorukot/superfile' class='text-blue-600 hover:underline'>yorukot/superfile</a> ⭐ 20313</li>
+<li class='mb-2'><a href='https://github.com/nodejs/node' class='text-blue-600 hover:underline'>nodejs/node</a> ⭐ 118493</li>
+<li class='mb-2'><a href='https://github.com/OtterMind/Chat2DB' class='text-blue-600 hover:underline'>OtterMind/Chat2DB</a> ⭐ 27185</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 50777</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 34220</li>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 13969</li>
+<li class='mb-2'><a href='https://github.com/andrewyng/aisuite' class='text-blue-600 hover:underline'>andrewyng/aisuite</a> ⭐ 15430</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-cookbooks' class='text-blue-600 hover:underline'>anthropics/claude-cookbooks</a> ⭐ 50277</li>
+<li class='mb-2'><a href='https://github.com/Pumpkin-MC/Pumpkin' class='text-blue-600 hover:underline'>Pumpkin-MC/Pumpkin</a> ⭐ 10046</li>
+<li class='mb-2'><a href='https://github.com/permissionlesstech/bitchat-android' class='text-blue-600 hover:underline'>permissionlesstech/bitchat-android</a> ⭐ 6762</li>
+<li class='mb-2'><a href='https://github.com/jenkinsci/jenkins' class='text-blue-600 hover:underline'>jenkinsci/jenkins</a> ⭐ 25727</li>
+<li class='mb-2'><a href='https://github.com/amnezia-vpn/amnezia-client' class='text-blue-600 hover:underline'>amnezia-vpn/amnezia-client</a> ⭐ 13376</li>
+
