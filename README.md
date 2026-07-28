@@ -3565,3 +3565,22 @@
 <li class='mb-2'><a href='https://github.com/jenkinsci/jenkins' class='text-blue-600 hover:underline'>jenkinsci/jenkins</a> ⭐ 25727</li>
 <li class='mb-2'><a href='https://github.com/amnezia-vpn/amnezia-client' class='text-blue-600 hover:underline'>amnezia-vpn/amnezia-client</a> ⭐ 13376</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-28
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/permissionlesstech/bitchat' class='text-blue-600 hover:underline'>permissionlesstech/bitchat</a> ⭐ 32378</li>
+<li class='mb-2'><a href='https://github.com/amnezia-vpn/amnezia-client' class='text-blue-600 hover:underline'>amnezia-vpn/amnezia-client</a> ⭐ 13882</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 44114</li>
+<li class='mb-2'><a href='https://github.com/opengeos/GeoLibre' class='text-blue-600 hover:underline'>opengeos/GeoLibre</a> ⭐ 2767</li>
+<li class='mb-2'><a href='https://github.com/yorukot/superfile' class='text-blue-600 hover:underline'>yorukot/superfile</a> ⭐ 20946</li>
+<li class='mb-2'><a href='https://github.com/NanmiCoder/MediaCrawler' class='text-blue-600 hover:underline'>NanmiCoder/MediaCrawler</a> ⭐ 58322</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 51622</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 34595</li>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 14935</li>
+<li class='mb-2'><a href='https://github.com/jenkinsci/jenkins' class='text-blue-600 hover:underline'>jenkinsci/jenkins</a> ⭐ 25900</li>
+<li class='mb-2'><a href='https://github.com/bradautomates/claude-video' class='text-blue-600 hover:underline'>bradautomates/claude-video</a> ⭐ 11183</li>
+<li class='mb-2'><a href='https://github.com/vudovn/ag-kit' class='text-blue-600 hover:underline'>vudovn/ag-kit</a> ⭐ 7984</li>
+<li class='mb-2'><a href='https://github.com/apache/cassandra' class='text-blue-600 hover:underline'>apache/cassandra</a> ⭐ 9975</li>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 54224</li>
+<li class='mb-2'><a href='https://github.com/ocornut/imgui' class='text-blue-600 hover:underline'>ocornut/imgui</a> ⭐ 75225</li>
+
