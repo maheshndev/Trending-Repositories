@@ -3584,3 +3584,20 @@
 <li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 54224</li>
 <li class='mb-2'><a href='https://github.com/ocornut/imgui' class='text-blue-600 hover:underline'>ocornut/imgui</a> ⭐ 75225</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-29
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 18815</li>
+<li class='mb-2'><a href='https://github.com/jenkinsci/jenkins' class='text-blue-600 hover:underline'>jenkinsci/jenkins</a> ⭐ 26088</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 44829</li>
+<li class='mb-2'><a href='https://github.com/andrewyng/aisuite' class='text-blue-600 hover:underline'>andrewyng/aisuite</a> ⭐ 15708</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 234890</li>
+<li class='mb-2'><a href='https://github.com/hello245m/free-stockdb' class='text-blue-600 hover:underline'>hello245m/free-stockdb</a> ⭐ 1364</li>
+<li class='mb-2'><a href='https://github.com/huggingface/speech-to-speech' class='text-blue-600 hover:underline'>huggingface/speech-to-speech</a> ⭐ 7316</li>
+<li class='mb-2'><a href='https://github.com/virgiliojr94/book-to-skill' class='text-blue-600 hover:underline'>virgiliojr94/book-to-skill</a> ⭐ 11545</li>
+<li class='mb-2'><a href='https://github.com/opengeos/GeoLibre' class='text-blue-600 hover:underline'>opengeos/GeoLibre</a> ⭐ 3452</li>
+<li class='mb-2'><a href='https://github.com/paperswithbacktest/awesome-systematic-trading' class='text-blue-600 hover:underline'>paperswithbacktest/awesome-systematic-trading</a> ⭐ 9704</li>
+<li class='mb-2'><a href='https://github.com/microsoft/agent-governance-toolkit' class='text-blue-600 hover:underline'>microsoft/agent-governance-toolkit</a> ⭐ 5249</li>
+<li class='mb-2'><a href='https://github.com/yorukot/superfile' class='text-blue-600 hover:underline'>yorukot/superfile</a> ⭐ 21519</li>
+<li class='mb-2'><a href='https://github.com/bradautomates/claude-video' class='text-blue-600 hover:underline'>bradautomates/claude-video</a> ⭐ 12181</li>
+
