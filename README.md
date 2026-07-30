@@ -3601,3 +3601,24 @@
 <li class='mb-2'><a href='https://github.com/yorukot/superfile' class='text-blue-600 hover:underline'>yorukot/superfile</a> ⭐ 21519</li>
 <li class='mb-2'><a href='https://github.com/bradautomates/claude-video' class='text-blue-600 hover:underline'>bradautomates/claude-video</a> ⭐ 12181</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-30
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/opengeos/GeoLibre' class='text-blue-600 hover:underline'>opengeos/GeoLibre</a> ⭐ 4106</li>
+<li class='mb-2'><a href='https://github.com/moeru-ai/airi' class='text-blue-600 hover:underline'>moeru-ai/airi</a> ⭐ 45429</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 235634</li>
+<li class='mb-2'><a href='https://github.com/huggingface/speech-to-speech' class='text-blue-600 hover:underline'>huggingface/speech-to-speech</a> ⭐ 7923</li>
+<li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 13513</li>
+<li class='mb-2'><a href='https://github.com/grokability/snipe-it' class='text-blue-600 hover:underline'>grokability/snipe-it</a> ⭐ 14477</li>
+<li class='mb-2'><a href='https://github.com/deepfakes/faceswap' class='text-blue-600 hover:underline'>deepfakes/faceswap</a> ⭐ 56342</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 51347</li>
+<li class='mb-2'><a href='https://github.com/different-ai/openwork' class='text-blue-600 hover:underline'>different-ai/openwork</a> ⭐ 17992</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 263339</li>
+<li class='mb-2'><a href='https://github.com/MoonshotAI/FlashKDA' class='text-blue-600 hover:underline'>MoonshotAI/FlashKDA</a> ⭐ 1000</li>
+<li class='mb-2'><a href='https://github.com/NanmiCoder/MediaCrawler' class='text-blue-600 hover:underline'>NanmiCoder/MediaCrawler</a> ⭐ 59132</li>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 16072</li>
+<li class='mb-2'><a href='https://github.com/paperswithbacktest/awesome-systematic-trading' class='text-blue-600 hover:underline'>paperswithbacktest/awesome-systematic-trading</a> ⭐ 10433</li>
+<li class='mb-2'><a href='https://github.com/maderix/ANE' class='text-blue-600 hover:underline'>maderix/ANE</a> ⭐ 7156</li>
+<li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 19613</li>
+<li class='mb-2'><a href='https://github.com/virgiliojr94/book-to-skill' class='text-blue-600 hover:underline'>virgiliojr94/book-to-skill</a> ⭐ 12851</li>
+
