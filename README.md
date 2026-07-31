@@ -3622,3 +3622,21 @@
 <li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 19613</li>
 <li class='mb-2'><a href='https://github.com/virgiliojr94/book-to-skill' class='text-blue-600 hover:underline'>virgiliojr94/book-to-skill</a> ⭐ 12851</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-07-31
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/huggingface/speech-to-speech' class='text-blue-600 hover:underline'>huggingface/speech-to-speech</a> ⭐ 9019</li>
+<li class='mb-2'><a href='https://github.com/microsoft/AI-For-Beginners' class='text-blue-600 hover:underline'>microsoft/AI-For-Beginners</a> ⭐ 54148</li>
+<li class='mb-2'><a href='https://github.com/paperswithbacktest/awesome-systematic-trading' class='text-blue-600 hover:underline'>paperswithbacktest/awesome-systematic-trading</a> ⭐ 11129</li>
+<li class='mb-2'><a href='https://github.com/different-ai/openwork' class='text-blue-600 hover:underline'>different-ai/openwork</a> ⭐ 18823</li>
+<li class='mb-2'><a href='https://github.com/WhiskeySockets/Baileys' class='text-blue-600 hover:underline'>WhiskeySockets/Baileys</a> ⭐ 10455</li>
+<li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 20165</li>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 55607</li>
+<li class='mb-2'><a href='https://github.com/dotnet/aspnetcore' class='text-blue-600 hover:underline'>dotnet/aspnetcore</a> ⭐ 38301</li>
+<li class='mb-2'><a href='https://github.com/microsoft/PowerToys' class='text-blue-600 hover:underline'>microsoft/PowerToys</a> ⭐ 137163</li>
+<li class='mb-2'><a href='https://github.com/ansible/ansible' class='text-blue-600 hover:underline'>ansible/ansible</a> ⭐ 69914</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 48101</li>
+<li class='mb-2'><a href='https://github.com/jenkinsci/jenkins' class='text-blue-600 hover:underline'>jenkinsci/jenkins</a> ⭐ 26308</li>
+<li class='mb-2'><a href='https://github.com/agavra/tuicr' class='text-blue-600 hover:underline'>agavra/tuicr</a> ⭐ 1891</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 236275</li>
+
