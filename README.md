@@ -3640,3 +3640,19 @@
 <li class='mb-2'><a href='https://github.com/agavra/tuicr' class='text-blue-600 hover:underline'>agavra/tuicr</a> ⭐ 1891</li>
 <li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 236275</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-01
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/zhaoxuya520/reverse-skill' class='text-blue-600 hover:underline'>zhaoxuya520/reverse-skill</a> ⭐ 10838</li>
+<li class='mb-2'><a href='https://github.com/different-ai/openwork' class='text-blue-600 hover:underline'>different-ai/openwork</a> ⭐ 19559</li>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 56268</li>
+<li class='mb-2'><a href='https://github.com/paperswithbacktest/awesome-systematic-trading' class='text-blue-600 hover:underline'>paperswithbacktest/awesome-systematic-trading</a> ⭐ 11799</li>
+<li class='mb-2'><a href='https://github.com/microsoft/AI-For-Beginners' class='text-blue-600 hover:underline'>microsoft/AI-For-Beginners</a> ⭐ 55389</li>
+<li class='mb-2'><a href='https://github.com/github/copilot-sdk' class='text-blue-600 hover:underline'>github/copilot-sdk</a> ⭐ 10148</li>
+<li class='mb-2'><a href='https://github.com/chatwoot/chatwoot' class='text-blue-600 hover:underline'>chatwoot/chatwoot</a> ⭐ 35152</li>
+<li class='mb-2'><a href='https://github.com/agavra/tuicr' class='text-blue-600 hover:underline'>agavra/tuicr</a> ⭐ 2168</li>
+<li class='mb-2'><a href='https://github.com/usekaneo/kaneo' class='text-blue-600 hover:underline'>usekaneo/kaneo</a> ⭐ 5142</li>
+<li class='mb-2'><a href='https://github.com/geo-tp/ESP32-Bit-Pirate' class='text-blue-600 hover:underline'>geo-tp/ESP32-Bit-Pirate</a> ⭐ 5046</li>
+<li class='mb-2'><a href='https://github.com/deepfakes/faceswap' class='text-blue-600 hover:underline'>deepfakes/faceswap</a> ⭐ 57017</li>
+<li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 14653</li>
+
