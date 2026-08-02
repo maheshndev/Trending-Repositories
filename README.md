@@ -3656,3 +3656,22 @@
 <li class='mb-2'><a href='https://github.com/deepfakes/faceswap' class='text-blue-600 hover:underline'>deepfakes/faceswap</a> ⭐ 57017</li>
 <li class='mb-2'><a href='https://github.com/1jehuang/jcode' class='text-blue-600 hover:underline'>1jehuang/jcode</a> ⭐ 14653</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-02
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/microsoft/AI-For-Beginners' class='text-blue-600 hover:underline'>microsoft/AI-For-Beginners</a> ⭐ 57384</li>
+<li class='mb-2'><a href='https://github.com/paperswithbacktest/awesome-systematic-trading' class='text-blue-600 hover:underline'>paperswithbacktest/awesome-systematic-trading</a> ⭐ 12283</li>
+<li class='mb-2'><a href='https://github.com/usekaneo/kaneo' class='text-blue-600 hover:underline'>usekaneo/kaneo</a> ⭐ 5720</li>
+<li class='mb-2'><a href='https://github.com/zhaoxuya520/reverse-skill' class='text-blue-600 hover:underline'>zhaoxuya520/reverse-skill</a> ⭐ 11979</li>
+<li class='mb-2'><a href='https://github.com/microsoft/generative-ai-for-beginners' class='text-blue-600 hover:underline'>microsoft/generative-ai-for-beginners</a> ⭐ 114257</li>
+<li class='mb-2'><a href='https://github.com/github/copilot-sdk' class='text-blue-600 hover:underline'>github/copilot-sdk</a> ⭐ 10288</li>
+<li class='mb-2'><a href='https://github.com/github/gh-stack' class='text-blue-600 hover:underline'>github/gh-stack</a> ⭐ 831</li>
+<li class='mb-2'><a href='https://github.com/huggingface/speech-to-speech' class='text-blue-600 hover:underline'>huggingface/speech-to-speech</a> ⭐ 10239</li>
+<li class='mb-2'><a href='https://github.com/abus-aikorea/voice-pro' class='text-blue-600 hover:underline'>abus-aikorea/voice-pro</a> ⭐ 11788</li>
+<li class='mb-2'><a href='https://github.com/iv-org/invidious' class='text-blue-600 hover:underline'>iv-org/invidious</a> ⭐ 21644</li>
+<li class='mb-2'><a href='https://github.com/ansible/ansible' class='text-blue-600 hover:underline'>ansible/ansible</a> ⭐ 70113</li>
+<li class='mb-2'><a href='https://github.com/microsoft/TRELLIS.2' class='text-blue-600 hover:underline'>microsoft/TRELLIS.2</a> ⭐ 9950</li>
+<li class='mb-2'><a href='https://github.com/TencentCloud/TencentDB-Agent-Memory' class='text-blue-600 hover:underline'>TencentCloud/TencentDB-Agent-Memory</a> ⭐ 10328</li>
+<li class='mb-2'><a href='https://github.com/NomaDamas/k-skill' class='text-blue-600 hover:underline'>NomaDamas/k-skill</a> ⭐ 6750</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 78757</li>
+
