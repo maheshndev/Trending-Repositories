@@ -3675,3 +3675,22 @@
 <li class='mb-2'><a href='https://github.com/NomaDamas/k-skill' class='text-blue-600 hover:underline'>NomaDamas/k-skill</a> ⭐ 6750</li>
 <li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 78757</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-03
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/microsoft/AI-For-Beginners' class='text-blue-600 hover:underline'>microsoft/AI-For-Beginners</a> ⭐ 59305</li>
+<li class='mb-2'><a href='https://github.com/usekaneo/kaneo' class='text-blue-600 hover:underline'>usekaneo/kaneo</a> ⭐ 6243</li>
+<li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 25785</li>
+<li class='mb-2'><a href='https://github.com/iv-org/invidious' class='text-blue-600 hover:underline'>iv-org/invidious</a> ⭐ 22016</li>
+<li class='mb-2'><a href='https://github.com/codecrafters-io/build-your-own-x' class='text-blue-600 hover:underline'>codecrafters-io/build-your-own-x</a> ⭐ 535007</li>
+<li class='mb-2'><a href='https://github.com/zhaoxuya520/reverse-skill' class='text-blue-600 hover:underline'>zhaoxuya520/reverse-skill</a> ⭐ 13784</li>
+<li class='mb-2'><a href='https://github.com/different-ai/openwork' class='text-blue-600 hover:underline'>different-ai/openwork</a> ⭐ 20393</li>
+<li class='mb-2'><a href='https://github.com/microsoft/generative-ai-for-beginners' class='text-blue-600 hover:underline'>microsoft/generative-ai-for-beginners</a> ⭐ 114865</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 64834</li>
+<li class='mb-2'><a href='https://github.com/TencentCloud/TencentDB-Agent-Memory' class='text-blue-600 hover:underline'>TencentCloud/TencentDB-Agent-Memory</a> ⭐ 11169</li>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 56915</li>
+<li class='mb-2'><a href='https://github.com/NomaDamas/k-skill' class='text-blue-600 hover:underline'>NomaDamas/k-skill</a> ⭐ 6907</li>
+<li class='mb-2'><a href='https://github.com/HarbourMasters/Lighthouse' class='text-blue-600 hover:underline'>HarbourMasters/Lighthouse</a> ⭐ 230</li>
+<li class='mb-2'><a href='https://github.com/antirez/ds4' class='text-blue-600 hover:underline'>antirez/ds4</a> ⭐ 20046</li>
+<li class='mb-2'><a href='https://github.com/esengine/DeepSeek-Reasonix' class='text-blue-600 hover:underline'>esengine/DeepSeek-Reasonix</a> ⭐ 29173</li>
+
