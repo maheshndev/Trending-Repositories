@@ -3694,3 +3694,23 @@
 <li class='mb-2'><a href='https://github.com/antirez/ds4' class='text-blue-600 hover:underline'>antirez/ds4</a> ⭐ 20046</li>
 <li class='mb-2'><a href='https://github.com/esengine/DeepSeek-Reasonix' class='text-blue-600 hover:underline'>esengine/DeepSeek-Reasonix</a> ⭐ 29173</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-04
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 27264</li>
+<li class='mb-2'><a href='https://github.com/zhaoxuya520/reverse-skill' class='text-blue-600 hover:underline'>zhaoxuya520/reverse-skill</a> ⭐ 16006</li>
+<li class='mb-2'><a href='https://github.com/firecrawl/pdf-inspector' class='text-blue-600 hover:underline'>firecrawl/pdf-inspector</a> ⭐ 8442</li>
+<li class='mb-2'><a href='https://github.com/esengine/DeepSeek-Reasonix' class='text-blue-600 hover:underline'>esengine/DeepSeek-Reasonix</a> ⭐ 30014</li>
+<li class='mb-2'><a href='https://github.com/TencentCloud/TencentDB-Agent-Memory' class='text-blue-600 hover:underline'>TencentCloud/TencentDB-Agent-Memory</a> ⭐ 12220</li>
+<li class='mb-2'><a href='https://github.com/microsoft/AI-For-Beginners' class='text-blue-600 hover:underline'>microsoft/AI-For-Beginners</a> ⭐ 60866</li>
+<li class='mb-2'><a href='https://github.com/microsoft/generative-ai-for-beginners' class='text-blue-600 hover:underline'>microsoft/generative-ai-for-beginners</a> ⭐ 115647</li>
+<li class='mb-2'><a href='https://github.com/donnemartin/system-design-primer' class='text-blue-600 hover:underline'>donnemartin/system-design-primer</a> ⭐ 360588</li>
+<li class='mb-2'><a href='https://github.com/antirez/ds4' class='text-blue-600 hover:underline'>antirez/ds4</a> ⭐ 20391</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 35842</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 65812</li>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 44077</li>
+<li class='mb-2'><a href='https://github.com/iv-org/invidious' class='text-blue-600 hover:underline'>iv-org/invidious</a> ⭐ 22290</li>
+<li class='mb-2'><a href='https://github.com/livekit/agents' class='text-blue-600 hover:underline'>livekit/agents</a> ⭐ 12035</li>
+<li class='mb-2'><a href='https://github.com/usekaneo/kaneo' class='text-blue-600 hover:underline'>usekaneo/kaneo</a> ⭐ 6902</li>
+<li class='mb-2'><a href='https://github.com/jamiepine/voicebox' class='text-blue-600 hover:underline'>jamiepine/voicebox</a> ⭐ 48744</li>
+
