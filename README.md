@@ -3714,3 +3714,25 @@
 <li class='mb-2'><a href='https://github.com/usekaneo/kaneo' class='text-blue-600 hover:underline'>usekaneo/kaneo</a> ⭐ 6902</li>
 <li class='mb-2'><a href='https://github.com/jamiepine/voicebox' class='text-blue-600 hover:underline'>jamiepine/voicebox</a> ⭐ 48744</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-05
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/TencentCloud/TencentDB-Agent-Memory' class='text-blue-600 hover:underline'>TencentCloud/TencentDB-Agent-Memory</a> ⭐ 13815</li>
+<li class='mb-2'><a href='https://github.com/zhaoxuya520/reverse-skill' class='text-blue-600 hover:underline'>zhaoxuya520/reverse-skill</a> ⭐ 18037</li>
+<li class='mb-2'><a href='https://github.com/firecrawl/pdf-inspector' class='text-blue-600 hover:underline'>firecrawl/pdf-inspector</a> ⭐ 10158</li>
+<li class='mb-2'><a href='https://github.com/uber/ADR' class='text-blue-600 hover:underline'>uber/ADR</a> ⭐ 709</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 266551</li>
+<li class='mb-2'><a href='https://github.com/microsoft/generative-ai-for-beginners' class='text-blue-600 hover:underline'>microsoft/generative-ai-for-beginners</a> ⭐ 116322</li>
+<li class='mb-2'><a href='https://github.com/cypress-io/cypress' class='text-blue-600 hover:underline'>cypress-io/cypress</a> ⭐ 50809</li>
+<li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 28445</li>
+<li class='mb-2'><a href='https://github.com/webpack/webpack' class='text-blue-600 hover:underline'>webpack/webpack</a> ⭐ 65943</li>
+<li class='mb-2'><a href='https://github.com/gabime/spdlog' class='text-blue-600 hover:underline'>gabime/spdlog</a> ⭐ 29385</li>
+<li class='mb-2'><a href='https://github.com/denoland/deno' class='text-blue-600 hover:underline'>denoland/deno</a> ⭐ 108072</li>
+<li class='mb-2'><a href='https://github.com/usekaneo/kaneo' class='text-blue-600 hover:underline'>usekaneo/kaneo</a> ⭐ 7315</li>
+<li class='mb-2'><a href='https://github.com/livekit/agents' class='text-blue-600 hover:underline'>livekit/agents</a> ⭐ 12445</li>
+<li class='mb-2'><a href='https://github.com/angular/angular' class='text-blue-600 hover:underline'>angular/angular</a> ⭐ 100844</li>
+<li class='mb-2'><a href='https://github.com/tailwindlabs/tailwindcss' class='text-blue-600 hover:underline'>tailwindlabs/tailwindcss</a> ⭐ 96505</li>
+<li class='mb-2'><a href='https://github.com/browser-use/video-use' class='text-blue-600 hover:underline'>browser-use/video-use</a> ⭐ 19380</li>
+<li class='mb-2'><a href='https://github.com/esengine/DeepSeek-Reasonix' class='text-blue-600 hover:underline'>esengine/DeepSeek-Reasonix</a> ⭐ 30860</li>
+<li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 23892</li>
+
