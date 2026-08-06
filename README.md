@@ -3736,3 +3736,20 @@
 <li class='mb-2'><a href='https://github.com/esengine/DeepSeek-Reasonix' class='text-blue-600 hover:underline'>esengine/DeepSeek-Reasonix</a> ⭐ 30860</li>
 <li class='mb-2'><a href='https://github.com/EveryInc/compound-engineering-plugin' class='text-blue-600 hover:underline'>EveryInc/compound-engineering-plugin</a> ⭐ 23892</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-06
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/cloudflare/computer' class='text-blue-600 hover:underline'>cloudflare/computer</a> ⭐ 3199</li>
+<li class='mb-2'><a href='https://github.com/huangruiteng/loopx' class='text-blue-600 hover:underline'>huangruiteng/loopx</a> ⭐ 2236</li>
+<li class='mb-2'><a href='https://github.com/TencentCloud/TencentDB-Agent-Memory' class='text-blue-600 hover:underline'>TencentCloud/TencentDB-Agent-Memory</a> ⭐ 15174</li>
+<li class='mb-2'><a href='https://github.com/donnemartin/system-design-primer' class='text-blue-600 hover:underline'>donnemartin/system-design-primer</a> ⭐ 361605</li>
+<li class='mb-2'><a href='https://github.com/firecrawl/pdf-inspector' class='text-blue-600 hover:underline'>firecrawl/pdf-inspector</a> ⭐ 11542</li>
+<li class='mb-2'><a href='https://github.com/esengine/DeepSeek-Reasonix' class='text-blue-600 hover:underline'>esengine/DeepSeek-Reasonix</a> ⭐ 31720</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 82029</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 267354</li>
+<li class='mb-2'><a href='https://github.com/roboflow/supervision' class='text-blue-600 hover:underline'>roboflow/supervision</a> ⭐ 48955</li>
+<li class='mb-2'><a href='https://github.com/vercel/next.js' class='text-blue-600 hover:underline'>vercel/next.js</a> ⭐ 141567</li>
+<li class='mb-2'><a href='https://github.com/tailwindlabs/tailwindcss' class='text-blue-600 hover:underline'>tailwindlabs/tailwindcss</a> ⭐ 96882</li>
+<li class='mb-2'><a href='https://github.com/uber/ADR' class='text-blue-600 hover:underline'>uber/ADR</a> ⭐ 1073</li>
+<li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 29149</li>
+
