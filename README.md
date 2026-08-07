@@ -3753,3 +3753,20 @@
 <li class='mb-2'><a href='https://github.com/uber/ADR' class='text-blue-600 hover:underline'>uber/ADR</a> ⭐ 1073</li>
 <li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 29149</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-07
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/TencentCloud/TencentDB-Agent-Memory' class='text-blue-600 hover:underline'>TencentCloud/TencentDB-Agent-Memory</a> ⭐ 16519</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 83012</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/computer' class='text-blue-600 hover:underline'>cloudflare/computer</a> ⭐ 4879</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 207234</li>
+<li class='mb-2'><a href='https://github.com/goauthentik/authentik' class='text-blue-600 hover:underline'>goauthentik/authentik</a> ⭐ 23159</li>
+<li class='mb-2'><a href='https://github.com/huangruiteng/loopx' class='text-blue-600 hover:underline'>huangruiteng/loopx</a> ⭐ 2925</li>
+<li class='mb-2'><a href='https://github.com/google/guava' class='text-blue-600 hover:underline'>google/guava</a> ⭐ 51651</li>
+<li class='mb-2'><a href='https://github.com/TapXWorld/ChinaTextbook' class='text-blue-600 hover:underline'>TapXWorld/ChinaTextbook</a> ⭐ 77185</li>
+<li class='mb-2'><a href='https://github.com/Significant-Gravitas/AutoGPT' class='text-blue-600 hover:underline'>Significant-Gravitas/AutoGPT</a> ⭐ 186045</li>
+<li class='mb-2'><a href='https://github.com/tirth8205/code-review-graph' class='text-blue-600 hover:underline'>tirth8205/code-review-graph</a> ⭐ 29068</li>
+<li class='mb-2'><a href='https://github.com/esengine/DeepSeek-Reasonix' class='text-blue-600 hover:underline'>esengine/DeepSeek-Reasonix</a> ⭐ 32501</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 268157</li>
+<li class='mb-2'><a href='https://github.com/firecrawl/pdf-inspector' class='text-blue-600 hover:underline'>firecrawl/pdf-inspector</a> ⭐ 12530</li>
+
