@@ -3770,3 +3770,24 @@
 <li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 268157</li>
 <li class='mb-2'><a href='https://github.com/firecrawl/pdf-inspector' class='text-blue-600 hover:underline'>firecrawl/pdf-inspector</a> ⭐ 12530</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-08
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/PrimeIntellect-ai/prime-agent' class='text-blue-600 hover:underline'>PrimeIntellect-ai/prime-agent</a> ⭐ 6602</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 83922</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/computer' class='text-blue-600 hover:underline'>cloudflare/computer</a> ⭐ 5759</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 208858</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 268757</li>
+<li class='mb-2'><a href='https://github.com/goauthentik/authentik' class='text-blue-600 hover:underline'>goauthentik/authentik</a> ⭐ 23618</li>
+<li class='mb-2'><a href='https://github.com/semantica-agi/semantica' class='text-blue-600 hover:underline'>semantica-agi/semantica</a> ⭐ 2360</li>
+<li class='mb-2'><a href='https://github.com/666ghj/MiroFish' class='text-blue-600 hover:underline'>666ghj/MiroFish</a> ⭐ 70515</li>
+<li class='mb-2'><a href='https://github.com/chenyme/grok2api' class='text-blue-600 hover:underline'>chenyme/grok2api</a> ⭐ 7144</li>
+<li class='mb-2'><a href='https://github.com/jdx/mise' class='text-blue-600 hover:underline'>jdx/mise</a> ⭐ 32078</li>
+<li class='mb-2'><a href='https://github.com/Significant-Gravitas/AutoGPT' class='text-blue-600 hover:underline'>Significant-Gravitas/AutoGPT</a> ⭐ 186333</li>
+<li class='mb-2'><a href='https://github.com/google/guava' class='text-blue-600 hover:underline'>google/guava</a> ⭐ 51765</li>
+<li class='mb-2'><a href='https://github.com/unclebob/swarm-forge' class='text-blue-600 hover:underline'>unclebob/swarm-forge</a> ⭐ 1835</li>
+<li class='mb-2'><a href='https://github.com/denoland/celld' class='text-blue-600 hover:underline'>denoland/celld</a> ⭐ 2220</li>
+<li class='mb-2'><a href='https://github.com/K2SOsint/Legendary_OSINT' class='text-blue-600 hover:underline'>K2SOsint/Legendary_OSINT</a> ⭐ 1444</li>
+<li class='mb-2'><a href='https://github.com/pranshuparmar/witr' class='text-blue-600 hover:underline'>pranshuparmar/witr</a> ⭐ 19770</li>
+<li class='mb-2'><a href='https://github.com/google/skills' class='text-blue-600 hover:underline'>google/skills</a> ⭐ 16264</li>
+
