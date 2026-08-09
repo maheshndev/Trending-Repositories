@@ -3791,3 +3791,19 @@
 <li class='mb-2'><a href='https://github.com/pranshuparmar/witr' class='text-blue-600 hover:underline'>pranshuparmar/witr</a> ⭐ 19770</li>
 <li class='mb-2'><a href='https://github.com/google/skills' class='text-blue-600 hover:underline'>google/skills</a> ⭐ 16264</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-09
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/PrimeIntellect-ai/prime-agent' class='text-blue-600 hover:underline'>PrimeIntellect-ai/prime-agent</a> ⭐ 9005</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 84589</li>
+<li class='mb-2'><a href='https://github.com/TapXWorld/ChinaTextbook' class='text-blue-600 hover:underline'>TapXWorld/ChinaTextbook</a> ⭐ 77947</li>
+<li class='mb-2'><a href='https://github.com/google/skills' class='text-blue-600 hover:underline'>google/skills</a> ⭐ 16752</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 210051</li>
+<li class='mb-2'><a href='https://github.com/goauthentik/authentik' class='text-blue-600 hover:underline'>goauthentik/authentik</a> ⭐ 23986</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 96500</li>
+<li class='mb-2'><a href='https://github.com/google/guava' class='text-blue-600 hover:underline'>google/guava</a> ⭐ 51855</li>
+<li class='mb-2'><a href='https://github.com/LadybirdBrowser/ladybird' class='text-blue-600 hover:underline'>LadybirdBrowser/ladybird</a> ⭐ 65000</li>
+<li class='mb-2'><a href='https://github.com/denoland/celld' class='text-blue-600 hover:underline'>denoland/celld</a> ⭐ 2588</li>
+<li class='mb-2'><a href='https://github.com/litu54/DevOps-Interview-Guide' class='text-blue-600 hover:underline'>litu54/DevOps-Interview-Guide</a> ⭐ 710</li>
+<li class='mb-2'><a href='https://github.com/bannedbook/fanqiang' class='text-blue-600 hover:underline'>bannedbook/fanqiang</a> ⭐ 49902</li>
+
