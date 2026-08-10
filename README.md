@@ -3807,3 +3807,19 @@
 <li class='mb-2'><a href='https://github.com/litu54/DevOps-Interview-Guide' class='text-blue-600 hover:underline'>litu54/DevOps-Interview-Guide</a> ⭐ 710</li>
 <li class='mb-2'><a href='https://github.com/bannedbook/fanqiang' class='text-blue-600 hover:underline'>bannedbook/fanqiang</a> ⭐ 49902</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-10
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/PrimeIntellect-ai/prime-agent' class='text-blue-600 hover:underline'>PrimeIntellect-ai/prime-agent</a> ⭐ 11245</li>
+<li class='mb-2'><a href='https://github.com/vitali87/code-graph-rag' class='text-blue-600 hover:underline'>vitali87/code-graph-rag</a> ⭐ 3029</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 140757</li>
+<li class='mb-2'><a href='https://github.com/pranshuparmar/witr' class='text-blue-600 hover:underline'>pranshuparmar/witr</a> ⭐ 20710</li>
+<li class='mb-2'><a href='https://github.com/google-deepmind/weathernext' class='text-blue-600 hover:underline'>google-deepmind/weathernext</a> ⭐ 7100</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 85172</li>
+<li class='mb-2'><a href='https://github.com/ZhuLinsen/daily_stock_analysis' class='text-blue-600 hover:underline'>ZhuLinsen/daily_stock_analysis</a> ⭐ 61239</li>
+<li class='mb-2'><a href='https://github.com/goauthentik/authentik' class='text-blue-600 hover:underline'>goauthentik/authentik</a> ⭐ 24294</li>
+<li class='mb-2'><a href='https://github.com/google/skills' class='text-blue-600 hover:underline'>google/skills</a> ⭐ 17257</li>
+<li class='mb-2'><a href='https://github.com/Comfy-Org/ComfyUI' class='text-blue-600 hover:underline'>Comfy-Org/ComfyUI</a> ⭐ 125577</li>
+<li class='mb-2'><a href='https://github.com/harveyai/harvey-labs' class='text-blue-600 hover:underline'>harveyai/harvey-labs</a> ⭐ 838</li>
+<li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 17672</li>
+
