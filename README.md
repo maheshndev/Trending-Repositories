@@ -3823,3 +3823,23 @@
 <li class='mb-2'><a href='https://github.com/harveyai/harvey-labs' class='text-blue-600 hover:underline'>harveyai/harvey-labs</a> ⭐ 838</li>
 <li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 17672</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-11
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/semantica-agi/semantica' class='text-blue-600 hover:underline'>semantica-agi/semantica</a> ⭐ 4154</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 141866</li>
+<li class='mb-2'><a href='https://github.com/NanmiCoder/MediaCrawler' class='text-blue-600 hover:underline'>NanmiCoder/MediaCrawler</a> ⭐ 61083</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 85763</li>
+<li class='mb-2'><a href='https://github.com/paperclipai/paperclip' class='text-blue-600 hover:underline'>paperclipai/paperclip</a> ⭐ 76530</li>
+<li class='mb-2'><a href='https://github.com/PrimeIntellect-ai/prime-agent' class='text-blue-600 hover:underline'>PrimeIntellect-ai/prime-agent</a> ⭐ 13126</li>
+<li class='mb-2'><a href='https://github.com/LadybirdBrowser/ladybird' class='text-blue-600 hover:underline'>LadybirdBrowser/ladybird</a> ⭐ 65268</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 89380</li>
+<li class='mb-2'><a href='https://github.com/danielmiessler/LifeOS' class='text-blue-600 hover:underline'>danielmiessler/LifeOS</a> ⭐ 17943</li>
+<li class='mb-2'><a href='https://github.com/firecrawl/firecrawl' class='text-blue-600 hover:underline'>firecrawl/firecrawl</a> ⭐ 165117</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 97243</li>
+<li class='mb-2'><a href='https://github.com/google-deepmind/weathernext' class='text-blue-600 hover:underline'>google-deepmind/weathernext</a> ⭐ 7361</li>
+<li class='mb-2'><a href='https://github.com/vitali87/code-graph-rag' class='text-blue-600 hover:underline'>vitali87/code-graph-rag</a> ⭐ 3549</li>
+<li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 18037</li>
+<li class='mb-2'><a href='https://github.com/Comfy-Org/ComfyUI' class='text-blue-600 hover:underline'>Comfy-Org/ComfyUI</a> ⭐ 126345</li>
+<li class='mb-2'><a href='https://github.com/opa334/Dopamine' class='text-blue-600 hover:underline'>opa334/Dopamine</a> ⭐ 6041</li>
+
