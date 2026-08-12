@@ -3843,3 +3843,24 @@
 <li class='mb-2'><a href='https://github.com/Comfy-Org/ComfyUI' class='text-blue-600 hover:underline'>Comfy-Org/ComfyUI</a> ⭐ 126345</li>
 <li class='mb-2'><a href='https://github.com/opa334/Dopamine' class='text-blue-600 hover:underline'>opa334/Dopamine</a> ⭐ 6041</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-12
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 143320</li>
+<li class='mb-2'><a href='https://github.com/semantica-agi/semantica' class='text-blue-600 hover:underline'>semantica-agi/semantica</a> ⭐ 4930</li>
+<li class='mb-2'><a href='https://github.com/nvm-sh/nvm' class='text-blue-600 hover:underline'>nvm-sh/nvm</a> ⭐ 94494</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 86246</li>
+<li class='mb-2'><a href='https://github.com/ZhuLinsen/daily_stock_analysis' class='text-blue-600 hover:underline'>ZhuLinsen/daily_stock_analysis</a> ⭐ 62170</li>
+<li class='mb-2'><a href='https://github.com/vitali87/code-graph-rag' class='text-blue-600 hover:underline'>vitali87/code-graph-rag</a> ⭐ 3845</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 168161</li>
+<li class='mb-2'><a href='https://github.com/3b1b/manim' class='text-blue-600 hover:underline'>3b1b/manim</a> ⭐ 90203</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 34768</li>
+<li class='mb-2'><a href='https://github.com/stablyai/orca' class='text-blue-600 hover:underline'>stablyai/orca</a> ⭐ 42841</li>
+<li class='mb-2'><a href='https://github.com/paperclipai/paperclip' class='text-blue-600 hover:underline'>paperclipai/paperclip</a> ⭐ 77197</li>
+<li class='mb-2'><a href='https://github.com/huggingface/transformers' class='text-blue-600 hover:underline'>huggingface/transformers</a> ⭐ 163825</li>
+<li class='mb-2'><a href='https://github.com/harveyai/harvey-labs' class='text-blue-600 hover:underline'>harveyai/harvey-labs</a> ⭐ 1091</li>
+<li class='mb-2'><a href='https://github.com/jaywcjlove/awesome-mac' class='text-blue-600 hover:underline'>jaywcjlove/awesome-mac</a> ⭐ 110501</li>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 47374</li>
+<li class='mb-2'><a href='https://github.com/practical-tutorials/project-based-learning' class='text-blue-600 hover:underline'>practical-tutorials/project-based-learning</a> ⭐ 278481</li>
+<li class='mb-2'><a href='https://github.com/PrimeIntellect-ai/prime-agent' class='text-blue-600 hover:underline'>PrimeIntellect-ai/prime-agent</a> ⭐ 14148</li>
+
