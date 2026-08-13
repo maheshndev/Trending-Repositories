@@ -3864,3 +3864,24 @@
 <li class='mb-2'><a href='https://github.com/practical-tutorials/project-based-learning' class='text-blue-600 hover:underline'>practical-tutorials/project-based-learning</a> ⭐ 278481</li>
 <li class='mb-2'><a href='https://github.com/PrimeIntellect-ai/prime-agent' class='text-blue-600 hover:underline'>PrimeIntellect-ai/prime-agent</a> ⭐ 14148</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-13
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 10694</li>
+<li class='mb-2'><a href='https://github.com/macro-inc/macro' class='text-blue-600 hover:underline'>macro-inc/macro</a> ⭐ 1880</li>
+<li class='mb-2'><a href='https://github.com/semantica-agi/semantica' class='text-blue-600 hover:underline'>semantica-agi/semantica</a> ⭐ 5761</li>
+<li class='mb-2'><a href='https://github.com/stablyai/orca' class='text-blue-600 hover:underline'>stablyai/orca</a> ⭐ 43953</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 144612</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 36949</li>
+<li class='mb-2'><a href='https://github.com/NanmiCoder/MediaCrawler' class='text-blue-600 hover:underline'>NanmiCoder/MediaCrawler</a> ⭐ 62007</li>
+<li class='mb-2'><a href='https://github.com/hugohe3/ppt-master' class='text-blue-600 hover:underline'>hugohe3/ppt-master</a> ⭐ 45654</li>
+<li class='mb-2'><a href='https://github.com/infiniflow/ragflow' class='text-blue-600 hover:underline'>infiniflow/ragflow</a> ⭐ 87575</li>
+<li class='mb-2'><a href='https://github.com/paperclipai/paperclip' class='text-blue-600 hover:underline'>paperclipai/paperclip</a> ⭐ 77758</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA-NeMo/Switchyard' class='text-blue-600 hover:underline'>NVIDIA-NeMo/Switchyard</a> ⭐ 852</li>
+<li class='mb-2'><a href='https://github.com/ZuodaoTech/everyone-can-use-english' class='text-blue-600 hover:underline'>ZuodaoTech/everyone-can-use-english</a> ⭐ 36118</li>
+<li class='mb-2'><a href='https://github.com/smicallef/spiderfoot' class='text-blue-600 hover:underline'>smicallef/spiderfoot</a> ⭐ 20361</li>
+<li class='mb-2'><a href='https://github.com/localsend/localsend' class='text-blue-600 hover:underline'>localsend/localsend</a> ⭐ 87842</li>
+<li class='mb-2'><a href='https://github.com/Lightricks/LTX-2' class='text-blue-600 hover:underline'>Lightricks/LTX-2</a> ⭐ 8724</li>
+<li class='mb-2'><a href='https://github.com/embabel/embabel-agent' class='text-blue-600 hover:underline'>embabel/embabel-agent</a> ⭐ 4232</li>
+<li class='mb-2'><a href='https://github.com/cactus-compute/needle' class='text-blue-600 hover:underline'>cactus-compute/needle</a> ⭐ 4270</li>
+
