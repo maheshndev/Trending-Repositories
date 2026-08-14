@@ -3885,3 +3885,24 @@
 <li class='mb-2'><a href='https://github.com/embabel/embabel-agent' class='text-blue-600 hover:underline'>embabel/embabel-agent</a> ⭐ 4232</li>
 <li class='mb-2'><a href='https://github.com/cactus-compute/needle' class='text-blue-600 hover:underline'>cactus-compute/needle</a> ⭐ 4270</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-14
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 14725</li>
+<li class='mb-2'><a href='https://github.com/semantica-agi/semantica' class='text-blue-600 hover:underline'>semantica-agi/semantica</a> ⭐ 6724</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 169069</li>
+<li class='mb-2'><a href='https://github.com/cactus-compute/needle' class='text-blue-600 hover:underline'>cactus-compute/needle</a> ⭐ 4983</li>
+<li class='mb-2'><a href='https://github.com/altic-dev/FluidVoice' class='text-blue-600 hover:underline'>altic-dev/FluidVoice</a> ⭐ 9876</li>
+<li class='mb-2'><a href='https://github.com/unslothai/unsloth' class='text-blue-600 hover:underline'>unslothai/unsloth</a> ⭐ 71084</li>
+<li class='mb-2'><a href='https://github.com/macro-inc/macro' class='text-blue-600 hover:underline'>macro-inc/macro</a> ⭐ 2623</li>
+<li class='mb-2'><a href='https://github.com/megadose/holehe' class='text-blue-600 hover:underline'>megadose/holehe</a> ⭐ 12445</li>
+<li class='mb-2'><a href='https://github.com/smicallef/spiderfoot' class='text-blue-600 hover:underline'>smicallef/spiderfoot</a> ⭐ 20683</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA-NeMo/Switchyard' class='text-blue-600 hover:underline'>NVIDIA-NeMo/Switchyard</a> ⭐ 1233</li>
+<li class='mb-2'><a href='https://github.com/holaboss-ai/holaOS' class='text-blue-600 hover:underline'>holaboss-ai/holaOS</a> ⭐ 6643</li>
+<li class='mb-2'><a href='https://github.com/kepano/obsidian-skills' class='text-blue-600 hover:underline'>kepano/obsidian-skills</a> ⭐ 45814</li>
+<li class='mb-2'><a href='https://github.com/3b1b/manim' class='text-blue-600 hover:underline'>3b1b/manim</a> ⭐ 90886</li>
+<li class='mb-2'><a href='https://github.com/msitarzewski/agency-agents' class='text-blue-600 hover:underline'>msitarzewski/agency-agents</a> ⭐ 145212</li>
+<li class='mb-2'><a href='https://github.com/Lightricks/LTX-2' class='text-blue-600 hover:underline'>Lightricks/LTX-2</a> ⭐ 8935</li>
+<li class='mb-2'><a href='https://github.com/lightningpixel/modly' class='text-blue-600 hover:underline'>lightningpixel/modly</a> ⭐ 5449</li>
+<li class='mb-2'><a href='https://github.com/infiniflow/ragflow' class='text-blue-600 hover:underline'>infiniflow/ragflow</a> ⭐ 88050</li>
+
