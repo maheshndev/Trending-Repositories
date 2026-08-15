@@ -3906,3 +3906,24 @@
 <li class='mb-2'><a href='https://github.com/lightningpixel/modly' class='text-blue-600 hover:underline'>lightningpixel/modly</a> ⭐ 5449</li>
 <li class='mb-2'><a href='https://github.com/infiniflow/ragflow' class='text-blue-600 hover:underline'>infiniflow/ragflow</a> ⭐ 88050</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-15
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 17277</li>
+<li class='mb-2'><a href='https://github.com/cactus-compute/needle' class='text-blue-600 hover:underline'>cactus-compute/needle</a> ⭐ 5618</li>
+<li class='mb-2'><a href='https://github.com/megadose/holehe' class='text-blue-600 hover:underline'>megadose/holehe</a> ⭐ 12855</li>
+<li class='mb-2'><a href='https://github.com/macro-inc/macro' class='text-blue-600 hover:underline'>macro-inc/macro</a> ⭐ 3038</li>
+<li class='mb-2'><a href='https://github.com/smicallef/spiderfoot' class='text-blue-600 hover:underline'>smicallef/spiderfoot</a> ⭐ 20949</li>
+<li class='mb-2'><a href='https://github.com/citrolabs/ego-lite' class='text-blue-600 hover:underline'>citrolabs/ego-lite</a> ⭐ 10372</li>
+<li class='mb-2'><a href='https://github.com/holaboss-ai/holaOS' class='text-blue-600 hover:underline'>holaboss-ai/holaOS</a> ⭐ 7302</li>
+<li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 128528</li>
+<li class='mb-2'><a href='https://github.com/lightningpixel/modly' class='text-blue-600 hover:underline'>lightningpixel/modly</a> ⭐ 5945</li>
+<li class='mb-2'><a href='https://github.com/infiniflow/ragflow' class='text-blue-600 hover:underline'>infiniflow/ragflow</a> ⭐ 88387</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 2812</li>
+<li class='mb-2'><a href='https://github.com/deepseek-ai/awesome-deepseek-agent' class='text-blue-600 hover:underline'>deepseek-ai/awesome-deepseek-agent</a> ⭐ 5709</li>
+<li class='mb-2'><a href='https://github.com/semantica-agi/semantica' class='text-blue-600 hover:underline'>semantica-agi/semantica</a> ⭐ 7532</li>
+<li class='mb-2'><a href='https://github.com/rustdesk/rustdesk' class='text-blue-600 hover:underline'>rustdesk/rustdesk</a> ⭐ 120637</li>
+<li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 83170</li>
+<li class='mb-2'><a href='https://github.com/unslothai/unsloth' class='text-blue-600 hover:underline'>unslothai/unsloth</a> ⭐ 71514</li>
+<li class='mb-2'><a href='https://github.com/ToolJet/ToolJet' class='text-blue-600 hover:underline'>ToolJet/ToolJet</a> ⭐ 39083</li>
+
