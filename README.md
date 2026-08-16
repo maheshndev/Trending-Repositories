@@ -3927,3 +3927,20 @@
 <li class='mb-2'><a href='https://github.com/unslothai/unsloth' class='text-blue-600 hover:underline'>unslothai/unsloth</a> ⭐ 71514</li>
 <li class='mb-2'><a href='https://github.com/ToolJet/ToolJet' class='text-blue-600 hover:underline'>ToolJet/ToolJet</a> ⭐ 39083</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-16
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/cordiverse/cordis' class='text-blue-600 hover:underline'>cordiverse/cordis</a> ⭐ 4078</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 18634</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 2953</li>
+<li class='mb-2'><a href='https://github.com/cactus-compute/needle' class='text-blue-600 hover:underline'>cactus-compute/needle</a> ⭐ 6073</li>
+<li class='mb-2'><a href='https://github.com/unslothai/unsloth' class='text-blue-600 hover:underline'>unslothai/unsloth</a> ⭐ 72054</li>
+<li class='mb-2'><a href='https://github.com/public-apis/public-apis' class='text-blue-600 hover:underline'>public-apis/public-apis</a> ⭐ 460191</li>
+<li class='mb-2'><a href='https://github.com/MakazhanAlpamys/Soup' class='text-blue-600 hover:underline'>MakazhanAlpamys/Soup</a> ⭐ 1674</li>
+<li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 129206</li>
+<li class='mb-2'><a href='https://github.com/megadose/holehe' class='text-blue-600 hover:underline'>megadose/holehe</a> ⭐ 13121</li>
+<li class='mb-2'><a href='https://github.com/altic-dev/FluidVoice' class='text-blue-600 hover:underline'>altic-dev/FluidVoice</a> ⭐ 10333</li>
+<li class='mb-2'><a href='https://github.com/ToolJet/ToolJet' class='text-blue-600 hover:underline'>ToolJet/ToolJet</a> ⭐ 39544</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 47362</li>
+<li class='mb-2'><a href='https://github.com/citrolabs/ego-lite' class='text-blue-600 hover:underline'>citrolabs/ego-lite</a> ⭐ 10976</li>
+
