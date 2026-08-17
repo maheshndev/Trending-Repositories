@@ -3944,3 +3944,14 @@
 <li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 47362</li>
 <li class='mb-2'><a href='https://github.com/citrolabs/ego-lite' class='text-blue-600 hover:underline'>citrolabs/ego-lite</a> ⭐ 10976</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-17
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/cordiverse/cordis' class='text-blue-600 hover:underline'>cordiverse/cordis</a> ⭐ 4746</li>
+<li class='mb-2'><a href='https://github.com/basecamp/omarchy' class='text-blue-600 hover:underline'>basecamp/omarchy</a> ⭐ 25403</li>
+<li class='mb-2'><a href='https://github.com/unslothai/unsloth' class='text-blue-600 hover:underline'>unslothai/unsloth</a> ⭐ 72597</li>
+<li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 83910</li>
+<li class='mb-2'><a href='https://github.com/public-apis/public-apis' class='text-blue-600 hover:underline'>public-apis/public-apis</a> ⭐ 461787</li>
+<li class='mb-2'><a href='https://github.com/ToolJet/ToolJet' class='text-blue-600 hover:underline'>ToolJet/ToolJet</a> ⭐ 40043</li>
+<li class='mb-2'><a href='https://github.com/cactus-compute/needle' class='text-blue-600 hover:underline'>cactus-compute/needle</a> ⭐ 6586</li>
+
