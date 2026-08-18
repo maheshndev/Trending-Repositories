@@ -3955,3 +3955,18 @@
 <li class='mb-2'><a href='https://github.com/ToolJet/ToolJet' class='text-blue-600 hover:underline'>ToolJet/ToolJet</a> ⭐ 40043</li>
 <li class='mb-2'><a href='https://github.com/cactus-compute/needle' class='text-blue-600 hover:underline'>cactus-compute/needle</a> ⭐ 6586</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-18
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 106081</li>
+<li class='mb-2'><a href='https://github.com/usestrix/strix' class='text-blue-600 hover:underline'>usestrix/strix</a> ⭐ 54207</li>
+<li class='mb-2'><a href='https://github.com/nautechsystems/nautilus_trader' class='text-blue-600 hover:underline'>nautechsystems/nautilus_trader</a> ⭐ 25929</li>
+<li class='mb-2'><a href='https://github.com/akitaonrails/ai-memory' class='text-blue-600 hover:underline'>akitaonrails/ai-memory</a> ⭐ 2076</li>
+<li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 28450</li>
+<li class='mb-2'><a href='https://github.com/AlexsJones/llmfit' class='text-blue-600 hover:underline'>AlexsJones/llmfit</a> ⭐ 32298</li>
+<li class='mb-2'><a href='https://github.com/santifer/career-ops' class='text-blue-600 hover:underline'>santifer/career-ops</a> ⭐ 64673</li>
+<li class='mb-2'><a href='https://github.com/jundot/omlx' class='text-blue-600 hover:underline'>jundot/omlx</a> ⭐ 18997</li>
+<li class='mb-2'><a href='https://github.com/immich-app/immich' class='text-blue-600 hover:underline'>immich-app/immich</a> ⭐ 111168</li>
+<li class='mb-2'><a href='https://github.com/cordiverse/cordis' class='text-blue-600 hover:underline'>cordiverse/cordis</a> ⭐ 5602</li>
+<li class='mb-2'><a href='https://github.com/agalwood/Motrix' class='text-blue-600 hover:underline'>agalwood/Motrix</a> ⭐ 53090</li>
+
