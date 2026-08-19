@@ -3970,3 +3970,19 @@
 <li class='mb-2'><a href='https://github.com/cordiverse/cordis' class='text-blue-600 hover:underline'>cordiverse/cordis</a> ⭐ 5602</li>
 <li class='mb-2'><a href='https://github.com/agalwood/Motrix' class='text-blue-600 hover:underline'>agalwood/Motrix</a> ⭐ 53090</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-19
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 108569</li>
+<li class='mb-2'><a href='https://github.com/chaitanyagiri/munder-difflin' class='text-blue-600 hover:underline'>chaitanyagiri/munder-difflin</a> ⭐ 2046</li>
+<li class='mb-2'><a href='https://github.com/akitaonrails/ai-memory' class='text-blue-600 hover:underline'>akitaonrails/ai-memory</a> ⭐ 2735</li>
+<li class='mb-2'><a href='https://github.com/volcengine/OpenViking' class='text-blue-600 hover:underline'>volcengine/OpenViking</a> ⭐ 29393</li>
+<li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 29207</li>
+<li class='mb-2'><a href='https://github.com/public-apis/public-apis' class='text-blue-600 hover:underline'>public-apis/public-apis</a> ⭐ 464586</li>
+<li class='mb-2'><a href='https://github.com/basecamp/omarchy' class='text-blue-600 hover:underline'>basecamp/omarchy</a> ⭐ 26435</li>
+<li class='mb-2'><a href='https://github.com/agalwood/Motrix' class='text-blue-600 hover:underline'>agalwood/Motrix</a> ⭐ 53679</li>
+<li class='mb-2'><a href='https://github.com/NawfalMotii79/PLFM_RADAR' class='text-blue-600 hover:underline'>NawfalMotii79/PLFM_RADAR</a> ⭐ 24313</li>
+<li class='mb-2'><a href='https://github.com/jundot/omlx' class='text-blue-600 hover:underline'>jundot/omlx</a> ⭐ 19410</li>
+<li class='mb-2'><a href='https://github.com/genlayerlabs/genlayer-project-boilerplate' class='text-blue-600 hover:underline'>genlayerlabs/genlayer-project-boilerplate</a> ⭐ 15952</li>
+<li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 84794</li>
+
