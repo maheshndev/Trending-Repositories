@@ -3986,3 +3986,20 @@
 <li class='mb-2'><a href='https://github.com/genlayerlabs/genlayer-project-boilerplate' class='text-blue-600 hover:underline'>genlayerlabs/genlayer-project-boilerplate</a> ⭐ 15952</li>
 <li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 84794</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-20
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 110724</li>
+<li class='mb-2'><a href='https://github.com/volcengine/OpenViking' class='text-blue-600 hover:underline'>volcengine/OpenViking</a> ⭐ 30199</li>
+<li class='mb-2'><a href='https://github.com/chaitanyagiri/munder-difflin' class='text-blue-600 hover:underline'>chaitanyagiri/munder-difflin</a> ⭐ 2696</li>
+<li class='mb-2'><a href='https://github.com/mukul975/Anthropic-Cybersecurity-Skills' class='text-blue-600 hover:underline'>mukul975/Anthropic-Cybersecurity-Skills</a> ⭐ 29848</li>
+<li class='mb-2'><a href='https://github.com/nautechsystems/nautilus_trader' class='text-blue-600 hover:underline'>nautechsystems/nautilus_trader</a> ⭐ 26447</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 223836</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 274280</li>
+<li class='mb-2'><a href='https://github.com/jundot/omlx' class='text-blue-600 hover:underline'>jundot/omlx</a> ⭐ 19841</li>
+<li class='mb-2'><a href='https://github.com/santifer/career-ops' class='text-blue-600 hover:underline'>santifer/career-ops</a> ⭐ 65803</li>
+<li class='mb-2'><a href='https://github.com/immich-app/immich' class='text-blue-600 hover:underline'>immich-app/immich</a> ⭐ 111882</li>
+<li class='mb-2'><a href='https://github.com/amadeusprotocol/node' class='text-blue-600 hover:underline'>amadeusprotocol/node</a> ⭐ 4558</li>
+<li class='mb-2'><a href='https://github.com/marceloprates/prettymaps' class='text-blue-600 hover:underline'>marceloprates/prettymaps</a> ⭐ 13131</li>
+<li class='mb-2'><a href='https://github.com/genlayerlabs/genlayer-project-boilerplate' class='text-blue-600 hover:underline'>genlayerlabs/genlayer-project-boilerplate</a> ⭐ 16225</li>
+
