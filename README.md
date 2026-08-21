@@ -4003,3 +4003,24 @@
 <li class='mb-2'><a href='https://github.com/marceloprates/prettymaps' class='text-blue-600 hover:underline'>marceloprates/prettymaps</a> ⭐ 13131</li>
 <li class='mb-2'><a href='https://github.com/genlayerlabs/genlayer-project-boilerplate' class='text-blue-600 hover:underline'>genlayerlabs/genlayer-project-boilerplate</a> ⭐ 16225</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-21
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/modular/modular' class='text-blue-600 hover:underline'>modular/modular</a> ⭐ 27962</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 226555</li>
+<li class='mb-2'><a href='https://github.com/AprilNEA/OpenLogi' class='text-blue-600 hover:underline'>AprilNEA/OpenLogi</a> ⭐ 11906</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 274961</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 4089</li>
+<li class='mb-2'><a href='https://github.com/santifer/career-ops' class='text-blue-600 hover:underline'>santifer/career-ops</a> ⭐ 66697</li>
+<li class='mb-2'><a href='https://github.com/akitaonrails/ai-memory' class='text-blue-600 hover:underline'>akitaonrails/ai-memory</a> ⭐ 3622</li>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 112971</li>
+<li class='mb-2'><a href='https://github.com/agent-substrate/substrate' class='text-blue-600 hover:underline'>agent-substrate/substrate</a> ⭐ 1399</li>
+<li class='mb-2'><a href='https://github.com/chaitanyagiri/munder-difflin' class='text-blue-600 hover:underline'>chaitanyagiri/munder-difflin</a> ⭐ 3136</li>
+<li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 38010</li>
+<li class='mb-2'><a href='https://github.com/mahlernim/google-timeline-visualizer' class='text-blue-600 hover:underline'>mahlernim/google-timeline-visualizer</a> ⭐ 1582</li>
+<li class='mb-2'><a href='https://github.com/volcengine/OpenViking' class='text-blue-600 hover:underline'>volcengine/OpenViking</a> ⭐ 31036</li>
+<li class='mb-2'><a href='https://github.com/JuliusBrussee/caveman' class='text-blue-600 hover:underline'>JuliusBrussee/caveman</a> ⭐ 99646</li>
+<li class='mb-2'><a href='https://github.com/makeplane/plane' class='text-blue-600 hover:underline'>makeplane/plane</a> ⭐ 56513</li>
+<li class='mb-2'><a href='https://github.com/Tencent/AI-Infra-Guard' class='text-blue-600 hover:underline'>Tencent/AI-Infra-Guard</a> ⭐ 4974</li>
+<li class='mb-2'><a href='https://github.com/RyanCodrai/turbovec' class='text-blue-600 hover:underline'>RyanCodrai/turbovec</a> ⭐ 15954</li>
+
