@@ -4024,3 +4024,24 @@
 <li class='mb-2'><a href='https://github.com/Tencent/AI-Infra-Guard' class='text-blue-600 hover:underline'>Tencent/AI-Infra-Guard</a> ⭐ 4974</li>
 <li class='mb-2'><a href='https://github.com/RyanCodrai/turbovec' class='text-blue-600 hover:underline'>RyanCodrai/turbovec</a> ⭐ 15954</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-22
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 229524</li>
+<li class='mb-2'><a href='https://github.com/mahlernim/google-timeline-visualizer' class='text-blue-600 hover:underline'>mahlernim/google-timeline-visualizer</a> ⭐ 2226</li>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 113926</li>
+<li class='mb-2'><a href='https://github.com/AprilNEA/OpenLogi' class='text-blue-600 hover:underline'>AprilNEA/OpenLogi</a> ⭐ 12953</li>
+<li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 38294</li>
+<li class='mb-2'><a href='https://github.com/microsoft/TypeScript' class='text-blue-600 hover:underline'>microsoft/TypeScript</a> ⭐ 110379</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 275665</li>
+<li class='mb-2'><a href='https://github.com/santifer/career-ops' class='text-blue-600 hover:underline'>santifer/career-ops</a> ⭐ 67452</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 4409</li>
+<li class='mb-2'><a href='https://github.com/modular/modular' class='text-blue-600 hover:underline'>modular/modular</a> ⭐ 28689</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 241799</li>
+<li class='mb-2'><a href='https://github.com/TryGhost/Ghost' class='text-blue-600 hover:underline'>TryGhost/Ghost</a> ⭐ 54890</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 68648</li>
+<li class='mb-2'><a href='https://github.com/apache/maka' class='text-blue-600 hover:underline'>apache/maka</a> ⭐ 2022</li>
+<li class='mb-2'><a href='https://github.com/protocolbuffers/protobuf' class='text-blue-600 hover:underline'>protocolbuffers/protobuf</a> ⭐ 71771</li>
+<li class='mb-2'><a href='https://github.com/elder-plinius/OBLITERATUS' class='text-blue-600 hover:underline'>elder-plinius/OBLITERATUS</a> ⭐ 7792</li>
+<li class='mb-2'><a href='https://github.com/microsoft/onnxruntime' class='text-blue-600 hover:underline'>microsoft/onnxruntime</a> ⭐ 21453</li>
+
