@@ -4045,3 +4045,24 @@
 <li class='mb-2'><a href='https://github.com/elder-plinius/OBLITERATUS' class='text-blue-600 hover:underline'>elder-plinius/OBLITERATUS</a> ⭐ 7792</li>
 <li class='mb-2'><a href='https://github.com/microsoft/onnxruntime' class='text-blue-600 hover:underline'>microsoft/onnxruntime</a> ⭐ 21453</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-23
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/openai/codex' class='text-blue-600 hover:underline'>openai/codex</a> ⭐ 113427</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 232086</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 242174</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 276196</li>
+<li class='mb-2'><a href='https://github.com/Wei-Shaw/sub2api' class='text-blue-600 hover:underline'>Wei-Shaw/sub2api</a> ⭐ 38792</li>
+<li class='mb-2'><a href='https://github.com/makeplane/plane' class='text-blue-600 hover:underline'>makeplane/plane</a> ⭐ 57232</li>
+<li class='mb-2'><a href='https://github.com/n8n-io/n8n' class='text-blue-600 hover:underline'>n8n-io/n8n</a> ⭐ 201828</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 142545</li>
+<li class='mb-2'><a href='https://github.com/AprilNEA/OpenLogi' class='text-blue-600 hover:underline'>AprilNEA/OpenLogi</a> ⭐ 13959</li>
+<li class='mb-2'><a href='https://github.com/modular/modular' class='text-blue-600 hover:underline'>modular/modular</a> ⭐ 28847</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 205314</li>
+<li class='mb-2'><a href='https://github.com/mahlernim/google-timeline-visualizer' class='text-blue-600 hover:underline'>mahlernim/google-timeline-visualizer</a> ⭐ 2569</li>
+<li class='mb-2'><a href='https://github.com/ripienaar/free-for-dev' class='text-blue-600 hover:underline'>ripienaar/free-for-dev</a> ⭐ 133918</li>
+<li class='mb-2'><a href='https://github.com/microsoft/TypeScript' class='text-blue-600 hover:underline'>microsoft/TypeScript</a> ⭐ 110541</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 4670</li>
+<li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 38619</li>
+<li class='mb-2'><a href='https://github.com/Tencent/AI-Infra-Guard' class='text-blue-600 hover:underline'>Tencent/AI-Infra-Guard</a> ⭐ 5502</li>
+
