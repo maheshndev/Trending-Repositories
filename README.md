@@ -4066,3 +4066,25 @@
 <li class='mb-2'><a href='https://github.com/PostHog/posthog' class='text-blue-600 hover:underline'>PostHog/posthog</a> ⭐ 38619</li>
 <li class='mb-2'><a href='https://github.com/Tencent/AI-Infra-Guard' class='text-blue-600 hover:underline'>Tencent/AI-Infra-Guard</a> ⭐ 5502</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-24
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/openai/codex' class='text-blue-600 hover:underline'>openai/codex</a> ⭐ 115236</li>
+<li class='mb-2'><a href='https://github.com/freestylefly/awesome-gpt-image-2' class='text-blue-600 hover:underline'>freestylefly/awesome-gpt-image-2</a> ⭐ 12758</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 233884</li>
+<li class='mb-2'><a href='https://github.com/basecamp/omarchy' class='text-blue-600 hover:underline'>basecamp/omarchy</a> ⭐ 29150</li>
+<li class='mb-2'><a href='https://github.com/AprilNEA/OpenLogi' class='text-blue-600 hover:underline'>AprilNEA/OpenLogi</a> ⭐ 14964</li>
+<li class='mb-2'><a href='https://github.com/block/buzz' class='text-blue-600 hover:underline'>block/buzz</a> ⭐ 30126</li>
+<li class='mb-2'><a href='https://github.com/apache/maka' class='text-blue-600 hover:underline'>apache/maka</a> ⭐ 2361</li>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 47985</li>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 36764</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 242563</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 69084</li>
+<li class='mb-2'><a href='https://github.com/VoltAgent/awesome-agent-skills' class='text-blue-600 hover:underline'>VoltAgent/awesome-agent-skills</a> ⭐ 31303</li>
+<li class='mb-2'><a href='https://github.com/virgiliojr94/book-to-skill' class='text-blue-600 hover:underline'>virgiliojr94/book-to-skill</a> ⭐ 24676</li>
+<li class='mb-2'><a href='https://github.com/dani-garcia/vaultwarden' class='text-blue-600 hover:underline'>dani-garcia/vaultwarden</a> ⭐ 65965</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-community' class='text-blue-600 hover:underline'>anthropics/claude-plugins-community</a> ⭐ 968</li>
+<li class='mb-2'><a href='https://github.com/ripienaar/free-for-dev' class='text-blue-600 hover:underline'>ripienaar/free-for-dev</a> ⭐ 134440</li>
+<li class='mb-2'><a href='https://github.com/Comfy-Org/ComfyUI' class='text-blue-600 hover:underline'>Comfy-Org/ComfyUI</a> ⭐ 129397</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 235009</li>
+
