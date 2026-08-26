@@ -4111,3 +4111,23 @@
 <li class='mb-2'><a href='https://github.com/VoltAgent/awesome-agent-skills' class='text-blue-600 hover:underline'>VoltAgent/awesome-agent-skills</a> ⭐ 31891</li>
 <li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 37276</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-26
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/freestylefly/awesome-gpt-image-2' class='text-blue-600 hover:underline'>freestylefly/awesome-gpt-image-2</a> ⭐ 17914</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-community' class='text-blue-600 hover:underline'>anthropics/claude-plugins-community</a> ⭐ 1761</li>
+<li class='mb-2'><a href='https://github.com/MadsLorentzen/ai-job-search' class='text-blue-600 hover:underline'>MadsLorentzen/ai-job-search</a> ⭐ 35309</li>
+<li class='mb-2'><a href='https://github.com/apache/maka' class='text-blue-600 hover:underline'>apache/maka</a> ⭐ 3343</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 100266</li>
+<li class='mb-2'><a href='https://github.com/AgriciDaniel/claude-obsidian' class='text-blue-600 hover:underline'>AgriciDaniel/claude-obsidian</a> ⭐ 12737</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 49000</li>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 37784</li>
+<li class='mb-2'><a href='https://github.com/basecamp/omarchy' class='text-blue-600 hover:underline'>basecamp/omarchy</a> ⭐ 31294</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 134238</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 207220</li>
+<li class='mb-2'><a href='https://github.com/openai/codex' class='text-blue-600 hover:underline'>openai/codex</a> ⭐ 118126</li>
+<li class='mb-2'><a href='https://github.com/marin-community/marin' class='text-blue-600 hover:underline'>marin-community/marin</a> ⭐ 2114</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 111055</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 34096</li>
+<li class='mb-2'><a href='https://github.com/asciimoo/hister' class='text-blue-600 hover:underline'>asciimoo/hister</a> ⭐ 2784</li>
+
