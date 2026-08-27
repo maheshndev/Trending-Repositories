@@ -4131,3 +4131,23 @@
 <li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 34096</li>
 <li class='mb-2'><a href='https://github.com/asciimoo/hister' class='text-blue-600 hover:underline'>asciimoo/hister</a> ⭐ 2784</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-27
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tt-a1i/archify' class='text-blue-600 hover:underline'>tt-a1i/archify</a> ⭐ 19852</li>
+<li class='mb-2'><a href='https://github.com/freestylefly/awesome-gpt-image-2' class='text-blue-600 hover:underline'>freestylefly/awesome-gpt-image-2</a> ⭐ 22169</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 34461</li>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 50605</li>
+<li class='mb-2'><a href='https://github.com/MadsLorentzen/ai-job-search' class='text-blue-600 hover:underline'>MadsLorentzen/ai-job-search</a> ⭐ 36811</li>
+<li class='mb-2'><a href='https://github.com/AgriciDaniel/claude-obsidian' class='text-blue-600 hover:underline'>AgriciDaniel/claude-obsidian</a> ⭐ 13625</li>
+<li class='mb-2'><a href='https://github.com/basecamp/omarchy' class='text-blue-600 hover:underline'>basecamp/omarchy</a> ⭐ 32238</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 49784</li>
+<li class='mb-2'><a href='https://github.com/tinyhumansai/openhuman' class='text-blue-600 hover:underline'>tinyhumansai/openhuman</a> ⭐ 38368</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 113140</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-community' class='text-blue-600 hover:underline'>anthropics/claude-plugins-community</a> ⭐ 2295</li>
+<li class='mb-2'><a href='https://github.com/ConardLi/garden-skills' class='text-blue-600 hover:underline'>ConardLi/garden-skills</a> ⭐ 11085</li>
+<li class='mb-2'><a href='https://github.com/browser-use/browser-use' class='text-blue-600 hover:underline'>browser-use/browser-use</a> ⭐ 111256</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 34915</li>
+<li class='mb-2'><a href='https://github.com/marin-community/marin' class='text-blue-600 hover:underline'>marin-community/marin</a> ⭐ 2550</li>
+<li class='mb-2'><a href='https://github.com/VoltAgent/awesome-agent-skills' class='text-blue-600 hover:underline'>VoltAgent/awesome-agent-skills</a> ⭐ 32807</li>
+
