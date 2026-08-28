@@ -4151,3 +4151,26 @@
 <li class='mb-2'><a href='https://github.com/marin-community/marin' class='text-blue-600 hover:underline'>marin-community/marin</a> ⭐ 2550</li>
 <li class='mb-2'><a href='https://github.com/VoltAgent/awesome-agent-skills' class='text-blue-600 hover:underline'>VoltAgent/awesome-agent-skills</a> ⭐ 32807</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-28
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/bilawalsidhu/gods-eye-view' class='text-blue-600 hover:underline'>bilawalsidhu/gods-eye-view</a> ⭐ 9704</li>
+<li class='mb-2'><a href='https://github.com/zedeus/nitter' class='text-blue-600 hover:underline'>zedeus/nitter</a> ⭐ 14030</li>
+<li class='mb-2'><a href='https://github.com/freestylefly/awesome-gpt-image-2' class='text-blue-600 hover:underline'>freestylefly/awesome-gpt-image-2</a> ⭐ 23899</li>
+<li class='mb-2'><a href='https://github.com/tt-a1i/archify' class='text-blue-600 hover:underline'>tt-a1i/archify</a> ⭐ 25151</li>
+<li class='mb-2'><a href='https://github.com/JetBrains/go-modern-guidelines' class='text-blue-600 hover:underline'>JetBrains/go-modern-guidelines</a> ⭐ 2390</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 34822</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 35612</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 114683</li>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 52827</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 50411</li>
+<li class='mb-2'><a href='https://github.com/ConardLi/garden-skills' class='text-blue-600 hover:underline'>ConardLi/garden-skills</a> ⭐ 11486</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 92434</li>
+<li class='mb-2'><a href='https://github.com/google/googletest' class='text-blue-600 hover:underline'>google/googletest</a> ⭐ 39103</li>
+<li class='mb-2'><a href='https://github.com/AgriciDaniel/claude-obsidian' class='text-blue-600 hover:underline'>AgriciDaniel/claude-obsidian</a> ⭐ 14241</li>
+<li class='mb-2'><a href='https://github.com/marin-community/marin' class='text-blue-600 hover:underline'>marin-community/marin</a> ⭐ 2781</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-claude-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-claude-skills</a> ⭐ 73759</li>
+<li class='mb-2'><a href='https://github.com/actions/checkout' class='text-blue-600 hover:underline'>actions/checkout</a> ⭐ 8768</li>
+<li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 87651</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 101500</li>
+
