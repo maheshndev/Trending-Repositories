@@ -4174,3 +4174,27 @@
 <li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 87651</li>
 <li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 101500</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-29
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tt-a1i/archify' class='text-blue-600 hover:underline'>tt-a1i/archify</a> ⭐ 28253</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 36897</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 35106</li>
+<li class='mb-2'><a href='https://github.com/bilawalsidhu/gods-eye-view' class='text-blue-600 hover:underline'>bilawalsidhu/gods-eye-view</a> ⭐ 11396</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 46213</li>
+<li class='mb-2'><a href='https://github.com/JetBrains/go-modern-guidelines' class='text-blue-600 hover:underline'>JetBrains/go-modern-guidelines</a> ⭐ 2656</li>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 53468</li>
+<li class='mb-2'><a href='https://github.com/abi/screenshot-to-code' class='text-blue-600 hover:underline'>abi/screenshot-to-code</a> ⭐ 75662</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 6018</li>
+<li class='mb-2'><a href='https://github.com/freestylefly/awesome-gpt-image-2' class='text-blue-600 hover:underline'>freestylefly/awesome-gpt-image-2</a> ⭐ 24443</li>
+<li class='mb-2'><a href='https://github.com/tailscale/tailcat' class='text-blue-600 hover:underline'>tailscale/tailcat</a> ⭐ 2926</li>
+<li class='mb-2'><a href='https://github.com/NationalSecurityAgency/ghidra' class='text-blue-600 hover:underline'>NationalSecurityAgency/ghidra</a> ⭐ 73399</li>
+<li class='mb-2'><a href='https://github.com/swoole/typephp' class='text-blue-600 hover:underline'>swoole/typephp</a> ⭐ 840</li>
+<li class='mb-2'><a href='https://github.com/marin-community/marin' class='text-blue-600 hover:underline'>marin-community/marin</a> ⭐ 2925</li>
+<li class='mb-2'><a href='https://github.com/tashfeenahmed/freellmapi' class='text-blue-600 hover:underline'>tashfeenahmed/freellmapi</a> ⭐ 21736</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 50016</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 50698</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 115611</li>
+<li class='mb-2'><a href='https://github.com/google/googletest' class='text-blue-600 hover:underline'>google/googletest</a> ⭐ 39208</li>
+<li class='mb-2'><a href='https://github.com/livekit/agents' class='text-blue-600 hover:underline'>livekit/agents</a> ⭐ 13396</li>
+
