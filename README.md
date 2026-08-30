@@ -4198,3 +4198,26 @@
 <li class='mb-2'><a href='https://github.com/google/googletest' class='text-blue-600 hover:underline'>google/googletest</a> ⭐ 39208</li>
 <li class='mb-2'><a href='https://github.com/livekit/agents' class='text-blue-600 hover:underline'>livekit/agents</a> ⭐ 13396</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-30
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tt-a1i/archify' class='text-blue-600 hover:underline'>tt-a1i/archify</a> ⭐ 31523</li>
+<li class='mb-2'><a href='https://github.com/bilawalsidhu/gods-eye-view' class='text-blue-600 hover:underline'>bilawalsidhu/gods-eye-view</a> ⭐ 12788</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 38047</li>
+<li class='mb-2'><a href='https://github.com/tailscale/tailcat' class='text-blue-600 hover:underline'>tailscale/tailcat</a> ⭐ 3618</li>
+<li class='mb-2'><a href='https://github.com/THU-MAIC/OpenMAIC' class='text-blue-600 hover:underline'>THU-MAIC/OpenMAIC</a> ⭐ 22448</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 28756</li>
+<li class='mb-2'><a href='https://github.com/bigskysoftware/htmx' class='text-blue-600 hover:underline'>bigskysoftware/htmx</a> ⭐ 49150</li>
+<li class='mb-2'><a href='https://github.com/JetBrains/go-modern-guidelines' class='text-blue-600 hover:underline'>JetBrains/go-modern-guidelines</a> ⭐ 2900</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-claude-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-claude-skills</a> ⭐ 73962</li>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 54173</li>
+<li class='mb-2'><a href='https://github.com/every-app/open-seo' class='text-blue-600 hover:underline'>every-app/open-seo</a> ⭐ 14706</li>
+<li class='mb-2'><a href='https://github.com/Osmantic/ODS' class='text-blue-600 hover:underline'>Osmantic/ODS</a> ⭐ 5006</li>
+<li class='mb-2'><a href='https://github.com/abi/screenshot-to-code' class='text-blue-600 hover:underline'>abi/screenshot-to-code</a> ⭐ 76096</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 35454</li>
+<li class='mb-2'><a href='https://github.com/google/googletest' class='text-blue-600 hover:underline'>google/googletest</a> ⭐ 39332</li>
+<li class='mb-2'><a href='https://github.com/actions/checkout' class='text-blue-600 hover:underline'>actions/checkout</a> ⭐ 8810</li>
+<li class='mb-2'><a href='https://github.com/kaifcodec/user-scanner' class='text-blue-600 hover:underline'>kaifcodec/user-scanner</a> ⭐ 3669</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 90770</li>
+<li class='mb-2'><a href='https://github.com/workweave/router' class='text-blue-600 hover:underline'>workweave/router</a> ⭐ 2821</li>
+
