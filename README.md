@@ -4221,3 +4221,26 @@
 <li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 90770</li>
 <li class='mb-2'><a href='https://github.com/workweave/router' class='text-blue-600 hover:underline'>workweave/router</a> ⭐ 2821</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-08-31
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/THU-MAIC/OpenMAIC' class='text-blue-600 hover:underline'>THU-MAIC/OpenMAIC</a> ⭐ 24608</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 39587</li>
+<li class='mb-2'><a href='https://github.com/Lakr233/vphone-cli' class='text-blue-600 hover:underline'>Lakr233/vphone-cli</a> ⭐ 9751</li>
+<li class='mb-2'><a href='https://github.com/tt-a1i/archify' class='text-blue-600 hover:underline'>tt-a1i/archify</a> ⭐ 35437</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 29258</li>
+<li class='mb-2'><a href='https://github.com/unclecode/crawl4ai' class='text-blue-600 hover:underline'>unclecode/crawl4ai</a> ⭐ 80341</li>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 60588</li>
+<li class='mb-2'><a href='https://github.com/majd/ipatool' class='text-blue-600 hover:underline'>majd/ipatool</a> ⭐ 10279</li>
+<li class='mb-2'><a href='https://github.com/punkpeye/awesome-mcp-servers' class='text-blue-600 hover:underline'>punkpeye/awesome-mcp-servers</a> ⭐ 93423</li>
+<li class='mb-2'><a href='https://github.com/checkstyle/checkstyle' class='text-blue-600 hover:underline'>checkstyle/checkstyle</a> ⭐ 9234</li>
+<li class='mb-2'><a href='https://github.com/NationalSecurityAgency/ghidra' class='text-blue-600 hover:underline'>NationalSecurityAgency/ghidra</a> ⭐ 73980</li>
+<li class='mb-2'><a href='https://github.com/pollen-robotics/microduck_rl' class='text-blue-600 hover:underline'>pollen-robotics/microduck_rl</a> ⭐ 865</li>
+<li class='mb-2'><a href='https://github.com/handsomestWei/patent-disclosure-skill' class='text-blue-600 hover:underline'>handsomestWei/patent-disclosure-skill</a> ⭐ 5826</li>
+<li class='mb-2'><a href='https://github.com/corsairdev/corsair' class='text-blue-600 hover:underline'>corsairdev/corsair</a> ⭐ 11011</li>
+<li class='mb-2'><a href='https://github.com/every-app/open-seo' class='text-blue-600 hover:underline'>every-app/open-seo</a> ⭐ 15275</li>
+<li class='mb-2'><a href='https://github.com/colinhacks/zod' class='text-blue-600 hover:underline'>colinhacks/zod</a> ⭐ 43672</li>
+<li class='mb-2'><a href='https://github.com/tashfeenahmed/freellmapi' class='text-blue-600 hover:underline'>tashfeenahmed/freellmapi</a> ⭐ 22930</li>
+<li class='mb-2'><a href='https://github.com/livekit/agents' class='text-blue-600 hover:underline'>livekit/agents</a> ⭐ 13811</li>
+<li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 46626</li>
+
