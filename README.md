@@ -4244,3 +4244,23 @@
 <li class='mb-2'><a href='https://github.com/livekit/agents' class='text-blue-600 hover:underline'>livekit/agents</a> ⭐ 13811</li>
 <li class='mb-2'><a href='https://github.com/abhigyanpatwari/GitNexus' class='text-blue-600 hover:underline'>abhigyanpatwari/GitNexus</a> ⭐ 46626</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-01
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/THU-MAIC/OpenMAIC' class='text-blue-600 hover:underline'>THU-MAIC/OpenMAIC</a> ⭐ 27642</li>
+<li class='mb-2'><a href='https://github.com/tt-a1i/archify' class='text-blue-600 hover:underline'>tt-a1i/archify</a> ⭐ 39407</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 40879</li>
+<li class='mb-2'><a href='https://github.com/k1tbyte/Wand-Enhancer' class='text-blue-600 hover:underline'>k1tbyte/Wand-Enhancer</a> ⭐ 23444</li>
+<li class='mb-2'><a href='https://github.com/majd/ipatool' class='text-blue-600 hover:underline'>majd/ipatool</a> ⭐ 10597</li>
+<li class='mb-2'><a href='https://github.com/jingyaogong/minimind' class='text-blue-600 hover:underline'>jingyaogong/minimind</a> ⭐ 56324</li>
+<li class='mb-2'><a href='https://github.com/Osmantic/ODS' class='text-blue-600 hover:underline'>Osmantic/ODS</a> ⭐ 5587</li>
+<li class='mb-2'><a href='https://github.com/checkstyle/checkstyle' class='text-blue-600 hover:underline'>checkstyle/checkstyle</a> ⭐ 9438</li>
+<li class='mb-2'><a href='https://github.com/zhaoxuya520/reverse-skill' class='text-blue-600 hover:underline'>zhaoxuya520/reverse-skill</a> ⭐ 33310</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 245338</li>
+<li class='mb-2'><a href='https://github.com/kaifcodec/user-scanner' class='text-blue-600 hover:underline'>kaifcodec/user-scanner</a> ⭐ 4343</li>
+<li class='mb-2'><a href='https://github.com/every-app/open-seo' class='text-blue-600 hover:underline'>every-app/open-seo</a> ⭐ 15830</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 29728</li>
+<li class='mb-2'><a href='https://github.com/handsomestWei/patent-disclosure-skill' class='text-blue-600 hover:underline'>handsomestWei/patent-disclosure-skill</a> ⭐ 6345</li>
+<li class='mb-2'><a href='https://github.com/firecrawl/pdf-inspector' class='text-blue-600 hover:underline'>firecrawl/pdf-inspector</a> ⭐ 17448</li>
+<li class='mb-2'><a href='https://github.com/pollen-robotics/microduck_rl' class='text-blue-600 hover:underline'>pollen-robotics/microduck_rl</a> ⭐ 1214</li>
+
