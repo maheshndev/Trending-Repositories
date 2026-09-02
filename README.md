@@ -4264,3 +4264,21 @@
 <li class='mb-2'><a href='https://github.com/firecrawl/pdf-inspector' class='text-blue-600 hover:underline'>firecrawl/pdf-inspector</a> ⭐ 17448</li>
 <li class='mb-2'><a href='https://github.com/pollen-robotics/microduck_rl' class='text-blue-600 hover:underline'>pollen-robotics/microduck_rl</a> ⭐ 1214</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-02
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Gitlawb/openclaude' class='text-blue-600 hover:underline'>Gitlawb/openclaude</a> ⭐ 31410</li>
+<li class='mb-2'><a href='https://github.com/Imbad0202/academic-research-skills' class='text-blue-600 hover:underline'>Imbad0202/academic-research-skills</a> ⭐ 45008</li>
+<li class='mb-2'><a href='https://github.com/THU-MAIC/OpenMAIC' class='text-blue-600 hover:underline'>THU-MAIC/OpenMAIC</a> ⭐ 29678</li>
+<li class='mb-2'><a href='https://github.com/iv-org/invidious' class='text-blue-600 hover:underline'>iv-org/invidious</a> ⭐ 23804</li>
+<li class='mb-2'><a href='https://github.com/jingyaogong/minimind' class='text-blue-600 hover:underline'>jingyaogong/minimind</a> ⭐ 57215</li>
+<li class='mb-2'><a href='https://github.com/3b1b/manim' class='text-blue-600 hover:underline'>3b1b/manim</a> ⭐ 92622</li>
+<li class='mb-2'><a href='https://github.com/firecrawl/pdf-inspector' class='text-blue-600 hover:underline'>firecrawl/pdf-inspector</a> ⭐ 18009</li>
+<li class='mb-2'><a href='https://github.com/browser-use/video-use' class='text-blue-600 hover:underline'>browser-use/video-use</a> ⭐ 23049</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 41635</li>
+<li class='mb-2'><a href='https://github.com/handsomestWei/patent-disclosure-skill' class='text-blue-600 hover:underline'>handsomestWei/patent-disclosure-skill</a> ⭐ 6811</li>
+<li class='mb-2'><a href='https://github.com/VoltAgent/awesome-design-md' class='text-blue-600 hover:underline'>VoltAgent/awesome-design-md</a> ⭐ 112937</li>
+<li class='mb-2'><a href='https://github.com/averygan/reclip' class='text-blue-600 hover:underline'>averygan/reclip</a> ⭐ 7765</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 245812</li>
+<li class='mb-2'><a href='https://github.com/unclecode/crawl4ai' class='text-blue-600 hover:underline'>unclecode/crawl4ai</a> ⭐ 80911</li>
+
