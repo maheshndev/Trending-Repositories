@@ -4305,3 +4305,26 @@
 <li class='mb-2'><a href='https://github.com/Gitlawb/openclaude' class='text-blue-600 hover:underline'>Gitlawb/openclaude</a> ⭐ 32029</li>
 <li class='mb-2'><a href='https://github.com/firecrawl/pdf-inspector' class='text-blue-600 hover:underline'>firecrawl/pdf-inspector</a> ⭐ 18575</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-04
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/fmtlib/fmt' class='text-blue-600 hover:underline'>fmtlib/fmt</a> ⭐ 25163</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 247716</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 240925</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 123644</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 173714</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 247295</li>
+<li class='mb-2'><a href='https://github.com/JuliusBrussee/caveman' class='text-blue-600 hover:underline'>JuliusBrussee/caveman</a> ⭐ 103159</li>
+<li class='mb-2'><a href='https://github.com/blader/humanizer' class='text-blue-600 hover:underline'>blader/humanizer</a> ⭐ 41631</li>
+<li class='mb-2'><a href='https://github.com/google-research/timesfm' class='text-blue-600 hover:underline'>google-research/timesfm</a> ⭐ 30745</li>
+<li class='mb-2'><a href='https://github.com/averygan/reclip' class='text-blue-600 hover:underline'>averygan/reclip</a> ⭐ 8442</li>
+<li class='mb-2'><a href='https://github.com/bannedbook/fanqiang' class='text-blue-600 hover:underline'>bannedbook/fanqiang</a> ⭐ 52326</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 92059</li>
+<li class='mb-2'><a href='https://github.com/ByteByteGoHq/system-design-101' class='text-blue-600 hover:underline'>ByteByteGoHq/system-design-101</a> ⭐ 88424</li>
+<li class='mb-2'><a href='https://github.com/magnitudedev/magnitude' class='text-blue-600 hover:underline'>magnitudedev/magnitude</a> ⭐ 2003</li>
+<li class='mb-2'><a href='https://github.com/Imbad0202/academic-research-skills' class='text-blue-600 hover:underline'>Imbad0202/academic-research-skills</a> ⭐ 46030</li>
+<li class='mb-2'><a href='https://github.com/Gitlawb/openclaude' class='text-blue-600 hover:underline'>Gitlawb/openclaude</a> ⭐ 32379</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 16422</li>
+<li class='mb-2'><a href='https://github.com/f/prompts.chat' class='text-blue-600 hover:underline'>f/prompts.chat</a> ⭐ 169064</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 281408</li>
+
