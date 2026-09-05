@@ -4328,3 +4328,24 @@
 <li class='mb-2'><a href='https://github.com/f/prompts.chat' class='text-blue-600 hover:underline'>f/prompts.chat</a> ⭐ 169064</li>
 <li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 281408</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-05
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 250575</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 126276</li>
+<li class='mb-2'><a href='https://github.com/fmtlib/fmt' class='text-blue-600 hover:underline'>fmtlib/fmt</a> ⭐ 25483</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 248597</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 174174</li>
+<li class='mb-2'><a href='https://github.com/blader/humanizer' class='text-blue-600 hover:underline'>blader/humanizer</a> ⭐ 42806</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 241544</li>
+<li class='mb-2'><a href='https://github.com/JuliusBrussee/caveman' class='text-blue-600 hover:underline'>JuliusBrussee/caveman</a> ⭐ 103611</li>
+<li class='mb-2'><a href='https://github.com/magnitudedev/magnitude' class='text-blue-600 hover:underline'>magnitudedev/magnitude</a> ⭐ 2559</li>
+<li class='mb-2'><a href='https://github.com/bikini/exploitarium' class='text-blue-600 hover:underline'>bikini/exploitarium</a> ⭐ 4536</li>
+<li class='mb-2'><a href='https://github.com/bannedbook/fanqiang' class='text-blue-600 hover:underline'>bannedbook/fanqiang</a> ⭐ 52824</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 18127</li>
+<li class='mb-2'><a href='https://github.com/google-research/timesfm' class='text-blue-600 hover:underline'>google-research/timesfm</a> ⭐ 31083</li>
+<li class='mb-2'><a href='https://github.com/radixark/miles' class='text-blue-600 hover:underline'>radixark/miles</a> ⭐ 2577</li>
+<li class='mb-2'><a href='https://github.com/anomalyco/opencode' class='text-blue-600 hover:underline'>anomalyco/opencode</a> ⭐ 204187</li>
+<li class='mb-2'><a href='https://github.com/clshortfuse/renodx' class='text-blue-600 hover:underline'>clshortfuse/renodx</a> ⭐ 3551</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 31026</li>
+
