@@ -4369,3 +4369,25 @@
 <li class='mb-2'><a href='https://github.com/bikini/exploitarium' class='text-blue-600 hover:underline'>bikini/exploitarium</a> ⭐ 4720</li>
 <li class='mb-2'><a href='https://github.com/nvm-sh/nvm' class='text-blue-600 hover:underline'>nvm-sh/nvm</a> ⭐ 94932</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-07
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 251567</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 254849</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 32545</li>
+<li class='mb-2'><a href='https://github.com/NousResearch/hermes-agent' class='text-blue-600 hover:underline'>NousResearch/hermes-agent</a> ⭐ 242622</li>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 25669</li>
+<li class='mb-2'><a href='https://github.com/anomalyco/opencode' class='text-blue-600 hover:underline'>anomalyco/opencode</a> ⭐ 205333</li>
+<li class='mb-2'><a href='https://github.com/blader/humanizer' class='text-blue-600 hover:underline'>blader/humanizer</a> ⭐ 44414</li>
+<li class='mb-2'><a href='https://github.com/llvm/llvm-project' class='text-blue-600 hover:underline'>llvm/llvm-project</a> ⭐ 40241</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 129623</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 71050</li>
+<li class='mb-2'><a href='https://github.com/magnitudedev/magnitude' class='text-blue-600 hover:underline'>magnitudedev/magnitude</a> ⭐ 3740</li>
+<li class='mb-2'><a href='https://github.com/BraveOPotato/FckSignups' class='text-blue-600 hover:underline'>BraveOPotato/FckSignups</a> ⭐ 3378</li>
+<li class='mb-2'><a href='https://github.com/coreyhaines31/marketingskills' class='text-blue-600 hover:underline'>coreyhaines31/marketingskills</a> ⭐ 47591</li>
+<li class='mb-2'><a href='https://github.com/aipoch/open-science' class='text-blue-600 hover:underline'>aipoch/open-science</a> ⭐ 3919</li>
+<li class='mb-2'><a href='https://github.com/OpenWhispr/openwhispr' class='text-blue-600 hover:underline'>OpenWhispr/openwhispr</a> ⭐ 7464</li>
+<li class='mb-2'><a href='https://github.com/humanlayer/skills' class='text-blue-600 hover:underline'>humanlayer/skills</a> ⭐ 3212</li>
+<li class='mb-2'><a href='https://github.com/The-Swarm-Corporation/AutoHedge' class='text-blue-600 hover:underline'>The-Swarm-Corporation/AutoHedge</a> ⭐ 4809</li>
+<li class='mb-2'><a href='https://github.com/Stremio/stremio-web' class='text-blue-600 hover:underline'>Stremio/stremio-web</a> ⭐ 13525</li>
+
