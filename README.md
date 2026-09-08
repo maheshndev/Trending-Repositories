@@ -4391,3 +4391,21 @@
 <li class='mb-2'><a href='https://github.com/The-Swarm-Corporation/AutoHedge' class='text-blue-600 hover:underline'>The-Swarm-Corporation/AutoHedge</a> ⭐ 4809</li>
 <li class='mb-2'><a href='https://github.com/Stremio/stremio-web' class='text-blue-600 hover:underline'>Stremio/stremio-web</a> ⭐ 13525</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-08
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/heygen-com/hyperframes' class='text-blue-600 hover:underline'>heygen-com/hyperframes</a> ⭐ 46306</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 180517</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 20946</li>
+<li class='mb-2'><a href='https://github.com/jo-inc/camofox-browser' class='text-blue-600 hover:underline'>jo-inc/camofox-browser</a> ⭐ 9847</li>
+<li class='mb-2'><a href='https://github.com/MoonTechLab/LunaTV' class='text-blue-600 hover:underline'>MoonTechLab/LunaTV</a> ⭐ 9844</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 252990</li>
+<li class='mb-2'><a href='https://github.com/coreyhaines31/marketingskills' class='text-blue-600 hover:underline'>coreyhaines31/marketingskills</a> ⭐ 48230</li>
+<li class='mb-2'><a href='https://github.com/The-Swarm-Corporation/AutoHedge' class='text-blue-600 hover:underline'>The-Swarm-Corporation/AutoHedge</a> ⭐ 5317</li>
+<li class='mb-2'><a href='https://github.com/BraveOPotato/FckSignups' class='text-blue-600 hover:underline'>BraveOPotato/FckSignups</a> ⭐ 3879</li>
+<li class='mb-2'><a href='https://github.com/bytedance/deer-flow' class='text-blue-600 hover:underline'>bytedance/deer-flow</a> ⭐ 81893</li>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 26099</li>
+<li class='mb-2'><a href='https://github.com/lightpanda-io/browser' class='text-blue-600 hover:underline'>lightpanda-io/browser</a> ⭐ 34926</li>
+<li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 22391</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 71444</li>
+
