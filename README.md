@@ -4409,3 +4409,23 @@
 <li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 22391</li>
 <li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 71444</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-09
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ayghri/i-have-adhd' class='text-blue-600 hover:underline'>ayghri/i-have-adhd</a> ⭐ 31012</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 35116</li>
+<li class='mb-2'><a href='https://github.com/openai/skills' class='text-blue-600 hover:underline'>openai/skills</a> ⭐ 26582</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 254415</li>
+<li class='mb-2'><a href='https://github.com/heygen-com/hyperframes' class='text-blue-600 hover:underline'>heygen-com/hyperframes</a> ⭐ 47891</li>
+<li class='mb-2'><a href='https://github.com/coreyhaines31/marketingskills' class='text-blue-600 hover:underline'>coreyhaines31/marketingskills</a> ⭐ 48910</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 283443</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 211549</li>
+<li class='mb-2'><a href='https://github.com/microsoft/markitdown' class='text-blue-600 hover:underline'>microsoft/markitdown</a> ⭐ 181808</li>
+<li class='mb-2'><a href='https://github.com/jo-inc/camofox-browser' class='text-blue-600 hover:underline'>jo-inc/camofox-browser</a> ⭐ 10591</li>
+<li class='mb-2'><a href='https://github.com/MoonTechLab/LunaTV' class='text-blue-600 hover:underline'>MoonTechLab/LunaTV</a> ⭐ 10234</li>
+<li class='mb-2'><a href='https://github.com/browser-use/browser-use' class='text-blue-600 hover:underline'>browser-use/browser-use</a> ⭐ 113616</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 21455</li>
+<li class='mb-2'><a href='https://github.com/The-Swarm-Corporation/AutoHedge' class='text-blue-600 hover:underline'>The-Swarm-Corporation/AutoHedge</a> ⭐ 5759</li>
+<li class='mb-2'><a href='https://github.com/viarotel-org/escrcpy' class='text-blue-600 hover:underline'>viarotel-org/escrcpy</a> ⭐ 11451</li>
+<li class='mb-2'><a href='https://github.com/openai/plugins' class='text-blue-600 hover:underline'>openai/plugins</a> ⭐ 5871</li>
+
