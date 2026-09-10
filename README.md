@@ -4429,3 +4429,20 @@
 <li class='mb-2'><a href='https://github.com/viarotel-org/escrcpy' class='text-blue-600 hover:underline'>viarotel-org/escrcpy</a> ⭐ 11451</li>
 <li class='mb-2'><a href='https://github.com/openai/plugins' class='text-blue-600 hover:underline'>openai/plugins</a> ⭐ 5871</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-10
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ayghri/i-have-adhd' class='text-blue-600 hover:underline'>ayghri/i-have-adhd</a> ⭐ 35048</li>
+<li class='mb-2'><a href='https://github.com/Tencent/teamai-cli' class='text-blue-600 hover:underline'>Tencent/teamai-cli</a> ⭐ 3154</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 284107</li>
+<li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 23013</li>
+<li class='mb-2'><a href='https://github.com/earthtojake/text-to-cad' class='text-blue-600 hover:underline'>earthtojake/text-to-cad</a> ⭐ 15111</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 36780</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 104067</li>
+<li class='mb-2'><a href='https://github.com/liquidslr/system-design-notes' class='text-blue-600 hover:underline'>liquidslr/system-design-notes</a> ⭐ 18111</li>
+<li class='mb-2'><a href='https://github.com/openai/plugins' class='text-blue-600 hover:underline'>openai/plugins</a> ⭐ 6236</li>
+<li class='mb-2'><a href='https://github.com/freestylefly/awesome-gpt-image-2' class='text-blue-600 hover:underline'>freestylefly/awesome-gpt-image-2</a> ⭐ 30198</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 53779</li>
+<li class='mb-2'><a href='https://github.com/vastsa/PI-Desktop' class='text-blue-600 hover:underline'>vastsa/PI-Desktop</a> ⭐ 1773</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 255268</li>
+
