@@ -4446,3 +4446,23 @@
 <li class='mb-2'><a href='https://github.com/vastsa/PI-Desktop' class='text-blue-600 hover:underline'>vastsa/PI-Desktop</a> ⭐ 1773</li>
 <li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 255268</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-11
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ayghri/i-have-adhd' class='text-blue-600 hover:underline'>ayghri/i-have-adhd</a> ⭐ 38720</li>
+<li class='mb-2'><a href='https://github.com/bilawalsidhu/gods-eye-view' class='text-blue-600 hover:underline'>bilawalsidhu/gods-eye-view</a> ⭐ 24650</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 284779</li>
+<li class='mb-2'><a href='https://github.com/alsk1992/CloddsBot' class='text-blue-600 hover:underline'>alsk1992/CloddsBot</a> ⭐ 1734</li>
+<li class='mb-2'><a href='https://github.com/Tencent/teamai-cli' class='text-blue-600 hover:underline'>Tencent/teamai-cli</a> ⭐ 3886</li>
+<li class='mb-2'><a href='https://github.com/AlexsJones/llmfit' class='text-blue-600 hover:underline'>AlexsJones/llmfit</a> ⭐ 35805</li>
+<li class='mb-2'><a href='https://github.com/liquidslr/system-design-notes' class='text-blue-600 hover:underline'>liquidslr/system-design-notes</a> ⭐ 18894</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 37891</li>
+<li class='mb-2'><a href='https://github.com/freestylefly/awesome-gpt-image-2' class='text-blue-600 hover:underline'>freestylefly/awesome-gpt-image-2</a> ⭐ 30965</li>
+<li class='mb-2'><a href='https://github.com/armory3d/armorpaint' class='text-blue-600 hover:underline'>armory3d/armorpaint</a> ⭐ 4462</li>
+<li class='mb-2'><a href='https://github.com/diegosouzapw/OmniRoute' class='text-blue-600 hover:underline'>diegosouzapw/OmniRoute</a> ⭐ 64334</li>
+<li class='mb-2'><a href='https://github.com/JustVugg/colibri' class='text-blue-600 hover:underline'>JustVugg/colibri</a> ⭐ 27513</li>
+<li class='mb-2'><a href='https://github.com/THU-MAIC/OpenMAIC' class='text-blue-600 hover:underline'>THU-MAIC/OpenMAIC</a> ⭐ 35443</li>
+<li class='mb-2'><a href='https://github.com/nashsu/llm_wiki' class='text-blue-600 hover:underline'>nashsu/llm_wiki</a> ⭐ 18196</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/skills' class='text-blue-600 hover:underline'>vercel-labs/skills</a> ⭐ 31211</li>
+<li class='mb-2'><a href='https://github.com/vastsa/PI-Desktop' class='text-blue-600 hover:underline'>vastsa/PI-Desktop</a> ⭐ 2371</li>
+
