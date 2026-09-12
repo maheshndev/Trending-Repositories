@@ -4466,3 +4466,23 @@
 <li class='mb-2'><a href='https://github.com/vercel-labs/skills' class='text-blue-600 hover:underline'>vercel-labs/skills</a> ⭐ 31211</li>
 <li class='mb-2'><a href='https://github.com/vastsa/PI-Desktop' class='text-blue-600 hover:underline'>vastsa/PI-Desktop</a> ⭐ 2371</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-12
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/ayghri/i-have-adhd' class='text-blue-600 hover:underline'>ayghri/i-have-adhd</a> ⭐ 42100</li>
+<li class='mb-2'><a href='https://github.com/bilawalsidhu/gods-eye-view' class='text-blue-600 hover:underline'>bilawalsidhu/gods-eye-view</a> ⭐ 27303</li>
+<li class='mb-2'><a href='https://github.com/nab138/iloader' class='text-blue-600 hover:underline'>nab138/iloader</a> ⭐ 2931</li>
+<li class='mb-2'><a href='https://github.com/melgarafael/DeskcommCRM' class='text-blue-600 hover:underline'>melgarafael/DeskcommCRM</a> ⭐ 1401</li>
+<li class='mb-2'><a href='https://github.com/vastsa/PI-Desktop' class='text-blue-600 hover:underline'>vastsa/PI-Desktop</a> ⭐ 2820</li>
+<li class='mb-2'><a href='https://github.com/armory3d/armorpaint' class='text-blue-600 hover:underline'>armory3d/armorpaint</a> ⭐ 4747</li>
+<li class='mb-2'><a href='https://github.com/alsk1992/CloddsBot' class='text-blue-600 hover:underline'>alsk1992/CloddsBot</a> ⭐ 2190</li>
+<li class='mb-2'><a href='https://github.com/nashsu/llm_wiki' class='text-blue-600 hover:underline'>nashsu/llm_wiki</a> ⭐ 18796</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 285417</li>
+<li class='mb-2'><a href='https://github.com/Sonarr/Sonarr' class='text-blue-600 hover:underline'>Sonarr/Sonarr</a> ⭐ 15754</li>
+<li class='mb-2'><a href='https://github.com/jihe520/MathModelAgent' class='text-blue-600 hover:underline'>jihe520/MathModelAgent</a> ⭐ 4889</li>
+<li class='mb-2'><a href='https://github.com/p1neappleXpress/OpenFlux' class='text-blue-600 hover:underline'>p1neappleXpress/OpenFlux</a> ⭐ 1177</li>
+<li class='mb-2'><a href='https://github.com/jordan-gibbs/hyperresearch' class='text-blue-600 hover:underline'>jordan-gibbs/hyperresearch</a> ⭐ 2680</li>
+<li class='mb-2'><a href='https://github.com/alphaXiv/OpenResearch' class='text-blue-600 hover:underline'>alphaXiv/OpenResearch</a> ⭐ 1333</li>
+<li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 135807</li>
+<li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 23660</li>
+
