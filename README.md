@@ -4486,3 +4486,23 @@
 <li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 135807</li>
 <li class='mb-2'><a href='https://github.com/pascalorg/editor' class='text-blue-600 hover:underline'>pascalorg/editor</a> ⭐ 23660</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-13
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/bilawalsidhu/gods-eye-view' class='text-blue-600 hover:underline'>bilawalsidhu/gods-eye-view</a> ⭐ 30150</li>
+<li class='mb-2'><a href='https://github.com/melgarafael/DeskcommCRM' class='text-blue-600 hover:underline'>melgarafael/DeskcommCRM</a> ⭐ 1851</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 65494</li>
+<li class='mb-2'><a href='https://github.com/nab138/iloader' class='text-blue-600 hover:underline'>nab138/iloader</a> ⭐ 3105</li>
+<li class='mb-2'><a href='https://github.com/Flowseal/zapret-discord-youtube' class='text-blue-600 hover:underline'>Flowseal/zapret-discord-youtube</a> ⭐ 33215</li>
+<li class='mb-2'><a href='https://github.com/jihe520/MathModelAgent' class='text-blue-600 hover:underline'>jihe520/MathModelAgent</a> ⭐ 5163</li>
+<li class='mb-2'><a href='https://github.com/Sonarr/Sonarr' class='text-blue-600 hover:underline'>Sonarr/Sonarr</a> ⭐ 15946</li>
+<li class='mb-2'><a href='https://github.com/alsk1992/CloddsBot' class='text-blue-600 hover:underline'>alsk1992/CloddsBot</a> ⭐ 2534</li>
+<li class='mb-2'><a href='https://github.com/yuliskov/SmartTube' class='text-blue-600 hover:underline'>yuliskov/SmartTube</a> ⭐ 33234</li>
+<li class='mb-2'><a href='https://github.com/Shubhamsaboo/awesome-llm-apps' class='text-blue-600 hover:underline'>Shubhamsaboo/awesome-llm-apps</a> ⭐ 137679</li>
+<li class='mb-2'><a href='https://github.com/p1neappleXpress/OpenFlux' class='text-blue-600 hover:underline'>p1neappleXpress/OpenFlux</a> ⭐ 1414</li>
+<li class='mb-2'><a href='https://github.com/armory3d/armorpaint' class='text-blue-600 hover:underline'>armory3d/armorpaint</a> ⭐ 4926</li>
+<li class='mb-2'><a href='https://github.com/SnailSploit/Claude-Red' class='text-blue-600 hover:underline'>SnailSploit/Claude-Red</a> ⭐ 3648</li>
+<li class='mb-2'><a href='https://github.com/multimodal-art-projection/YuE' class='text-blue-600 hover:underline'>multimodal-art-projection/YuE</a> ⭐ 7340</li>
+<li class='mb-2'><a href='https://github.com/max-sixty/worktrunk' class='text-blue-600 hover:underline'>max-sixty/worktrunk</a> ⭐ 7278</li>
+<li class='mb-2'><a href='https://github.com/vxcontrol/pentagi' class='text-blue-600 hover:underline'>vxcontrol/pentagi</a> ⭐ 23506</li>
+
