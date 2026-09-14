@@ -4506,3 +4506,26 @@
 <li class='mb-2'><a href='https://github.com/max-sixty/worktrunk' class='text-blue-600 hover:underline'>max-sixty/worktrunk</a> ⭐ 7278</li>
 <li class='mb-2'><a href='https://github.com/vxcontrol/pentagi' class='text-blue-600 hover:underline'>vxcontrol/pentagi</a> ⭐ 23506</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-14
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/JustVugg/colibri' class='text-blue-600 hover:underline'>JustVugg/colibri</a> ⭐ 30133</li>
+<li class='mb-2'><a href='https://github.com/ever-co/ever-gauzy' class='text-blue-600 hover:underline'>ever-co/ever-gauzy</a> ⭐ 5258</li>
+<li class='mb-2'><a href='https://github.com/bilawalsidhu/gods-eye-view' class='text-blue-600 hover:underline'>bilawalsidhu/gods-eye-view</a> ⭐ 32182</li>
+<li class='mb-2'><a href='https://github.com/tech-leads-club/agent-skills' class='text-blue-600 hover:underline'>tech-leads-club/agent-skills</a> ⭐ 5731</li>
+<li class='mb-2'><a href='https://github.com/melgarafael/DeskcommCRM' class='text-blue-600 hover:underline'>melgarafael/DeskcommCRM</a> ⭐ 2269</li>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 58595</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 66167</li>
+<li class='mb-2'><a href='https://github.com/vxcontrol/pentagi' class='text-blue-600 hover:underline'>vxcontrol/pentagi</a> ⭐ 24072</li>
+<li class='mb-2'><a href='https://github.com/multimodal-art-projection/YuE' class='text-blue-600 hover:underline'>multimodal-art-projection/YuE</a> ⭐ 7844</li>
+<li class='mb-2'><a href='https://github.com/yuliskov/SmartTube' class='text-blue-600 hover:underline'>yuliskov/SmartTube</a> ⭐ 33485</li>
+<li class='mb-2'><a href='https://github.com/alphaXiv/OpenResearch' class='text-blue-600 hover:underline'>alphaXiv/OpenResearch</a> ⭐ 2158</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 27187</li>
+<li class='mb-2'><a href='https://github.com/SnailSploit/Claude-Red' class='text-blue-600 hover:underline'>SnailSploit/Claude-Red</a> ⭐ 4234</li>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 23698</li>
+<li class='mb-2'><a href='https://github.com/jihe520/MathModelAgent' class='text-blue-600 hover:underline'>jihe520/MathModelAgent</a> ⭐ 5414</li>
+<li class='mb-2'><a href='https://github.com/tonhowtf/omniget' class='text-blue-600 hover:underline'>tonhowtf/omniget</a> ⭐ 11840</li>
+<li class='mb-2'><a href='https://github.com/jiji262/douyin-downloader' class='text-blue-600 hover:underline'>jiji262/douyin-downloader</a> ⭐ 11484</li>
+<li class='mb-2'><a href='https://github.com/Swordfish90/cool-retro-term' class='text-blue-600 hover:underline'>Swordfish90/cool-retro-term</a> ⭐ 26259</li>
+<li class='mb-2'><a href='https://github.com/huggingface/transformers' class='text-blue-600 hover:underline'>huggingface/transformers</a> ⭐ 165603</li>
+
