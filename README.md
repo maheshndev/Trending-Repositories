@@ -4529,3 +4529,27 @@
 <li class='mb-2'><a href='https://github.com/Swordfish90/cool-retro-term' class='text-blue-600 hover:underline'>Swordfish90/cool-retro-term</a> ⭐ 26259</li>
 <li class='mb-2'><a href='https://github.com/huggingface/transformers' class='text-blue-600 hover:underline'>huggingface/transformers</a> ⭐ 165603</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-15
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/JustVugg/colibri' class='text-blue-600 hover:underline'>JustVugg/colibri</a> ⭐ 32319</li>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 26137</li>
+<li class='mb-2'><a href='https://github.com/multimodal-art-projection/YuE' class='text-blue-600 hover:underline'>multimodal-art-projection/YuE</a> ⭐ 8495</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 29520</li>
+<li class='mb-2'><a href='https://github.com/666ghj/MiroFish' class='text-blue-600 hover:underline'>666ghj/MiroFish</a> ⭐ 73309</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 81468</li>
+<li class='mb-2'><a href='https://github.com/asgeirtj/system_prompts_leaks' class='text-blue-600 hover:underline'>asgeirtj/system_prompts_leaks</a> ⭐ 66885</li>
+<li class='mb-2'><a href='https://github.com/rlaope/oh-my-hermes' class='text-blue-600 hover:underline'>rlaope/oh-my-hermes</a> ⭐ 2142</li>
+<li class='mb-2'><a href='https://github.com/localsend/localsend' class='text-blue-600 hover:underline'>localsend/localsend</a> ⭐ 91413</li>
+<li class='mb-2'><a href='https://github.com/dani-garcia/vaultwarden' class='text-blue-600 hover:underline'>dani-garcia/vaultwarden</a> ⭐ 67573</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 106260</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 93922</li>
+<li class='mb-2'><a href='https://github.com/tech-leads-club/agent-skills' class='text-blue-600 hover:underline'>tech-leads-club/agent-skills</a> ⭐ 6121</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/VoxCPM' class='text-blue-600 hover:underline'>OpenBMB/VoxCPM</a> ⭐ 37434</li>
+<li class='mb-2'><a href='https://github.com/huggingface/transformers' class='text-blue-600 hover:underline'>huggingface/transformers</a> ⭐ 166043</li>
+<li class='mb-2'><a href='https://github.com/ever-co/ever-gauzy' class='text-blue-600 hover:underline'>ever-co/ever-gauzy</a> ⭐ 6063</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 36972</li>
+<li class='mb-2'><a href='https://github.com/reconurge/flowsint' class='text-blue-600 hover:underline'>reconurge/flowsint</a> ⭐ 8407</li>
+<li class='mb-2'><a href='https://github.com/peetzweg/opendisplay' class='text-blue-600 hover:underline'>peetzweg/opendisplay</a> ⭐ 3660</li>
+<li class='mb-2'><a href='https://github.com/SnailSploit/Claude-Red' class='text-blue-600 hover:underline'>SnailSploit/Claude-Red</a> ⭐ 4841</li>
+
