@@ -4553,3 +4553,21 @@
 <li class='mb-2'><a href='https://github.com/peetzweg/opendisplay' class='text-blue-600 hover:underline'>peetzweg/opendisplay</a> ⭐ 3660</li>
 <li class='mb-2'><a href='https://github.com/SnailSploit/Claude-Red' class='text-blue-600 hover:underline'>SnailSploit/Claude-Red</a> ⭐ 4841</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-16
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 29027</li>
+<li class='mb-2'><a href='https://github.com/JustVugg/colibri' class='text-blue-600 hover:underline'>JustVugg/colibri</a> ⭐ 34019</li>
+<li class='mb-2'><a href='https://github.com/ever-co/ever-gauzy' class='text-blue-600 hover:underline'>ever-co/ever-gauzy</a> ⭐ 6749</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 31179</li>
+<li class='mb-2'><a href='https://github.com/Homebrew/BrewUI' class='text-blue-600 hover:underline'>Homebrew/BrewUI</a> ⭐ 1488</li>
+<li class='mb-2'><a href='https://github.com/melgarafael/DeskcommCRM' class='text-blue-600 hover:underline'>melgarafael/DeskcommCRM</a> ⭐ 2907</li>
+<li class='mb-2'><a href='https://github.com/alphaXiv/OpenResearch' class='text-blue-600 hover:underline'>alphaXiv/OpenResearch</a> ⭐ 3506</li>
+<li class='mb-2'><a href='https://github.com/NationalSecurityAgency/ghidra' class='text-blue-600 hover:underline'>NationalSecurityAgency/ghidra</a> ⭐ 76837</li>
+<li class='mb-2'><a href='https://github.com/danny-avila/LibreChat' class='text-blue-600 hover:underline'>danny-avila/LibreChat</a> ⭐ 43916</li>
+<li class='mb-2'><a href='https://github.com/pacifio/atlas' class='text-blue-600 hover:underline'>pacifio/atlas</a> ⭐ 4685</li>
+<li class='mb-2'><a href='https://github.com/MG1937/ASC' class='text-blue-600 hover:underline'>MG1937/ASC</a> ⭐ 1248</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 94894</li>
+<li class='mb-2'><a href='https://github.com/tonhowtf/omniget' class='text-blue-600 hover:underline'>tonhowtf/omniget</a> ⭐ 13066</li>
+<li class='mb-2'><a href='https://github.com/earendil-works/pi' class='text-blue-600 hover:underline'>earendil-works/pi</a> ⭐ 105856</li>
+
