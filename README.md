@@ -4571,3 +4571,28 @@
 <li class='mb-2'><a href='https://github.com/tonhowtf/omniget' class='text-blue-600 hover:underline'>tonhowtf/omniget</a> ⭐ 13066</li>
 <li class='mb-2'><a href='https://github.com/earendil-works/pi' class='text-blue-600 hover:underline'>earendil-works/pi</a> ⭐ 105856</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-17
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 32385</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 7629</li>
+<li class='mb-2'><a href='https://github.com/JustVugg/colibri' class='text-blue-600 hover:underline'>JustVugg/colibri</a> ⭐ 35129</li>
+<li class='mb-2'><a href='https://github.com/abue-ammar/tinycast' class='text-blue-600 hover:underline'>abue-ammar/tinycast</a> ⭐ 5699</li>
+<li class='mb-2'><a href='https://github.com/jamiepine/voicebox' class='text-blue-600 hover:underline'>jamiepine/voicebox</a> ⭐ 54476</li>
+<li class='mb-2'><a href='https://github.com/Lakr233/vphone-cli' class='text-blue-600 hover:underline'>Lakr233/vphone-cli</a> ⭐ 13413</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 24330</li>
+<li class='mb-2'><a href='https://github.com/ever-co/ever-gauzy' class='text-blue-600 hover:underline'>ever-co/ever-gauzy</a> ⭐ 7375</li>
+<li class='mb-2'><a href='https://github.com/ankitects/anki' class='text-blue-600 hover:underline'>ankitects/anki</a> ⭐ 30925</li>
+<li class='mb-2'><a href='https://github.com/NationalSecurityAgency/ghidra' class='text-blue-600 hover:underline'>NationalSecurityAgency/ghidra</a> ⭐ 77938</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 145595</li>
+<li class='mb-2'><a href='https://github.com/roboflow/supervision' class='text-blue-600 hover:underline'>roboflow/supervision</a> ⭐ 50646</li>
+<li class='mb-2'><a href='https://github.com/alphaXiv/OpenResearch' class='text-blue-600 hover:underline'>alphaXiv/OpenResearch</a> ⭐ 4514</li>
+<li class='mb-2'><a href='https://github.com/supabase/supabase' class='text-blue-600 hover:underline'>supabase/supabase</a> ⭐ 109803</li>
+<li class='mb-2'><a href='https://github.com/rlaope/oh-my-hermes' class='text-blue-600 hover:underline'>rlaope/oh-my-hermes</a> ⭐ 2596</li>
+<li class='mb-2'><a href='https://github.com/Tencent/WeKnora' class='text-blue-600 hover:underline'>Tencent/WeKnora</a> ⭐ 25522</li>
+<li class='mb-2'><a href='https://github.com/SnailSploit/Claude-Red' class='text-blue-600 hover:underline'>SnailSploit/Claude-Red</a> ⭐ 5832</li>
+<li class='mb-2'><a href='https://github.com/multimodal-art-projection/YuE' class='text-blue-600 hover:underline'>multimodal-art-projection/YuE</a> ⭐ 9428</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 95554</li>
+<li class='mb-2'><a href='https://github.com/cline/cline' class='text-blue-600 hover:underline'>cline/cline</a> ⭐ 68416</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 260412</li>
+
