@@ -4620,3 +4620,24 @@
 <li class='mb-2'><a href='https://github.com/coder/coder' class='text-blue-600 hover:underline'>coder/coder</a> ⭐ 14906</li>
 <li class='mb-2'><a href='https://github.com/n8n-io/n8n' class='text-blue-600 hover:underline'>n8n-io/n8n</a> ⭐ 205072</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-19
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 13981</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 146351</li>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 36791</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 262151</li>
+<li class='mb-2'><a href='https://github.com/Tencent/BrowserSkill' class='text-blue-600 hover:underline'>Tencent/BrowserSkill</a> ⭐ 5378</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 96461</li>
+<li class='mb-2'><a href='https://github.com/TencentCloud/Octop' class='text-blue-600 hover:underline'>TencentCloud/Octop</a> ⭐ 3996</li>
+<li class='mb-2'><a href='https://github.com/Fission-AI/OpenSpec' class='text-blue-600 hover:underline'>Fission-AI/OpenSpec</a> ⭐ 69408</li>
+<li class='mb-2'><a href='https://github.com/ankitects/anki' class='text-blue-600 hover:underline'>ankitects/anki</a> ⭐ 31231</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 24913</li>
+<li class='mb-2'><a href='https://github.com/supermemoryai/supermemory' class='text-blue-600 hover:underline'>supermemoryai/supermemory</a> ⭐ 30341</li>
+<li class='mb-2'><a href='https://github.com/tradesdontlie/tradingview-mcp' class='text-blue-600 hover:underline'>tradesdontlie/tradingview-mcp</a> ⭐ 6492</li>
+<li class='mb-2'><a href='https://github.com/rustfs/rustfs' class='text-blue-600 hover:underline'>rustfs/rustfs</a> ⭐ 33208</li>
+<li class='mb-2'><a href='https://github.com/supabase/supabase' class='text-blue-600 hover:underline'>supabase/supabase</a> ⭐ 110178</li>
+<li class='mb-2'><a href='https://github.com/coder/coder' class='text-blue-600 hover:underline'>coder/coder</a> ⭐ 15330</li>
+<li class='mb-2'><a href='https://github.com/ahmedkhaleel2004/gitdiagram' class='text-blue-600 hover:underline'>ahmedkhaleel2004/gitdiagram</a> ⭐ 16490</li>
+<li class='mb-2'><a href='https://github.com/asciimoo/hister' class='text-blue-600 hover:underline'>asciimoo/hister</a> ⭐ 4988</li>
+
