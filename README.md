@@ -4641,3 +4641,22 @@
 <li class='mb-2'><a href='https://github.com/ahmedkhaleel2004/gitdiagram' class='text-blue-600 hover:underline'>ahmedkhaleel2004/gitdiagram</a> ⭐ 16490</li>
 <li class='mb-2'><a href='https://github.com/asciimoo/hister' class='text-blue-600 hover:underline'>asciimoo/hister</a> ⭐ 4988</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-20
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 16630</li>
+<li class='mb-2'><a href='https://github.com/trycua/cua' class='text-blue-600 hover:underline'>trycua/cua</a> ⭐ 24564</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 97131</li>
+<li class='mb-2'><a href='https://github.com/coder/coder' class='text-blue-600 hover:underline'>coder/coder</a> ⭐ 15666</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 146766</li>
+<li class='mb-2'><a href='https://github.com/Open-Dev-Society/OpenStock' class='text-blue-600 hover:underline'>Open-Dev-Society/OpenStock</a> ⭐ 16180</li>
+<li class='mb-2'><a href='https://github.com/higgsfield-ai/higgsfield' class='text-blue-600 hover:underline'>higgsfield-ai/higgsfield</a> ⭐ 5011</li>
+<li class='mb-2'><a href='https://github.com/docling-project/docling' class='text-blue-600 hover:underline'>docling-project/docling</a> ⭐ 67151</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/quiche' class='text-blue-600 hover:underline'>cloudflare/quiche</a> ⭐ 12050</li>
+<li class='mb-2'><a href='https://github.com/asciimoo/hister' class='text-blue-600 hover:underline'>asciimoo/hister</a> ⭐ 5284</li>
+<li class='mb-2'><a href='https://github.com/ruanyf/weekly' class='text-blue-600 hover:underline'>ruanyf/weekly</a> ⭐ 103314</li>
+<li class='mb-2'><a href='https://github.com/ZuodaoTech/everyone-can-use-english' class='text-blue-600 hover:underline'>ZuodaoTech/everyone-can-use-english</a> ⭐ 37917</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 25165</li>
+<li class='mb-2'><a href='https://github.com/cactus-compute/needle' class='text-blue-600 hover:underline'>cactus-compute/needle</a> ⭐ 11654</li>
+<li class='mb-2'><a href='https://github.com/yynxxxxx/Codex-X' class='text-blue-600 hover:underline'>yynxxxxx/Codex-X</a> ⭐ 3446</li>
+
