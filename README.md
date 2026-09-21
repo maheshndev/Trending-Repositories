@@ -4660,3 +4660,20 @@
 <li class='mb-2'><a href='https://github.com/cactus-compute/needle' class='text-blue-600 hover:underline'>cactus-compute/needle</a> ⭐ 11654</li>
 <li class='mb-2'><a href='https://github.com/yynxxxxx/Codex-X' class='text-blue-600 hover:underline'>yynxxxxx/Codex-X</a> ⭐ 3446</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-21
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 263894</li>
+<li class='mb-2'><a href='https://github.com/BuilderIO/agent-native' class='text-blue-600 hover:underline'>BuilderIO/agent-native</a> ⭐ 5337</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 18190</li>
+<li class='mb-2'><a href='https://github.com/trycua/cua' class='text-blue-600 hover:underline'>trycua/cua</a> ⭐ 25256</li>
+<li class='mb-2'><a href='https://github.com/anthropics/financial-services' class='text-blue-600 hover:underline'>anthropics/financial-services</a> ⭐ 35446</li>
+<li class='mb-2'><a href='https://github.com/paperless-ngx/paperless-ngx' class='text-blue-600 hover:underline'>paperless-ngx/paperless-ngx</a> ⭐ 45632</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 147208</li>
+<li class='mb-2'><a href='https://github.com/mihail911/modern-software-dev-assignments' class='text-blue-600 hover:underline'>mihail911/modern-software-dev-assignments</a> ⭐ 4610</li>
+<li class='mb-2'><a href='https://github.com/higgsfield-ai/higgsfield' class='text-blue-600 hover:underline'>higgsfield-ai/higgsfield</a> ⭐ 5441</li>
+<li class='mb-2'><a href='https://github.com/Open-Dev-Society/OpenStock' class='text-blue-600 hover:underline'>Open-Dev-Society/OpenStock</a> ⭐ 16945</li>
+<li class='mb-2'><a href='https://github.com/coder/coder' class='text-blue-600 hover:underline'>coder/coder</a> ⭐ 16114</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/json-render' class='text-blue-600 hover:underline'>vercel-labs/json-render</a> ⭐ 17445</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 97782</li>
+
