@@ -4677,3 +4677,19 @@
 <li class='mb-2'><a href='https://github.com/vercel-labs/json-render' class='text-blue-600 hover:underline'>vercel-labs/json-render</a> ⭐ 17445</li>
 <li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 97782</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-22
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/BuilderIO/agent-native' class='text-blue-600 hover:underline'>BuilderIO/agent-native</a> ⭐ 6026</li>
+<li class='mb-2'><a href='https://github.com/trycua/cua' class='text-blue-600 hover:underline'>trycua/cua</a> ⭐ 25773</li>
+<li class='mb-2'><a href='https://github.com/Open-Dev-Society/OpenStock' class='text-blue-600 hover:underline'>Open-Dev-Society/OpenStock</a> ⭐ 17898</li>
+<li class='mb-2'><a href='https://github.com/akitaonrails/ai-memory' class='text-blue-600 hover:underline'>akitaonrails/ai-memory</a> ⭐ 7780</li>
+<li class='mb-2'><a href='https://github.com/coder/coder' class='text-blue-600 hover:underline'>coder/coder</a> ⭐ 16473</li>
+<li class='mb-2'><a href='https://github.com/anthropics/financial-services' class='text-blue-600 hover:underline'>anthropics/financial-services</a> ⭐ 35893</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/quiche' class='text-blue-600 hover:underline'>cloudflare/quiche</a> ⭐ 12394</li>
+<li class='mb-2'><a href='https://github.com/mvt-project/mvt' class='text-blue-600 hover:underline'>mvt-project/mvt</a> ⭐ 13661</li>
+<li class='mb-2'><a href='https://github.com/zhouxiaoka/autoclip' class='text-blue-600 hover:underline'>zhouxiaoka/autoclip</a> ⭐ 8374</li>
+<li class='mb-2'><a href='https://github.com/ruanyf/weekly' class='text-blue-600 hover:underline'>ruanyf/weekly</a> ⭐ 104127</li>
+<li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 37932</li>
+<li class='mb-2'><a href='https://github.com/yynxxxxx/Codex-X' class='text-blue-600 hover:underline'>yynxxxxx/Codex-X</a> ⭐ 3737</li>
+
