@@ -4693,3 +4693,15 @@
 <li class='mb-2'><a href='https://github.com/Crosstalk-Solutions/project-nomad' class='text-blue-600 hover:underline'>Crosstalk-Solutions/project-nomad</a> ⭐ 37932</li>
 <li class='mb-2'><a href='https://github.com/yynxxxxx/Codex-X' class='text-blue-600 hover:underline'>yynxxxxx/Codex-X</a> ⭐ 3737</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-23
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/anthropics/financial-services' class='text-blue-600 hover:underline'>anthropics/financial-services</a> ⭐ 36460</li>
+<li class='mb-2'><a href='https://github.com/agent-substrate/substrate' class='text-blue-600 hover:underline'>agent-substrate/substrate</a> ⭐ 3051</li>
+<li class='mb-2'><a href='https://github.com/dream-num/univer' class='text-blue-600 hover:underline'>dream-num/univer</a> ⭐ 15623</li>
+<li class='mb-2'><a href='https://github.com/davila7/claude-code-templates' class='text-blue-600 hover:underline'>davila7/claude-code-templates</a> ⭐ 31186</li>
+<li class='mb-2'><a href='https://github.com/google/ax' class='text-blue-600 hover:underline'>google/ax</a> ⭐ 7834</li>
+<li class='mb-2'><a href='https://github.com/mvt-project/mvt' class='text-blue-600 hover:underline'>mvt-project/mvt</a> ⭐ 14176</li>
+<li class='mb-2'><a href='https://github.com/superdesigndev/treg' class='text-blue-600 hover:underline'>superdesigndev/treg</a> ⭐ 2296</li>
+<li class='mb-2'><a href='https://github.com/browser-use/video-use' class='text-blue-600 hover:underline'>browser-use/video-use</a> ⭐ 25957</li>
+
