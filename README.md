@@ -4726,3 +4726,21 @@
 <li class='mb-2'><a href='https://github.com/browser-use/video-use' class='text-blue-600 hover:underline'>browser-use/video-use</a> ⭐ 26570</li>
 <li class='mb-2'><a href='https://github.com/TNT-Likely/PanWatch' class='text-blue-600 hover:underline'>TNT-Likely/PanWatch</a> ⭐ 1591</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-25
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 56697</li>
+<li class='mb-2'><a href='https://github.com/vectorize-io/hindsight' class='text-blue-600 hover:underline'>vectorize-io/hindsight</a> ⭐ 27932</li>
+<li class='mb-2'><a href='https://github.com/dream-num/univer' class='text-blue-600 hover:underline'>dream-num/univer</a> ⭐ 17887</li>
+<li class='mb-2'><a href='https://github.com/google/ax' class='text-blue-600 hover:underline'>google/ax</a> ⭐ 10605</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/Model-Optimizer' class='text-blue-600 hover:underline'>NVIDIA/Model-Optimizer</a> ⭐ 4125</li>
+<li class='mb-2'><a href='https://github.com/FxEmbed/FxEmbed' class='text-blue-600 hover:underline'>FxEmbed/FxEmbed</a> ⭐ 5384</li>
+<li class='mb-2'><a href='https://github.com/anthropics/financial-services' class='text-blue-600 hover:underline'>anthropics/financial-services</a> ⭐ 37392</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 50370</li>
+<li class='mb-2'><a href='https://github.com/mvt-project/mvt' class='text-blue-600 hover:underline'>mvt-project/mvt</a> ⭐ 14742</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 291274</li>
+<li class='mb-2'><a href='https://github.com/strands-agents/harness-sdk' class='text-blue-600 hover:underline'>strands-agents/harness-sdk</a> ⭐ 8295</li>
+<li class='mb-2'><a href='https://github.com/julyx10/lap' class='text-blue-600 hover:underline'>julyx10/lap</a> ⭐ 2911</li>
+<li class='mb-2'><a href='https://github.com/superdesigndev/treg' class='text-blue-600 hover:underline'>superdesigndev/treg</a> ⭐ 3196</li>
+<li class='mb-2'><a href='https://github.com/leejet/stable-diffusion.cpp' class='text-blue-600 hover:underline'>leejet/stable-diffusion.cpp</a> ⭐ 7271</li>
+
