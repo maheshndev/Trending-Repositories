@@ -4744,3 +4744,23 @@
 <li class='mb-2'><a href='https://github.com/superdesigndev/treg' class='text-blue-600 hover:underline'>superdesigndev/treg</a> ⭐ 3196</li>
 <li class='mb-2'><a href='https://github.com/leejet/stable-diffusion.cpp' class='text-blue-600 hover:underline'>leejet/stable-diffusion.cpp</a> ⭐ 7271</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-26
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/paperclipai/paperclip' class='text-blue-600 hover:underline'>paperclipai/paperclip</a> ⭐ 85190</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 36964</li>
+<li class='mb-2'><a href='https://github.com/vectorize-io/hindsight' class='text-blue-600 hover:underline'>vectorize-io/hindsight</a> ⭐ 29954</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 291710</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 269788</li>
+<li class='mb-2'><a href='https://github.com/dream-num/univer' class='text-blue-600 hover:underline'>dream-num/univer</a> ⭐ 18632</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 178373</li>
+<li class='mb-2'><a href='https://github.com/androoAGI/starnet' class='text-blue-600 hover:underline'>androoAGI/starnet</a> ⭐ 517</li>
+<li class='mb-2'><a href='https://github.com/derv82/wifit3' class='text-blue-600 hover:underline'>derv82/wifit3</a> ⭐ 976</li>
+<li class='mb-2'><a href='https://github.com/kelseyhightower/kubernetes-the-hard-way' class='text-blue-600 hover:underline'>kelseyhightower/kubernetes-the-hard-way</a> ⭐ 50145</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 57633</li>
+<li class='mb-2'><a href='https://github.com/shy3130/tick-stock-panel' class='text-blue-600 hover:underline'>shy3130/tick-stock-panel</a> ⭐ 5166</li>
+<li class='mb-2'><a href='https://github.com/google/ax' class='text-blue-600 hover:underline'>google/ax</a> ⭐ 11583</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/Model-Optimizer' class='text-blue-600 hover:underline'>NVIDIA/Model-Optimizer</a> ⭐ 4508</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 71251</li>
+<li class='mb-2'><a href='https://github.com/openbao/openbao' class='text-blue-600 hover:underline'>openbao/openbao</a> ⭐ 7768</li>
+
