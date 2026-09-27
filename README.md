@@ -4764,3 +4764,22 @@
 <li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 71251</li>
 <li class='mb-2'><a href='https://github.com/openbao/openbao' class='text-blue-600 hover:underline'>openbao/openbao</a> ⭐ 7768</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-27
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/paperclipai/paperclip' class='text-blue-600 hover:underline'>paperclipai/paperclip</a> ⭐ 87646</li>
+<li class='mb-2'><a href='https://github.com/vectorize-io/hindsight' class='text-blue-600 hover:underline'>vectorize-io/hindsight</a> ⭐ 32595</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/Model-Optimizer' class='text-blue-600 hover:underline'>NVIDIA/Model-Optimizer</a> ⭐ 4790</li>
+<li class='mb-2'><a href='https://github.com/dream-num/univer' class='text-blue-600 hover:underline'>dream-num/univer</a> ⭐ 19559</li>
+<li class='mb-2'><a href='https://github.com/tensorflow/tensorflow' class='text-blue-600 hover:underline'>tensorflow/tensorflow</a> ⭐ 200478</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 58466</li>
+<li class='mb-2'><a href='https://github.com/openbao/openbao' class='text-blue-600 hover:underline'>openbao/openbao</a> ⭐ 8037</li>
+<li class='mb-2'><a href='https://github.com/block/buzz' class='text-blue-600 hover:underline'>block/buzz</a> ⭐ 34857</li>
+<li class='mb-2'><a href='https://github.com/microsoft/vscode' class='text-blue-600 hover:underline'>microsoft/vscode</a> ⭐ 193091</li>
+<li class='mb-2'><a href='https://github.com/zhaoxuya520/reverse-skill' class='text-blue-600 hover:underline'>zhaoxuya520/reverse-skill</a> ⭐ 38080</li>
+<li class='mb-2'><a href='https://github.com/llvm/llvm-project' class='text-blue-600 hover:underline'>llvm/llvm-project</a> ⭐ 40764</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code-action' class='text-blue-600 hover:underline'>anthropics/claude-code-action</a> ⭐ 9120</li>
+<li class='mb-2'><a href='https://github.com/actions/runner-images' class='text-blue-600 hover:underline'>actions/runner-images</a> ⭐ 13316</li>
+<li class='mb-2'><a href='https://github.com/mobile-next/mobile-mcp' class='text-blue-600 hover:underline'>mobile-next/mobile-mcp</a> ⭐ 7439</li>
+<li class='mb-2'><a href='https://github.com/vercel/next.js' class='text-blue-600 hover:underline'>vercel/next.js</a> ⭐ 142668</li>
+
