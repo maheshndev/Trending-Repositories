@@ -4783,3 +4783,16 @@
 <li class='mb-2'><a href='https://github.com/mobile-next/mobile-mcp' class='text-blue-600 hover:underline'>mobile-next/mobile-mcp</a> ⭐ 7439</li>
 <li class='mb-2'><a href='https://github.com/vercel/next.js' class='text-blue-600 hover:underline'>vercel/next.js</a> ⭐ 142668</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-28
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/paperclipai/paperclip' class='text-blue-600 hover:underline'>paperclipai/paperclip</a> ⭐ 90403</li>
+<li class='mb-2'><a href='https://github.com/vectorize-io/hindsight' class='text-blue-600 hover:underline'>vectorize-io/hindsight</a> ⭐ 37850</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 40557</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 59529</li>
+<li class='mb-2'><a href='https://github.com/InfinityLoop1308/PipePipe' class='text-blue-600 hover:underline'>InfinityLoop1308/PipePipe</a> ⭐ 6645</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/scriptc' class='text-blue-600 hover:underline'>vercel-labs/scriptc</a> ⭐ 5459</li>
+<li class='mb-2'><a href='https://github.com/mvschwarz/openrig' class='text-blue-600 hover:underline'>mvschwarz/openrig</a> ⭐ 1100</li>
+<li class='mb-2'><a href='https://github.com/dream-num/univer' class='text-blue-600 hover:underline'>dream-num/univer</a> ⭐ 20706</li>
+<li class='mb-2'><a href='https://github.com/willfaust/Madeira' class='text-blue-600 hover:underline'>willfaust/Madeira</a> ⭐ 859</li>
+
