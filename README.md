@@ -4808,3 +4808,21 @@
 <li class='mb-2'><a href='https://github.com/mvschwarz/openrig' class='text-blue-600 hover:underline'>mvschwarz/openrig</a> ⭐ 1853</li>
 <li class='mb-2'><a href='https://github.com/dream-num/univer' class='text-blue-600 hover:underline'>dream-num/univer</a> ⭐ 21392</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-09-30
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 48597</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/OpenShell' class='text-blue-600 hover:underline'>NVIDIA/OpenShell</a> ⭐ 10796</li>
+<li class='mb-2'><a href='https://github.com/vectorize-io/hindsight' class='text-blue-600 hover:underline'>vectorize-io/hindsight</a> ⭐ 43077</li>
+<li class='mb-2'><a href='https://github.com/paperclipai/paperclip' class='text-blue-600 hover:underline'>paperclipai/paperclip</a> ⭐ 94656</li>
+<li class='mb-2'><a href='https://github.com/t8y2/dbx' class='text-blue-600 hover:underline'>t8y2/dbx</a> ⭐ 22308</li>
+<li class='mb-2'><a href='https://github.com/mvschwarz/openrig' class='text-blue-600 hover:underline'>mvschwarz/openrig</a> ⭐ 2526</li>
+<li class='mb-2'><a href='https://github.com/oblien/openship' class='text-blue-600 hover:underline'>oblien/openship</a> ⭐ 13939</li>
+<li class='mb-2'><a href='https://github.com/averygan/reclip' class='text-blue-600 hover:underline'>averygan/reclip</a> ⭐ 10266</li>
+<li class='mb-2'><a href='https://github.com/cs341-illinois/coursebook' class='text-blue-600 hover:underline'>cs341-illinois/coursebook</a> ⭐ 3173</li>
+<li class='mb-2'><a href='https://github.com/rohitg00/ai-engineering-from-scratch' class='text-blue-600 hover:underline'>rohitg00/ai-engineering-from-scratch</a> ⭐ 61605</li>
+<li class='mb-2'><a href='https://github.com/VectifyAI/PageIndex' class='text-blue-600 hover:underline'>VectifyAI/PageIndex</a> ⭐ 37548</li>
+<li class='mb-2'><a href='https://github.com/willfaust/Madeira' class='text-blue-600 hover:underline'>willfaust/Madeira</a> ⭐ 1127</li>
+<li class='mb-2'><a href='https://github.com/dream-num/univer' class='text-blue-600 hover:underline'>dream-num/univer</a> ⭐ 21941</li>
+<li class='mb-2'><a href='https://github.com/rakyll/hey' class='text-blue-600 hover:underline'>rakyll/hey</a> ⭐ 20525</li>
+
