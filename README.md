@@ -4826,3 +4826,24 @@
 <li class='mb-2'><a href='https://github.com/dream-num/univer' class='text-blue-600 hover:underline'>dream-num/univer</a> ⭐ 21941</li>
 <li class='mb-2'><a href='https://github.com/rakyll/hey' class='text-blue-600 hover:underline'>rakyll/hey</a> ⭐ 20525</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-01
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/NVIDIA/OpenShell' class='text-blue-600 hover:underline'>NVIDIA/OpenShell</a> ⭐ 12983</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 50645</li>
+<li class='mb-2'><a href='https://github.com/mvschwarz/openrig' class='text-blue-600 hover:underline'>mvschwarz/openrig</a> ⭐ 3120</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 24541</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 149354</li>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 127637</li>
+<li class='mb-2'><a href='https://github.com/openclaw/openclaw' class='text-blue-600 hover:underline'>openclaw/openclaw</a> ⭐ 391025</li>
+<li class='mb-2'><a href='https://github.com/ComposioHQ/awesome-claude-skills' class='text-blue-600 hover:underline'>ComposioHQ/awesome-claude-skills</a> ⭐ 76185</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 273124</li>
+<li class='mb-2'><a href='https://github.com/heygen-com/hyperframes' class='text-blue-600 hover:underline'>heygen-com/hyperframes</a> ⭐ 54829</li>
+<li class='mb-2'><a href='https://github.com/firebase/firebase-ios-sdk' class='text-blue-600 hover:underline'>firebase/firebase-ios-sdk</a> ⭐ 6778</li>
+<li class='mb-2'><a href='https://github.com/modelcontextprotocol/servers' class='text-blue-600 hover:underline'>modelcontextprotocol/servers</a> ⭐ 90850</li>
+<li class='mb-2'><a href='https://github.com/byoungd/up' class='text-blue-600 hover:underline'>byoungd/up</a> ⭐ 66471</li>
+<li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 72644</li>
+<li class='mb-2'><a href='https://github.com/t8y2/dbx' class='text-blue-600 hover:underline'>t8y2/dbx</a> ⭐ 23341</li>
+<li class='mb-2'><a href='https://github.com/NawfalMotii79/PLFM_RADAR' class='text-blue-600 hover:underline'>NawfalMotii79/PLFM_RADAR</a> ⭐ 26447</li>
+<li class='mb-2'><a href='https://github.com/VectifyAI/PageIndex' class='text-blue-600 hover:underline'>VectifyAI/PageIndex</a> ⭐ 38210</li>
+
