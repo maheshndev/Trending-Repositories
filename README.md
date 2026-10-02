@@ -4847,3 +4847,22 @@
 <li class='mb-2'><a href='https://github.com/NawfalMotii79/PLFM_RADAR' class='text-blue-600 hover:underline'>NawfalMotii79/PLFM_RADAR</a> ⭐ 26447</li>
 <li class='mb-2'><a href='https://github.com/VectifyAI/PageIndex' class='text-blue-600 hover:underline'>VectifyAI/PageIndex</a> ⭐ 38210</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-02
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 150719</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 274050</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/OpenShell' class='text-blue-600 hover:underline'>NVIDIA/OpenShell</a> ⭐ 14094</li>
+<li class='mb-2'><a href='https://github.com/firebase/firebase-ios-sdk' class='text-blue-600 hover:underline'>firebase/firebase-ios-sdk</a> ⭐ 6876</li>
+<li class='mb-2'><a href='https://github.com/mvschwarz/openrig' class='text-blue-600 hover:underline'>mvschwarz/openrig</a> ⭐ 3815</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 9342</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 294046</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 24827</li>
+<li class='mb-2'><a href='https://github.com/heygen-com/hyperframes' class='text-blue-600 hover:underline'>heygen-com/hyperframes</a> ⭐ 55425</li>
+<li class='mb-2'><a href='https://github.com/earendil-works/pi' class='text-blue-600 hover:underline'>earendil-works/pi</a> ⭐ 111322</li>
+<li class='mb-2'><a href='https://github.com/tile-ai/tilelang' class='text-blue-600 hover:underline'>tile-ai/tilelang</a> ⭐ 8145</li>
+<li class='mb-2'><a href='https://github.com/pablostanley/yoinks' class='text-blue-600 hover:underline'>pablostanley/yoinks</a> ⭐ 3026</li>
+<li class='mb-2'><a href='https://github.com/HunxByts/GhostTrack' class='text-blue-600 hover:underline'>HunxByts/GhostTrack</a> ⭐ 16474</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 73778</li>
+<li class='mb-2'><a href='https://github.com/Friedrich-M/UniMate' class='text-blue-600 hover:underline'>Friedrich-M/UniMate</a> ⭐ 1114</li>
+
