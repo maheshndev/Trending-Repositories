@@ -4866,3 +4866,24 @@
 <li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 73778</li>
 <li class='mb-2'><a href='https://github.com/Friedrich-M/UniMate' class='text-blue-600 hover:underline'>Friedrich-M/UniMate</a> ⭐ 1114</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-03
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 88862</li>
+<li class='mb-2'><a href='https://github.com/JuliusBrussee/caveman' class='text-blue-600 hover:underline'>JuliusBrussee/caveman</a> ⭐ 109164</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 294521</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 151962</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 74423</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 274796</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/OpenShell' class='text-blue-600 hover:underline'>NVIDIA/OpenShell</a> ⭐ 14476</li>
+<li class='mb-2'><a href='https://github.com/coreyhaines31/marketingskills' class='text-blue-600 hover:underline'>coreyhaines31/marketingskills</a> ⭐ 52458</li>
+<li class='mb-2'><a href='https://github.com/heygen-com/hyperframes' class='text-blue-600 hover:underline'>heygen-com/hyperframes</a> ⭐ 55962</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 25078</li>
+<li class='mb-2'><a href='https://github.com/google/skills' class='text-blue-600 hover:underline'>google/skills</a> ⭐ 20790</li>
+<li class='mb-2'><a href='https://github.com/getsentry/sentry' class='text-blue-600 hover:underline'>getsentry/sentry</a> ⭐ 45055</li>
+<li class='mb-2'><a href='https://github.com/colbymchenry/codegraph' class='text-blue-600 hover:underline'>colbymchenry/codegraph</a> ⭐ 73004</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 9527</li>
+<li class='mb-2'><a href='https://github.com/mvschwarz/openrig' class='text-blue-600 hover:underline'>mvschwarz/openrig</a> ⭐ 4402</li>
+<li class='mb-2'><a href='https://github.com/Effect-TS/effect' class='text-blue-600 hover:underline'>Effect-TS/effect</a> ⭐ 16593</li>
+<li class='mb-2'><a href='https://github.com/pablostanley/yoinks' class='text-blue-600 hover:underline'>pablostanley/yoinks</a> ⭐ 3571</li>
+
