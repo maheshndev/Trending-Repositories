@@ -4887,3 +4887,26 @@
 <li class='mb-2'><a href='https://github.com/Effect-TS/effect' class='text-blue-600 hover:underline'>Effect-TS/effect</a> ⭐ 16593</li>
 <li class='mb-2'><a href='https://github.com/pablostanley/yoinks' class='text-blue-600 hover:underline'>pablostanley/yoinks</a> ⭐ 3571</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-04
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 153638</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 75448</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 272360</li>
+<li class='mb-2'><a href='https://github.com/Effect-TS/effect' class='text-blue-600 hover:underline'>Effect-TS/effect</a> ⭐ 16862</li>
+<li class='mb-2'><a href='https://github.com/JuliusBrussee/caveman' class='text-blue-600 hover:underline'>JuliusBrussee/caveman</a> ⭐ 109583</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 89966</li>
+<li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 24766</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 95668</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/cloudflare-os' class='text-blue-600 hover:underline'>cloudflare/cloudflare-os</a> ⭐ 10618</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 100898</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 294965</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 275446</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 25280</li>
+<li class='mb-2'><a href='https://github.com/earendil-works/pi' class='text-blue-600 hover:underline'>earendil-works/pi</a> ⭐ 112215</li>
+<li class='mb-2'><a href='https://github.com/getsentry/sentry' class='text-blue-600 hover:underline'>getsentry/sentry</a> ⭐ 45225</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 149262</li>
+<li class='mb-2'><a href='https://github.com/jamwithai/production-agentic-rag-course' class='text-blue-600 hover:underline'>jamwithai/production-agentic-rag-course</a> ⭐ 9432</li>
+<li class='mb-2'><a href='https://github.com/meituan-longcat/LongCat-Video' class='text-blue-600 hover:underline'>meituan-longcat/LongCat-Video</a> ⭐ 8802</li>
+<li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 91684</li>
+
