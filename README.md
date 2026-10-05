@@ -4910,3 +4910,23 @@
 <li class='mb-2'><a href='https://github.com/meituan-longcat/LongCat-Video' class='text-blue-600 hover:underline'>meituan-longcat/LongCat-Video</a> ⭐ 8802</li>
 <li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 91684</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-05
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/tester-army/e2e' class='text-blue-600 hover:underline'>tester-army/e2e</a> ⭐ 3336</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 76436</li>
+<li class='mb-2'><a href='https://github.com/coreyhaines31/marketingskills' class='text-blue-600 hover:underline'>coreyhaines31/marketingskills</a> ⭐ 53161</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 155061</li>
+<li class='mb-2'><a href='https://github.com/earthtojake/text-to-cad' class='text-blue-600 hover:underline'>earthtojake/text-to-cad</a> ⭐ 16943</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 91065</li>
+<li class='mb-2'><a href='https://github.com/getsentry/sentry' class='text-blue-600 hover:underline'>getsentry/sentry</a> ⭐ 45416</li>
+<li class='mb-2'><a href='https://github.com/calesthio/OpenMontage' class='text-blue-600 hover:underline'>calesthio/OpenMontage</a> ⭐ 63323</li>
+<li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 25244</li>
+<li class='mb-2'><a href='https://github.com/caddyserver/caddy' class='text-blue-600 hover:underline'>caddyserver/caddy</a> ⭐ 76629</li>
+<li class='mb-2'><a href='https://github.com/michael-denyer/pstack-claude' class='text-blue-600 hover:underline'>michael-denyer/pstack-claude</a> ⭐ 1186</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 101270</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 96207</li>
+<li class='mb-2'><a href='https://github.com/garrytan/gstack' class='text-blue-600 hover:underline'>garrytan/gstack</a> ⭐ 135207</li>
+<li class='mb-2'><a href='https://github.com/OpenCut-app/OpenCut' class='text-blue-600 hover:underline'>OpenCut-app/OpenCut</a> ⭐ 92264</li>
+<li class='mb-2'><a href='https://github.com/antirez/ds4' class='text-blue-600 hover:underline'>antirez/ds4</a> ⭐ 23477</li>
+
