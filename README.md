@@ -4964,3 +4964,20 @@
 <li class='mb-2'><a href='https://github.com/DuarteSantos8/openGym' class='text-blue-600 hover:underline'>DuarteSantos8/openGym</a> ⭐ 5923</li>
 <li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 44158</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-08
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/morluto/rea' class='text-blue-600 hover:underline'>morluto/rea</a> ⭐ 16682</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 279930</li>
+<li class='mb-2'><a href='https://github.com/boykopovar/AnyPS5' class='text-blue-600 hover:underline'>boykopovar/AnyPS5</a> ⭐ 11241</li>
+<li class='mb-2'><a href='https://github.com/ayghri/i-have-adhd' class='text-blue-600 hover:underline'>ayghri/i-have-adhd</a> ⭐ 55298</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 45205</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 102958</li>
+<li class='mb-2'><a href='https://github.com/EpicGames/raddebugger' class='text-blue-600 hover:underline'>EpicGames/raddebugger</a> ⭐ 7919</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 97858</li>
+<li class='mb-2'><a href='https://github.com/manaflow-ai/cmux' class='text-blue-600 hover:underline'>manaflow-ai/cmux</a> ⭐ 27918</li>
+<li class='mb-2'><a href='https://github.com/trycua/cua' class='text-blue-600 hover:underline'>trycua/cua</a> ⭐ 28845</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 26186</li>
+<li class='mb-2'><a href='https://github.com/tester-army/e2e' class='text-blue-600 hover:underline'>tester-army/e2e</a> ⭐ 7690</li>
+<li class='mb-2'><a href='https://github.com/DuarteSantos8/openGym' class='text-blue-600 hover:underline'>DuarteSantos8/openGym</a> ⭐ 7212</li>
+
