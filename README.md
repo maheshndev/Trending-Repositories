@@ -4981,3 +4981,16 @@
 <li class='mb-2'><a href='https://github.com/tester-army/e2e' class='text-blue-600 hover:underline'>tester-army/e2e</a> ⭐ 7690</li>
 <li class='mb-2'><a href='https://github.com/DuarteSantos8/openGym' class='text-blue-600 hover:underline'>DuarteSantos8/openGym</a> ⭐ 7212</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-09
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/boykopovar/AnyPS5' class='text-blue-600 hover:underline'>boykopovar/AnyPS5</a> ⭐ 16580</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 46710</li>
+<li class='mb-2'><a href='https://github.com/morluto/rea' class='text-blue-600 hover:underline'>morluto/rea</a> ⭐ 29689</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 281378</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 98635</li>
+<li class='mb-2'><a href='https://github.com/EpicGames/raddebugger' class='text-blue-600 hover:underline'>EpicGames/raddebugger</a> ⭐ 8161</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 27769</li>
+<li class='mb-2'><a href='https://github.com/storytold/artcraft' class='text-blue-600 hover:underline'>storytold/artcraft</a> ⭐ 8581</li>
+<li class='mb-2'><a href='https://github.com/liquidslr/system-design-notes' class='text-blue-600 hover:underline'>liquidslr/system-design-notes</a> ⭐ 24826</li>
+
