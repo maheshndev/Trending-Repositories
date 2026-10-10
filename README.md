@@ -4994,3 +4994,18 @@
 <li class='mb-2'><a href='https://github.com/storytold/artcraft' class='text-blue-600 hover:underline'>storytold/artcraft</a> ⭐ 8581</li>
 <li class='mb-2'><a href='https://github.com/liquidslr/system-design-notes' class='text-blue-600 hover:underline'>liquidslr/system-design-notes</a> ⭐ 24826</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-10
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/morluto/rea' class='text-blue-600 hover:underline'>morluto/rea</a> ⭐ 51442</li>
+<li class='mb-2'><a href='https://github.com/boykopovar/AnyPS5' class='text-blue-600 hover:underline'>boykopovar/AnyPS5</a> ⭐ 23007</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 283009</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 48096</li>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 45419</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 28372</li>
+<li class='mb-2'><a href='https://github.com/BerriAI/litellm' class='text-blue-600 hover:underline'>BerriAI/litellm</a> ⭐ 60755</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 104121</li>
+<li class='mb-2'><a href='https://github.com/storytold/artcraft' class='text-blue-600 hover:underline'>storytold/artcraft</a> ⭐ 11974</li>
+<li class='mb-2'><a href='https://github.com/Robbyant/lingbot-map' class='text-blue-600 hover:underline'>Robbyant/lingbot-map</a> ⭐ 17781</li>
+<li class='mb-2'><a href='https://github.com/twostraws/SwiftUI-Agent-Skill' class='text-blue-600 hover:underline'>twostraws/SwiftUI-Agent-Skill</a> ⭐ 5542</li>
+
