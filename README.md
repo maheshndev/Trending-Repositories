@@ -5009,3 +5009,20 @@
 <li class='mb-2'><a href='https://github.com/Robbyant/lingbot-map' class='text-blue-600 hover:underline'>Robbyant/lingbot-map</a> ⭐ 17781</li>
 <li class='mb-2'><a href='https://github.com/twostraws/SwiftUI-Agent-Skill' class='text-blue-600 hover:underline'>twostraws/SwiftUI-Agent-Skill</a> ⭐ 5542</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-11
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/morluto/rea' class='text-blue-600 hover:underline'>morluto/rea</a> ⭐ 76840</li>
+<li class='mb-2'><a href='https://github.com/boykopovar/AnyPS5' class='text-blue-600 hover:underline'>boykopovar/AnyPS5</a> ⭐ 27294</li>
+<li class='mb-2'><a href='https://github.com/storytold/artcraft' class='text-blue-600 hover:underline'>storytold/artcraft</a> ⭐ 14881</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 49131</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 26399</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 284739</li>
+<li class='mb-2'><a href='https://github.com/flutter/flutter' class='text-blue-600 hover:underline'>flutter/flutter</a> ⭐ 179597</li>
+<li class='mb-2'><a href='https://github.com/tensorflow/tensorflow' class='text-blue-600 hover:underline'>tensorflow/tensorflow</a> ⭐ 200767</li>
+<li class='mb-2'><a href='https://github.com/hugohe3/ppt-master' class='text-blue-600 hover:underline'>hugohe3/ppt-master</a> ⭐ 59636</li>
+<li class='mb-2'><a href='https://github.com/pytorch/pytorch' class='text-blue-600 hover:underline'>pytorch/pytorch</a> ⭐ 104180</li>
+<li class='mb-2'><a href='https://github.com/huggingface/transformers' class='text-blue-600 hover:underline'>huggingface/transformers</a> ⭐ 167340</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 28887</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 218401</li>
+
