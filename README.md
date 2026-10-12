@@ -5026,3 +5026,15 @@
 <li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 28887</li>
 <li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 218401</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-12
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/morluto/rea' class='text-blue-600 hover:underline'>morluto/rea</a> ⭐ 114298</li>
+<li class='mb-2'><a href='https://github.com/boykopovar/AnyPS5' class='text-blue-600 hover:underline'>boykopovar/AnyPS5</a> ⭐ 30628</li>
+<li class='mb-2'><a href='https://github.com/storytold/artcraft' class='text-blue-600 hover:underline'>storytold/artcraft</a> ⭐ 18635</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 50746</li>
+<li class='mb-2'><a href='https://github.com/bilawalsidhu/gods-eye-view' class='text-blue-600 hover:underline'>bilawalsidhu/gods-eye-view</a> ⭐ 52009</li>
+<li class='mb-2'><a href='https://github.com/pytorch/pytorch' class='text-blue-600 hover:underline'>pytorch/pytorch</a> ⭐ 104595</li>
+<li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 36672</li>
+<li class='mb-2'><a href='https://github.com/chrislgarry/Apollo-11' class='text-blue-600 hover:underline'>chrislgarry/Apollo-11</a> ⭐ 74353</li>
+
