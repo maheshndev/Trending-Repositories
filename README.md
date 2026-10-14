@@ -5051,3 +5051,16 @@
 <li class='mb-2'><a href='https://github.com/microsoft/BitNet' class='text-blue-600 hover:underline'>microsoft/BitNet</a> ⭐ 41002</li>
 <li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 59437</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-14
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/morluto/rea' class='text-blue-600 hover:underline'>morluto/rea</a> ⭐ 213606</li>
+<li class='mb-2'><a href='https://github.com/bilawalsidhu/gods-eye-view' class='text-blue-600 hover:underline'>bilawalsidhu/gods-eye-view</a> ⭐ 55648</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 63785</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 28380</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 54411</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/skills' class='text-blue-600 hover:underline'>vercel-labs/skills</a> ⭐ 34644</li>
+<li class='mb-2'><a href='https://github.com/lyogavin/airllm' class='text-blue-600 hover:underline'>lyogavin/airllm</a> ⭐ 38422</li>
+<li class='mb-2'><a href='https://github.com/storytold/artcraft' class='text-blue-600 hover:underline'>storytold/artcraft</a> ⭐ 26096</li>
+<li class='mb-2'><a href='https://github.com/xtool-org/xtool' class='text-blue-600 hover:underline'>xtool-org/xtool</a> ⭐ 9599</li>
+
