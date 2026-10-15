@@ -5064,3 +5064,19 @@
 <li class='mb-2'><a href='https://github.com/storytold/artcraft' class='text-blue-600 hover:underline'>storytold/artcraft</a> ⭐ 26096</li>
 <li class='mb-2'><a href='https://github.com/xtool-org/xtool' class='text-blue-600 hover:underline'>xtool-org/xtool</a> ⭐ 9599</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-15
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/morluto/rea' class='text-blue-600 hover:underline'>morluto/rea</a> ⭐ 246903</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 66778</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 29244</li>
+<li class='mb-2'><a href='https://github.com/nvm-sh/nvm' class='text-blue-600 hover:underline'>nvm-sh/nvm</a> ⭐ 95482</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 49501</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 52616</li>
+<li class='mb-2'><a href='https://github.com/ifixai-ai/iFixAi' class='text-blue-600 hover:underline'>ifixai-ai/iFixAi</a> ⭐ 27611</li>
+<li class='mb-2'><a href='https://github.com/vxcontrol/pentagi' class='text-blue-600 hover:underline'>vxcontrol/pentagi</a> ⭐ 29686</li>
+<li class='mb-2'><a href='https://github.com/rust-lang/rust' class='text-blue-600 hover:underline'>rust-lang/rust</a> ⭐ 120097</li>
+<li class='mb-2'><a href='https://github.com/xtool-org/xtool' class='text-blue-600 hover:underline'>xtool-org/xtool</a> ⭐ 11004</li>
+<li class='mb-2'><a href='https://github.com/ntdevlabs/tiny11builder' class='text-blue-600 hover:underline'>ntdevlabs/tiny11builder</a> ⭐ 20301</li>
+<li class='mb-2'><a href='https://github.com/NationalSecurityAgency/ghidra' class='text-blue-600 hover:underline'>NationalSecurityAgency/ghidra</a> ⭐ 87699</li>
+
