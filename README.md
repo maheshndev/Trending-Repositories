@@ -5080,3 +5080,19 @@
 <li class='mb-2'><a href='https://github.com/ntdevlabs/tiny11builder' class='text-blue-600 hover:underline'>ntdevlabs/tiny11builder</a> ⭐ 20301</li>
 <li class='mb-2'><a href='https://github.com/NationalSecurityAgency/ghidra' class='text-blue-600 hover:underline'>NationalSecurityAgency/ghidra</a> ⭐ 87699</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-16
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/morluto/rea' class='text-blue-600 hover:underline'>morluto/rea</a> ⭐ 274117</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 39247</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 50629</li>
+<li class='mb-2'><a href='https://github.com/JuliusBrussee/caveman' class='text-blue-600 hover:underline'>JuliusBrussee/caveman</a> ⭐ 112668</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 69346</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 300025</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 75211</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 29850</li>
+<li class='mb-2'><a href='https://github.com/NationalSecurityAgency/ghidra' class='text-blue-600 hover:underline'>NationalSecurityAgency/ghidra</a> ⭐ 88916</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 280513</li>
+<li class='mb-2'><a href='https://github.com/lightseekorg/tokenspeed' class='text-blue-600 hover:underline'>lightseekorg/tokenspeed</a> ⭐ 2534</li>
+<li class='mb-2'><a href='https://github.com/xerj-org/xerj' class='text-blue-600 hover:underline'>xerj-org/xerj</a> ⭐ 5815</li>
+
