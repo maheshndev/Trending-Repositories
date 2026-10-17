@@ -5096,3 +5096,20 @@
 <li class='mb-2'><a href='https://github.com/lightseekorg/tokenspeed' class='text-blue-600 hover:underline'>lightseekorg/tokenspeed</a> ⭐ 2534</li>
 <li class='mb-2'><a href='https://github.com/xerj-org/xerj' class='text-blue-600 hover:underline'>xerj-org/xerj</a> ⭐ 5815</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-17
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 40697</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 51590</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 281602</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 53564</li>
+<li class='mb-2'><a href='https://github.com/mksglu/context-mode' class='text-blue-600 hover:underline'>mksglu/context-mode</a> ⭐ 30268</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 75674</li>
+<li class='mb-2'><a href='https://github.com/android/skills' class='text-blue-600 hover:underline'>android/skills</a> ⭐ 8116</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 300731</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 12009</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 71422</li>
+<li class='mb-2'><a href='https://github.com/MadsLorentzen/ai-job-search' class='text-blue-600 hover:underline'>MadsLorentzen/ai-job-search</a> ⭐ 48656</li>
+<li class='mb-2'><a href='https://github.com/hmjz100/LinkSwift' class='text-blue-600 hover:underline'>hmjz100/LinkSwift</a> ⭐ 23836</li>
+<li class='mb-2'><a href='https://github.com/xerj-org/xerj' class='text-blue-600 hover:underline'>xerj-org/xerj</a> ⭐ 7037</li>
+
