@@ -5113,3 +5113,20 @@
 <li class='mb-2'><a href='https://github.com/hmjz100/LinkSwift' class='text-blue-600 hover:underline'>hmjz100/LinkSwift</a> ⭐ 23836</li>
 <li class='mb-2'><a href='https://github.com/xerj-org/xerj' class='text-blue-600 hover:underline'>xerj-org/xerj</a> ⭐ 7037</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-18
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 41878</li>
+<li class='mb-2'><a href='https://github.com/MadsLorentzen/ai-job-search' class='text-blue-600 hover:underline'>MadsLorentzen/ai-job-search</a> ⭐ 50614</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 282604</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 54122</li>
+<li class='mb-2'><a href='https://github.com/K-Dense-AI/scientific-agent-skills' class='text-blue-600 hover:underline'>K-Dense-AI/scientific-agent-skills</a> ⭐ 52318</li>
+<li class='mb-2'><a href='https://github.com/akitaonrails/ai-memory' class='text-blue-600 hover:underline'>akitaonrails/ai-memory</a> ⭐ 9988</li>
+<li class='mb-2'><a href='https://github.com/android/skills' class='text-blue-600 hover:underline'>android/skills</a> ⭐ 8461</li>
+<li class='mb-2'><a href='https://github.com/stablyai/orca' class='text-blue-600 hover:underline'>stablyai/orca</a> ⭐ 95532</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 151835</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 73583</li>
+<li class='mb-2'><a href='https://github.com/anomalyco/opencode' class='text-blue-600 hover:underline'>anomalyco/opencode</a> ⭐ 215497</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 76123</li>
+<li class='mb-2'><a href='https://github.com/xerj-org/xerj' class='text-blue-600 hover:underline'>xerj-org/xerj</a> ⭐ 7892</li>
+
