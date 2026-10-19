@@ -5130,3 +5130,20 @@
 <li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 76123</li>
 <li class='mb-2'><a href='https://github.com/xerj-org/xerj' class='text-blue-600 hover:underline'>xerj-org/xerj</a> ⭐ 7892</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-19
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/MadsLorentzen/ai-job-search' class='text-blue-600 hover:underline'>MadsLorentzen/ai-job-search</a> ⭐ 53763</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-plugins-official' class='text-blue-600 hover:underline'>anthropics/claude-plugins-official</a> ⭐ 42800</li>
+<li class='mb-2'><a href='https://github.com/anomalyco/opencode' class='text-blue-600 hover:underline'>anomalyco/opencode</a> ⭐ 216750</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 12803</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 76619</li>
+<li class='mb-2'><a href='https://github.com/akitaonrails/ai-memory' class='text-blue-600 hover:underline'>akitaonrails/ai-memory</a> ⭐ 10605</li>
+<li class='mb-2'><a href='https://github.com/stablyai/orca' class='text-blue-600 hover:underline'>stablyai/orca</a> ⭐ 96909</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 54697</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 75744</li>
+<li class='mb-2'><a href='https://github.com/android/skills' class='text-blue-600 hover:underline'>android/skills</a> ⭐ 8838</li>
+<li class='mb-2'><a href='https://github.com/mlabonne/llm-course' class='text-blue-600 hover:underline'>mlabonne/llm-course</a> ⭐ 84133</li>
+<li class='mb-2'><a href='https://github.com/Kruk2/jasna' class='text-blue-600 hover:underline'>Kruk2/jasna</a> ⭐ 2504</li>
+<li class='mb-2'><a href='https://github.com/Comfy-Org/ComfyUI' class='text-blue-600 hover:underline'>Comfy-Org/ComfyUI</a> ⭐ 138759</li>
+
