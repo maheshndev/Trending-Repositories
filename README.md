@@ -5147,3 +5147,19 @@
 <li class='mb-2'><a href='https://github.com/Kruk2/jasna' class='text-blue-600 hover:underline'>Kruk2/jasna</a> ⭐ 2504</li>
 <li class='mb-2'><a href='https://github.com/Comfy-Org/ComfyUI' class='text-blue-600 hover:underline'>Comfy-Org/ComfyUI</a> ⭐ 138759</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-20
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/MadsLorentzen/ai-job-search' class='text-blue-600 hover:underline'>MadsLorentzen/ai-job-search</a> ⭐ 57788</li>
+<li class='mb-2'><a href='https://github.com/anomalyco/opencode' class='text-blue-600 hover:underline'>anomalyco/opencode</a> ⭐ 217962</li>
+<li class='mb-2'><a href='https://github.com/akitaonrails/ai-memory' class='text-blue-600 hover:underline'>akitaonrails/ai-memory</a> ⭐ 11475</li>
+<li class='mb-2'><a href='https://github.com/Comfy-Org/ComfyUI' class='text-blue-600 hover:underline'>Comfy-Org/ComfyUI</a> ⭐ 139900</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/ruflo' class='text-blue-600 hover:underline'>ruvnet/ruflo</a> ⭐ 77301</li>
+<li class='mb-2'><a href='https://github.com/stablyai/orca' class='text-blue-600 hover:underline'>stablyai/orca</a> ⭐ 98475</li>
+<li class='mb-2'><a href='https://github.com/headroomlabs-ai/headroom' class='text-blue-600 hover:underline'>headroomlabs-ai/headroom</a> ⭐ 76330</li>
+<li class='mb-2'><a href='https://github.com/withmarbleapp/os-taxonomy' class='text-blue-600 hover:underline'>withmarbleapp/os-taxonomy</a> ⭐ 6233</li>
+<li class='mb-2'><a href='https://github.com/Kruk2/jasna' class='text-blue-600 hover:underline'>Kruk2/jasna</a> ⭐ 2989</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 55341</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-code' class='text-blue-600 hover:underline'>anthropics/claude-code</a> ⭐ 152716</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 41778</li>
+
