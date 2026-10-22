@@ -5182,3 +5182,19 @@
 <li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 42416</li>
 <li class='mb-2'><a href='https://github.com/vllm-project/vllm' class='text-blue-600 hover:underline'>vllm-project/vllm</a> ⭐ 94497</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-22
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 36875</li>
+<li class='mb-2'><a href='https://github.com/vllm-project/vllm' class='text-blue-600 hover:underline'>vllm-project/vllm</a> ⭐ 94945</li>
+<li class='mb-2'><a href='https://github.com/stablyai/orca' class='text-blue-600 hover:underline'>stablyai/orca</a> ⭐ 101551</li>
+<li class='mb-2'><a href='https://github.com/headroomlabs-ai/headroom' class='text-blue-600 hover:underline'>headroomlabs-ai/headroom</a> ⭐ 77323</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 171903</li>
+<li class='mb-2'><a href='https://github.com/Comfy-Org/ComfyUI' class='text-blue-600 hover:underline'>Comfy-Org/ComfyUI</a> ⭐ 141621</li>
+<li class='mb-2'><a href='https://github.com/supabase/supabase' class='text-blue-600 hover:underline'>supabase/supabase</a> ⭐ 113096</li>
+<li class='mb-2'><a href='https://github.com/twentyhq/twenty' class='text-blue-600 hover:underline'>twentyhq/twenty</a> ⭐ 59261</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 42896</li>
+<li class='mb-2'><a href='https://github.com/strelov1/freehire' class='text-blue-600 hover:underline'>strelov1/freehire</a> ⭐ 2499</li>
+<li class='mb-2'><a href='https://github.com/akitaonrails/ai-memory' class='text-blue-600 hover:underline'>akitaonrails/ai-memory</a> ⭐ 12426</li>
+<li class='mb-2'><a href='https://github.com/Graphify-Labs/graphify' class='text-blue-600 hover:underline'>Graphify-Labs/graphify</a> ⭐ 131821</li>
+
