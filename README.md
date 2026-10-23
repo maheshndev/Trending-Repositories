@@ -5198,3 +5198,16 @@
 <li class='mb-2'><a href='https://github.com/akitaonrails/ai-memory' class='text-blue-600 hover:underline'>akitaonrails/ai-memory</a> ⭐ 12426</li>
 <li class='mb-2'><a href='https://github.com/Graphify-Labs/graphify' class='text-blue-600 hover:underline'>Graphify-Labs/graphify</a> ⭐ 131821</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-23
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/php/php-src' class='text-blue-600 hover:underline'>php/php-src</a> ⭐ 41242</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 31707</li>
+<li class='mb-2'><a href='https://github.com/DietrichGebert/ponytail' class='text-blue-600 hover:underline'>DietrichGebert/ponytail</a> ⭐ 173735</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 39833</li>
+<li class='mb-2'><a href='https://github.com/Graphify-Labs/graphify' class='text-blue-600 hover:underline'>Graphify-Labs/graphify</a> ⭐ 133128</li>
+<li class='mb-2'><a href='https://github.com/supabase/supabase' class='text-blue-600 hover:underline'>supabase/supabase</a> ⭐ 113545</li>
+<li class='mb-2'><a href='https://github.com/fastapi/fastapi' class='text-blue-600 hover:underline'>fastapi/fastapi</a> ⭐ 103850</li>
+<li class='mb-2'><a href='https://github.com/luongnv89/claude-howto' class='text-blue-600 hover:underline'>luongnv89/claude-howto</a> ⭐ 43374</li>
+<li class='mb-2'><a href='https://github.com/Meloong-Git/PCL' class='text-blue-600 hover:underline'>Meloong-Git/PCL</a> ⭐ 8749</li>
+
