@@ -5211,3 +5211,15 @@
 <li class='mb-2'><a href='https://github.com/luongnv89/claude-howto' class='text-blue-600 hover:underline'>luongnv89/claude-howto</a> ⭐ 43374</li>
 <li class='mb-2'><a href='https://github.com/Meloong-Git/PCL' class='text-blue-600 hover:underline'>Meloong-Git/PCL</a> ⭐ 8749</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-24
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 42352</li>
+<li class='mb-2'><a href='https://github.com/php/php-src' class='text-blue-600 hover:underline'>php/php-src</a> ⭐ 41591</li>
+<li class='mb-2'><a href='https://github.com/anthropics/knowledge-work-plugins' class='text-blue-600 hover:underline'>anthropics/knowledge-work-plugins</a> ⭐ 32293</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/OpenShell' class='text-blue-600 hover:underline'>NVIDIA/OpenShell</a> ⭐ 18888</li>
+<li class='mb-2'><a href='https://github.com/Renhuai123/ziwei-doushu' class='text-blue-600 hover:underline'>Renhuai123/ziwei-doushu</a> ⭐ 6959</li>
+<li class='mb-2'><a href='https://github.com/SnailSploit/Claude-Red' class='text-blue-600 hover:underline'>SnailSploit/Claude-Red</a> ⭐ 8565</li>
+<li class='mb-2'><a href='https://github.com/OpenBMB/VoxCPM' class='text-blue-600 hover:underline'>OpenBMB/VoxCPM</a> ⭐ 40325</li>
+<li class='mb-2'><a href='https://github.com/nodejs/node' class='text-blue-600 hover:underline'>nodejs/node</a> ⭐ 122918</li>
+
