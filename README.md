@@ -5223,3 +5223,17 @@
 <li class='mb-2'><a href='https://github.com/OpenBMB/VoxCPM' class='text-blue-600 hover:underline'>OpenBMB/VoxCPM</a> ⭐ 40325</li>
 <li class='mb-2'><a href='https://github.com/nodejs/node' class='text-blue-600 hover:underline'>nodejs/node</a> ⭐ 122918</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-25
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 44848</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/OpenShell' class='text-blue-600 hover:underline'>NVIDIA/OpenShell</a> ⭐ 19540</li>
+<li class='mb-2'><a href='https://github.com/aws/agent-toolkit-for-aws' class='text-blue-600 hover:underline'>aws/agent-toolkit-for-aws</a> ⭐ 3167</li>
+<li class='mb-2'><a href='https://github.com/Nutlope/hallmark' class='text-blue-600 hover:underline'>Nutlope/hallmark</a> ⭐ 32269</li>
+<li class='mb-2'><a href='https://github.com/luongnv89/claude-howto' class='text-blue-600 hover:underline'>luongnv89/claude-howto</a> ⭐ 44634</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 86518</li>
+<li class='mb-2'><a href='https://github.com/pollen-robotics/microduck' class='text-blue-600 hover:underline'>pollen-robotics/microduck</a> ⭐ 11067</li>
+<li class='mb-2'><a href='https://github.com/google-gemini/gemini-cli' class='text-blue-600 hover:underline'>google-gemini/gemini-cli</a> ⭐ 108134</li>
+<li class='mb-2'><a href='https://github.com/jbiaojerry/ebook-treasure-chest' class='text-blue-600 hover:underline'>jbiaojerry/ebook-treasure-chest</a> ⭐ 22733</li>
+<li class='mb-2'><a href='https://github.com/makecindy/cindy' class='text-blue-600 hover:underline'>makecindy/cindy</a> ⭐ 4167</li>
+
