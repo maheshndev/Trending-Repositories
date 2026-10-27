@@ -5252,3 +5252,21 @@
 <li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 47161</li>
 <li class='mb-2'><a href='https://github.com/AgriciDaniel/claude-seo' class='text-blue-600 hover:underline'>AgriciDaniel/claude-seo</a> ⭐ 21102</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-27
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/Nutlope/hallmark' class='text-blue-600 hover:underline'>Nutlope/hallmark</a> ⭐ 36797</li>
+<li class='mb-2'><a href='https://github.com/TauricResearch/TradingAgents' class='text-blue-600 hover:underline'>TauricResearch/TradingAgents</a> ⭐ 116366</li>
+<li class='mb-2'><a href='https://github.com/JetBrains/thinkrail' class='text-blue-600 hover:underline'>JetBrains/thinkrail</a> ⭐ 3107</li>
+<li class='mb-2'><a href='https://github.com/makecindy/cindy' class='text-blue-600 hover:underline'>makecindy/cindy</a> ⭐ 6704</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 289980</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 89386</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/SkillSpector' class='text-blue-600 hover:underline'>NVIDIA/SkillSpector</a> ⭐ 22350</li>
+<li class='mb-2'><a href='https://github.com/pollen-robotics/microduck' class='text-blue-600 hover:underline'>pollen-robotics/microduck</a> ⭐ 12498</li>
+<li class='mb-2'><a href='https://github.com/nightly-labs/openbot' class='text-blue-600 hover:underline'>nightly-labs/openbot</a> ⭐ 1597</li>
+<li class='mb-2'><a href='https://github.com/Panniantong/Agent-Reach' class='text-blue-600 hover:underline'>Panniantong/Agent-Reach</a> ⭐ 103892</li>
+<li class='mb-2'><a href='https://github.com/debpalash/VoiceStudio' class='text-blue-600 hover:underline'>debpalash/VoiceStudio</a> ⭐ 89605</li>
+<li class='mb-2'><a href='https://github.com/gitroomhq/postiz-app' class='text-blue-600 hover:underline'>gitroomhq/postiz-app</a> ⭐ 38589</li>
+<li class='mb-2'><a href='https://github.com/alchaincyf/huashu-design' class='text-blue-600 hover:underline'>alchaincyf/huashu-design</a> ⭐ 27092</li>
+<li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 224787</li>
+
