@@ -5270,3 +5270,18 @@
 <li class='mb-2'><a href='https://github.com/alchaincyf/huashu-design' class='text-blue-600 hover:underline'>alchaincyf/huashu-design</a> ⭐ 27092</li>
 <li class='mb-2'><a href='https://github.com/multica-ai/andrej-karpathy-skills' class='text-blue-600 hover:underline'>multica-ai/andrej-karpathy-skills</a> ⭐ 224787</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-28
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/elayadesign/ai-design-skills' class='text-blue-600 hover:underline'>elayadesign/ai-design-skills</a> ⭐ 9771</li>
+<li class='mb-2'><a href='https://github.com/Nutlope/hallmark' class='text-blue-600 hover:underline'>Nutlope/hallmark</a> ⭐ 39305</li>
+<li class='mb-2'><a href='https://github.com/nightly-labs/openbot' class='text-blue-600 hover:underline'>nightly-labs/openbot</a> ⭐ 2605</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 306607</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 90841</li>
+<li class='mb-2'><a href='https://github.com/makecindy/cindy' class='text-blue-600 hover:underline'>makecindy/cindy</a> ⭐ 7619</li>
+<li class='mb-2'><a href='https://github.com/gitroomhq/postiz-app' class='text-blue-600 hover:underline'>gitroomhq/postiz-app</a> ⭐ 39542</li>
+<li class='mb-2'><a href='https://github.com/affaan-m/ECC' class='text-blue-600 hover:underline'>affaan-m/ECC</a> ⭐ 291033</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 46327</li>
+<li class='mb-2'><a href='https://github.com/JetBrains/thinkrail' class='text-blue-600 hover:underline'>JetBrains/thinkrail</a> ⭐ 4210</li>
+<li class='mb-2'><a href='https://github.com/togg53192-cmd/jailbreaks' class='text-blue-600 hover:underline'>togg53192-cmd/jailbreaks</a> ⭐ 5821</li>
+
