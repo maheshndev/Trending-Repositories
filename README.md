@@ -5285,3 +5285,21 @@
 <li class='mb-2'><a href='https://github.com/JetBrains/thinkrail' class='text-blue-600 hover:underline'>JetBrains/thinkrail</a> ⭐ 4210</li>
 <li class='mb-2'><a href='https://github.com/togg53192-cmd/jailbreaks' class='text-blue-600 hover:underline'>togg53192-cmd/jailbreaks</a> ⭐ 5821</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-29
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/JetBrains/thinkrail' class='text-blue-600 hover:underline'>JetBrains/thinkrail</a> ⭐ 5276</li>
+<li class='mb-2'><a href='https://github.com/elayadesign/ai-design-skills' class='text-blue-600 hover:underline'>elayadesign/ai-design-skills</a> ⭐ 11334</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 307590</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 48380</li>
+<li class='mb-2'><a href='https://github.com/macro-inc/macro' class='text-blue-600 hover:underline'>macro-inc/macro</a> ⭐ 5508</li>
+<li class='mb-2'><a href='https://github.com/Nutlope/hallmark' class='text-blue-600 hover:underline'>Nutlope/hallmark</a> ⭐ 40957</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 93207</li>
+<li class='mb-2'><a href='https://github.com/makecindy/cindy' class='text-blue-600 hover:underline'>makecindy/cindy</a> ⭐ 8242</li>
+<li class='mb-2'><a href='https://github.com/nightly-labs/openbot' class='text-blue-600 hover:underline'>nightly-labs/openbot</a> ⭐ 3387</li>
+<li class='mb-2'><a href='https://github.com/togg53192-cmd/jailbreaks' class='text-blue-600 hover:underline'>togg53192-cmd/jailbreaks</a> ⭐ 7406</li>
+<li class='mb-2'><a href='https://github.com/hmjz100/LinkSwift' class='text-blue-600 hover:underline'>hmjz100/LinkSwift</a> ⭐ 35315</li>
+<li class='mb-2'><a href='https://github.com/expo/skills' class='text-blue-600 hover:underline'>expo/skills</a> ⭐ 3639</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 101203</li>
+<li class='mb-2'><a href='https://github.com/xiaolai/the-craft-of-selfteaching' class='text-blue-600 hover:underline'>xiaolai/the-craft-of-selfteaching</a> ⭐ 18634</li>
+
