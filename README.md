@@ -5303,3 +5303,18 @@
 <li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 101203</li>
 <li class='mb-2'><a href='https://github.com/xiaolai/the-craft-of-selfteaching' class='text-blue-600 hover:underline'>xiaolai/the-craft-of-selfteaching</a> ⭐ 18634</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-30
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 50545</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 308741</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 95726</li>
+<li class='mb-2'><a href='https://github.com/JetBrains/thinkrail' class='text-blue-600 hover:underline'>JetBrains/thinkrail</a> ⭐ 6125</li>
+<li class='mb-2'><a href='https://github.com/milind-soni/OpenMausBot' class='text-blue-600 hover:underline'>milind-soni/OpenMausBot</a> ⭐ 7613</li>
+<li class='mb-2'><a href='https://github.com/nightly-labs/openbot' class='text-blue-600 hover:underline'>nightly-labs/openbot</a> ⭐ 3980</li>
+<li class='mb-2'><a href='https://github.com/elayadesign/ai-design-skills' class='text-blue-600 hover:underline'>elayadesign/ai-design-skills</a> ⭐ 12359</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 104981</li>
+<li class='mb-2'><a href='https://github.com/CopilotKit/OpenBot' class='text-blue-600 hover:underline'>CopilotKit/OpenBot</a> ⭐ 8256</li>
+<li class='mb-2'><a href='https://github.com/togg53192-cmd/jailbreaks' class='text-blue-600 hover:underline'>togg53192-cmd/jailbreaks</a> ⭐ 9362</li>
+<li class='mb-2'><a href='https://github.com/Donchitos/Claude-Code-Game-Studios' class='text-blue-600 hover:underline'>Donchitos/Claude-Code-Game-Studios</a> ⭐ 29463</li>
+
