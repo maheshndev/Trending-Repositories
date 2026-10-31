@@ -5318,3 +5318,22 @@
 <li class='mb-2'><a href='https://github.com/togg53192-cmd/jailbreaks' class='text-blue-600 hover:underline'>togg53192-cmd/jailbreaks</a> ⭐ 9362</li>
 <li class='mb-2'><a href='https://github.com/Donchitos/Claude-Code-Game-Studios' class='text-blue-600 hover:underline'>Donchitos/Claude-Code-Game-Studios</a> ⭐ 29463</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-10-31
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 106517</li>
+<li class='mb-2'><a href='https://github.com/milind-soni/OpenMausBot' class='text-blue-600 hover:underline'>milind-soni/OpenMausBot</a> ⭐ 8826</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 97254</li>
+<li class='mb-2'><a href='https://github.com/CopilotKit/OpenBot' class='text-blue-600 hover:underline'>CopilotKit/OpenBot</a> ⭐ 8884</li>
+<li class='mb-2'><a href='https://github.com/Renhuai123/ziwei-doushu' class='text-blue-600 hover:underline'>Renhuai123/ziwei-doushu</a> ⭐ 11427</li>
+<li class='mb-2'><a href='https://github.com/expo/skills' class='text-blue-600 hover:underline'>expo/skills</a> ⭐ 3918</li>
+<li class='mb-2'><a href='https://github.com/macro-inc/macro' class='text-blue-600 hover:underline'>macro-inc/macro</a> ⭐ 5912</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 307594</li>
+<li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 32924</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 51912</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 185431</li>
+<li class='mb-2'><a href='https://github.com/JetBrains/thinkrail' class='text-blue-600 hover:underline'>JetBrains/thinkrail</a> ⭐ 6644</li>
+<li class='mb-2'><a href='https://github.com/togg53192-cmd/jailbreaks' class='text-blue-600 hover:underline'>togg53192-cmd/jailbreaks</a> ⭐ 11339</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 309523</li>
+<li class='mb-2'><a href='https://github.com/lightpanda-io/browser' class='text-blue-600 hover:underline'>lightpanda-io/browser</a> ⭐ 38527</li>
+
