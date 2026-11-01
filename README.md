@@ -5337,3 +5337,21 @@
 <li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 309523</li>
 <li class='mb-2'><a href='https://github.com/lightpanda-io/browser' class='text-blue-600 hover:underline'>lightpanda-io/browser</a> ⭐ 38527</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-01
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 108081</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 308555</li>
+<li class='mb-2'><a href='https://github.com/Donchitos/Claude-Code-Game-Studios' class='text-blue-600 hover:underline'>Donchitos/Claude-Code-Game-Studios</a> ⭐ 31302</li>
+<li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 35898</li>
+<li class='mb-2'><a href='https://github.com/Renhuai123/ziwei-doushu' class='text-blue-600 hover:underline'>Renhuai123/ziwei-doushu</a> ⭐ 12434</li>
+<li class='mb-2'><a href='https://github.com/milind-soni/OpenMausBot' class='text-blue-600 hover:underline'>milind-soni/OpenMausBot</a> ⭐ 9807</li>
+<li class='mb-2'><a href='https://github.com/pbakaus/impeccable' class='text-blue-600 hover:underline'>pbakaus/impeccable</a> ⭐ 98461</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 310163</li>
+<li class='mb-2'><a href='https://github.com/lightpanda-io/browser' class='text-blue-600 hover:underline'>lightpanda-io/browser</a> ⭐ 39360</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/DeepTutor' class='text-blue-600 hover:underline'>HKUDS/DeepTutor</a> ⭐ 53009</li>
+<li class='mb-2'><a href='https://github.com/Orkas-AI/Orkas' class='text-blue-600 hover:underline'>Orkas-AI/Orkas</a> ⭐ 6764</li>
+<li class='mb-2'><a href='https://github.com/THU-MAIC/OpenMAIC' class='text-blue-600 hover:underline'>THU-MAIC/OpenMAIC</a> ⭐ 42254</li>
+<li class='mb-2'><a href='https://github.com/bregman-arie/devops-exercises' class='text-blue-600 hover:underline'>bregman-arie/devops-exercises</a> ⭐ 86083</li>
+<li class='mb-2'><a href='https://github.com/vorssaint/vorssaint-utils' class='text-blue-600 hover:underline'>vorssaint/vorssaint-utils</a> ⭐ 32012</li>
+
