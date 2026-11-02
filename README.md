@@ -5355,3 +5355,24 @@
 <li class='mb-2'><a href='https://github.com/bregman-arie/devops-exercises' class='text-blue-600 hover:underline'>bregman-arie/devops-exercises</a> ⭐ 86083</li>
 <li class='mb-2'><a href='https://github.com/vorssaint/vorssaint-utils' class='text-blue-600 hover:underline'>vorssaint/vorssaint-utils</a> ⭐ 32012</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-02
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 109626</li>
+<li class='mb-2'><a href='https://github.com/lightpanda-io/browser' class='text-blue-600 hover:underline'>lightpanda-io/browser</a> ⭐ 40384</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 45523</li>
+<li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 38536</li>
+<li class='mb-2'><a href='https://github.com/milind-soni/OpenMausBot' class='text-blue-600 hover:underline'>milind-soni/OpenMausBot</a> ⭐ 10753</li>
+<li class='mb-2'><a href='https://github.com/public-apis/public-apis' class='text-blue-600 hover:underline'>public-apis/public-apis</a> ⭐ 494864</li>
+<li class='mb-2'><a href='https://github.com/cjpais/Handy' class='text-blue-600 hover:underline'>cjpais/Handy</a> ⭐ 36734</li>
+<li class='mb-2'><a href='https://github.com/Donchitos/Claude-Code-Game-Studios' class='text-blue-600 hover:underline'>Donchitos/Claude-Code-Game-Studios</a> ⭐ 32536</li>
+<li class='mb-2'><a href='https://github.com/kornia/kornia' class='text-blue-600 hover:underline'>kornia/kornia</a> ⭐ 11880</li>
+<li class='mb-2'><a href='https://github.com/beenuar/AiSOC' class='text-blue-600 hover:underline'>beenuar/AiSOC</a> ⭐ 6349</li>
+<li class='mb-2'><a href='https://github.com/Renhuai123/ziwei-doushu' class='text-blue-600 hover:underline'>Renhuai123/ziwei-doushu</a> ⭐ 13425</li>
+<li class='mb-2'><a href='https://github.com/anomalyco/hex' class='text-blue-600 hover:underline'>anomalyco/hex</a> ⭐ 3494</li>
+<li class='mb-2'><a href='https://github.com/CopilotKit/OpenBot' class='text-blue-600 hover:underline'>CopilotKit/OpenBot</a> ⭐ 9641</li>
+<li class='mb-2'><a href='https://github.com/togg53192-cmd/jailbreaks' class='text-blue-600 hover:underline'>togg53192-cmd/jailbreaks</a> ⭐ 13110</li>
+<li class='mb-2'><a href='https://github.com/patchy631/ai-engineering-hub' class='text-blue-600 hover:underline'>patchy631/ai-engineering-hub</a> ⭐ 40463</li>
+<li class='mb-2'><a href='https://github.com/FlashML-org/FreeToken' class='text-blue-600 hover:underline'>FlashML-org/FreeToken</a> ⭐ 15535</li>
+<li class='mb-2'><a href='https://github.com/hyprwm/Hyprland' class='text-blue-600 hover:underline'>hyprwm/Hyprland</a> ⭐ 39473</li>
+
