@@ -5376,3 +5376,22 @@
 <li class='mb-2'><a href='https://github.com/FlashML-org/FreeToken' class='text-blue-600 hover:underline'>FlashML-org/FreeToken</a> ⭐ 15535</li>
 <li class='mb-2'><a href='https://github.com/hyprwm/Hyprland' class='text-blue-600 hover:underline'>hyprwm/Hyprland</a> ⭐ 39473</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-03
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/vercel-labs/agent-desktop' class='text-blue-600 hover:underline'>vercel-labs/agent-desktop</a> ⭐ 10578</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 110994</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 93264</li>
+<li class='mb-2'><a href='https://github.com/hyprwm/Hyprland' class='text-blue-600 hover:underline'>hyprwm/Hyprland</a> ⭐ 40053</li>
+<li class='mb-2'><a href='https://github.com/Donchitos/Claude-Code-Game-Studios' class='text-blue-600 hover:underline'>Donchitos/Claude-Code-Game-Studios</a> ⭐ 33823</li>
+<li class='mb-2'><a href='https://github.com/FlashML-org/FreeToken' class='text-blue-600 hover:underline'>FlashML-org/FreeToken</a> ⭐ 16238</li>
+<li class='mb-2'><a href='https://github.com/pingdotgg/t3code' class='text-blue-600 hover:underline'>pingdotgg/t3code</a> ⭐ 42406</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 46091</li>
+<li class='mb-2'><a href='https://github.com/kornia/kornia' class='text-blue-600 hover:underline'>kornia/kornia</a> ⭐ 12208</li>
+<li class='mb-2'><a href='https://github.com/JustVugg/colibri' class='text-blue-600 hover:underline'>JustVugg/colibri</a> ⭐ 46726</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 310456</li>
+<li class='mb-2'><a href='https://github.com/max-sixty/worktrunk' class='text-blue-600 hover:underline'>max-sixty/worktrunk</a> ⭐ 10132</li>
+<li class='mb-2'><a href='https://github.com/paperclipai/paperclip' class='text-blue-600 hover:underline'>paperclipai/paperclip</a> ⭐ 110539</li>
+<li class='mb-2'><a href='https://github.com/karpathy/nanochat' class='text-blue-600 hover:underline'>karpathy/nanochat</a> ⭐ 60010</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 38233</li>
+
