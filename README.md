@@ -5395,3 +5395,20 @@
 <li class='mb-2'><a href='https://github.com/karpathy/nanochat' class='text-blue-600 hover:underline'>karpathy/nanochat</a> ⭐ 60010</li>
 <li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 38233</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-04
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 112132</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/agent-desktop' class='text-blue-600 hover:underline'>vercel-labs/agent-desktop</a> ⭐ 13234</li>
+<li class='mb-2'><a href='https://github.com/max-sixty/worktrunk' class='text-blue-600 hover:underline'>max-sixty/worktrunk</a> ⭐ 10611</li>
+<li class='mb-2'><a href='https://github.com/JustVugg/colibri' class='text-blue-600 hover:underline'>JustVugg/colibri</a> ⭐ 47358</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 311699</li>
+<li class='mb-2'><a href='https://github.com/p-e-w/heretic' class='text-blue-600 hover:underline'>p-e-w/heretic</a> ⭐ 38938</li>
+<li class='mb-2'><a href='https://github.com/spotify/portal-ai-plugins' class='text-blue-600 hover:underline'>spotify/portal-ai-plugins</a> ⭐ 3084</li>
+<li class='mb-2'><a href='https://github.com/floci-io/floci' class='text-blue-600 hover:underline'>floci-io/floci</a> ⭐ 28976</li>
+<li class='mb-2'><a href='https://github.com/Usagi-org/ai-goofish-monitor' class='text-blue-600 hover:underline'>Usagi-org/ai-goofish-monitor</a> ⭐ 16695</li>
+<li class='mb-2'><a href='https://github.com/anomalyco/hex' class='text-blue-600 hover:underline'>anomalyco/hex</a> ⭐ 4711</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 95188</li>
+<li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 46597</li>
+<li class='mb-2'><a href='https://github.com/Donchitos/Claude-Code-Game-Studios' class='text-blue-600 hover:underline'>Donchitos/Claude-Code-Game-Studios</a> ⭐ 34832</li>
+
