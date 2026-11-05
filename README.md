@@ -5412,3 +5412,23 @@
 <li class='mb-2'><a href='https://github.com/shiyu-coder/Kronos' class='text-blue-600 hover:underline'>shiyu-coder/Kronos</a> ⭐ 46597</li>
 <li class='mb-2'><a href='https://github.com/Donchitos/Claude-Code-Game-Studios' class='text-blue-600 hover:underline'>Donchitos/Claude-Code-Game-Studios</a> ⭐ 34832</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-05
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/NVIDIA/auto-ontology' class='text-blue-600 hover:underline'>NVIDIA/auto-ontology</a> ⭐ 5586</li>
+<li class='mb-2'><a href='https://github.com/max-sixty/worktrunk' class='text-blue-600 hover:underline'>max-sixty/worktrunk</a> ⭐ 11160</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 313639</li>
+<li class='mb-2'><a href='https://github.com/floci-io/floci' class='text-blue-600 hover:underline'>floci-io/floci</a> ⭐ 29771</li>
+<li class='mb-2'><a href='https://github.com/thedotmack/claude-mem' class='text-blue-600 hover:underline'>thedotmack/claude-mem</a> ⭐ 113038</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/agent-desktop' class='text-blue-600 hover:underline'>vercel-labs/agent-desktop</a> ⭐ 15585</li>
+<li class='mb-2'><a href='https://github.com/github/spec-kit' class='text-blue-600 hover:underline'>github/spec-kit</a> ⭐ 147448</li>
+<li class='mb-2'><a href='https://github.com/The-PR-Agent/pr-agent' class='text-blue-600 hover:underline'>The-PR-Agent/pr-agent</a> ⭐ 14880</li>
+<li class='mb-2'><a href='https://github.com/harry0703/MoneyPrinterTurbo' class='text-blue-600 hover:underline'>harry0703/MoneyPrinterTurbo</a> ⭐ 139215</li>
+<li class='mb-2'><a href='https://github.com/garrytan/gstack' class='text-blue-600 hover:underline'>garrytan/gstack</a> ⭐ 139463</li>
+<li class='mb-2'><a href='https://github.com/FareedKhan-dev/kimi-k3-in-c' class='text-blue-600 hover:underline'>FareedKhan-dev/kimi-k3-in-c</a> ⭐ 10463</li>
+<li class='mb-2'><a href='https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio' class='text-blue-600 hover:underline'>JiaFeiMiao-K-Cat/DiscImageStudio</a> ⭐ 6777</li>
+<li class='mb-2'><a href='https://github.com/MichaelCade/90DaysOfDevOps' class='text-blue-600 hover:underline'>MichaelCade/90DaysOfDevOps</a> ⭐ 30555</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 96886</li>
+<li class='mb-2'><a href='https://github.com/Thysrael/Horizon' class='text-blue-600 hover:underline'>Thysrael/Horizon</a> ⭐ 12652</li>
+<li class='mb-2'><a href='https://github.com/scenario-labs/skills' class='text-blue-600 hover:underline'>scenario-labs/skills</a> ⭐ 2575</li>
+
