@@ -5432,3 +5432,22 @@
 <li class='mb-2'><a href='https://github.com/Thysrael/Horizon' class='text-blue-600 hover:underline'>Thysrael/Horizon</a> ⭐ 12652</li>
 <li class='mb-2'><a href='https://github.com/scenario-labs/skills' class='text-blue-600 hover:underline'>scenario-labs/skills</a> ⭐ 2575</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-06
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/NVIDIA/auto-ontology' class='text-blue-600 hover:underline'>NVIDIA/auto-ontology</a> ⭐ 7737</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 315589</li>
+<li class='mb-2'><a href='https://github.com/garrytan/gstack' class='text-blue-600 hover:underline'>garrytan/gstack</a> ⭐ 140091</li>
+<li class='mb-2'><a href='https://github.com/Usagi-org/ai-goofish-monitor' class='text-blue-600 hover:underline'>Usagi-org/ai-goofish-monitor</a> ⭐ 17812</li>
+<li class='mb-2'><a href='https://github.com/D4Vinci/Scrapling' class='text-blue-600 hover:underline'>D4Vinci/Scrapling</a> ⭐ 98239</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/agent-desktop' class='text-blue-600 hover:underline'>vercel-labs/agent-desktop</a> ⭐ 17205</li>
+<li class='mb-2'><a href='https://github.com/max-sixty/worktrunk' class='text-blue-600 hover:underline'>max-sixty/worktrunk</a> ⭐ 11607</li>
+<li class='mb-2'><a href='https://github.com/lz4/lz4' class='text-blue-600 hover:underline'>lz4/lz4</a> ⭐ 12442</li>
+<li class='mb-2'><a href='https://github.com/google/skills' class='text-blue-600 hover:underline'>google/skills</a> ⭐ 22484</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/agent-browser' class='text-blue-600 hover:underline'>vercel-labs/agent-browser</a> ⭐ 46044</li>
+<li class='mb-2'><a href='https://github.com/scenario-labs/skills' class='text-blue-600 hover:underline'>scenario-labs/skills</a> ⭐ 3203</li>
+<li class='mb-2'><a href='https://github.com/ConardLi/garden-skills' class='text-blue-600 hover:underline'>ConardLi/garden-skills</a> ⭐ 14266</li>
+<li class='mb-2'><a href='https://github.com/microsoft/VibeVoice' class='text-blue-600 hover:underline'>microsoft/VibeVoice</a> ⭐ 56155</li>
+<li class='mb-2'><a href='https://github.com/floci-io/floci' class='text-blue-600 hover:underline'>floci-io/floci</a> ⭐ 30552</li>
+<li class='mb-2'><a href='https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio' class='text-blue-600 hover:underline'>JiaFeiMiao-K-Cat/DiscImageStudio</a> ⭐ 7409</li>
+
