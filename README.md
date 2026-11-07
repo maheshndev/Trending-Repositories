@@ -5451,3 +5451,25 @@
 <li class='mb-2'><a href='https://github.com/floci-io/floci' class='text-blue-600 hover:underline'>floci-io/floci</a> ⭐ 30552</li>
 <li class='mb-2'><a href='https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio' class='text-blue-600 hover:underline'>JiaFeiMiao-K-Cat/DiscImageStudio</a> ⭐ 7409</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-07
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/zed-industries/zed' class='text-blue-600 hover:underline'>zed-industries/zed</a> ⭐ 93764</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/auto-ontology' class='text-blue-600 hover:underline'>NVIDIA/auto-ontology</a> ⭐ 9251</li>
+<li class='mb-2'><a href='https://github.com/rails/rails' class='text-blue-600 hover:underline'>rails/rails</a> ⭐ 59047</li>
+<li class='mb-2'><a href='https://github.com/mpv-player/mpv' class='text-blue-600 hover:underline'>mpv-player/mpv</a> ⭐ 37917</li>
+<li class='mb-2'><a href='https://github.com/rust-lang/rust' class='text-blue-600 hover:underline'>rust-lang/rust</a> ⭐ 121503</li>
+<li class='mb-2'><a href='https://github.com/react/react' class='text-blue-600 hover:underline'>react/react</a> ⭐ 252294</li>
+<li class='mb-2'><a href='https://github.com/angular/angular' class='text-blue-600 hover:underline'>angular/angular</a> ⭐ 101409</li>
+<li class='mb-2'><a href='https://github.com/symfony/symfony' class='text-blue-600 hover:underline'>symfony/symfony</a> ⭐ 31466</li>
+<li class='mb-2'><a href='https://github.com/prometheus/prometheus' class='text-blue-600 hover:underline'>prometheus/prometheus</a> ⭐ 67223</li>
+<li class='mb-2'><a href='https://github.com/google/skills' class='text-blue-600 hover:underline'>google/skills</a> ⭐ 22917</li>
+<li class='mb-2'><a href='https://github.com/microsoft/vscode' class='text-blue-600 hover:underline'>microsoft/vscode</a> ⭐ 195064</li>
+<li class='mb-2'><a href='https://github.com/lz4/lz4' class='text-blue-600 hover:underline'>lz4/lz4</a> ⭐ 12641</li>
+<li class='mb-2'><a href='https://github.com/nushell/nushell' class='text-blue-600 hover:underline'>nushell/nushell</a> ⭐ 41010</li>
+<li class='mb-2'><a href='https://github.com/etcd-io/etcd' class='text-blue-600 hover:underline'>etcd-io/etcd</a> ⭐ 52632</li>
+<li class='mb-2'><a href='https://github.com/openssl/openssl' class='text-blue-600 hover:underline'>openssl/openssl</a> ⭐ 31322</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 316881</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 64330</li>
+<li class='mb-2'><a href='https://github.com/astral-sh/ruff' class='text-blue-600 hover:underline'>astral-sh/ruff</a> ⭐ 50736</li>
+
