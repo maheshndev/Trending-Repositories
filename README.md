@@ -5473,3 +5473,22 @@
 <li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 64330</li>
 <li class='mb-2'><a href='https://github.com/astral-sh/ruff' class='text-blue-600 hover:underline'>astral-sh/ruff</a> ⭐ 50736</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-08
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/vercel-labs/agent-browser' class='text-blue-600 hover:underline'>vercel-labs/agent-browser</a> ⭐ 46954</li>
+<li class='mb-2'><a href='https://github.com/cloudflare/security-audit-skill' class='text-blue-600 hover:underline'>cloudflare/security-audit-skill</a> ⭐ 65961</li>
+<li class='mb-2'><a href='https://github.com/google/skills' class='text-blue-600 hover:underline'>google/skills</a> ⭐ 23494</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 317863</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 188904</li>
+<li class='mb-2'><a href='https://github.com/meta/astryx' class='text-blue-600 hover:underline'>meta/astryx</a> ⭐ 14699</li>
+<li class='mb-2'><a href='https://github.com/prometheus/prometheus' class='text-blue-600 hover:underline'>prometheus/prometheus</a> ⭐ 67474</li>
+<li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 100924</li>
+<li class='mb-2'><a href='https://github.com/milind-soni/OpenMausBot' class='text-blue-600 hover:underline'>milind-soni/OpenMausBot</a> ⭐ 17213</li>
+<li class='mb-2'><a href='https://github.com/astral-sh/ruff' class='text-blue-600 hover:underline'>astral-sh/ruff</a> ⭐ 51015</li>
+<li class='mb-2'><a href='https://github.com/tailwindlabs/tailwindcss' class='text-blue-600 hover:underline'>tailwindlabs/tailwindcss</a> ⭐ 98539</li>
+<li class='mb-2'><a href='https://github.com/mbillow/localthings' class='text-blue-600 hover:underline'>mbillow/localthings</a> ⭐ 1091</li>
+<li class='mb-2'><a href='https://github.com/zed-industries/zed' class='text-blue-600 hover:underline'>zed-industries/zed</a> ⭐ 94336</li>
+<li class='mb-2'><a href='https://github.com/ranxianglei/billion-context' class='text-blue-600 hover:underline'>ranxianglei/billion-context</a> ⭐ 4688</li>
+<li class='mb-2'><a href='https://github.com/dsx-ai-factory/nvke' class='text-blue-600 hover:underline'>dsx-ai-factory/nvke</a> ⭐ 600</li>
+
