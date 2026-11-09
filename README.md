@@ -5492,3 +5492,16 @@
 <li class='mb-2'><a href='https://github.com/ranxianglei/billion-context' class='text-blue-600 hover:underline'>ranxianglei/billion-context</a> ⭐ 4688</li>
 <li class='mb-2'><a href='https://github.com/dsx-ai-factory/nvke' class='text-blue-600 hover:underline'>dsx-ai-factory/nvke</a> ⭐ 600</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-09
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 104459</li>
+<li class='mb-2'><a href='https://github.com/dsx-ai-factory/nvke' class='text-blue-600 hover:underline'>dsx-ai-factory/nvke</a> ⭐ 918</li>
+<li class='mb-2'><a href='https://github.com/milind-soni/OpenMausBot' class='text-blue-600 hover:underline'>milind-soni/OpenMausBot</a> ⭐ 18616</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-quickstarts' class='text-blue-600 hover:underline'>anthropics/claude-quickstarts</a> ⭐ 19555</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/agent-browser' class='text-blue-600 hover:underline'>vercel-labs/agent-browser</a> ⭐ 47824</li>
+<li class='mb-2'><a href='https://github.com/meta/astryx' class='text-blue-600 hover:underline'>meta/astryx</a> ⭐ 17401</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 189856</li>
+<li class='mb-2'><a href='https://github.com/google-deepmind/mujoco' class='text-blue-600 hover:underline'>google-deepmind/mujoco</a> ⭐ 16539</li>
+<li class='mb-2'><a href='https://github.com/ranxianglei/billion-context' class='text-blue-600 hover:underline'>ranxianglei/billion-context</a> ⭐ 5325</li>
+
