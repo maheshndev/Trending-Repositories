@@ -5505,3 +5505,18 @@
 <li class='mb-2'><a href='https://github.com/google-deepmind/mujoco' class='text-blue-600 hover:underline'>google-deepmind/mujoco</a> ⭐ 16539</li>
 <li class='mb-2'><a href='https://github.com/ranxianglei/billion-context' class='text-blue-600 hover:underline'>ranxianglei/billion-context</a> ⭐ 5325</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-10
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 191353</li>
+<li class='mb-2'><a href='https://github.com/meta/astryx' class='text-blue-600 hover:underline'>meta/astryx</a> ⭐ 20779</li>
+<li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 107670</li>
+<li class='mb-2'><a href='https://github.com/google-deepmind/mujoco' class='text-blue-600 hover:underline'>google-deepmind/mujoco</a> ⭐ 17044</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-quickstarts' class='text-blue-600 hover:underline'>anthropics/claude-quickstarts</a> ⭐ 20144</li>
+<li class='mb-2'><a href='https://github.com/garrytan/gbrain' class='text-blue-600 hover:underline'>garrytan/gbrain</a> ⭐ 32293</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/agent-browser' class='text-blue-600 hover:underline'>vercel-labs/agent-browser</a> ⭐ 48692</li>
+<li class='mb-2'><a href='https://github.com/ruvnet/RuView' class='text-blue-600 hover:underline'>ruvnet/RuView</a> ⭐ 103640</li>
+<li class='mb-2'><a href='https://github.com/ZhuLinsen/daily_stock_analysis' class='text-blue-600 hover:underline'>ZhuLinsen/daily_stock_analysis</a> ⭐ 69191</li>
+<li class='mb-2'><a href='https://github.com/homeassistant-ai/ha-mcp' class='text-blue-600 hover:underline'>homeassistant-ai/ha-mcp</a> ⭐ 6149</li>
+<li class='mb-2'><a href='https://github.com/milind-soni/OpenMausBot' class='text-blue-600 hover:underline'>milind-soni/OpenMausBot</a> ⭐ 20050</li>
+
