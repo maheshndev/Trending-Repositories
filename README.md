@@ -5520,3 +5520,19 @@
 <li class='mb-2'><a href='https://github.com/homeassistant-ai/ha-mcp' class='text-blue-600 hover:underline'>homeassistant-ai/ha-mcp</a> ⭐ 6149</li>
 <li class='mb-2'><a href='https://github.com/milind-soni/OpenMausBot' class='text-blue-600 hover:underline'>milind-soni/OpenMausBot</a> ⭐ 20050</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-11
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/meta/astryx' class='text-blue-600 hover:underline'>meta/astryx</a> ⭐ 23400</li>
+<li class='mb-2'><a href='https://github.com/anthropics/skills' class='text-blue-600 hover:underline'>anthropics/skills</a> ⭐ 192524</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 115302</li>
+<li class='mb-2'><a href='https://github.com/anthropics/claude-quickstarts' class='text-blue-600 hover:underline'>anthropics/claude-quickstarts</a> ⭐ 20588</li>
+<li class='mb-2'><a href='https://github.com/google-deepmind/mujoco' class='text-blue-600 hover:underline'>google-deepmind/mujoco</a> ⭐ 17453</li>
+<li class='mb-2'><a href='https://github.com/we-promise/sure' class='text-blue-600 hover:underline'>we-promise/sure</a> ⭐ 12162</li>
+<li class='mb-2'><a href='https://github.com/homeassistant-ai/ha-mcp' class='text-blue-600 hover:underline'>homeassistant-ai/ha-mcp</a> ⭐ 6786</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/agent-browser' class='text-blue-600 hover:underline'>vercel-labs/agent-browser</a> ⭐ 49377</li>
+<li class='mb-2'><a href='https://github.com/sherlock-project/sherlock' class='text-blue-600 hover:underline'>sherlock-project/sherlock</a> ⭐ 109284</li>
+<li class='mb-2'><a href='https://github.com/tokio-rs/topcoat' class='text-blue-600 hover:underline'>tokio-rs/topcoat</a> ⭐ 6918</li>
+<li class='mb-2'><a href='https://github.com/ranxianglei/billion-context' class='text-blue-600 hover:underline'>ranxianglei/billion-context</a> ⭐ 6460</li>
+<li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 321129</li>
+
