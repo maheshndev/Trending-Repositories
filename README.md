@@ -5536,3 +5536,17 @@
 <li class='mb-2'><a href='https://github.com/ranxianglei/billion-context' class='text-blue-600 hover:underline'>ranxianglei/billion-context</a> ⭐ 6460</li>
 <li class='mb-2'><a href='https://github.com/mattpocock/skills' class='text-blue-600 hover:underline'>mattpocock/skills</a> ⭐ 321129</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-12
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/meta/astryx' class='text-blue-600 hover:underline'>meta/astryx</a> ⭐ 25432</li>
+<li class='mb-2'><a href='https://github.com/ZhuLinsen/daily_stock_analysis' class='text-blue-600 hover:underline'>ZhuLinsen/daily_stock_analysis</a> ⭐ 70606</li>
+<li class='mb-2'><a href='https://github.com/GoogleChrome/modern-web-guidance-src' class='text-blue-600 hover:underline'>GoogleChrome/modern-web-guidance-src</a> ⭐ 1967</li>
+<li class='mb-2'><a href='https://github.com/shadcn/improve' class='text-blue-600 hover:underline'>shadcn/improve</a> ⭐ 11125</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 116118</li>
+<li class='mb-2'><a href='https://github.com/vercel-labs/agent-browser' class='text-blue-600 hover:underline'>vercel-labs/agent-browser</a> ⭐ 50029</li>
+<li class='mb-2'><a href='https://github.com/we-promise/sure' class='text-blue-600 hover:underline'>we-promise/sure</a> ⭐ 13161</li>
+<li class='mb-2'><a href='https://github.com/homeassistant-ai/ha-mcp' class='text-blue-600 hover:underline'>homeassistant-ai/ha-mcp</a> ⭐ 7507</li>
+<li class='mb-2'><a href='https://github.com/openai/codex-security' class='text-blue-600 hover:underline'>openai/codex-security</a> ⭐ 11909</li>
+<li class='mb-2'><a href='https://github.com/TheAlgorithms/Java' class='text-blue-600 hover:underline'>TheAlgorithms/Java</a> ⭐ 67132</li>
+
