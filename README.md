@@ -5550,3 +5550,20 @@
 <li class='mb-2'><a href='https://github.com/openai/codex-security' class='text-blue-600 hover:underline'>openai/codex-security</a> ⭐ 11909</li>
 <li class='mb-2'><a href='https://github.com/TheAlgorithms/Java' class='text-blue-600 hover:underline'>TheAlgorithms/Java</a> ⭐ 67132</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-13
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/GoogleChrome/modern-web-guidance-src' class='text-blue-600 hover:underline'>GoogleChrome/modern-web-guidance-src</a> ⭐ 3464</li>
+<li class='mb-2'><a href='https://github.com/openai/codex-security' class='text-blue-600 hover:underline'>openai/codex-security</a> ⭐ 12596</li>
+<li class='mb-2'><a href='https://github.com/nvm-sh/nvm' class='text-blue-600 hover:underline'>nvm-sh/nvm</a> ⭐ 96049</li>
+<li class='mb-2'><a href='https://github.com/pookjw/HermesEnabler' class='text-blue-600 hover:underline'>pookjw/HermesEnabler</a> ⭐ 1617</li>
+<li class='mb-2'><a href='https://github.com/we-promise/sure' class='text-blue-600 hover:underline'>we-promise/sure</a> ⭐ 14106</li>
+<li class='mb-2'><a href='https://github.com/QwenLM/qwen-code' class='text-blue-600 hover:underline'>QwenLM/qwen-code</a> ⭐ 29937</li>
+<li class='mb-2'><a href='https://github.com/ashhart/TensorFold' class='text-blue-600 hover:underline'>ashhart/TensorFold</a> ⭐ 1998</li>
+<li class='mb-2'><a href='https://github.com/nodejs/node' class='text-blue-600 hover:underline'>nodejs/node</a> ⭐ 123633</li>
+<li class='mb-2'><a href='https://github.com/addyosmani/agent-skills' class='text-blue-600 hover:underline'>addyosmani/agent-skills</a> ⭐ 116801</li>
+<li class='mb-2'><a href='https://github.com/meta/astryx' class='text-blue-600 hover:underline'>meta/astryx</a> ⭐ 26806</li>
+<li class='mb-2'><a href='https://github.com/CopilotKit/OpenBot' class='text-blue-600 hover:underline'>CopilotKit/OpenBot</a> ⭐ 11778</li>
+<li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 69479</li>
+<li class='mb-2'><a href='https://github.com/ggml-org/llama.cpp' class='text-blue-600 hover:underline'>ggml-org/llama.cpp</a> ⭐ 134669</li>
+
