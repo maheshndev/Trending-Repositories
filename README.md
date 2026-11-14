@@ -5567,3 +5567,19 @@
 <li class='mb-2'><a href='https://github.com/Alishahryar1/free-claude-code' class='text-blue-600 hover:underline'>Alishahryar1/free-claude-code</a> ⭐ 69479</li>
 <li class='mb-2'><a href='https://github.com/ggml-org/llama.cpp' class='text-blue-600 hover:underline'>ggml-org/llama.cpp</a> ⭐ 134669</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-14
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 50788</li>
+<li class='mb-2'><a href='https://github.com/GoogleChrome/modern-web-guidance-src' class='text-blue-600 hover:underline'>GoogleChrome/modern-web-guidance-src</a> ⭐ 5029</li>
+<li class='mb-2'><a href='https://github.com/openai/codex-security' class='text-blue-600 hover:underline'>openai/codex-security</a> ⭐ 13232</li>
+<li class='mb-2'><a href='https://github.com/ZhuLinsen/daily_stock_analysis' class='text-blue-600 hover:underline'>ZhuLinsen/daily_stock_analysis</a> ⭐ 71804</li>
+<li class='mb-2'><a href='https://github.com/we-promise/sure' class='text-blue-600 hover:underline'>we-promise/sure</a> ⭐ 14861</li>
+<li class='mb-2'><a href='https://github.com/backnotprop/plannotator' class='text-blue-600 hover:underline'>backnotprop/plannotator</a> ⭐ 10536</li>
+<li class='mb-2'><a href='https://github.com/louislam/uptime-kuma' class='text-blue-600 hover:underline'>louislam/uptime-kuma</a> ⭐ 93937</li>
+<li class='mb-2'><a href='https://github.com/block/buzz' class='text-blue-600 hover:underline'>block/buzz</a> ⭐ 37340</li>
+<li class='mb-2'><a href='https://github.com/tradermonty/claude-trading-skills' class='text-blue-600 hover:underline'>tradermonty/claude-trading-skills</a> ⭐ 4272</li>
+<li class='mb-2'><a href='https://github.com/tailscale/tailcat' class='text-blue-600 hover:underline'>tailscale/tailcat</a> ⭐ 9549</li>
+<li class='mb-2'><a href='https://github.com/Likely7/Veyra-NRVideo' class='text-blue-600 hover:underline'>Likely7/Veyra-NRVideo</a> ⭐ 1699</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 55621</li>
+
