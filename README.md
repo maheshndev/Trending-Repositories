@@ -5583,3 +5583,22 @@
 <li class='mb-2'><a href='https://github.com/Likely7/Veyra-NRVideo' class='text-blue-600 hover:underline'>Likely7/Veyra-NRVideo</a> ⭐ 1699</li>
 <li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 55621</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-15
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/backnotprop/plannotator' class='text-blue-600 hover:underline'>backnotprop/plannotator</a> ⭐ 11281</li>
+<li class='mb-2'><a href='https://github.com/GoogleChrome/modern-web-guidance-src' class='text-blue-600 hover:underline'>GoogleChrome/modern-web-guidance-src</a> ⭐ 6239</li>
+<li class='mb-2'><a href='https://github.com/tradermonty/claude-trading-skills' class='text-blue-600 hover:underline'>tradermonty/claude-trading-skills</a> ⭐ 4940</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 56416</li>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 51527</li>
+<li class='mb-2'><a href='https://github.com/QwenLM/qwen-code' class='text-blue-600 hover:underline'>QwenLM/qwen-code</a> ⭐ 30404</li>
+<li class='mb-2'><a href='https://github.com/dream-num/univer' class='text-blue-600 hover:underline'>dream-num/univer</a> ⭐ 25043</li>
+<li class='mb-2'><a href='https://github.com/ag-ui-protocol/ag-ui' class='text-blue-600 hover:underline'>ag-ui-protocol/ag-ui</a> ⭐ 17433</li>
+<li class='mb-2'><a href='https://github.com/ashhart/TensorFold' class='text-blue-600 hover:underline'>ashhart/TensorFold</a> ⭐ 2190</li>
+<li class='mb-2'><a href='https://github.com/JuliusBrussee/caveman' class='text-blue-600 hover:underline'>JuliusBrussee/caveman</a> ⭐ 120152</li>
+<li class='mb-2'><a href='https://github.com/louislam/uptime-kuma' class='text-blue-600 hover:underline'>louislam/uptime-kuma</a> ⭐ 94304</li>
+<li class='mb-2'><a href='https://github.com/we-promise/sure' class='text-blue-600 hover:underline'>we-promise/sure</a> ⭐ 15404</li>
+<li class='mb-2'><a href='https://github.com/Tencent/LoopForge' class='text-blue-600 hover:underline'>Tencent/LoopForge</a> ⭐ 985</li>
+<li class='mb-2'><a href='https://github.com/Likely7/Veyra-NRVideo' class='text-blue-600 hover:underline'>Likely7/Veyra-NRVideo</a> ⭐ 2376</li>
+<li class='mb-2'><a href='https://github.com/martin-olivier/airgorah' class='text-blue-600 hover:underline'>martin-olivier/airgorah</a> ⭐ 5986</li>
+
