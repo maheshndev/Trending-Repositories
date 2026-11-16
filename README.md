@@ -5602,3 +5602,19 @@
 <li class='mb-2'><a href='https://github.com/Likely7/Veyra-NRVideo' class='text-blue-600 hover:underline'>Likely7/Veyra-NRVideo</a> ⭐ 2376</li>
 <li class='mb-2'><a href='https://github.com/martin-olivier/airgorah' class='text-blue-600 hover:underline'>martin-olivier/airgorah</a> ⭐ 5986</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-16
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/dream-num/univer' class='text-blue-600 hover:underline'>dream-num/univer</a> ⭐ 26496</li>
+<li class='mb-2'><a href='https://github.com/ag-ui-protocol/ag-ui' class='text-blue-600 hover:underline'>ag-ui-protocol/ag-ui</a> ⭐ 18085</li>
+<li class='mb-2'><a href='https://github.com/google-labs-code/stitch-skills' class='text-blue-600 hover:underline'>google-labs-code/stitch-skills</a> ⭐ 9428</li>
+<li class='mb-2'><a href='https://github.com/backnotprop/plannotator' class='text-blue-600 hover:underline'>backnotprop/plannotator</a> ⭐ 12004</li>
+<li class='mb-2'><a href='https://github.com/ChromeDevTools/chrome-devtools-mcp' class='text-blue-600 hover:underline'>ChromeDevTools/chrome-devtools-mcp</a> ⭐ 57155</li>
+<li class='mb-2'><a href='https://github.com/alibaba/open-code-review' class='text-blue-600 hover:underline'>alibaba/open-code-review</a> ⭐ 52320</li>
+<li class='mb-2'><a href='https://github.com/Tencent/LoopForge' class='text-blue-600 hover:underline'>Tencent/LoopForge</a> ⭐ 1761</li>
+<li class='mb-2'><a href='https://github.com/ggml-org/ggml' class='text-blue-600 hover:underline'>ggml-org/ggml</a> ⭐ 15979</li>
+<li class='mb-2'><a href='https://github.com/elementalsouls/Claude-BugHunter' class='text-blue-600 hover:underline'>elementalsouls/Claude-BugHunter</a> ⭐ 6667</li>
+<li class='mb-2'><a href='https://github.com/GoogleChrome/modern-web-guidance-src' class='text-blue-600 hover:underline'>GoogleChrome/modern-web-guidance-src</a> ⭐ 7388</li>
+<li class='mb-2'><a href='https://github.com/tradermonty/claude-trading-skills' class='text-blue-600 hover:underline'>tradermonty/claude-trading-skills</a> ⭐ 5732</li>
+<li class='mb-2'><a href='https://github.com/NVIDIA/SkillEvaluator' class='text-blue-600 hover:underline'>NVIDIA/SkillEvaluator</a> ⭐ 1883</li>
+
