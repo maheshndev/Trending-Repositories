@@ -5819,3 +5819,23 @@
 <li class='mb-2'><a href='https://github.com/XiaoYouChR/Ghost-Downloader-3' class='text-blue-600 hover:underline'>XiaoYouChR/Ghost-Downloader-3</a> ⭐ 18535</li>
 <li class='mb-2'><a href='https://github.com/zhouxiaoka/autoclip' class='text-blue-600 hover:underline'>zhouxiaoka/autoclip</a> ⭐ 16453</li>
 
+
+## class='text-2xl font-bold mt-6 mb-4'>Trending On Date 2026-11-27
+<ul class='list-disc ml-6 mb-6'>
+<li class='mb-2'><a href='https://github.com/elementalsouls/Claude-BugHunter' class='text-blue-600 hover:underline'>elementalsouls/Claude-BugHunter</a> ⭐ 25018</li>
+<li class='mb-2'><a href='https://github.com/obra/superpowers' class='text-blue-600 hover:underline'>obra/superpowers</a> ⭐ 327722</li>
+<li class='mb-2'><a href='https://github.com/HKUDS/CLI-Anything' class='text-blue-600 hover:underline'>HKUDS/CLI-Anything</a> ⭐ 66558</li>
+<li class='mb-2'><a href='https://github.com/jingyaogong/minimind' class='text-blue-600 hover:underline'>jingyaogong/minimind</a> ⭐ 71876</li>
+<li class='mb-2'><a href='https://github.com/cursor/plugins' class='text-blue-600 hover:underline'>cursor/plugins</a> ⭐ 19849</li>
+<li class='mb-2'><a href='https://github.com/firecrawl/firecrawl' class='text-blue-600 hover:underline'>firecrawl/firecrawl</a> ⭐ 211159</li>
+<li class='mb-2'><a href='https://github.com/nginx/nginx' class='text-blue-600 hover:underline'>nginx/nginx</a> ⭐ 33561</li>
+<li class='mb-2'><a href='https://github.com/openvinotoolkit/openvino' class='text-blue-600 hover:underline'>openvinotoolkit/openvino</a> ⭐ 12859</li>
+<li class='mb-2'><a href='https://github.com/cathrynlavery/diagram-design' class='text-blue-600 hover:underline'>cathrynlavery/diagram-design</a> ⭐ 74062</li>
+<li class='mb-2'><a href='https://github.com/mvanhorn/last30days-skill' class='text-blue-600 hover:underline'>mvanhorn/last30days-skill</a> ⭐ 75954</li>
+<li class='mb-2'><a href='https://github.com/google-labs-code/stitch-skills' class='text-blue-600 hover:underline'>google-labs-code/stitch-skills</a> ⭐ 13384</li>
+<li class='mb-2'><a href='https://github.com/mjmirza/app-store-compliance' class='text-blue-600 hover:underline'>mjmirza/app-store-compliance</a> ⭐ 7180</li>
+<li class='mb-2'><a href='https://github.com/Tracer-Cloud/opensre' class='text-blue-600 hover:underline'>Tracer-Cloud/opensre</a> ⭐ 15920</li>
+<li class='mb-2'><a href='https://github.com/toeverything/AFFiNE' class='text-blue-600 hover:underline'>toeverything/AFFiNE</a> ⭐ 79102</li>
+<li class='mb-2'><a href='https://github.com/XiaoYouChR/Ghost-Downloader-3' class='text-blue-600 hover:underline'>XiaoYouChR/Ghost-Downloader-3</a> ⭐ 19395</li>
+<li class='mb-2'><a href='https://github.com/zhouxiaoka/autoclip' class='text-blue-600 hover:underline'>zhouxiaoka/autoclip</a> ⭐ 17197</li>
+
